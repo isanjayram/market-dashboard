@@ -94,7 +94,10 @@ def ask_json(system: str, user: str) -> tuple[dict[str, Any] | None, str]:
             text = re.sub(r"^```(?:json)?|```$", "", text.strip()).strip()
             if not text.startswith("{"):  # tolerate a sentence before or after the JSON
                 text = text[text.find("{"):text.rfind("}") + 1]
-            return json.loads(text), p["name"]
+            try:
+                return json.loads(text), p["name"]
+            except json.JSONDecodeError:  # most common slip: a trailing comma before } or ]
+                return json.loads(re.sub(r",(\s*[}\]])", r"\1", text)), p["name"]
         except Exception as exc:  # quota, outage or bad JSON: try the next provider
             reasons.append(f"{p['name']}: {type(exc).__name__}: {str(exc)[:80]}")
     return None, "; ".join(reasons) or "no AI key set"
