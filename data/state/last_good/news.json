@@ -20,27 +20,27 @@
    "why": "infrastructure can shift which areas buyers favour over time (analysis, not a forecast).",
    "age_hours": 4.1,
    "topic": "etihad rail",
-   "more": 5
+   "more": 7
   },
   {
-   "id": "90cdf8eea39c",
-   "title": "UAE President 'surprises' Sheikh Hamdan as first Etihad Rail passenger to Dubai station",
-   "link": "https://www.khaleejtimes.com/uae/uae-president-surprises-sheikh-hamdan-first-etihad-rail-passenger-dubai-station",
+   "id": "0894e3e29244",
+   "title": "Etihad Rail bookings open from Sharjah's Al Dhaid; fares from Dh19",
+   "link": "https://www.khaleejtimes.com/uae/etihad-rail-bookings-open-from-sharjahs-al-dhaid-fares-from-dh19",
    "source": "Khaleej Times",
    "kind": "outlet",
-   "published": "2026-09-29T21:07+04:00",
+   "published": "2026-09-29T17:45+04:00",
    "tags": [
     "UAE"
    ],
-   "teaser": "September 28 marked the beginning of a new journey for Dubai with the inauguration of the Etihad Rail station in the emirate, two days ahead of the launch of passenger services to Abu Dhabi and Fujairah. Dubai Crown Prince Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum and Sheikh Theyab bin Mohamed bin Zayed Al Nahyan, Chairman of the Board of Directors of Etihad Rail, inaugurated the station. A",
+   "teaser": "Passengers can now book Etihad Rail journeys from Al Dhaid Station in Sharjah, with tickets starting from Dh19 and a direct train reaching Fujairah in just 25 minutes. The station appears on the booking platform for journeys from September 30, giving communities in Sharjah\u2019s central region direct rail connections to Fujairah and Abu Dhabi. Bookings seen by Khaleej Times on Tuesday show two daily s",
    "category": "Infrastructure",
    "impact": "Medium",
    "impact_reason": "Infrastructure that can move area demand",
-   "watch": false,
-   "headline": "UAE President 'surprises' Sheikh Hamdan as first Etihad Rail passenger to Dubai station",
+   "watch": true,
+   "headline": "Etihad Rail bookings open from Sharjah's Al Dhaid; fares from Dh19",
    "summary": "",
    "why": "infrastructure can shift which areas buyers favour over time (analysis, not a forecast).",
-   "age_hours": 1.1,
+   "age_hours": 4.5,
    "topic": "etihad rail"
   },
   {
@@ -129,10 +129,10 @@
   }
  ],
  "window_hours": 24,
- "count_relevant": 14,
- "count_fetched": 170,
+ "count_relevant": 16,
+ "count_fetched": 206,
  "feed_errors": {},
- "mode": "rules only (gemini: JSONDecodeError)",
- "as_of": "2026-09-29T22:11+04:00",
- "saved_at": "2026-09-29T22:11+04:00"
+ "mode": "rules only (gemini: JSONDecodeError: Expecting property name enclosed in double quotes: line 11 column 7 (char 518))",
+ "as_of": "2026-09-29T22:14+04:00",
+ "saved_at": "2026-09-29T22:14+04:00"
 }
