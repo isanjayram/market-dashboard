@@ -1,0 +1,41 @@
+# Main settings for the morning dashboard.
+# Edit, commit, and the next scheduled run picks the change up.
+# The run times themselves live in .github/workflows/daily.yml.
+
+[run]
+timezone = "Asia/Dubai"
+ready_by = "09:30"
+dashboard_url = "https://sanjay-market-brief.pages.dev"
+
+[dld]
+# data.dubai dataset ids (Dubai Land Department open data)
+transactions_dataset = 470061
+rents_dataset = 468586
+projects_dataset = 467654
+listing_url = "https://data.dubai/o/dda/data-services/dataset-download?datasetId={id}&page=1&pageSize=30&sortDir=desc"
+# Data API (used once DATADUBAI_API_KEY / DATADUBAI_API_SECRET secrets exist)
+api_base = "https://apis.data.dubai/open/dld"
+token_url = "https://api.dubaipulse.gov.ae/oauth/client_credential/accesstoken?grant_type=client_credentials"
+# How much raw history to keep in the repo; older months become monthly aggregates
+keep_raw_months = 25
+# A "sale" is DLD's Sales transaction group minus these procedures. Checked on
+# 29 Sep 2026 against DLD's published weekly totals (7-11 Sep: 2,931 sales /
+# AED 6.78bn; 21-25 Sep: 2,426 / AED 6.41bn): this rule lands within about 1%.
+exclude_procedures = ["Sell Development", "Delayed Sell Development", "Delayed Development"]
+# A day with fewer sales than this is treated as a weekend/holiday or a partial load
+min_deals_full_day = 100
+# data.dubai's daily file runs a few days behind (29 Sep file ends on Fri 25 Sep).
+# Alert on Telegram only if the newest DLD day is older than this.
+stale_after_days = 5
+
+[pulse]
+# Minimum deals in each window before a % change is shown
+min_sample = 20
+busiest_n = 10
+rising_n = 5
+rising_min_deals = 40
+largest_n = 5
+
+[llm]
+# Hard daily cap across all providers (used from the News/Brief modules on)
+daily_call_cap = 10

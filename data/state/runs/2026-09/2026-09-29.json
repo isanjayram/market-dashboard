@@ -1,0 +1,38 @@
+{
+ "started": "2026-09-29T15:42:26+04:00",
+ "finished": "2026-09-29T15:42:29+04:00",
+ "llm_calls": 0,
+ "llm_cap": 10,
+ "modules": {
+  "dld_sales": {
+   "status": "ok",
+   "bootstrap": false,
+   "source": "data.dubai bulk export",
+   "snapshot": "transactions_2026-09-29_06-34-19",
+   "snapshot_time": "2026-09-29 06:34",
+   "rows": 416950,
+   "days_written": 0,
+   "months_written": 0,
+   "months_merged": 0,
+   "months_aged_out": 0,
+   "newest_day": "2026-09-25",
+   "seconds": 2.6
+  },
+  "pulse": {
+   "status": "ok",
+   "rows": 416950,
+   "as_of": "2026-09-25",
+   "seconds": 0.4
+  },
+  "render": {
+   "status": "ok",
+   "seconds": 0.0
+  },
+  "outbox": {
+   "status": "ok",
+   "queued": 1,
+   "seconds": 0.0
+  }
+ },
+ "traces": {}
+}

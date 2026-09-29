@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.cache/
+site/
+.DS_Store
+design/*.png
+design/options/*.png
+design/options/_*
+node_modules/
+.wrangler/

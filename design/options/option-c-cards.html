@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Option C · App Cards</title>
+<style>
+  :root {
+    color-scheme: light;
+    --page: #f1f1ee; --card: #ffffff; --chip: #f1f1ee; --hair: #e6e5df;
+    --ink: #0b0b0b; --ink-2: #52514e; --muted: #67665f;
+    --series: #2a78d6; --series-wash: rgba(42,120,214,.10); --link: #1c5cab;
+    --up: #006300; --up-wash: rgba(12,163,12,.12); --down: #b82e2e; --down-wash: rgba(208,59,59,.12);
+    --warn: #e2a000; --crit: #d03b3b; --shadow: 0 1px 2px rgba(11,11,11,.06), 0 0 0 1px rgba(11,11,11,.05);
+    --sans: system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --page: #0d0d0d; --card: #1a1a19; --chip: #252523; --hair: #2c2c2a;
+    --ink: #ffffff; --ink-2: #c3c2b7; --muted: #a09e95;
+    --series: #3987e5; --series-wash: rgba(57,135,229,.16); --link: #86b6ef;
+    --up: #2fbf2f; --up-wash: rgba(12,163,12,.18); --down: #f07171; --down-wash: rgba(208,59,59,.2);
+    --shadow: 0 0 0 1px rgba(255,255,255,.06);
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--page); color: var(--ink); font: 15px/1.45 var(--sans); }
+  body { width: 390px; padding-bottom: 84px; }
+  .sample { background: #e9e8e3; color: #3d3c38; font: 700 12px/1 var(--sans); letter-spacing: .04em; text-align: center; padding: 8px 0; }
+  header { padding: 16px 16px 8px; display: flex; justify-content: space-between; align-items: flex-start; }
+  header h1 { margin: 0; font: 700 24px/1.15 var(--sans); letter-spacing: -.02em; }
+  header p { margin: 4px 0 0; color: var(--ink-2); font-size: 13.5px; }
+  .ok { display: inline-flex; align-items: center; gap: 6px; margin-top: 8px; background: var(--up-wash); color: var(--up); font: 600 12.5px/1 var(--sans); padding: 6px 10px; border-radius: 99px; }
+  .ok i { width: 7px; height: 7px; border-radius: 50%; background: currentColor; }
+  .avatar { width: 38px; height: 38px; border-radius: 50%; background: var(--card); box-shadow: var(--shadow); display: grid; place-items: center; font: 700 13px var(--sans); }
+  .chips { display: flex; gap: 8px; padding: 6px 16px 12px; overflow: hidden; }
+  .chips span { flex: none; font: 600 13.5px/1 var(--sans); padding: 9px 13px; border-radius: 99px; background: var(--card); box-shadow: var(--shadow); color: var(--ink-2); }
+  .chips span.on { background: var(--ink); color: var(--page); box-shadow: none; }
+  .card { background: var(--card); border-radius: 20px; box-shadow: var(--shadow); margin: 0 12px 12px; padding: 16px; }
+  .card h2 { margin: 0 0 10px; font: 700 16px/1.2 var(--sans); display: flex; justify-content: space-between; align-items: baseline; }
+  .card h2 small { font: 500 12.5px var(--sans); color: var(--muted); }
+  ul.brief { list-style: none; margin: 0; padding: 0; }
+  ul.brief li { position: relative; padding: 0 0 9px 16px; color: var(--ink-2); font-size: 14.5px; }
+  ul.brief li::before { content: ""; position: absolute; left: 1px; top: 8px; width: 6px; height: 6px; border-radius: 50%; background: var(--series); }
+  ul.brief b { color: var(--ink); font-weight: 600; }
+  .say { display: flex; gap: 10px; align-items: flex-start; padding: 10px 0; border-top: 1px solid var(--hair); font-size: 14.5px; }
+  .say:first-of-type { border-top: 0; padding-top: 0; }
+  .say .num { flex: none; width: 24px; height: 24px; border-radius: 50%; background: var(--chip); display: grid; place-items: center; font: 700 12.5px var(--sans); }
+  .say .t { flex: 1; }
+  .say .copy { flex: none; font: 600 12.5px var(--sans); color: var(--link); padding-top: 3px; }
+  .hero small { color: var(--muted); font-size: 13px; }
+  .hero .n { font: 700 52px/1 var(--sans); letter-spacing: -.03em; margin: 8px 0 2px; }
+  .hero .n em { font: 600 18px var(--sans); font-style: normal; color: var(--ink-2); letter-spacing: 0; margin-left: 4px; }
+  .pill { display: inline-flex; align-items: center; gap: 4px; font: 700 12.5px/1 var(--sans); padding: 5px 8px; border-radius: 99px; }
+  .pill.up { background: var(--up-wash); color: var(--up); }
+  .pill.down { background: var(--down-wash); color: var(--down); }
+  .cmp { display: grid; grid-template-columns: repeat(3,1fr); gap: 8px; margin-top: 14px; }
+  .cmp div { background: var(--chip); border-radius: 12px; padding: 9px 10px; }
+  .cmp small { display: block; font-size: 12px; color: var(--muted); }
+  .cmp b { font: 700 15px/1.4 var(--sans); }
+  .cmp span { display: block; font: 700 12px var(--sans); }
+  .up { color: var(--up); } .down { color: var(--down); }
+  .tiles { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 0 12px 12px; }
+  .tiles .card { margin: 0; padding: 14px; border-radius: 18px; }
+  .tiles small { font-size: 12.5px; color: var(--muted); }
+  .tiles .v { font: 700 21px/1.2 var(--sans); margin: 6px 0 6px; letter-spacing: -.01em; }
+  .tiles .v em { font: 600 12px var(--sans); color: var(--ink-2); font-style: normal; }
+  .tiles .row { display: flex; justify-content: space-between; align-items: center; }
+  .split { display: flex; height: 8px; margin: 2px 0 7px; }
+  .split span:first-child { background: var(--series); border-radius: 4px 0 0 4px; margin-right: 2px; }
+  .split span:last-child { background: var(--hair); border-radius: 0 4px 4px 0; }
+  .lg { font-size: 12px; color: var(--ink-2); }
+  .lg i { display: inline-block; width: 8px; height: 8px; border-radius: 2px; margin-right: 4px; vertical-align: -1px; }
+  .seg { display: inline-flex; background: var(--chip); border-radius: 10px; padding: 3px; }
+  .seg span { font: 600 12.5px/1 var(--sans); padding: 6px 10px; border-radius: 8px; color: var(--ink-2); }
+  .seg span.on { background: var(--card); color: var(--ink); box-shadow: var(--shadow); }
+  .wrow { display: flex; justify-content: space-between; align-items: center; padding: 11px 0; border-top: 1px solid var(--hair); }
+  .wrow:first-of-type { border-top: 0; padding-top: 2px; }
+  .wrow b { font: 600 15px/1.2 var(--sans); display: block; }
+  .wrow small { color: var(--muted); font-size: 12.5px; }
+  .wrow .r { text-align: right; font-variant-numeric: tabular-nums; }
+  .wrow .r div { font: 600 14.5px/1.3 var(--sans); }
+  .wrow.shj b { color: var(--ink-2); }
+  .news .meta { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+  .badge { font: 700 12px/1 var(--sans); padding: 5px 8px; border-radius: 99px; background: var(--chip); color: var(--ink); display: inline-flex; align-items: center; gap: 5px; }
+  .badge i { width: 7px; height: 7px; border-radius: 50%; }
+  .badge.wl { background: var(--series-wash); color: var(--link); }
+  .news h3 { margin: 10px 0 4px; font: 700 17px/1.3 var(--sans); letter-spacing: -.01em; }
+  .news p { margin: 0 0 8px; color: var(--ink-2); font-size: 14.5px; }
+  .why { background: var(--chip); border-radius: 12px; padding: 9px 11px; font-size: 14px; }
+  .why b { font-weight: 700; }
+  .src { margin-top: 8px; color: var(--muted); font-size: 12.5px; display: flex; justify-content: space-between; }
+  .src a { color: var(--link); font-weight: 600; text-decoration: none; }
+  .rrow { display: grid; grid-template-columns: 1fr auto auto; white-space: nowrap; gap: 8px; align-items: center; padding: 10px 0; border-top: 1px solid var(--hair); font-variant-numeric: tabular-nums; }
+  .rrow:first-of-type { border-top: 0; padding-top: 2px; }
+  .rrow b { font-weight: 600; }
+  .alert { font: 700 12px var(--sans); color: #8a5a00; background: rgba(250,178,25,.18); padding: 3px 6px; border-radius: 6px; margin-left: 4px; }
+  :root[data-theme="dark"] .alert { color: #fab219; }
+  .tabbar { position: fixed; left: 0; bottom: 0; width: 390px; background: var(--card); border-top: 1px solid var(--hair); display: grid; grid-template-columns: repeat(5,1fr); padding: 8px 6px 22px; }
+  .tabbar div { text-align: center; font: 600 12px/1.2 var(--sans); color: var(--muted); }
+  .tabbar div.on { color: var(--link); }
+  .tabbar svg { display: block; margin: 0 auto 3px; }
+  footer { margin: 4px 16px 16px; font-size: 12px; color: var(--muted); line-height: 1.6; }
+</style>
+</head>
+<body>
+<div class="sample">SAMPLE DATA · DESIGN PREVIEW</div>
+<header>
+  <div><h1>Good morning, Sanjay</h1><p>Wed 30 Sep · updated 09:12</p><span class="ok"><i></i>All sources OK · AI 6/10</span></div>
+  <div class="avatar">SR</div>
+</header>
+<div class="chips"><span class="on">Brief</span><span>Market</span><span>Rent</span><span>News</span><span>Pipeline</span><span>Developers</span></div>
+<main id="app"></main>
+<footer>Sources: DLD open data via data.dubai (as of 29 Sep, 06:40) · SRERD monthly release · RSS: Gulf News, Khaleej Times, The National, Arabian Business, US Fed.</footer>
+<div class="tabbar">
+  <div class="on"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6h16M4 12h10M4 18h13"/></svg>Brief</div>
+  <div><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19l5-6 4 3 7-9"/></svg>Market</div>
+  <div><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 11l8-6 8 6v8H4z"/><path d="M10 19v-5h4v5"/></svg>Rent</div>
+  <div><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><rect x="4" y="5" width="16" height="14" rx="2"/><path d="M8 9h8M8 13h8M8 16h5"/></svg>News</div>
+  <div><svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><circle cx="6" cy="12" r="1.8"/><circle cx="12" cy="12" r="1.8"/><circle cx="18" cy="12" r="1.8"/></svg>More</div>
+</div>
+<script src="common.js"></script>
+<script>
+  const dark = new URLSearchParams(location.search).get("theme") === "dark";
+  if (dark) document.documentElement.dataset.theme = "dark";
+  const S = window.SAMPLE;
+  const C = dark
+    ? { grid: "#2c2c2a", muted: "#a09e95", ink: "#ffffff", ink2: "#c3c2b7", surface: "#1a1a19", series: "#3987e5", gray: "#5d5c57" }
+    : { grid: "#ebeae4", muted: "#67665f", ink: "#0b0b0b", ink2: "#52514e", surface: "#ffffff", series: "#2a78d6", gray: "#c3c2b7" };
+  const dcls = (n) => (n >= 0 ? "up" : "down");
+  const k = S.kpis;
+  document.getElementById("app").innerHTML = `
+  <div class="card"><h2>Morning brief <small>5 changes since yesterday</small></h2>
+    <ul class="brief">${S.brief.map((b) => `<li>${b}</li>`).join("")}</ul></div>
+  <div class="card"><h2>Say this on calls <small>from top news</small></h2>
+    ${S.talking.map((t, i) => `<div class="say"><span class="num">${i + 1}</span><span class="t">${t}</span><span class="copy">Copy</span></div>`).join("")}</div>
+  <div class="card hero"><small>Sales · ${S.dataDay}</small>
+    <div class="n">1,184<em>deals</em></div>
+    <div style="display:flex;gap:8px;align-items:center"><span style="font:600 16px var(--sans)">AED 3.9bn</span><span class="pill up">▲ 9% vs 7-day avg</span></div>
+    <div class="cmp">${S.heroCompare.map((c) => `<div><small>${c.label}</small><b>${c.value}</b><span class="${dcls(c.delta)}">${signed(c.delta)}</span></div>`).join("")}</div>
+  </div>
+  <div class="tiles">
+    <div class="card"><small>Off-plan share</small><div class="v">69%</div><div class="split"><span style="flex:817"></span><span style="flex:367"></span></div><div class="lg"><i style="background:var(--series)"></i>817 off-plan<br><i style="background:var(--hair)"></i>367 ready</div></div>
+    <div class="card"><small>Median price</small><div class="v">1,586 <em>AED/sqft</em></div><div class="row"><span class="pill up">▲ 0.4%</span>${spark(k[3].spark, { gray: C.gray, accent: C.series, surface: C.surface })}</div></div>
+    <div class="card"><small>Value</small><div class="v">AED 3.9bn</div><div class="row"><span class="pill up">▲ 6%</span>${spark(k[1].spark, { gray: C.gray, accent: C.series, surface: C.surface })}</div></div>
+    <div class="card"><small>Largest deal</small><div class="v">${S.largest.value}</div><div class="lg">${S.largest.what}</div></div>
+  </div>
+  <div class="card"><h2>Deals trend <span class="seg"><span>30D</span><span class="on">90D</span><span>12M</span></span></h2>
+    ${lineChart({ values: S.series90, width: 358, height: 170, stroke: C.series, surface: C.surface, grid: C.grid, muted: C.muted, ink: C.ink, xLabels: [S.seriesStart, S.seriesMid, S.seriesEnd], label: "Deals, 7-day average" })}
+    <div style="font-size:12.5px;color:var(--muted);margin-top:4px">7-day average of daily DLD sales</div></div>
+  <div class="card"><h2>Busiest areas <small>deals · last 7 days</small></h2>
+    ${barList({ items: S.topAreas, width: 358, color: C.series, ink: C.ink, secondary: C.ink2, label: "Busiest areas", labelW: 128, rowH: 32 })}</div>
+  <div class="card"><h2>Watchlist <small>median AED/sqft · 90d</small></h2>
+    ${S.watch.slice(0, 6).map((w) => `<div class="wrow"><div><b>${w.area}</b><small>${w.deals.toLocaleString()} deals · 30d</small></div><div class="r"><div>${w.psf.toLocaleString()}</div><span class="pill ${dcls(w.d90)}">${signed(w.d90, "%", 1)}</span></div></div>`).join("")}
+    ${S.sharjah.map((w) => `<div class="wrow shj"><div><b>${w.area} · Sharjah</b><small>${w.note}</small></div><div class="r"><small>monthly</small></div></div>`).join("")}
+    <div style="margin-top:8px;font:600 13.5px var(--sans);color:var(--link)">See all 11 areas + rising fastest →</div></div>
+  ${S.news.slice(0, 3).map((n) => `<div class="card news">
+    <div class="meta"><span class="badge"><i style="background:${n.impact === "HIGH" ? "var(--crit)" : "var(--warn)"}"></i>${n.impact === "HIGH" ? "High impact" : "Medium impact"}</span><span class="badge">${n.cat}</span>${n.watch ? '<span class="badge wl">★ Watchlist</span>' : ""}</div>
+    <h3>${n.head}</h3><p>${n.sum}</p>
+    <div class="why"><b>Why it matters for buyers/agents:</b> ${n.why}</div>
+    <div class="src"><span>${n.src} · ${n.ago} ago</span><a>Read original ↗</a></div></div>`).join("")}
+  <div class="card"><h2>Rent monitor <small>Ejari · new contracts</small></h2>
+    ${S.rent.map((r) => `<div class="rrow"><div><b>${r.area}</b> · ${r.type}${r.alert ? '<span class="alert">±5%</span>' : ""}<br><small style="color:var(--muted);font-size:12.5px">gross yield ${r.yield}%</small></div><div style="font-weight:600">AED ${r.median}</div><span class="pill ${dcls(r.mom)}">${signed(r.mom, "%", 1)} MoM</span></div>`).join("")}
+  </div>`;
+  document.title = document.documentElement.scrollHeight;
+</script>
+</body>
+</html>

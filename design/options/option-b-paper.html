@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Option B · Morning Paper</title>
+<style>
+  :root {
+    color-scheme: light;
+    --page: #f9f9f7; --surface: #fcfcfb; --rule: #e1e0d9; --rule-2: #c3c2b7;
+    --ink: #151412; --ink-2: #47443e; --muted: #625e55;
+    --series: #2a78d6; --up: #006300; --down: #b83232; --warn: #e2a000; --crit: #d03b3b;
+    --serif: ui-serif, "New York", "Iowan Old Style", Georgia, serif;
+    --sans: system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--page); color: var(--ink); font: 15px/1.55 var(--sans); }
+  body { width: 390px; }
+  .sample { background: #e9e8e3; color: #3d3c38; font: 700 12px/1 var(--sans); letter-spacing: .04em; text-align: center; padding: 8px 0; }
+  .wrap { padding: 0 18px; }
+  .mast { padding: 16px 0 10px; border-bottom: 3px double var(--ink); }
+  .kicker { font: 700 12.5px/1.3 var(--sans); letter-spacing: .01em; color: var(--muted); }
+  .mast h1 { margin: 6px 0 4px; font: 700 34px/1.05 var(--serif); letter-spacing: -.01em; }
+  .edition { font: 12.5px/1.4 var(--sans); color: var(--ink-2); }
+  .edition i { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: var(--up); margin-right: 5px; vertical-align: 0; }
+  nav { display: flex; flex-wrap: wrap; gap: 4px 12px; padding: 9px 0; border-bottom: 1px solid var(--rule); font: 600 12.5px/1.4 var(--sans); }
+  nav a { color: var(--ink-2); text-decoration: none; }
+  nav a.on { color: var(--ink); text-decoration: underline; text-underline-offset: 4px; text-decoration-thickness: 2px; }
+  .lead { padding: 16px 0 6px; }
+  .lead h2 { margin: 6px 0 8px; font: 700 26px/1.15 var(--serif); letter-spacing: -.01em; }
+  .lead ul { margin: 0; padding: 0 0 0 18px; font: 16px/1.5 var(--serif); color: var(--ink); }
+  .lead li { margin: 0 0 6px; }
+  .lead li::marker { color: var(--muted); }
+  .lead b { font-weight: 700; }
+  .box { margin: 12px 0 18px; border: 1px solid var(--rule-2); background: var(--surface); padding: 12px 14px; }
+  .box h3 { margin: 0 0 6px; font: 700 13px/1.3 var(--sans); color: var(--muted); }
+  .box ol { margin: 0; padding-left: 20px; font: italic 16px/1.45 var(--serif); }
+  .box li { margin-bottom: 5px; }
+  h3.sec { margin: 0; padding: 14px 0 8px; border-top: 2px solid var(--ink); font: 700 12px/1.2 var(--sans); letter-spacing: .05em; text-transform: uppercase; display: flex; justify-content: space-between; }
+  h3.sec span { font: 500 12px/1.2 var(--sans); letter-spacing: 0; text-transform: none; color: var(--muted); }
+  .nums { display: grid; grid-template-columns: 1fr 1fr; border-top: 1px solid var(--rule); }
+  .nums div { padding: 10px 0 10px; border-bottom: 1px solid var(--rule); }
+  .nums div:nth-child(odd) { padding-right: 12px; border-right: 1px solid var(--rule); }
+  .nums div:nth-child(even) { padding-left: 12px; }
+  .nums small { display: block; font: 12px/1.3 var(--sans); color: var(--muted); }
+  .nums .v { font: 600 24px/1.2 var(--sans); letter-spacing: -.01em; }
+  .nums .v em { font: 500 13px var(--sans); color: var(--ink-2); font-style: normal; }
+  .d { font: 600 13px/1.3 var(--sans); }
+  .up { color: var(--up); } .down { color: var(--down); }
+  figure { margin: 14px 0 6px; }
+  figcaption { font: 12.5px/1.45 var(--sans); color: var(--muted); margin-top: 4px; }
+  figcaption b { color: var(--ink); font-weight: 700; }
+  .seg { display: inline-flex; gap: 10px; font: 600 12.5px/1 var(--sans); color: var(--muted); margin-bottom: 6px; }
+  .seg .on { color: var(--ink); text-decoration: underline; text-underline-offset: 4px; }
+  table { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; }
+  th { font: 600 12px/1.2 var(--sans); color: var(--muted); text-align: right; padding: 6px 4px; border-bottom: 1px solid var(--ink); }
+  th:first-child, td:first-child { text-align: left; padding-left: 0; }
+  td { font: 14px/1.3 var(--sans); padding: 8px 4px; border-bottom: 1px solid var(--rule); text-align: right; }
+  td:first-child { font: 600 14.5px/1.3 var(--serif); }
+  tr.shj td { color: var(--muted); font-size: 13px; }
+  td:not(:first-child), th:not(:first-child) { white-space: nowrap; }
+  td[colspan] { white-space: normal; }
+  tr.shj td:first-child { font-weight: 400; }
+  .rise { font: 14px/1.5 var(--serif); margin: 10px 0 4px; color: var(--ink-2); }
+  .rise b { font: 600 13.5px var(--sans); color: var(--up); }
+  article { padding: 12px 0; border-bottom: 1px solid var(--rule); }
+  article .k { font: 700 12.5px/1.3 var(--sans); color: var(--muted); display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+  article .imp { color: var(--ink); }
+  article .imp i { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 5px; vertical-align: 0; }
+  article .wl { border: 1px solid var(--ink); padding: 2px 5px; color: var(--ink); }
+  article h4 { margin: 6px 0 4px; font: 700 19px/1.25 var(--serif); }
+  article p { margin: 0 0 6px; font: 15px/1.5 var(--serif); color: var(--ink-2); }
+  article .why { font: italic 15px/1.45 var(--serif); color: var(--ink); }
+  article .src { font: 12.5px/1.3 var(--sans); color: var(--muted); margin-top: 6px; }
+  .flag { font: 700 12px var(--sans); color: #8a5a00; border: 1px solid #d9b25a; padding: 1px 4px; margin-left: 4px; }
+  footer { padding: 16px 0 22px; font: 12px/1.6 var(--sans); color: var(--muted); border-top: 3px double var(--ink); margin-top: 16px; }
+</style>
+</head>
+<body>
+<div class="sample">SAMPLE DATA · DESIGN PREVIEW</div>
+<div class="wrap">
+  <div class="mast">
+    <div class="kicker">Dubai &amp; Sharjah property · 30 Sep 2026</div>
+    <h1>The Morning Brief</h1>
+    <div class="edition"><i></i>Updated 09:12 · DLD data for Tue 29 Sep (provisional) · 46 stories read</div>
+  </div>
+  <nav><a class="on">Brief</a><a>Market</a><a>Rent</a><a>News</a><a>Pipeline</a><a>Developers</a><a>More</a></nav>
+  <main id="app"></main>
+  <footer>Sources: DLD open data via data.dubai (as of 29 Sep, 06:40) · SRERD monthly release · RSS: Gulf News, Khaleej Times, The National, Arabian Business, US Federal Reserve. Analysis is labelled as analysis; nothing here is a forecast.</footer>
+</div>
+<script src="common.js"></script>
+<script>
+  const S = window.SAMPLE;
+  const C = { grid: "#e1e0d9", muted: "#625e55", ink: "#151412", ink2: "#47443e", surface: "#f9f9f7", series: "#2a78d6" };
+  const dcls = (n) => (n >= 0 ? "up" : "down");
+  document.getElementById("app").innerHTML = `
+  <div class="lead">
+    <div class="kicker">What changed since yesterday</div>
+    <h2>Sales up 9% as off-plan share climbs to 69%</h2>
+    <ul>${S.brief.map((b) => `<li>${b}</li>`).join("")}</ul>
+  </div>
+  <div class="box"><h3>Three things to say on calls today</h3><ol>${S.talking.map((t) => `<li>${t}</li>`).join("")}</ol></div>
+
+  <h3 class="sec">Market pulse <span>DLD sales · ${S.dataDay}</span></h3>
+  <div class="nums">
+    <div><small>Deals</small><div class="v">1,184</div><span class="d up">▲ 9%</span> <small style="display:inline">vs 7-day avg</small></div>
+    <div><small>Value</small><div class="v">AED 3.9bn</div><span class="d up">▲ 6%</span> <small style="display:inline">vs 7-day avg</small></div>
+    <div><small>Off-plan share</small><div class="v">69%</div><small style="display:inline">817 off-plan · 367 ready</small></div>
+    <div><small>Median price</small><div class="v">1,586 <em>AED/sqft</em></div><span class="d up">▲ 0.4%</span> <small style="display:inline">vs 30 days</small></div>
+  </div>
+  <figure>
+    <div class="seg"><span>30 days</span><span class="on">90 days</span><span>12 months</span></div>
+    ${lineChart({ values: S.series90, width: 354, height: 160, stroke: C.series, surface: C.surface, grid: C.grid, muted: C.muted, ink: C.ink, xLabels: [S.seriesStart, S.seriesMid, S.seriesEnd], label: "Deals, 7-day average" })}
+    <figcaption><b>Figure 1.</b> Deals per day, 7-day average. Same week last year: 1,038 (▲ 14%).</figcaption>
+  </figure>
+  <figure>
+    ${barList({ items: S.topAreas, width: 354, color: C.series, ink: C.ink, secondary: C.ink2, label: "Top areas", labelW: 124 })}
+    <figcaption><b>Figure 2.</b> Busiest areas, last 7 days. Largest deal: ${S.largest.value}, a ready villa on Palm Jumeirah.</figcaption>
+  </figure>
+
+  <h3 class="sec">Watchlist <span>last 30 days · median</span></h3>
+  <table>
+    <tr><th>Area</th><th>Deals</th><th>AED/sqft</th><th>30d</th><th>90d</th></tr>
+    ${S.watch.map((w) => `<tr><td>${w.area}</td><td>${w.deals.toLocaleString()}</td><td>${w.psf.toLocaleString()}</td><td class="${dcls(w.d30)}">${signed(w.d30, "%", 1)}</td><td class="${dcls(w.d90)}">${signed(w.d90, "%", 1)}</td></tr>`).join("")}
+    ${S.sharjah.map((w) => `<tr class="shj"><td>${w.area}, Sharjah</td><td colspan="4">${w.note}</td></tr>`).join("")}
+  </table>
+  <p class="rise">Rising fastest (90 days): ${S.rising.map((r) => `${r.area} <b>▲${r.d90}%</b>`).join(" · ")}</p>
+
+  <h3 class="sec">Market-impact news <span>top 8 · last 24h</span></h3>
+  ${S.news.map((n) => `<article>
+    <div class="k"><span class="imp"><i style="background:${n.impact === "HIGH" ? "var(--crit)" : "var(--warn)"}"></i>${n.impact} impact</span><span>${n.cat}</span>${n.watch ? '<span class="wl">Watchlist</span>' : ""}</div>
+    <h4>${n.head}</h4><p>${n.sum}</p>
+    <div class="why">Why it matters for buyers/agents: ${n.why}</div>
+    <div class="src">${n.src} · ${n.ago} ago · Read original ↗</div></article>`).join("")}
+
+  <h3 class="sec" style="margin-top:14px">Rents <span>new contracts · gross yield</span></h3>
+  <table>
+    <tr><th>Area · type</th><th>AED/yr</th><th>MoM</th><th>YoY</th><th>Yield</th></tr>
+    ${S.rent.map((r) => `<tr><td>${r.area} ${r.type}${r.alert ? '<span class="flag">±5%</span>' : ""}</td><td>${r.median}</td><td class="${dcls(r.mom)}">${signed(r.mom, "%", 1)}</td><td class="${dcls(r.yoy)}">${signed(r.yoy, "%", 1)}</td><td>${r.yield}%</td></tr>`).join("")}
+  </table>`;
+  document.title = document.documentElement.scrollHeight;
+</script>
+</body>
+</html>

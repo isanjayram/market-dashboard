@@ -1,0 +1,93 @@
+# Watchlist: the areas shown in the Watchlist card.
+#
+# Each [[dubai]] entry matches DLD sales by DLD's official community name
+# (area_name_en) and, optionally, by master project name. Patterns are
+# case-insensitive and use % as a wildcard (SQL LIKE).
+#   areas            = DLD community names to include
+#   master_like      = include rows whose master project matches any pattern
+#   master_not_like  = then drop rows whose master project matches any pattern
+#
+# To add an area: copy a block, change the name and the match rules, commit.
+# The daily "Busiest" and "Rising fastest" lists are automatic and need no editing.
+
+[[dubai]]
+name = "Downtown Dubai"
+areas = ["Burj Khalifa"]
+
+[[dubai]]
+name = "Business Bay"
+areas = ["Business Bay"]
+
+[[dubai]]
+name = "Dubai Marina"
+areas = ["Marsa Dubai"]
+master_not_like = ["%Beach Residence%"]
+
+[[dubai]]
+name = "JBR"
+master_like = ["%Beach Residence%"]
+
+[[dubai]]
+name = "Palm Jumeirah"
+areas = ["Palm Jumeirah"]
+
+[[dubai]]
+name = "Dubai Hills Estate"
+areas = ["Hadaeq Sheikh Mohammed Bin Rashid"]
+
+[[dubai]]
+name = "JVC"
+areas = ["Al Barsha South Fourth"]
+
+[[dubai]]
+name = "Arabian Ranches"
+master_like = ["%Arabian Ranches%"]
+
+[[dubai]]
+name = "Dubai South"
+areas = ["Madinat Al Mataar"]
+note = "Includes Expo City and Emaar South"
+
+[[dubai]]
+name = "Dubai Creek Harbour"
+areas = ["Al Khairan First"]
+
+[[dubai]]
+name = "MBR City"
+areas = ["Al Merkadh"]
+note = "Meydan One, Sobha Hartland, District One"
+
+# (No DLD sales are registered under an "Al Mamzar" community, so there is no
+#  Dubai-side benchmark for Linar. Checked 29 Sep 2026.)
+
+# Sharjah has no deal-level open data. These rows show SRERD's monthly
+# totals once the News module reads SRERD releases.
+[[sharjah]]
+name = "Aljada"
+developer = "Arada"
+
+[[sharjah]]
+name = "Al Khan"
+developer = "Alef (SEEF)"
+
+[[sharjah]]
+name = "Al Mamzar, Sharjah"
+developer = "Alef (Linar)"
+
+[[sharjah]]
+name = "Al Suyoh"
+developer = "Arada (Masaar)"
+
+# Short display names for long DLD master-project names (used in the automatic lists).
+[aliases]
+"Jumeirah Village Circle" = "JVC"
+"Jumeirah Village Triangle" = "JVT"
+"Dubai Land Residence Complex" = "Dubai Land Residence"
+"Meydan One Community" = "Meydan One"
+"DMCC Master Community" = "JLT (DMCC)"
+"Dubai World Central" = "Dubai South (DWC)"
+"Mohammed Bin Rashid AL Maktoum District 11" = "MBR District 11"
+"Mohammed Bin Rashid AL Maktoum City -District -1 Community" = "District One"
+"DownTown Dubai" = "Downtown Dubai"
+"International Media Production Zone" = "Production City (IMPZ)"
+"Down Town Jabal Ali" = "Downtown Jebel Ali"
