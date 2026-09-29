@@ -18,7 +18,8 @@ import duckdb
 
 from . import dld, notify, pulse, render, store
 from .config import SETTINGS, now, today
-from .runlog import RunLog, load_last_good, load_status, save_last_good, save_status
+from .runlog import (RunLog, load_dld_source, load_last_good, load_status, save_dld_source,
+                     save_last_good, save_status)
 
 
 def refresh_sales(con: duckdb.DuckDBPyConnection, files: list[Path] | None) -> dict:
@@ -62,7 +63,11 @@ def main() -> int:
 
     with log.step("dld_sales") as s:
         s.update(refresh_sales(con, args.files))
-    pulse_meta.update({k: log.modules["dld_sales"].get(k) for k in ("source", "snapshot_time")})
+        if not args.files:  # remember which DLD file the committed history came from
+            save_dld_source({k: s.get(k) for k in ("source", "snapshot", "snapshot_time", "newest_day")})
+    dld_src = load_dld_source()
+    pulse_meta.update(source=dld_src.get("source"), snapshot_time=dld_src.get("snapshot_time"),
+                      fetched_at=dld_src.get("fetched_at"))
     pulse_meta["test"] = bool(args.files)  # local files = test run; the page says so
 
     with log.step("pulse") as s:
@@ -78,7 +83,14 @@ def main() -> int:
             pulse_data, pulse_meta = good["pulse"], dict(good["meta"])
             stale_reason = f"market data last updated {good['saved_at'][:16].replace('T', ' ')}"
     elif not log.ok("dld_sales"):
-        stale_reason = "today's DLD download failed; showing the last saved day"
+        # A failed download only matters if the saved DLD file is itself old. data.dubai
+        # publishes one file a day, so yesterday's or today's file is still current.
+        snap_day = str(dld_src.get("snapshot_time") or "")[:10]
+        if not snap_day or date.fromisoformat(snap_day) < today() - timedelta(days=1):
+            stale_reason = f"couldn't download DLD's newer files; showing the file of {snap_day or 'an earlier day'}"
+        else:
+            pulse_meta["note"] = (f"data.dubai blocked this morning's cloud download, so this uses DLD's file of "
+                                  f"{snap_day} (downloaded {str(dld_src.get('fetched_at'))[:16].replace('T', ' ')}).")
     if pulse_data:
         age = (today() - date.fromisoformat(pulse_data["as_of"])).days
         if age > SETTINGS["dld"]["stale_after_days"] and not stale_reason:

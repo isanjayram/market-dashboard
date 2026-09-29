@@ -166,7 +166,7 @@
   </section>
 </main>
 <footer>
-  Data: Dubai Land Department open data via data.dubai, under the Dubai Open Data Licence{% if meta.snapshot_time %} (DLD file {{ meta.snapshot_time }}){% endif %}. Every figure is as of the DLD day shown on its card. Forecasts are never shown as fact.<br>
+  Data: Dubai Land Department open data via data.dubai, under the Dubai Open Data Licence{% if meta.snapshot_time %} (DLD file {{ meta.snapshot_time }}){% endif %}.{% if meta.note %} {{ meta.note }}{% endif %} Every figure is as of the DLD day shown on its card. Forecasts are never shown as fact.<br>
   Built {{ now.strftime('%-d %b %Y, %H:%M') }} Gulf time · AI calls today {{ run.llm_calls }}/{{ run.llm_cap }} (free tier).
 </footer>
 <script>{{ js|safe }}</script>

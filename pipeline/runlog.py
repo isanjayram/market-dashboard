@@ -16,6 +16,7 @@ from .config import SETTINGS, STATE_DIR, now
 
 LAST_GOOD_DIR = STATE_DIR / "last_good"
 STATUS_FILE = STATE_DIR / "status.json"
+DLD_SOURCE_FILE = STATE_DIR / "dld_source.json"
 
 
 class RunLog:
@@ -79,3 +80,13 @@ def load_status() -> dict[str, Any]:
 def save_status(status: dict[str, Any]) -> None:
     STATE_DIR.mkdir(parents=True, exist_ok=True)
     STATUS_FILE.write_text(json.dumps(status, indent=1, default=str))
+
+
+def save_dld_source(info: dict[str, Any]) -> None:
+    """Which DLD export the committed history came from (written only after a successful download)."""
+    STATE_DIR.mkdir(parents=True, exist_ok=True)
+    DLD_SOURCE_FILE.write_text(json.dumps(dict(info, fetched_at=now().isoformat(timespec="minutes")), indent=1))
+
+
+def load_dld_source() -> dict[str, Any]:
+    return json.loads(DLD_SOURCE_FILE.read_text()) if DLD_SOURCE_FILE.exists() else {}
