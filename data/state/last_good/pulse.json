@@ -95,10 +95,10 @@
     "value": 109437502.0
    },
    {
-    "area": "Dubai Marina",
-    "dld_area": "Marsa Dubai",
+    "area": "Arjan",
+    "dld_area": "Al Barshaa South Third",
     "deals": 61,
-    "value": 218293314.0
+    "value": 64021965.0
    }
   ],
   "top_value": [
@@ -1584,9 +1584,9 @@
   }
  },
  "meta": {
-  "source": "data.dubai bulk export",
-  "snapshot_time": "2026-09-29 06:34",
+  "source": null,
+  "snapshot_time": null,
   "test": false
  },
- "saved_at": "2026-09-29T19:53+04:00"
+ "saved_at": "2026-09-29T20:18+04:00"
 }
