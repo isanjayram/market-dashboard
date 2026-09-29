@@ -1,0 +1,17 @@
+name: Probe data.dubai reachability (temporary)
+on: workflow_dispatch
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Which data.dubai hosts answer GitHub's servers?
+        run: |
+          probe() { printf '%-70s ' "$1"; curl -s -o /tmp/b -w '%{http_code} %{content_type}' --max-time 20 -A "sanjay-market-brief/1.0 (once-daily open-data refresh)" "$1"; printf '  %s\n' "$(head -c 120 /tmp/b | tr -s '\n\r\t' ' ')"; }
+          probe "https://data.dubai/en/"
+          probe "https://data.dubai/o/dda/data-services/dataset-download?datasetId=470061&page=1&pageSize=30&sortDir=desc"
+          probe "https://apis.data.dubai/open/dld/dld_transactions-open-api?limit=1"
+          probe "https://api.dubaipulse.gov.ae/oauth/client_credential/accesstoken?grant_type=client_credentials"
+          probe "https://cdn.data.dubai/files/dld/open/transactions/"
