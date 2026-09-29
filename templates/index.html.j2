@@ -263,6 +263,7 @@ try { if (localStorage.getItem("theme") === "light") document.documentElement.da
       {%- if d.recent_launches %}<p class="small">Registered with DLD in the last year: {% for l in d.recent_launches %}{{ l.project }} ({{ l.area }}){{ ', ' if not loop.last }}{% endfor %}.</p>{% endif %}
     </details>
     {%- endfor %}
+    <p class="foot">Source: DLD sales via data.dubai, matched to developers with DLD's projects list of {{ developers.projects_as_of }}. Projects registered after that date aren't counted yet.</p>
     {%- else %}<p class="empty">Needs DLD's projects list (a small one-time download) to match sales to developers.</p>{% endif %}
   </div>
   <div class="card">

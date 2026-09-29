@@ -113,3 +113,17 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 .venv/bin/python -m pipeline.run --no-notify
 python3 -m http.server 8787 --directory site
 ```
+
+## Mac refresh (temporary, until the data.dubai API key arrives)
+
+data.dubai blocks GitHub's servers, so a scheduled job on the Mac downloads DLD's
+daily export (about 1.15 GB) at 07:00 (retries 07:45 and 08:15; runs on wake if
+the Mac was asleep), saves the updated history and pushes it. The push starts the
+cloud build. The raw export is deleted afterwards. The job works in its own copy
+of the repo in `~/Library/Application Support/MorningBrief`.
+
+    python -m pipeline.mac_refresh --install      # set up (already done)
+    python -m pipeline.mac_refresh --uninstall    # remove once the API key works
+
+Log: `~/Library/Logs/MorningBrief/refresh.log`. If the Mac is off for 5+ days the
+Market tab shows STALE until it runs again.

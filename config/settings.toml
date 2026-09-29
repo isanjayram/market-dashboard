@@ -12,6 +12,7 @@ dashboard_url = "https://sanjay-market-brief.pages.dev"
 transactions_dataset = 470061
 rents_dataset = 468586
 projects_dataset = 467654
+developers_dataset = 462802
 listing_url = "https://data.dubai/o/dda/data-services/dataset-download?datasetId={id}&page=1&pageSize=30&sortDir=desc"
 # Data API (used once DATADUBAI_API_KEY / DATADUBAI_API_SECRET secrets exist)
 api_base = "https://apis.data.dubai/open/dld"

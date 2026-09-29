@@ -17,6 +17,12 @@
   };
   addEventListener("hashchange", () => { showTab(location.hash.slice(1)); scrollTo(0, 0); });
   document.querySelectorAll("[data-go]").forEach((a) => a.addEventListener("click", () => setTimeout(() => scrollTo(0, 0))));
+  // On a PC, keys 1-5 jump between sections (ignored while typing in the search box).
+  addEventListener("keydown", (e) => {
+    const tab = ["brief", "market", "rent", "news", "more"][Number(e.key) - 1];
+    if (!tab || e.metaKey || e.ctrlKey || e.altKey || /^(INPUT|TEXTAREA)$/.test(document.activeElement?.tagName)) return;
+    location.hash = tab;
+  });
 
   // Segmented controls: each group swaps only its own panels (data-group).
   document.querySelectorAll("[data-range-group]").forEach((group) => {

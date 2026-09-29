@@ -8,6 +8,7 @@ saved as data/dld/projects.parquet; refresh it with
 """
 from __future__ import annotations
 
+import json
 import sys
 from datetime import timedelta
 from typing import Any
@@ -20,6 +21,7 @@ from .config import CONFIG_DIR, DATA_DIR, SETTINGS, today
 from .news import _has, _norm
 
 PROJECTS_FILE = DATA_DIR / "dld" / "projects.parquet"
+PROJECTS_SOURCE = DATA_DIR / "dld" / "projects_source.json"
 SQFT = 10.7639
 
 with open(CONFIG_DIR / "developers.toml", "rb") as f:
@@ -27,20 +29,38 @@ with open(CONFIG_DIR / "developers.toml", "rb") as f:
 
 
 def refresh_projects() -> dict[str, Any]:
+    """Projects list + developers list (the projects file only has Arabic developer names)."""
     listing, paths = dld.fetch_bulk_files(SETTINGS["dld"]["projects_dataset"], "projects")
+    _, dev_paths = dld.fetch_bulk_files(SETTINGS["dld"]["developers_dataset"], "developers")
     con = duckdb.connect()
-    kinds = {dld._compression(p) for p in paths}
-    files = ", ".join(f"'{p}'" for p in paths)
+
+    def src(ps: list) -> str:
+        return (f"read_csv([{', '.join(repr(str(p)) for p in ps)}], header = true, all_varchar = true, "
+                f"union_by_name = true, compression = '{dld._compression(ps[0])}')")
     PROJECTS_FILE.parent.mkdir(parents=True, exist_ok=True)
     con.execute(f"""COPY (
-        SELECT TRY_CAST(project_number AS BIGINT) AS project_number, project_name, developer_name,
-               master_developer_name, project_status, TRY_CAST(percent_completed AS DOUBLE) AS percent_completed,
-               CAST(TRY_STRPTIME(project_start_date, '%Y-%m-%d') AS DATE) AS start_date,
-               CAST(TRY_STRPTIME(project_end_date, '%Y-%m-%d') AS DATE) AS end_date,
-               area_name_en AS area, TRY_CAST(no_of_units AS INTEGER) AS units
-        FROM read_csv([{files}], header = true, all_varchar = true, union_by_name = true, compression = '{kinds.pop()}'))
+        SELECT TRY_CAST(p.project_number AS BIGINT) AS project_number, p.project_name,
+               coalesce(nullif(trim(d.developer_name_en), ''), p.developer_name) AS developer_name,
+               p.master_developer_name, p.project_status, TRY_CAST(p.percent_completed AS DOUBLE) AS percent_completed,
+               CAST(TRY_STRPTIME(p.project_start_date, '%Y-%m-%d') AS DATE) AS start_date,
+               CAST(TRY_STRPTIME(p.project_end_date, '%Y-%m-%d') AS DATE) AS end_date,
+               p.area_name_en AS area, TRY_CAST(p.no_of_units AS INTEGER) AS units
+        FROM {src(paths)} p
+        LEFT JOIN (SELECT DISTINCT ON (developer_id) developer_id, developer_name_en FROM {src(dev_paths)}) d
+          ON d.developer_id = p.developer_id)
         TO '{PROJECTS_FILE}' (FORMAT parquet, COMPRESSION zstd)""")
-    return {"snapshot": listing["snapshot"], "rows": con.execute(f"SELECT count(*) FROM '{PROJECTS_FILE}'").fetchone()[0]}
+    for kind in ("projects", "developers"):  # raw exports are no longer needed
+        for f in (dld.CACHE_DIR / kind).glob("*"):
+            f.unlink()
+    rows, english = con.execute(f"SELECT count(*), count(*) FILTER (WHERE regexp_matches(developer_name, '[A-Za-z]')) "
+                                f"FROM '{PROJECTS_FILE}'").fetchone()
+    PROJECTS_SOURCE.write_text(json.dumps({"snapshot": listing["snapshot"], "snapshot_time": listing["snapshot_time"]}))
+    return {"snapshot": listing["snapshot"], "rows": rows, "english_names": english}
+
+
+def projects_as_of() -> str | None:
+    """Date of DLD's projects list (data.dubai refreshes it rarely)."""
+    return json.loads(PROJECTS_SOURCE.read_text())["snapshot_time"][:10] if PROJECTS_SOURCE.exists() else None
 
 
 def _title(name: str | None) -> str:
@@ -68,8 +88,12 @@ def dubai(con: duckdb.DuckDBPyConnection, as_of: str) -> list[dict[str, Any]] | 
             FROM sales s JOIN projects p ON s.project_number = p.project_number
             WHERE p.developer_name = ? AND s.day >= ? AND s.usage = 'Residential'
             GROUP BY 1 ORDER BY n DESC LIMIT 3""", [dev, since]).fetchall()
-        launches = con.execute("""SELECT project_name, area, start_date FROM projects WHERE developer_name = ?
-                                  AND start_date >= ? ORDER BY start_date DESC LIMIT 3""", [dev, since]).fetchall()
+        # The projects list names projects in Arabic; use the English name from DLD sales when there is one.
+        launches = con.execute("""SELECT n.project, p.area, p.start_date FROM projects p
+                                  JOIN (SELECT project_number, any_value(project) AS project FROM sales
+                                        WHERE project IS NOT NULL GROUP BY 1) n USING (project_number)
+                                  WHERE p.developer_name = ? AND p.start_date >= ?
+                                  ORDER BY p.start_date DESC LIMIT 3""", [dev, since]).fetchall()
         out.append({
             "name": _title(dev), "value_12m": value, "offplan_deals_12m": deals,
             "top_projects": [{"project": _title(p), "sales_12m": n, "area": a,

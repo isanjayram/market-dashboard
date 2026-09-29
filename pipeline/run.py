@@ -125,7 +125,8 @@ def main() -> int:
         s["has_data"] = bool(sections["rent"])
     with log.step("developers"):
         sections["developers"] = {"dubai": developers.dubai(con, pulse_data["as_of"]) if log.ok("pulse") else None,
-                                  "sharjah": developers.sharjah(news_all)}
+                                  "sharjah": developers.sharjah(news_all),
+                                  "projects_as_of": developers.projects_as_of()}
     with log.step("landmarks"):
         sections["landmarks"] = landmarks.load(con if log.ok("pulse") else None)
     with log.step("brief") as s:
