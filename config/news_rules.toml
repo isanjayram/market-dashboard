@@ -1,0 +1,109 @@
+# Rules for the News module. Edit freely; matching is case-insensitive.
+# The free AI (when a key is set) refines impact and writes the summaries;
+# these rules alone still produce a ranked list when there is no AI.
+
+# An item must mention at least one of these to count as market news.
+relevant = [
+  "real estate", "property", "properties", "off-plan", "off plan", "dld", "land department", "rera",
+  "ejari", "rent ", "rents", "rental", "tenant", "landlord", "mortgage", "home loan", "interest rate",
+  "base rate", "eibor", "federal reserve", "fomc", "central bank", "golden visa", "residency visa",
+  "emaar", "nakheel", "damac", "sobha", "meraas", "dubai holding", "aldar", "arada", "alef",
+  "binghatti", "danube", "ellington", "omniyat", "azizi", "select group", "eagle hills", "tiger properties",
+  "ajmal makan", "tilal", "metro", "rta", "etihad rail", "al maktoum", "dwc", "airport expansion",
+  "handover", "valustrat", "cbre", "knight frank", "betterhomes", "property monitor", "fitch", "moody",
+  "brent", "opec", "remittance", "nri", "liberalised remittance", "lrs", "rupee", "fema",
+  "corporate tax", "transfer fee", "registration fee", "service charge", "master plan", "2040",
+  "sharjah real estate", "srerd", "housing", "residential", "tenancy", "tenants", "landlords", 
+]
+
+# Local stories must mention one of these places.
+places = ["uae", "dubai", "sharjah", "abu dhabi", "ajman", "ras al khaimah", "fujairah", "emirates", "emirati", "gulf", "gcc", "mena", "india", "indian", "nri", "rupee"]
+
+# Macro stories count without a place if they mention one of these.
+global_macro = ["federal reserve", "fed", "fomc", "interest rate", "oil", "brent", "opec", "recession", "inflation"]
+
+# Topics used to stop one big story filling the list (max 2 items each).
+topics = ["etihad rail", "blue line", "gold line", "metro", "golden visa", "al maktoum", "emaar", "nakheel", "damac", "sobha", "aldar", "arada", "alef", "binghatti", "dld", "rera", "ejari", "mortgage", "federal reserve", "oil", "rent", "rents"]
+
+# Items mentioning these are dropped even if they match above.
+exclude = [
+  "football", "cricket", "tennis", "premier league", "asian games", "olympic", "formula 1", " f1 ",
+  "movie", "film ", "actor", "actress", "bollywood", "celebrity", "recipe", "horoscope", "concert",
+  "fashion", "wrestling", "boxing", "golf tournament", "match report",
+]
+
+# Extra words that earn the WATCHLIST tag (watchlist area names are added automatically).
+watch_terms = ["sharjah", "aljada", "al khan", "masaar", "linar", "alef", "arada", "nri", "india", "indian", "rupee", "remittance", "liberalised remittance", "lrs", "income tax"]
+
+# Categories, checked in this order; the first match wins.
+[[category]]
+name = "Rates & mortgages"
+keywords = ["mortgage", "home loan", "interest rate", "base rate", "eibor", "federal reserve", "fomc", "central bank", "rate cut", "rate hike", "lending", "ltv"]
+
+[[category]]
+name = "Regulation & fees"
+keywords = ["law", "decree", "rule", "regulation", "illegal", "violation", "violations", "crackdown", "inspection", "committee", "rera", "dld", "land department", "fee", "tax", "golden visa", "visa", "residency", "ejari", "escrow", "freehold", "license", "licence", "ban", "fema", "lrs", "liberalised remittance", "remittance", "srerd"]
+
+[[category]]
+name = "Infrastructure"
+keywords = ["metro", "rta", "etihad rail", "rail", "road", "bridge", "tunnel", "airport", "al maktoum", "dwc", "blue line", "gold line", "school", "hospital", "mall"]
+
+[[category]]
+name = "Developer news"
+keywords = ["emaar", "nakheel", "damac", "sobha", "meraas", "dubai holding", "aldar", "arada", "alef", "binghatti", "danube", "ellington", "omniyat", "azizi", "select group", "eagle hills", "tiger properties", "ajmal makan", "tilal", "launch", "unveil", "handover", "sales"]
+
+[[category]]
+name = "Supply & market reports"
+keywords = ["valustrat", "cbre", "knight frank", "betterhomes", "property monitor", "fitch", "moody", "s&p", "report", "index", "prices", "supply", "transactions", "record", "survey", "q1", "q2", "q3", "q4", "h1", "h2"]
+
+[[category]]
+name = "Macro & geopolitics"
+keywords = ["oil", "brent", "opec", "gdp", "inflation", "population", "war", "conflict", "missile", "sanction", "economy", "tourism", "expat"]
+
+# Impact rules, checked in order. High = changes buyer costs, eligibility,
+# financing, sentiment or supply. The reason is shown next to the tag.
+[[impact]]
+level = "High"
+reason = "Could change what buyers pay (fees, taxes or charges)"
+keywords = ["fee", "tax", "vat", "service charge", "transfer fee", "registration fee"]
+
+[[impact]]
+level = "High"
+reason = "Could change who can buy or get a visa"
+keywords = ["golden visa", "residency", "visa rule", "freehold", "ownership law", "decree", "new law", "fema", "liberalised remittance", "lrs"]
+
+[[impact]]
+level = "High"
+reason = "Could change mortgage costs"
+keywords = ["rate cut", "rate hike", "base rate", "interest rate", "fomc statement", "eibor", "ltv", "mortgage cap"]
+
+[[impact]]
+level = "High"
+reason = "Could shift buyer sentiment"
+keywords = ["war", "conflict", "missile", "attack", "sanction", "crash", "correction", "bubble"]
+
+[[impact]]
+level = "High"
+reason = "Could change supply"
+keywords = ["oversupply", "handover wave", "record supply", "supply glut", "units due", "completions"]
+
+[[impact]]
+level = "Medium"
+reason = "New market data or report"
+keywords = ["valustrat", "cbre", "knight frank", "betterhomes", "property monitor", "fitch", "moody", "index", "report", "transactions"]
+
+[[impact]]
+level = "Medium"
+reason = "New launch or developer update"
+keywords = ["launch", "unveil", "new project", "phase", "handover", "sales"]
+
+[[impact]]
+level = "Medium"
+reason = "Infrastructure that can move area demand"
+keywords = ["metro", "etihad rail", "airport", "bridge", "road", "tunnel", "blue line", "gold line"]
+
+# Anything else that is relevant gets Low with this reason.
+[default_impact]
+level = "Low"
+reason = "General market context"
+

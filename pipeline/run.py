@@ -1,4 +1,4 @@
-"""Daily run: DLD sales → history → Market Pulse → page → Telegram.
+"""Daily run: DLD sales → Market Pulse → News → Pipeline → Rent → Developers → Landmarks → Brief → page.
 
     python -m pipeline.run                    normal run (what GitHub Actions calls)
     python -m pipeline.run --files a.csv.gz   use local DLD export files instead of downloading
@@ -16,7 +16,7 @@ from pathlib import Path
 
 import duckdb
 
-from . import dld, notify, pulse, render, store
+from . import brief, developers, dld, landmarks, launches, llm, news, notify, pulse, rent, render, store
 from .config import SETTINGS, now, today
 from .runlog import (RunLog, load_dld_source, load_last_good, load_status, save_dld_source,
                      save_last_good, save_status)
@@ -98,8 +98,42 @@ def main() -> int:
     pulse_meta.update(stale=bool(stale_reason), stale_reason=stale_reason,
                       stale_short="Stale data · see note" if stale_reason else None)
 
+    sections: dict = {"brief": {"bullets": [], "talking_points": [], "mode": "template"}, "news": None,
+                      "pipeline": None, "rent": None, "developers": {"dubai": None, "sharjah": []},
+                      "landmarks": None, "archive": []}
+    news_all: list = []
+    with log.step("news") as s:
+        nd = news.run()
+        news_all = nd.pop("all")
+        s.update(top=len(nd["top"]), relevant=nd["count_relevant"], mode=nd["mode"], feed_errors=nd["feed_errors"])
+        sections["news"] = nd
+        save_last_good("news", nd)
+    if not log.ok("news"):
+        sections["news"] = load_last_good("news")
+    with log.step("archive"):
+        sections["archive"] = news.archive_for_site(SETTINGS["news"]["archive_days"])
+        news.prune()
+    with log.step("pipeline") as s:
+        pl = launches.run(news_all)
+        s.update(new_today=pl["new_today"], mode=pl["mode"])
+        sections["pipeline"] = pl
+    with log.step("rent") as s:
+        if dld.api_available():
+            s.update(rent.refresh(con))
+        sections["rent"] = rent.compute(con, sales_ready=log.ok("pulse"))
+        s["has_data"] = bool(sections["rent"])
+    with log.step("developers"):
+        sections["developers"] = {"dubai": developers.dubai(con, pulse_data["as_of"]) if log.ok("pulse") else None,
+                                  "sharjah": developers.sharjah(news_all)}
+    with log.step("landmarks"):
+        sections["landmarks"] = landmarks.load(con if log.ok("pulse") else None)
+    with log.step("brief") as s:
+        sections["brief"] = brief.build(pulse_data, sections["news"], sections["rent"])
+        s["mode"] = sections["brief"]["mode"]
+    log.llm_calls = llm.calls_this_run()
+
     with log.step("render"):
-        render.build(pulse_data, pulse_meta, log.summary())
+        render.build(pulse_data, pulse_meta, log.summary(), sections)
 
     # Telegram messages are queued here and sent by the workflow only after the page is published.
     with log.step("outbox") as s:

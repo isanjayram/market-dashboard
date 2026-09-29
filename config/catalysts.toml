@@ -1,0 +1,32 @@
+# Verified infrastructure used for the Pipeline's "Impact" notes and the
+# Landmarks page. Only add items with an official or reputable source.
+# On the page these notes are always labelled "Analysis, not a forecast".
+# `areas` are matched against project/news text (case-insensitive).
+
+[[catalyst]]
+name = "Dubai Metro Blue Line"
+status = "under construction; opens 9 Sep 2029 (14 stations)"
+areas = ["Al Jaddaf", "Festival City", "Creek Harbour", "Ras Al Khor", "International City", "Silicon Oasis", "Academic City", "Mirdif", "Al Warqa"]
+source = "Khaleej Times"
+url = "https://www.khaleejtimes.com/uae/transport/dubai-metro-blue-line-to-be-completed-september-9-2029-rta-announces"
+
+[[catalyst]]
+name = "Dubai Metro Gold Line"
+status = "approved 22 Apr 2026; due 9 Sep 2032 (18 stations, underground)"
+areas = ["Al Ghubaiba", "Mina Rashid", "City Walk", "Business Bay", "MBR City", "Nad Al Sheba", "Meydan", "Al Barsha South", "JVC", "Jumeirah Village Circle", "Jumeirah Golf Estates"]
+source = "Dubai Media Office"
+url = "https://www.mediaoffice.ae/en/news/2026/april/22-04/mohammed-bin-rashid-approves-dubai-metro-gold-line"
+
+[[catalyst]]
+name = "Al Maktoum International Airport expansion"
+status = "AED 128bn terminal approved 28 Apr 2024; first phase due 2032"
+areas = ["Dubai South", "Madinat Al Mataar", "Expo City", "Emaar South", "Dubai Investment Park", "Jebel Ali", "Dubai World Central"]
+source = "Dubai Media Office"
+url = "https://mediaoffice.ae/en/news/2024/april/28-04/al-maktoum-international-airport"
+
+[[catalyst]]
+name = "Etihad Rail passenger stations"
+status = "Al Yalayis (Dubai) and Al Dhaid (Sharjah) open 30 Sep 2026"
+areas = ["Al Yalayis", "Jumeirah Golf Estates", "Al Dhaid"]
+source = "Gulf News"
+url = "https://gulfnews.com/uae/dubai/etihad-rail-is-coming-to-dubai-what-changes-when-al-yalayis-station-opens-september-30-1.500679227"

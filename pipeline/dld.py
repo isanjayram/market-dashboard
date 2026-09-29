@@ -201,17 +201,25 @@ def api_rows(dataset: str, filter_expr: str, columns: list[str], page: int = 500
             raise SourceError("API paging runaway")
 
 
+def dump_rows(rows: list[dict[str, Any]], name: str) -> Path:
+    """API rows → NDJSON (all values as text) so DuckDB can read them like the CSV export."""
+    if not rows:
+        raise SourceError("API returned no rows")
+    CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    path = CACHE_DIR / name
+    with open(path, "w") as f:
+        for row in rows:
+            f.write(json.dumps({k: (None if v is None else str(v)) for k, v in row.items()}) + "\n")
+    return path
+
+
 def load_sales_from_api(con: duckdb.DuckDBPyConnection, since: date) -> int:
     excluded = _sql_list(DLD["exclude_procedures"])
     rows = api_rows("dld_transactions-open-api",
                     f"instance_date >= '{since.isoformat()}' AND trans_group_en = 'Sales'", API_COLUMNS)
     if not rows:
         raise SourceError("API returned no rows")
-    CACHE_DIR.mkdir(parents=True, exist_ok=True)
-    dump = CACHE_DIR / "api_sales.ndjson"
-    with open(dump, "w") as f:
-        for row in rows:
-            f.write(json.dumps({k: (None if v is None else str(v)) for k, v in row.items()}) + "\n")
+    dump = dump_rows(rows, "api_sales.ndjson")
     con.execute(f"CREATE OR REPLACE TEMP TABLE api_raw AS SELECT * FROM read_json('{dump}', format = 'newline_delimited')")
     con.execute(f"""
         CREATE OR REPLACE TABLE fresh_sales AS

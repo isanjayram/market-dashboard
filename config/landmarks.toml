@@ -1,0 +1,258 @@
+# Landmarks library. Curated once (29 Sep 2026); never fetched daily.
+# Edit or add entries freely: copy a [[landmark]] block and keep a source link
+# for every fact. "Area price now" is filled in from DLD data automatically
+# when dld_area (DLD community) or dld_master (master project, % = wildcard) is
+# set. Only put a price in psf_launch if you can cite it.
+
+[[landmark]]
+name = "Burj Khalifa"
+emirate = "Dubai"
+opened = "2010"
+dld_area = "Burj Khalifa"
+bullets = [
+  "Developer: Emaar Properties; architects Skidmore, Owings & Merrill.",
+  "Construction began 12 Jan 2004; opened 4 Jan 2010.",
+  "Cost about US$1.5 billion; 829.8 m tall, the world's tallest building.",
+  "Centrepiece of Downtown Dubai, planned with about 30,000 homes, nine hotels, the Dubai Mall and a 12-hectare lake.",
+]
+sources = [{ label = "Wikipedia", url = "https://en.wikipedia.org/wiki/Burj_Khalifa" }]
+
+[[landmark]]
+name = "The Dubai Mall"
+emirate = "Dubai"
+opened = "2008"
+dld_area = "Burj Khalifa"
+bullets = [
+  "Developer and owner: Emaar Properties.",
+  "Opened 4 Nov 2008 at the foot of Burj Khalifa in Downtown Dubai.",
+  "More than 1,200 shops; 3.77 million sq ft of leasable space.",
+  "105 million visitors in 2023.",
+]
+sources = [{ label = "Wikipedia", url = "https://en.wikipedia.org/wiki/The_Dubai_Mall" }]
+
+[[landmark]]
+name = "Burj Al Arab"
+emirate = "Dubai"
+opened = "1999"
+bullets = [
+  "Built for and run by Jumeirah; design by Tom Wright (WS Atkins).",
+  "Construction began 10 Jul 1994; opened 1 Dec 1999.",
+  "Stands on an artificial island 280 m off Jumeirah Beach; 321 m tall.",
+  "The beach area was known as Chicago Beach before the hotel was built.",
+]
+sources = [{ label = "Wikipedia", url = "https://en.wikipedia.org/wiki/Burj_Al_Arab" }]
+
+[[landmark]]
+name = "Palm Jumeirah"
+emirate = "Dubai"
+opened = "2006"
+dld_area = "Palm Jumeirah"
+bullets = [
+  "Developer: Nakheel; dredging by Van Oord.",
+  "Construction began June 2001; first homes handed over in 2006.",
+  "Palm Monorail (5.4 km) opened 30 Apr 2009.",
+  "Over 25,000 residents (2022) and about 30 hotels (2024).",
+]
+sources = [{ label = "Wikipedia", url = "https://en.wikipedia.org/wiki/Palm_Jumeirah" }]
+
+[[landmark]]
+name = "Atlantis The Palm"
+emirate = "Dubai"
+opened = "2008"
+dld_area = "Palm Jumeirah"
+bullets = [
+  "Joint venture of Kerzner International and Istithmar World.",
+  "Construction began 2006; opened 24 Sep 2008 on the Palm's crescent.",
+  "1,544 rooms, the Aquaventure water park and the Lost Chambers aquarium.",
+]
+sources = [{ label = "Wikipedia", url = "https://en.wikipedia.org/wiki/Atlantis_The_Palm" }]
+
+[[landmark]]
+name = "Dubai Marina"
+emirate = "Dubai"
+opened = "2003"
+dld_area = "Marsa Dubai"
+bullets = [
+  "Developer: Emaar Properties; district established 2003.",
+  "Built around a 3 km man-made canal; 4.9 km² with about 8 km of public walkways.",
+  "Phase I (six freehold towers) cost more than AED 1.2 billion.",
+  "Metro station opened 30 Apr 2010 (now Sobha Realty); tram since 2014.",
+  "About 70,550 residents (2024).",
+]
+sources = [{ label = "Wikipedia", url = "https://en.wikipedia.org/wiki/Dubai_Marina" }]
+
+[[landmark]]
+name = "Museum of the Future"
+emirate = "Dubai"
+opened = "2022"
+dld_area = "Trade Center Second"
+bullets = [
+  "Owned by the Dubai government; designed by Killa Design with Buro Happold.",
+  "Opened 22 Feb 2022 on Sheikh Zayed Road, Trade Centre 2.",
+]
+sources = [{ label = "Wikipedia", url = "https://en.wikipedia.org/wiki/Museum_of_the_Future" }]
+
+[[landmark]]
+name = "Expo City Dubai"
+emirate = "Dubai"
+opened = "2022"
+dld_area = "Madinat Al Mataar"
+bullets = [
+  "Dubai won the Expo 2020 bid on 27 Nov 2013; Expo ran 1 Oct 2021 to 31 Mar 2022.",
+  "Expo City Dubai opened 1 Oct 2022, keeping about 80% of the Expo buildings.",
+  "4.38 km² district with its own Red Line metro station (Route 2020).",
+  "New homes in the Expo Valley and Expo Central neighbourhoods.",
+]
+sources = [
+  { label = "Wikipedia (Expo 2020)", url = "https://en.wikipedia.org/wiki/Expo_2020" },
+  { label = "Gulf Business", url = "https://gulfbusiness.com/expo-city-dubai-celebrates-key-milestones/" },
+]
+
+[[landmark]]
+name = "Dubai Creek Harbour"
+emirate = "Dubai"
+opened = "launched 2014"
+dld_area = "Al Khairan First"
+bullets = [
+  "Launched 2014 by Emaar Properties and Dubai Holding.",
+  "Master community of about 6 km² beside the Ras Al Khor wildlife sanctuary.",
+  "Dubai Creek Tower: foundations done 2018, work paused April 2020, redesign later confirmed; tender postponed in 2026.",
+  "On the route of the Metro Blue Line, due 9 Sep 2029.",
+]
+sources = [
+  { label = "Dubai Holding", url = "https://www.dubaiholding.com/en/media-hub/press-releases/emaar-and-dubai-holding-unveil-first-luxury-residential-project-in-dubai-creek-harbour-at-the-lagoons" },
+  { label = "Wikipedia (Creek Tower)", url = "https://en.wikipedia.org/wiki/Dubai_Creek_Tower" },
+  { label = "Khaleej Times (Blue Line)", url = "https://www.khaleejtimes.com/uae/transport/dubai-metro-blue-line-to-be-completed-september-9-2029-rta-announces" },
+]
+
+[[landmark]]
+name = "Ain Dubai"
+emirate = "Dubai"
+opened = "2021"
+dld_master = "Bluewaters Island%"
+bullets = [
+  "Developer: Meraas; on Bluewaters Island off JBR.",
+  "Construction began May 2015; opened 21 Oct 2021; 250 m tall.",
+  "Closed March 2022, closed indefinitely April 2023, reopened 26 Dec 2024.",
+]
+sources = [{ label = "Wikipedia", url = "https://en.wikipedia.org/wiki/Ain_Dubai" }]
+
+[[landmark]]
+name = "Dubai International Airport (DXB)"
+emirate = "Dubai"
+opened = "1960"
+bullets = [
+  "Opened 30 Sep 1960; operated by Dubai Airports.",
+  "95.2 million passengers in 2025, the world's busiest for international travel.",
+  "Terminal 3 opened 2008 at a cost of US$4.5 billion.",
+  "Operations are planned to move to Al Maktoum International once its expansion is ready.",
+]
+sources = [{ label = "Wikipedia", url = "https://en.wikipedia.org/wiki/Dubai_International_Airport" }]
+
+[[landmark]]
+name = "Al Maktoum International Airport (DWC)"
+emirate = "Dubai"
+opened = "expansion approved 2024"
+dld_area = "Madinat Al Mataar"
+bullets = [
+  "AED 128 billion passenger terminal approved 28 Apr 2024.",
+  "Designed for up to 260 million passengers a year, five times DXB's size.",
+  "First-phase operations due 2032; DXB's operations then move here.",
+  "A city is planned around it in Dubai South to house one million people.",
+]
+sources = [{ label = "Dubai Media Office", url = "https://mediaoffice.ae/en/news/2024/april/28-04/al-maktoum-international-airport" }]
+
+[[landmark]]
+name = "Dubai Metro Red Line"
+emirate = "Dubai"
+opened = "2009"
+bullets = [
+  "Opened 9 Sep 2009; owned by the RTA.",
+  "67 km with 35 stations.",
+  "Route 2020 extension (15 km) inaugurated 8 Jul 2020; Expo branch opened 1 Jun 2021.",
+]
+sources = [{ label = "Wikipedia", url = "https://en.wikipedia.org/wiki/Red_Line_(Dubai_Metro)" }]
+
+[[landmark]]
+name = "Dubai Frame"
+emirate = "Dubai"
+opened = "2018"
+bullets = [
+  "Owned by Dubai Municipality; in Zabeel Park.",
+  "Construction began 2013; opened 1 Jan 2018.",
+  "Cost AED 230 million; 150.24 m tall.",
+]
+sources = [{ label = "Wikipedia", url = "https://en.wikipedia.org/wiki/Dubai_Frame" }]
+
+[[landmark]]
+name = "Etihad Rail, Al Yalayis station"
+emirate = "Dubai"
+opened = "30 Sep 2026"
+dld_master = "Jumeirah Golf Estates%"
+bullets = [
+  "Dubai's first Etihad Rail passenger station opens 30 Sep 2026, with Al Dhaid in Sharjah.",
+  "In Jumeirah Golf Estates, linked to the Red Line's JGE station by a 400 m walkway.",
+  "About 57 minutes to Abu Dhabi; fares from Dh39.",
+]
+sources = [{ label = "Gulf News", url = "https://gulfnews.com/uae/dubai/etihad-rail-is-coming-to-dubai-what-changes-when-al-yalayis-station-opens-september-30-1.500679227" }]
+
+[[landmark]]
+name = "Aljada"
+emirate = "Sharjah"
+opened = "launched 2017"
+bullets = [
+  "Developer: Arada; launched September 2017.",
+  "AED 24 billion gross value; 2.2 km² next to University City and Sheikh Mohammed Bin Zayed Road.",
+  "Planned for more than 25,000 homes and up to 70,000 residents.",
+]
+sources = [{ label = "Arada", url = "https://www.arada.com/en/latest-news/arada-launches-aljada-sharjahs-largest-ever-real-estate-megaproject/" }]
+
+[[landmark]]
+name = "Maryam Island"
+emirate = "Sharjah"
+opened = "freehold waterfront"
+bullets = [
+  "Developer: Eagle Hills Sharjah, a joint venture of Shurooq and Eagle Hills.",
+  "AED 4.5 billion mixed-use project on 460,000 m² between Al Khan Lagoon and Al Mamzar.",
+  "Sharjah's first freehold waterfront address open to international buyers.",
+]
+sources = [
+  { label = "Shurooq", url = "https://shurooq.gov.ae/portfolio/maryam-island" },
+  { label = "MEED", url = "https://www.meed.com/sharjah-launches-736m-real-estate-projects/" },
+]
+
+[[landmark]]
+name = "Al Majaz Waterfront"
+emirate = "Sharjah"
+opened = "2010"
+bullets = [
+  "Developed by Shurooq; launched 28 Mar 2010 along Khalid Lagoon.",
+  "Home of the Sharjah Musical Fountain, about 220 m across.",
+]
+sources = [{ label = "Property Finder guide", url = "https://www.propertyfinder.ae/blog/al-majaz-waterfront/" }]
+
+[[landmark]]
+name = "Al Noor Island"
+emirate = "Sharjah"
+opened = "2015"
+bullets = [
+  "Developed by Shurooq at a cost of Dh80 million; opened December 2015 in Khalid Lagoon.",
+  "45,470 m² island combining art, nature and a Butterfly House.",
+]
+sources = [
+  { label = "Gulf News", url = "https://gulfnews.com/business/tourism/shurooq-launches-dh80m-al-noor-island-in-sharjah-1.1505485" },
+  { label = "Sharjah Update", url = "https://www.sharjahupdate.com/2015/12/al-noor-island-opens-to-the-public/" },
+]
+
+[[landmark]]
+name = "Al Qasba"
+emirate = "Sharjah"
+opened = "2000"
+bullets = [
+  "Canal-side leisure district established in 2000; run by an authority under Shurooq.",
+  "The Eye of the Emirates wheel (60 m) opened here in 2005 and moved to Al Montazah Parks in 2018.",
+]
+sources = [
+  { label = "Wikipedia", url = "https://en.wikipedia.org/wiki/Al_Qasba_Sharjah" },
+  { label = "Khaleej Times", url = "https://www.khaleejtimes.com/uae/sharjahs-iconic-eye-of-the-emirates-wheel-moves-to-al-montazah-parks-after-13-years" },
+]

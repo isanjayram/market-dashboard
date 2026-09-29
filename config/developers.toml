@@ -1,0 +1,29 @@
+# Sharjah top 5 developers (agreed 29 Sep 2026). Ranked by listed projects on
+# Property Finder's Sharjah developer directory, keeping Arada and Alef.
+# Sharjah has no deal-level open data, so resale prices show as N/A.
+# Edit freely; the News and Pipeline modules link each developer's latest items.
+
+[[sharjah]]
+name = "Arada"
+flagships = ["Aljada", "Masaar", "Nasma Residences"]
+match = ["arada", "aljada", "masaar"]
+
+[[sharjah]]
+name = "Alef Group"
+flagships = ["Al Mamsha", "Hayyan", "Linar", "SEEF"]
+match = ["alef", "al mamsha", "hayyan", "linar"]
+
+[[sharjah]]
+name = "Eagle Hills"
+flagships = ["Maryam Island"]
+match = ["eagle hills", "maryam island"]
+
+[[sharjah]]
+name = "Tiger Properties"
+flagships = []
+match = ["tiger properties", "tiger group"]
+
+[[sharjah]]
+name = "Ajmal Makan"
+flagships = ["Sharjah Waterfront City"]
+match = ["ajmal makan", "sharjah waterfront city"]

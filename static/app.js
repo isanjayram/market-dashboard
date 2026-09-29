@@ -9,17 +9,70 @@
     try { localStorage.setItem("theme", light ? "light" : "dark"); } catch (e) { /* private mode */ }
   });
 
-  // Segmented controls swap the panels inside the same card.
+  // Tabs: Brief / Market / Rent / News / More (the hash keeps the tab on reload).
+  const showTab = (tab) => {
+    if (!/^(brief|market|rent|news|more)$/.test(tab)) tab = "brief";
+    root.dataset.tab = tab;
+    if (tab === "news") loadArchive();
+  };
+  addEventListener("hashchange", () => { showTab(location.hash.slice(1)); scrollTo(0, 0); });
+  document.querySelectorAll("[data-go]").forEach((a) => a.addEventListener("click", () => setTimeout(() => scrollTo(0, 0))));
+
+  // Segmented controls: each group swaps only its own panels (data-group).
   document.querySelectorAll("[data-range-group]").forEach((group) => {
     group.addEventListener("click", (e) => {
       const btn = e.target.closest("button[data-range]");
       if (!btn) return;
       group.querySelectorAll("button").forEach((b) => b.setAttribute("aria-pressed", String(b === btn)));
-      group.closest(".card").querySelectorAll("[data-panel]").forEach((p) => {
+      group.closest(".card").querySelectorAll(`[data-group="${group.dataset.rangeGroup}"]`).forEach((p) => {
         p.hidden = p.dataset.panel !== btn.dataset.range;
       });
     });
   });
+
+  // Talking points: tap to copy (for WhatsApp etc.).
+  document.querySelectorAll("[data-copy]").forEach((b) => b.addEventListener("click", async () => {
+    try { await navigator.clipboard.writeText(b.dataset.copy); b.classList.add("copied"); b.querySelector(".copy").textContent = "Copied"; } catch (e) { /* no clipboard */ }
+  }));
+
+  // Pipeline filters.
+  const pipef = document.getElementById("pipef");
+  pipef?.addEventListener("click", (e) => {
+    const btn = e.target.closest("button[data-f]");
+    if (!btn) return;
+    pipef.querySelectorAll("button").forEach((b) => b.setAttribute("aria-pressed", String(b === btn)));
+    const f = btn.dataset.f;
+    document.querySelectorAll(".pipe").forEach((c) => { c.hidden = !(f === "all" || c.dataset.region === f || c.dataset.kind === f); });
+  });
+
+  // News archive: loaded on first visit to the News tab, filtered on the phone.
+  let archive = null;
+  async function loadArchive() {
+    if (archive || !document.getElementById("arch-list")) return;
+    try { archive = await (await fetch("news-archive.json", { credentials: "same-origin" })).json(); } catch (e) { archive = []; }
+    renderArchive();
+  }
+  let cat = "";
+  function renderArchive() {
+    const list = document.getElementById("arch-list");
+    const q = (document.getElementById("q").value || "").toLowerCase();
+    const rows = (archive || []).filter((i) => (!cat || i.category === cat) && (!q || i.headline.toLowerCase().includes(q))).slice(0, 60);
+    list.replaceChildren(...rows.map((i) => {
+      const div = document.createElement("div"); div.className = "arch";
+      const a = document.createElement("a"); a.href = i.link; a.target = "_blank"; a.rel = "noopener"; a.textContent = i.headline;
+      const s = document.createElement("small"); s.textContent = `${i.impact} · ${i.category} · ${i.source} · ${i.published.slice(0, 10)}`;
+      div.append(a, s); return div;
+    }));
+    if (!rows.length) { const p = document.createElement("p"); p.className = "empty"; p.textContent = "Nothing matches."; list.replaceChildren(p); }
+  }
+  document.getElementById("q")?.addEventListener("input", () => archive && renderArchive());
+  document.getElementById("catf")?.addEventListener("click", (e) => {
+    const btn = e.target.closest("button[data-cat]");
+    if (!btn) return;
+    document.querySelectorAll("#catf button").forEach((b) => b.setAttribute("aria-pressed", String(b === btn)));
+    cat = btn.dataset.cat; if (archive) renderArchive();
+  });
+  showTab(root.dataset.tab);
 
   // One tooltip for every chart: value first, label second.
   const tip = document.createElement("div");

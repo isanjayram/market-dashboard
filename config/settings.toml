@@ -37,5 +37,27 @@ rising_min_deals = 40
 largest_n = 5
 
 [llm]
-# Hard daily cap across all providers (used from the News/Brief modules on)
+# Hard daily cap across all providers. Free tiers allow far more; this keeps
+# usage tiny and predictable. Providers are tried in order; a provider whose
+# key isn't set in GitHub Secrets is skipped. To switch providers when a free
+# tier changes, reorder this list or change the model name.
 daily_call_cap = 10
+providers = [
+  { name = "gemini", model = "gemini-flash-lite-latest", key_env = "GEMINI_API_KEY" },
+  { name = "groq", model = "llama-3.3-70b-versatile", key_env = "GROQ_API_KEY" },
+]
+
+[news]
+top_n = 8
+window_hours = 24
+archive_days = 30
+# Feeds that answer GitHub's servers (checked 29 Sep 2026). Arabian Business
+# blocks them, so it isn't listed. Order = which outlet wins when several
+# carry the same story. tz is used when a feed omits the time zone.
+feeds = [
+  { name = "US Federal Reserve", url = "https://www.federalreserve.gov/feeds/press_monetary.xml", kind = "official" },
+  { name = "Reserve Bank of India", url = "https://www.rbi.org.in/pressreleases_rss.xml", kind = "official", tz = "+05:30" },
+  { name = "The National", url = "https://www.thenationalnews.com/arc/outboundfeeds/rss/?outputType=xml" },
+  { name = "Khaleej Times", url = "https://www.khaleejtimes.com/stories.rss" },
+  { name = "Gulf News", url = "https://gulfnews.com/feed" },
+]

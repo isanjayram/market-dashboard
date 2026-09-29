@@ -13,162 +13,289 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Brief">
 <title>Morning Brief · {{ today_label }}</title>
-<script>try { if (localStorage.getItem("theme") === "light") document.documentElement.dataset.theme = "light"; } catch (e) {}</script>
+<script>
+try { if (localStorage.getItem("theme") === "light") document.documentElement.dataset.theme = "light"; } catch (e) {}
+(function () { var t = (location.hash || "").slice(1); if (!/^(brief|market|rent|news|more)$/.test(t)) t = "brief"; document.documentElement.dataset.tab = t; })();
+</script>
 <style>{{ css|safe }}</style>
 </head>
 <body>
 {%- set k = pulse.kpi if pulse else none %}
+{%- set c = pulse.compare if pulse else none %}
 <header class="top">
   <div>
     <h1>Good morning, Sanjay</h1>
     <p class="sub">{{ today_label }} · updated {{ updated }}</p>
-    {%- if meta.stale %}
-    <span class="status warn"><i></i>{{ meta.stale_short }}</span>
-    {%- else %}
-    <span class="status"><i></i>All sources OK · AI {{ run.llm_calls }}/{{ run.llm_cap }}</span>
-    {%- endif %}
+    {%- if meta.stale %}<span class="status warn"><i></i>{{ meta.stale_short }}</span>
+    {%- else %}<span class="status"><i></i>Up to date{% if pulse %} · DLD {{ pulse.as_of|day_label('%a %-d %b') }}{% endif %}</span>{% endif %}
   </div>
   <button id="theme" class="icon-btn" type="button" aria-label="Switch between dark and light mode">
     <svg class="moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></svg>
     <svg class="sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
   </button>
 </header>
-<nav class="chips" aria-label="Sections">
-  <a href="#market" class="on">Market</a><a href="#watchlist">Watchlist</a><a href="#next">Brief</a><a href="#next">News</a><a href="#next">Rent</a><a href="#next">Pipeline</a><a href="#next">Developers</a><a href="#next">Landmarks</a>
-</nav>
+
 <main>
-{%- if meta.test %}
-  <div class="stale" role="alert">TEST RUN: built from local files, not today's DLD download. Don't quote these numbers.</div>
-{%- endif %}
-{%- if meta.stale %}
-  <div class="stale" role="alert">⚠ STALE: {{ meta.stale_reason }}</div>
-{%- endif %}
+{%- if meta.test %}<div class="stale" role="alert">TEST RUN: built from local files. Don't quote these numbers.</div>{% endif %}
+{%- if meta.stale %}<div class="stale" role="alert">⚠ STALE: {{ meta.stale_reason }}</div>{% endif %}
+
+{# ============================== BRIEF ============================== #}
+<section class="tab" id="brief" aria-label="Morning brief">
+  <div class="card">
+    <h2>Morning brief <small>{{ brief.mode|brief_mode }}</small></h2>
+    <ul class="brief">{% for b in brief.bullets %}<li>{{ b }}</li>{% endfor %}</ul>
+  </div>
+  {%- if brief.talking_points %}
+  <div class="card">
+    <h2>Say this on calls <small>tap to copy</small></h2>
+    {%- for t in brief.talking_points %}
+    <button class="say" type="button" data-copy="{{ t }}"><span class="num">{{ loop.index }}</span><span class="t">{{ t }}</span><span class="copy">Copy</span></button>
+    {%- endfor %}
+  </div>
+  {%- endif %}
+  {%- if news and news.top %}
+  <div class="card">
+    <h2>Top news <a class="more-link" href="#news" data-go="news">All news →</a></h2>
+    {%- for n in news.top[:3] %}
+    <a class="mini-news" href="{{ n.link }}" target="_blank" rel="noopener">
+      <span class="imp {{ n.impact|lower }}" aria-label="{{ n.impact }} impact"></span>
+      <span><b>{{ n.headline }}</b><small>{{ n.impact }} · {{ n.source }} · {{ n.published|ago }}</small></span>
+    </a>
+    {%- endfor %}
+  </div>
+  {%- endif %}
+  {%- if pulse %}
+  <a class="kpis" href="#market" data-go="market">
+    <span><small>Sales · {{ pulse.as_of|day_label('%a') }}</small><b>{{ k.deals|num }}</b></span>
+    <span><small>Median /sqft</small><b>{{ k.median_psf|num }}</b></span>
+    <span><small>Off-plan</small><b>{{ k.offplan_share|round|int }}%</b></span>
+  </a>
+  {%- endif %}
+</section>
+
+{# ============================== MARKET ============================== #}
+<section class="tab" id="market" aria-label="Market pulse">
 {%- if pulse %}
-{%- set c = pulse.compare %}
-  <section id="market" aria-label="Market pulse">
-    <div class="card hero">
-      <div class="eyebrow">DLD sales · {{ pulse.as_of|day_label }}{% if pulse.partial_day %} · {{ pulse.partial_day.deals|num }} more so far on {{ pulse.partial_day.day|day_label('%a %-d') }} (partial){% endif %}</div>
-      <div class="hero-n">{{ k.deals|num }}<em>deals</em></div>
-      {%- set d7 = c.deals.d7|delta %}{%- set wd = c.deals.wd|delta %}
-      <div class="hero-sub"><span class="v">{{ k.value|aed }}</span><span class="pill {{ wd.cls }}">{{ wd.text }} vs a typical {{ c.weekday }}</span></div>
-      <div class="cmp">
-        {%- set a = c.deals.d30|delta %}{%- set y = c.deals.yoy|delta %}
-        <div><small>7-day avg</small><b>{{ c.deals.avg7|num }}</b><span class="{{ d7.cls }}">{{ d7.text }}</span></div>
-        <div><small>30-day avg</small><b>{{ c.deals.avg30|num }}</b><span class="{{ a.cls }}">{{ a.text }}</span></div>
-        <div><small>Same week {{ pulse.as_of[:4]|int - 1 }}</small><b>{{ c.deals.ly_avg|num }}<span class="muted" style="display:inline;font-weight:500">/day</span></b><span class="{{ y.cls }}">{{ y.text }}</span></div>
-      </div>
-      <p class="foot">Source: DLD via data.dubai · as of {{ pulse.as_of|day_label('%-d %b %Y') }}. DLD's open data runs a few days behind. "Typical {{ c.weekday }}" = average of the last 4 {{ c.weekday }}s; other averages use business days only.</p>
+  <div class="card hero">
+    <div class="eyebrow">DLD sales · {{ pulse.as_of|day_label }}</div>
+    <div class="hero-n">{{ k.deals|num }}<em>sales</em></div>
+    {%- set wd = c.deals.wd|delta %}
+    <div class="hero-sub"><span class="v">{{ k.value|aed }}</span><span class="pill {{ wd.cls }}">{{ wd.text }} vs a typical {{ c.weekday }}</span></div>
+    <div class="cmp">
+      {%- set d7 = c.deals.d7|delta %}{%- set a = c.deals.d30|delta %}{%- set y = c.deals.yoy|delta %}
+      <div><small>7-day avg</small><b>{{ c.deals.avg7|num }}</b><span class="{{ d7.cls }}">{{ d7.text }}</span></div>
+      <div><small>30-day avg</small><b>{{ c.deals.avg30|num }}</b><span class="{{ a.cls }}">{{ a.text }}</span></div>
+      <div><small>Same week {{ pulse.as_of[:4]|int - 1 }}</small><b>{{ c.deals.ly_avg|num }}<span class="muted unit">/day</span></b><span class="{{ y.cls }}">{{ y.text }}</span></div>
     </div>
-
-    <div class="tiles">
-      <div class="card">
-        <small>Off-plan share</small>
-        <div class="v">{{ k.offplan_share|round|int }}%</div>
-        <div class="split" aria-hidden="true"><span style="flex:{{ k.offplan }}"></span><span style="flex:{{ k.ready }}"></span></div>
-        <div class="lg"><i class="sw off"></i>{{ k.offplan|num }} off-plan<br><i class="sw ready"></i>{{ k.ready|num }} ready</div>
-      </div>
-      <div class="card">
-        <small>Median price · homes</small>
-        <div class="v">{{ k.median_psf|num }} <em>AED/sqft</em></div>
-        {%- set p = c.psf.d30|delta %}
-        <div class="row"><span class="pill {{ p.cls }}">{{ p.text }} 30d</span>{{ spark_psf|safe }}</div>
-        <div class="lg">Average {{ k.avg_psf|num }} AED/sqft</div>
-      </div>
-      <div class="card">
-        <small>Value</small>
-        <div class="v">{{ k.value|aed }}</div>
-        {%- set v = c.value.d7|delta %}
-        <div class="row"><span class="pill {{ v.cls }}">{{ v.text }} 7d</span>{{ spark_value|safe }}</div>
-      </div>
-      <div class="card">
-        <small>What sold</small>
-        <div class="v">{{ k.residential|num }} <em>homes</em></div>
-        <div class="lg">{{ k.land|num }} land · {{ k.buildings|num }} buildings<br>Off-plan share, 7 days: {{ c.offplan_share_7d if c.offplan_share_7d is not none else 'n/a' }}%</div>
-      </div>
-    </div>
-
+  </div>
+  <div class="tiles">
     <div class="card">
-      <h2>Deals trend
-        <span class="seg" data-range-group role="group" aria-label="Range">
-          <button type="button" data-range="d30" aria-pressed="false">30D</button><button type="button" data-range="d90" aria-pressed="true">90D</button><button type="button" data-range="m12" aria-pressed="false">12M</button>
-        </span>
-      </h2>
-      <div data-panel="d30" hidden>{{ charts.d30|safe }}</div>
-      <div data-panel="d90">{{ charts.d90|safe }}</div>
-      <div data-panel="m12" hidden>{{ charts.m12|safe }}</div>
-      <p class="foot">Deals per business day, 7-day average. Source: DLD via data.dubai.</p>
+      <small>Off-plan share</small>
+      <div class="v">{{ k.offplan_share|round|int }}%</div>
+      <div class="split" aria-hidden="true"><span style="flex:{{ k.offplan }}"></span><span style="flex:{{ k.ready }}"></span></div>
+      <div class="lg"><i class="sw off"></i>{{ k.offplan|num }} off-plan · <i class="sw ready"></i>{{ k.ready|num }} ready</div>
     </div>
-
-    {%- if charts.psf %}
     <div class="card">
-      <h2>Price trend <small>median AED/sqft · homes · weekly</small></h2>
-      {{ charts.psf|safe }}
-      <p class="foot">Residential units and villas, weeks with 50+ sales. Source: DLD via data.dubai.</p>
+      <small>Median price · homes</small>
+      <div class="v">{{ k.median_psf|num }} <em>AED/sqft</em></div>
+      {%- set p = c.psf.d30|delta %}
+      <div class="row"><span class="pill {{ p.cls }}">{{ p.text }} 30d</span>{{ spark_psf|safe }}</div>
+      <div class="lg">Average {{ k.avg_psf|num }}</div>
     </div>
-    {%- endif %}
-
-    <div class="card">
-      <h2>Top areas
-        <span class="seg" data-range-group role="group" aria-label="Rank by">
-          <button type="button" data-range="vol" aria-pressed="true">Deals</button><button type="button" data-range="val" aria-pressed="false">Value</button>
-        </span>
-      </h2>
-      <div data-panel="vol">{{ charts.top_volume|safe }}</div>
-      <div data-panel="val" hidden>{{ charts.top_value|safe }}</div>
-      <p class="foot">Last 7 days to {{ pulse.as_of|day_label('%-d %b') }}. Areas are DLD communities, named after their main master project.</p>
+  </div>
+  <div class="card">
+    <h2>Trend
+      <span class="seg" data-range-group="trend" role="group" aria-label="Chart">
+        <button type="button" data-range="sales" aria-pressed="true">Sales</button><button type="button" data-range="psf" aria-pressed="false">Price</button>
+      </span>
+    </h2>
+    <div data-group="trend" data-panel="sales">
+      <div class="seg sub" data-range-group="range" role="group" aria-label="Range">
+        <button type="button" data-range="d30" aria-pressed="false">30D</button><button type="button" data-range="d90" aria-pressed="true">90D</button><button type="button" data-range="m12" aria-pressed="false">12M</button>
+      </div>
+      <div data-group="range" data-panel="d30" hidden>{{ charts.d30|safe }}</div>
+      <div data-group="range" data-panel="d90">{{ charts.d90|safe }}</div>
+      <div data-group="range" data-panel="m12" hidden>{{ charts.m12|safe }}</div>
+      <p class="foot">Sales per business day, 7-day average.</p>
     </div>
-
-    <div class="card">
-      <h2>Largest deals <small>homes · {{ pulse.as_of|day_label }}</small></h2>
-      {%- for d in pulse.largest %}
-      <div class="deal"><b>{{ d.worth|aed }}</b><span class="d">{{ d.type }}{% if d.sqft %}, {{ d.sqft|num }} sqft{% endif %}, {{ d.reg }}<br>{{ d.project + ' · ' if d.project }}{{ d.area }}</span></div>
-      {%- else %}
-      <p class="empty">No home sales recorded.</p>
-      {%- endfor %}
-      {%- if pulse.largest_land %}
-      <p class="foot">Largest land/building deal: {{ pulse.largest_land.worth|aed }} ({{ pulse.largest_land.type|lower }}, {{ pulse.largest_land.area }}).</p>
-      {%- endif %}
-    </div>
-
-    <div class="card" id="watchlist">
-      <h2>Watchlist <small>last 30 days · median AED/sqft</small></h2>
-      {%- for w in pulse.watch %}
+    <div data-group="trend" data-panel="psf" hidden>{{ charts.psf|safe }}<p class="foot">Median AED/sqft for homes, weekly, 12 months.</p></div>
+  </div>
+  <div class="card">
+    <h2>Top areas · 7 days
+      <span class="seg" data-range-group="top" role="group" aria-label="Rank by">
+        <button type="button" data-range="vol" aria-pressed="true">Sales</button><button type="button" data-range="val" aria-pressed="false">Value</button>
+      </span>
+    </h2>
+    <div data-group="top" data-panel="vol">{{ charts.top_volume|safe }}</div>
+    <div data-group="top" data-panel="val" hidden>{{ charts.top_value|safe }}</div>
+  </div>
+  <div class="card" id="watchlist">
+    <h2>Watchlist <small>30 days · median AED/sqft</small></h2>
+    {%- macro wrow(w) %}
       {%- set w30 = w.d30|delta %}{%- set w90 = w.d90|delta %}
       <div class="wrow">
-        <div><b>{{ w.name }}</b><small>{% if w.deals30 %}{{ w.deals30|num }} deals{% if w.offplan_share is not none %} · {{ w.offplan_share }}% off-plan{% endif %}{% else %}no sales in 30 days{% endif %}{% if w.note %} · {{ w.note }}{% endif %}</small></div>
-        <div class="r">
-          <div>{{ w.median_psf|num if w.median_psf else '—' }}</div>
-          <div class="pills"><span class="pill {{ w30.cls }}" title="vs previous 30 days">30d {{ w30.text }}</span><span class="pill {{ w90.cls }}" title="vs 90 days earlier">90d {{ w90.text }}</span></div>
-        </div>
+        <div><b>{{ w.name }}</b><small>{% if w.deals30 %}{{ w.deals30|num }} sales{% if w.offplan_share is not none %} · {{ w.offplan_share }}% off-plan{% endif %}{% else %}no sales in 30 days{% endif %}</small></div>
+        <div class="r"><div>{{ w.median_psf|num if w.median_psf else '—' }}</div>
+          <div class="pills"><span class="pill {{ w30.cls }}">30d {{ w30.text }}</span><span class="pill {{ w90.cls }}">90d {{ w90.text }}</span></div></div>
       </div>
-      {%- endfor %}
-      {%- for s in watch_sharjah %}
-      <div class="wrow shj"><div><b>{{ s.name }}</b><small>Sharjah · {{ s.developer }} · monthly SRERD totals only</small></div><div class="r"><small>soon</small></div></div>
-      {%- endfor %}
-      {%- if pulse.rising %}
-      <div class="rising" aria-label="Rising fastest"><span style="background:none;padding-left:0">Rising fastest, ready homes, 90d:</span>{% for r in pulse.rising %}<span>{{ r.area }} <b>▲ {{ r.d90 }}%</b></span>{% endfor %}</div>
-      {%- endif %}
-      <p class="foot">Rising fastest uses ready (resale) homes only, so new launches don't distort it. Medians can still move when a different mix of projects sells. "n/a" means fewer than {{ settings.pulse.min_sample }} home sales in a window. 30d compares with the previous 30 days; 90d with the same 30 days three months earlier. Source: DLD via data.dubai.</p>
-    </div>
-  </section>
+    {%- endmacro %}
+    {%- for w in pulse.watch[:6] %}{{ wrow(w) }}{% endfor %}
+    {%- if pulse.watch|length > 6 %}
+    <details><summary>Show {{ pulse.watch|length - 6 }} more</summary>{% for w in pulse.watch[6:] %}{{ wrow(w) }}{% endfor %}</details>
+    {%- endif %}
+    {%- if pulse.rising %}
+    <div class="rising" aria-label="Rising fastest"><span class="lbl">Rising fastest · ready homes · 90d</span>{% for r in pulse.rising %}<span>{{ r.area }} <b>▲ {{ r.d90 }}%</b></span>{% endfor %}</div>
+    {%- endif %}
+  </div>
+  <div class="card">
+    <h2>Largest home sales <small>{{ pulse.as_of|day_label('%a %-d %b') }}</small></h2>
+    {%- for d in pulse.largest[:3] %}
+    <div class="deal"><b>{{ d.worth|aed }}</b><span class="d">{{ d.type }}, {{ d.reg }}<br>{{ d.project + ' · ' if d.project }}{{ d.area }}</span></div>
+    {%- endfor %}
+    {%- if pulse.largest_land %}<p class="foot">Largest land/building: {{ pulse.largest_land.worth|aed }}, {{ pulse.largest_land.area }}.</p>{% endif %}
+  </div>
+  <p class="src">Source: DLD via data.dubai, as of {{ pulse.as_of|day_label('%-d %b %Y') }}. "Typical {{ c.weekday }}" = last 4 {{ c.weekday }}s; averages use business days. n/a = fewer than {{ settings.pulse.min_sample }} sales.</p>
 {%- else %}
-  <div class="card"><h2>Market pulse</h2><p class="empty">DLD data isn't available yet. The next run will retry.</p></div>
+  <div class="card"><h2>Market</h2><p class="empty">DLD data isn't available yet. The next run retries.</p></div>
 {%- endif %}
+</section>
 
-  <section id="next" class="card soon" aria-label="Coming next">
-    <h2>Coming next <small>one module at a time</small></h2>
-    <ul>
-      <li>Market-impact news with "why it matters"</li>
-      <li>Morning brief and call talking points (also on Telegram)</li>
-      <li>Rent monitor from Ejari contracts, with gross yields</li>
-      <li>Project pipeline, Developers and Landmarks</li>
-    </ul>
-  </section>
+{# ============================== RENT ============================== #}
+<section class="tab" id="rent" aria-label="Rent monitor">
+{%- if rent %}
+  {%- if rent.alerts %}
+  <div class="card">
+    <h2>Rent moves over 5% <small>{{ rent.month }}</small></h2>
+    {%- for a in rent.alerts %}{%- set m = a.mom|delta %}
+    <div class="wrow"><div><b>{{ a.area }} · {{ rent.labels[a.unit] }}</b><small>{{ a.n }} new contracts</small></div><div class="r"><span class="pill {{ m.cls }}">{{ m.text }} MoM</span></div></div>
+    {%- endfor %}
+  </div>
+  {%- endif %}
+  <div class="card">
+    <h2>Median rent <small>new contracts · {{ rent.month }}</small></h2>
+    <div class="seg" data-range-group="unit" role="group" aria-label="Unit type">
+      {%- for u in rent.units %}<button type="button" data-range="u-{{ u }}" aria-pressed="{{ 'true' if u == '1br' else 'false' }}">{{ rent.labels[u] }}</button>{% endfor %}
+    </div>
+    {%- for u in rent.units %}
+    <div data-group="unit" data-panel="u-{{ u }}"{% if u != '1br' %} hidden{% endif %}>
+      {%- for r in rent.rows if r.unit == u %}{%- set m = r.mom|delta %}{%- set y = r.yoy|delta %}
+      <div class="wrow"><div><b>{{ r.area }}</b><small>{{ r.n }} contracts{% if r.gross_yield %} · gross yield {{ r.gross_yield }}%{% endif %}</small></div>
+        <div class="r"><div>AED {{ r.median|num }}</div><div class="pills"><span class="pill {{ m.cls }}">MoM {{ m.text }}</span><span class="pill {{ y.cls }}">YoY {{ y.text }}</span></div></div></div>
+      {%- else %}<p class="empty">Not enough contracts for this unit type.</p>{%- endfor %}
+    </div>
+    {%- endfor %}
+    <p class="foot">Gross yield = median annual rent ÷ median sale price for the same area and unit type (gross, before costs).</p>
+  </div>
+  <p class="src">Source: DLD Ejari rent contracts via data.dubai. Renewals excluded (they lag the market because of the rent cap).</p>
+{%- else %}
+  <div class="card"><h2>Rent monitor</h2>
+    <p class="empty">Rent numbers appear once DLD's rent contracts are loaded. That needs a one-time download on your Mac, then the data.dubai API key for daily updates.</p></div>
+{%- endif %}
+</section>
+
+{# ============================== NEWS ============================== #}
+<section class="tab" id="news" aria-label="Market-impact news">
+{%- if news %}
+  <p class="src top">{{ news.top|length }} top items from the last {{ news.window_hours }} hours · {{ news.count_relevant }} market stories out of {{ news.count_fetched }} read.</p>
+  {%- for n in news.top %}
+  <article class="card news">
+    <div class="meta"><span class="badge"><i class="imp {{ n.impact|lower }}"></i>{{ n.impact }}</span><span class="badge">{{ n.category }}</span>{% if n.watch %}<span class="badge wl">★ Watchlist</span>{% endif %}</div>
+    <h3>{{ n.headline }}</h3>
+    {%- if n.summary %}<p>{{ n.summary }}</p>{% endif %}
+    <div class="why"><b>Why it matters for buyers/agents:</b> {{ n.why }}</div>
+    <div class="reason">{{ n.impact }} impact: {{ n.impact_reason }}</div>
+    <div class="src2"><span>{{ n.source }} · {{ n.published|ago }}{% if n.also %} · also {{ n.also|join(', ') }}{% endif %}{% if n.more %} · +{{ n.more }} more on this{% endif %}</span><a href="{{ n.link }}" target="_blank" rel="noopener">Read ↗</a></div>
+  </article>
+  {%- else %}
+  <div class="card"><p class="empty">No market-moving stories in the last {{ news.window_hours }} hours.</p></div>
+  {%- endfor %}
+  <div class="card" id="archive">
+    <h2>Archive <small>30 days</small></h2>
+    <input id="q" type="search" placeholder="Search headlines" aria-label="Search the news archive">
+    <div class="chips-f" id="catf">
+      <button type="button" aria-pressed="true" data-cat="">All</button>{% for cat in news_categories %}<button type="button" aria-pressed="false" data-cat="{{ cat }}">{{ cat }}</button>{% endfor %}
+    </div>
+    <div id="arch-list"><p class="empty">Loading…</p></div>
+  </div>
+  <p class="src">Sources: {{ news_sources|join(', ') }}. Headlines link to the original; summaries are written in our own words ({{ news.mode }}).</p>
+{%- else %}
+  <div class="card"><p class="empty">News isn't available right now. The next run retries.</p></div>
+{%- endif %}
+</section>
+
+{# ============================== MORE ============================== #}
+<section class="tab" id="more" aria-label="Pipeline, developers and landmarks">
+  <div class="chips-f jump"><a href="#pipeline-h" class="chip">Pipeline</a><a href="#dev-h" class="chip">Developers</a><a href="#lm-h" class="chip">Landmarks</a></div>
+
+  <h2 class="sec" id="pipeline-h">Project pipeline</h2>
+  {%- if pipeline and pipeline['items'] %}
+  <div class="chips-f" id="pipef">
+    <button type="button" aria-pressed="true" data-f="all">All</button><button type="button" aria-pressed="false" data-f="Dubai">Dubai</button><button type="button" aria-pressed="false" data-f="Sharjah">Sharjah</button><button type="button" aria-pressed="false" data-f="Off-plan launch">Off-plan</button><button type="button" aria-pressed="false" data-f="Infrastructure">Infrastructure</button>
+  </div>
+  {%- for e in pipeline['items'] %}
+  <article class="card pipe" data-region="{{ e.region }}" data-kind="{{ e.kind }}">
+    <div class="meta">{% if e.new %}<span class="badge new">NEW</span>{% endif %}<span class="badge">{{ e.kind }}</span><span class="badge">{{ e.region }}</span></div>
+    <h3>{{ e.title }}</h3>
+    {%- set f = e.fields %}
+    {%- if f.project or f.developer or f.starting_price or f.handover or f.payment_plan %}
+    <dl class="facts">
+      {%- for key, label in [('project','Project'),('developer','Developer'),('location','Location'),('type','Type'),('launch_date','Launch'),('handover','Handover'),('starting_price','From'),('payment_plan','Payment plan')] %}
+      {%- if f[key] %}<dt>{{ label }}</dt><dd>{{ f[key] }}</dd>{% endif %}
+      {%- endfor %}
+    </dl>
+    {%- else %}<p class="muted small">Details pending: they'll be filled in once the AI key is set.</p>{% endif %}
+    {%- if e.catalyst %}<div class="why"><b>Analysis, not a forecast:</b> near {{ e.catalyst.name }} ({{ e.catalyst.status }}). <a href="{{ e.catalyst.url }}" target="_blank" rel="noopener">{{ e.catalyst.source }} ↗</a></div>{% endif %}
+    <div class="src2"><span>{{ e.source }} · first seen {{ e.first_seen|day_label('%-d %b') }}</span><a href="{{ e.link }}" target="_blank" rel="noopener">Read ↗</a></div>
+  </article>
+  {%- endfor %}
+  {%- else %}<div class="card"><p class="empty">No launches or infrastructure announcements picked up yet.</p></div>{% endif %}
+
+  <h2 class="sec" id="dev-h">Developers</h2>
+  <div class="card">
+    <h2>Dubai top 5 <small>off-plan sales, 12 months</small></h2>
+    {%- if developers and developers.dubai %}
+    {%- for d in developers.dubai %}
+    <details class="dev"><summary><span class="rank">{{ loop.index }}</span><b>{{ d.name }}</b><span class="r">{{ d.value_12m|aed }}</span></summary>
+      <p class="small muted">{{ d.offplan_deals_12m|num }} off-plan sales in 12 months.</p>
+      {%- for p in d.top_projects %}
+      <div class="wrow"><div><b>{{ p.project }}</b><small>{{ p.sales_12m|num }} sales · {{ p.area }}</small></div><div class="r small">off-plan {{ p.offplan_psf|num if p.offplan_psf else 'n/a' }}<br>resale {{ p.resale_psf|num if p.resale_psf else 'n/a' }} /sqft</div></div>
+      {%- endfor %}
+      {%- if d.recent_launches %}<p class="small">Registered with DLD in the last year: {% for l in d.recent_launches %}{{ l.project }} ({{ l.area }}){{ ', ' if not loop.last }}{% endfor %}.</p>{% endif %}
+    </details>
+    {%- endfor %}
+    {%- else %}<p class="empty">Needs DLD's projects list (a small one-time download) to match sales to developers.</p>{% endif %}
+  </div>
+  <div class="card">
+    <h2>Sharjah top 5 <small>resale data not public</small></h2>
+    {%- for d in developers.sharjah %}
+    <div class="wrow"><div><b>{{ d.name }}</b><small>{{ d.flagships|join(', ') if d.flagships else 'Flagships not listed' }}</small>
+      {%- for n in d.news %}<a class="small link" href="{{ n.link }}" target="_blank" rel="noopener">{{ n.headline }} ↗</a>{% endfor %}</div>
+      <div class="r small muted">N/A</div></div>
+    {%- endfor %}
+  </div>
+
+  <h2 class="sec" id="lm-h">Landmarks</h2>
+  {%- if landmarks %}
+  {%- for l in landmarks %}
+  <details class="card lm"><summary><b>{{ l.name }}</b><small>{{ l.emirate }}{% if l.opened %} · {{ l.opened }}{% endif %}</small></summary>
+    <ul>{% for b in l.bullets %}<li>{{ b }}</li>{% endfor %}</ul>
+    <p class="small"><b>Area price:</b> {% if l.psf_now %}AED {{ l.psf_now|num }}/sqft now (DLD median for homes, 12 months, {{ l.price_label }}){% else %}no reliable data{% endif %}; at launch: {{ l.psf_launch or 'no reliable data' }}.</p>
+    <p class="small muted">{% for s in l.sources %}<a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.label }} ↗</a>{{ ' · ' if not loop.last }}{% endfor %}</p>
+  </details>
+  {%- endfor %}
+  {%- else %}<div class="card"><p class="empty">Landmarks library coming in the next update.</p></div>{% endif %}
+</section>
 </main>
-<footer>
-  Data: Dubai Land Department open data via data.dubai, under the Dubai Open Data Licence{% if meta.snapshot_time %} (DLD file {{ meta.snapshot_time }}){% endif %}.{% if meta.note %} {{ meta.note }}{% endif %} Every figure is as of the DLD day shown on its card. Forecasts are never shown as fact.<br>
-  Built {{ now.strftime('%-d %b %Y, %H:%M') }} Gulf time · AI calls today {{ run.llm_calls }}/{{ run.llm_cap }} (free tier).
-</footer>
+
+<footer>Built {{ now.strftime('%-d %b %Y, %H:%M') }} Gulf time · AI calls today {{ run.llm_calls }}/{{ run.llm_cap }} · Forecasts are never shown as fact.{% if meta.note %}<br>{{ meta.note }}{% endif %}</footer>
+
+<nav class="tabbar" aria-label="Sections">
+  <a href="#brief" data-go="brief"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6h16M4 12h10M4 18h13"/></svg>Brief</a>
+  <a href="#market" data-go="market"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19l5-6 4 3 7-9"/></svg>Market</a>
+  <a href="#rent" data-go="rent"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 11l8-6 8 6v8H4z"/><path d="M10 19v-5h4v5"/></svg>Rent</a>
+  <a href="#news" data-go="news"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><rect x="4" y="5" width="16" height="14" rx="2"/><path d="M8 9h8M8 13h8M8 16h5"/></svg>News</a>
+  <a href="#more" data-go="more"><svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><circle cx="6" cy="12" r="1.8"/><circle cx="12" cy="12" r="1.8"/><circle cx="18" cy="12" r="1.8"/></svg>More</a>
+</nav>
 <script>{{ js|safe }}</script>
 </body>
 </html>

@@ -9,7 +9,8 @@ from typing import Any
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 from . import charts
-from .config import SETTINGS, SITE_DIR, STATIC_DIR, TEMPLATE_DIR, WATCHLIST, now
+from .config import SETTINGS, SITE_DIR, STATIC_DIR, TEMPLATE_DIR, now
+from .news import RULES as NEWS_RULES
 
 
 def aed(v: float | None) -> str:
@@ -59,9 +60,23 @@ def _trend_charts(trend: dict[str, Any]) -> dict[str, str]:
     return out
 
 
-def build(pulse: dict[str, Any] | None, pulse_meta: dict[str, Any], run: dict[str, Any]) -> None:
+def ago(iso: str) -> str:
+    mins = (now() - datetime.fromisoformat(iso)).total_seconds() / 60
+    if mins < 60:
+        return f"{max(1, int(mins))}m ago"
+    if mins < 60 * 24:
+        return f"{int(mins // 60)}h ago"
+    return datetime.fromisoformat(iso).strftime("%-d %b")
+
+
+def brief_mode(mode: str) -> str:
+    return "written by AI from today's numbers" if mode.startswith("AI") else "from today's numbers"
+
+
+def build(pulse: dict[str, Any] | None, pulse_meta: dict[str, Any], run: dict[str, Any],
+          sections: dict[str, Any]) -> None:
     env = Environment(loader=FileSystemLoader(TEMPLATE_DIR), autoescape=select_autoescape(["html", "j2"]))
-    env.filters.update(aed=aed, num=num, delta=delta, day_label=day_label)
+    env.filters.update(aed=aed, num=num, delta=delta, day_label=day_label, ago=ago, brief_mode=brief_mode)
     stamp = now()
     ctx: dict[str, Any] = {
         "now": stamp,
@@ -70,21 +85,20 @@ def build(pulse: dict[str, Any] | None, pulse_meta: dict[str, Any], run: dict[st
         "pulse": pulse,
         "meta": pulse_meta,
         "run": run,
-        "watch_sharjah": WATCHLIST.get("sharjah", []),
         "settings": SETTINGS,
+        "news_categories": [c["name"] for c in NEWS_RULES["category"]],
+        "news_sources": [f["name"] for f in SETTINGS["news"]["feeds"]],
         "css": (STATIC_DIR / "app.css").read_text(),
         "js": (STATIC_DIR / "app.js").read_text(),
+        **sections,
     }
     if pulse:
-        k = pulse["kpi"]
         ctx["charts"] = _trend_charts(pulse["trend"])
         ctx["charts"]["top_volume"] = charts.bar_list(
-            [(r["area"], r["deals"], f"{r['deals']:,}") for r in pulse["top_volume"]], label="Busiest areas by deals, last 7 days")
+            [(r["area"], r["deals"], f"{r['deals']:,}") for r in pulse["top_volume"]], label="Busiest areas by sales, last 7 days")
         ctx["charts"]["top_value"] = charts.bar_list(
             [(r["area"], r["value"], aed(r["value"])) for r in pulse["top_value"]], label="Top areas by value, last 7 days")
-        ctx["spark_value"] = charts.sparkline(pulse["trend"].get("value", pulse["trend"]["deals"])[-14:])
         ctx["spark_psf"] = charts.sparkline(pulse["trend"]["psf"][-14:])
-        ctx["offplan_pct"] = k["offplan_share"] or 0
     SITE_DIR.mkdir(parents=True, exist_ok=True)
     html = env.get_template("index.html.j2").render(**ctx)
     (SITE_DIR / "index.html").write_text(html)
@@ -92,6 +106,7 @@ def build(pulse: dict[str, Any] | None, pulse_meta: dict[str, Any], run: dict[st
     health = {"updated": stamp.isoformat(timespec="minutes"), "dld_as_of": pulse and pulse.get("as_of"),
               "stale": bool(pulse_meta.get("stale"))}
     (SITE_DIR / "health.json").write_text(json.dumps(health))
+    (SITE_DIR / "news-archive.json").write_text(json.dumps(sections.get("archive") or [], ensure_ascii=False))
     for extra in (STATIC_DIR / "app").iterdir():  # home-screen app: manifest, icons, offline worker
         if extra.is_file():
             shutil.copy(extra, SITE_DIR / extra.name)
