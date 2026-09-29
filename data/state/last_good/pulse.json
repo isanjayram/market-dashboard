@@ -24,6 +24,7 @@
     "yoy": -50.4,
     "avg7": 486.2,
     "avg30": 505.59090909090907,
+    "tw_avg": 490.4,
     "ly_avg": 988.2
    },
    "value": {
@@ -95,10 +96,10 @@
     "value": 109437502.0
    },
    {
-    "area": "Dubai Marina",
-    "dld_area": "Marsa Dubai",
+    "area": "Motor City",
+    "dld_area": "Al Hebiah First",
     "deals": 61,
-    "value": 218293314.0
+    "value": 227804401.0
    }
   ],
   "top_value": [
@@ -1589,5 +1590,5 @@
   "fetched_at": "2026-09-29T15:41+04:00",
   "test": false
  },
- "saved_at": "2026-09-29T21:28+04:00"
+ "saved_at": "2026-09-29T21:38+04:00"
 }
