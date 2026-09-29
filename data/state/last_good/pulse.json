@@ -53,16 +53,16 @@
     "value": 190213954.0
    },
    {
-    "area": "Jabal Ali First",
-    "dld_area": "Jabal Ali First",
-    "deals": 161,
-    "value": 358352633.0
-   },
-   {
     "area": "Dubai South (DWC)",
     "dld_area": "Madinat Al Mataar",
     "deals": 161,
     "value": 254162150.0
+   },
+   {
+    "area": "Jabal Ali First",
+    "dld_area": "Jabal Ali First",
+    "deals": 161,
+    "value": 358352633.0
    },
    {
     "area": "Dubai Land Residence",
@@ -95,10 +95,10 @@
     "value": 109437502.0
    },
    {
-    "area": "Arjan",
-    "dld_area": "Al Barshaa South Third",
+    "area": "Dubai Marina",
+    "dld_area": "Marsa Dubai",
     "deals": 61,
-    "value": 64021965.0
+    "value": 218293314.0
    }
   ],
   "top_value": [
@@ -1584,9 +1584,10 @@
   }
  },
  "meta": {
-  "source": null,
-  "snapshot_time": null,
+  "source": "data.dubai bulk export (downloaded on Sanjay's Mac; GitHub's servers are blocked)",
+  "snapshot_time": "2026-09-29 06:34",
+  "fetched_at": "2026-09-29T15:41+04:00",
   "test": false
  },
- "saved_at": "2026-09-29T20:22+04:00"
+ "saved_at": "2026-09-29T20:51+04:00"
 }
