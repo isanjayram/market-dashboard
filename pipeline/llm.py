@@ -54,9 +54,14 @@ def _gemini(model: str, key: str, system: str, user: str) -> str:
         headers={"x-goog-api-key": key, "Content-Type": "application/json"}, timeout=90,
         json={"systemInstruction": {"parts": [{"text": system}]},
               "contents": [{"role": "user", "parts": [{"text": user}]}],
-              "generationConfig": {"responseMimeType": "application/json", "temperature": 0.2}})
+              "generationConfig": {"responseMimeType": "application/json", "temperature": 0.2,
+                                   "maxOutputTokens": 8192}})
     r.raise_for_status()
-    return r.json()["candidates"][0]["content"]["parts"][0]["text"]
+    cand = r.json()["candidates"][0]
+    if cand.get("finishReason") not in (None, "STOP"):
+        raise ValueError(f"gemini stopped early: {cand.get('finishReason')}")
+    # A reply can come in several parts; skip any "thought" parts.
+    return "".join(part.get("text", "") for part in cand["content"]["parts"] if not part.get("thought"))
 
 
 def _groq(model: str, key: str, system: str, user: str) -> str:
@@ -87,7 +92,9 @@ def ask_json(system: str, user: str) -> tuple[dict[str, Any] | None, str]:
             _record(p["name"])
             text = CALLERS[p["name"]](p["model"], key, system, user)
             text = re.sub(r"^```(?:json)?|```$", "", text.strip()).strip()
+            if not text.startswith("{"):  # tolerate a sentence before or after the JSON
+                text = text[text.find("{"):text.rfind("}") + 1]
             return json.loads(text), p["name"]
         except Exception as exc:  # quota, outage or bad JSON: try the next provider
-            reasons.append(f"{p['name']}: {type(exc).__name__}")
+            reasons.append(f"{p['name']}: {type(exc).__name__}: {str(exc)[:80]}")
     return None, "; ".join(reasons) or "no AI key set"
