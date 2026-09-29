@@ -1,0 +1,24 @@
+name: Probe news feeds (temporary)
+on: workflow_dispatch
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Which feeds answer GitHub's servers?
+        run: |
+          probe() { printf '%-95s ' "$1"; code=$(curl -s -L -o /tmp/b -w '%{http_code}' --max-time 20 -A "sanjay-market-brief/1.0 (+RSS reader)" "$1" || echo 000); n=$(grep -o '<item' /tmp/b 2>/dev/null | wc -l); printf '%s items=%s\n' "$code" "$n"; }
+          probe "https://gulfnews.com/feed"
+          probe "https://www.khaleejtimes.com/stories.rss"
+          probe "https://www.thenationalnews.com/arc/outboundfeeds/rss/?outputType=xml"
+          probe "https://www.arabianbusiness.com/feed"
+          probe "https://www.federalreserve.gov/feeds/press_monetary.xml"
+          probe "https://www.rbi.org.in/pressreleases_rss.xml"
+          probe "https://www.rbi.org.in/notifications_rss.xml"
+          probe "https://www.emirates247.com/rss"
+          probe "https://sharjah24.ae/en/rss"
+          probe "https://www.gulftoday.ae/rss"
+          probe "https://generativelanguage.googleapis.com/"
+          probe "https://api.groq.com/openai/v1/models"
