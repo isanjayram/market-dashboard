@@ -89,8 +89,9 @@ def main() -> int:
         if not snap_day or date.fromisoformat(snap_day) < today() - timedelta(days=1):
             stale_reason = f"couldn't download DLD's newer files; showing the file of {snap_day or 'an earlier day'}"
         else:
-            pulse_meta["note"] = (f"data.dubai blocked this morning's cloud download, so this uses DLD's file of "
-                                  f"{snap_day} (downloaded {str(dld_src.get('fetched_at'))[:16].replace('T', ' ')}).")
+            where = "on your Mac" if "Mac" in str(dld_src.get("source")) else "earlier"
+            pulse_meta["note"] = (f"Uses DLD's file of {snap_day}, downloaded {where} at "
+                                  f"{str(dld_src.get('fetched_at'))[11:16]} (data.dubai blocks cloud servers).")
     if pulse_data:
         age = (today() - date.fromisoformat(pulse_data["as_of"])).days
         if age > SETTINGS["dld"]["stale_after_days"] and not stale_reason:
