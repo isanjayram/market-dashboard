@@ -75,8 +75,12 @@ def list_bulk(dataset_id: int) -> dict[str, Any]:
     """Current export for a dataset: snapshot label, time, and signed CSV links (valid ~10 min)."""
     r = requests.get(DLD["listing_url"].format(id=dataset_id),
                      headers={"User-Agent": UA, "Accept": "application/json"}, timeout=60)
-    r.raise_for_status()
-    body = r.json()
+    try:
+        body = r.json()
+    except ValueError:
+        snippet = " ".join(r.text[:300].split())
+        raise SourceError(f"data.dubai listing returned HTTP {r.status_code} "
+                          f"({r.headers.get('content-type', '?')}), not JSON: {snippet}") from None
     if not body.get("success"):
         raise SourceError(f"data.dubai listing failed: {body.get('message')}")
     folders = body["data"]["metadata"]
