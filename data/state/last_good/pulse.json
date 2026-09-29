@@ -54,16 +54,16 @@
     "value": 190213954.0
    },
    {
-    "area": "Jabal Ali First",
-    "dld_area": "Jabal Ali First",
-    "deals": 161,
-    "value": 358352633.0
-   },
-   {
     "area": "Dubai South (DWC)",
     "dld_area": "Madinat Al Mataar",
     "deals": 161,
     "value": 254162150.0
+   },
+   {
+    "area": "Jabal Ali First",
+    "dld_area": "Jabal Ali First",
+    "deals": 161,
+    "value": 358352633.0
    },
    {
     "area": "Dubai Land Residence",
@@ -96,10 +96,10 @@
     "value": 109437502.0
    },
    {
-    "area": "Dubai Marina",
-    "dld_area": "Marsa Dubai",
+    "area": "Motor City",
+    "dld_area": "Al Hebiah First",
     "deals": 61,
-    "value": 218293314.0
+    "value": 227804401.0
    }
   ],
   "top_value": [
@@ -1590,5 +1590,5 @@
   "fetched_at": "2026-09-29T15:41+04:00",
   "test": false
  },
- "saved_at": "2026-09-29T22:24+04:00"
+ "saved_at": "2026-09-29T22:32+04:00"
 }
