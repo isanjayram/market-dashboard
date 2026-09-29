@@ -1,10 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="512" height="512" fill="#0d0d0d"/>
-  <g transform="translate(76 120)">
-    <path d="M0 250 L0 190 L70 150 L130 176 L200 96 L262 124 L360 34 L360 250 Z" fill="#3987e5" fill-opacity="0.18"/>
-    <path d="M0 190 L70 150 L130 176 L200 96 L262 124 L360 34" fill="none" stroke="#3987e5" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="360" cy="34" r="30" fill="#0d0d0d"/>
-    <circle cx="360" cy="34" r="19" fill="#ffffff"/>
-    <line x1="0" y1="262" x2="360" y2="262" stroke="#3a3a37" stroke-width="10" stroke-linecap="round"/>
-  </g>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1b3f7a"/>
+      <stop offset=".55" stop-color="#0f1a2e"/>
+      <stop offset="1" stop-color="#0a0a0c"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".22" cy=".18" r=".6">
+      <stop offset="0" stop-color="#4f9bff" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#4f9bff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx=".85" cy=".9" r=".5">
+      <stop offset="0" stop-color="#2fbf2f" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#2fbf2f" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".20"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity=".06"/>
+    </linearGradient>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6fb0ff" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#6fb0ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#bg)"/>
+  <rect width="512" height="512" fill="url(#glow)"/>
+  <rect width="512" height="512" fill="url(#glow2)"/>
+  <!-- frosted glass card -->
+  <rect x="72" y="104" width="368" height="304" rx="56" fill="url(#glass)" stroke="#ffffff" stroke-opacity=".28" stroke-width="3"/>
+  <!-- rising market line -->
+  <path d="M120 330 L182 282 L236 306 L298 226 L346 250 L396 172 L396 360 L120 360 Z" fill="url(#area)"/>
+  <path d="M120 330 L182 282 L236 306 L298 226 L346 250 L396 172" fill="none" stroke="#8cc0ff" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="396" cy="172" r="24" fill="#ffffff"/>
+  <circle cx="396" cy="172" r="11" fill="#3987e5"/>
 </svg>
