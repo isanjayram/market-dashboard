@@ -53,16 +53,16 @@
     "value": 190213954.0
    },
    {
-    "area": "Dubai South (DWC)",
-    "dld_area": "Madinat Al Mataar",
-    "deals": 161,
-    "value": 254162150.0
-   },
-   {
     "area": "Jabal Ali First",
     "dld_area": "Jabal Ali First",
     "deals": 161,
     "value": 358352633.0
+   },
+   {
+    "area": "Dubai South (DWC)",
+    "dld_area": "Madinat Al Mataar",
+    "deals": 161,
+    "value": 254162150.0
    },
    {
     "area": "Dubai Land Residence",
@@ -1588,5 +1588,5 @@
   "snapshot_time": null,
   "test": false
  },
- "saved_at": "2026-09-29T20:18+04:00"
+ "saved_at": "2026-09-29T20:22+04:00"
 }
