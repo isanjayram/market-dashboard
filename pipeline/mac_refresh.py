@@ -6,8 +6,8 @@ pushes it. That push starts the cloud workflow, which builds and publishes the
 dashboard as usual. The raw export is deleted afterwards.
 
 The job works in its own copy of the repo, so it never touches a working copy
-that's being edited. If the Mac is asleep at the scheduled time, macOS runs the
-job when it wakes.
+that's being edited. It runs at login and at several times each day; if the Mac
+is asleep at a scheduled time, macOS runs the job when it wakes.
 
     python -m pipeline.mac_refresh --install     set up the daily job
     python -m pipeline.mac_refresh --uninstall   remove it
@@ -31,7 +31,10 @@ VENV = APP_DIR / "venv"
 CACHE = HOME / "Library" / "Caches" / "MorningBrief"
 LOG = HOME / "Library" / "Logs" / "MorningBrief" / "refresh.log"
 PLIST = HOME / "Library" / "LaunchAgents" / f"{LABEL}.plist"
-TIMES = [(7, 0), (7, 45), (8, 15)]  # DLD rebuilds its export around 06:35 Dubai time
+# DLD rebuilds its export around 06:35 Dubai time. The Mac is usually switched on after 9,
+# so the job also runs at login and several times through the day; once the day's file
+# is in, later runs just check and stop.
+TIMES = [(7, 0), (8, 15), (9, 15), (9, 45), (10, 30), (12, 0), (15, 0)]
 ROOT = Path(__file__).resolve().parents[1]
 MAC_SOURCE = "data.dubai bulk export (downloaded on Sanjay's Mac; GitHub's servers are blocked)"
 
@@ -95,6 +98,7 @@ def install() -> None:
             "WorkingDirectory": str(REPO),
             "EnvironmentVariables": {"MDASH_CACHE": str(CACHE), "PATH": "/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"},
             "StartCalendarInterval": [{"Hour": h, "Minute": m} for h, m in TIMES],
+            "RunAtLoad": True,  # also run at login, i.e. when the Mac is switched on
             "StandardOutPath": str(LOG), "StandardErrorPath": str(LOG),
         }, f)
     subprocess.run(["launchctl", "bootstrap", f"gui/{os.getuid()}", str(PLIST)], check=True)
