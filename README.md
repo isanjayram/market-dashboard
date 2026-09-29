@@ -1,9 +1,10 @@
 # Sanjay's Morning Market Brief
 
-A private dashboard that updates itself every morning at no cost. It shows what moved in the Dubai property market and why, and it's ready by 9:30 AM Gulf time. Nothing runs on your laptop.
+A private phone app (home-screen web app) that rebuilds itself every morning at no cost, so the day's market numbers are ready by 9:30 AM Gulf time. Nothing runs on your laptop.
 
-**Built so far:** Market Pulse (DLD sales), shown in design C, dark mode.
-**Next, one module at a time:** Market-impact news → Morning brief → Rent monitor → Project pipeline → Developers → Landmarks.
+**Tabs:** Brief (5 bullets + 3 talking points + top news) · Market (DLD sales) · Rent (Ejari) · News (top 8 + 30-day archive) · More (Project pipeline, Developers, Landmarks).
+
+**Live:** https://sanjay-market-brief.pages.dev (password). On iPhone: open in Safari → Share → Add to Home Screen.
 
 ## How it works
 
@@ -19,7 +20,9 @@ A private dashboard that updates itself every morning at no cost. It shows what 
 09:00 Gulf time   A second run starts. It only does the work if 08:30 failed or DLD's file wasn't fresh yet.
 ```
 
-If any step fails, the rest still runs. The page keeps the last good numbers, marked **STALE**, and you get a Telegram alert.
+If any step fails, the rest still runs. The page keeps the last good numbers, marked **STALE** when they're really out of date. GitHub emails you if a run fails (Telegram alerts are optional: add TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID secrets to switch them on).
+
+**Known limit (29 Sep 2026):** data.dubai blocks GitHub's servers, so DLD numbers can't refresh from the cloud until the data.dubai **API key** arrives (requested, ticket 877830181; add it as `DATADUBAI_API_KEY` / `DATADUBAI_API_SECRET`). Until then, DLD data is refreshed by running the pipeline on a UAE connection (see "Run it locally").
 
 ## Free-tier limits and current usage
 
@@ -29,7 +32,7 @@ If any step fails, the rest still runs. The page keeps the last good numbers, ma
 | GitHub repo storage | ~1 GB recommended | ~15 MB in year one (see Retention) | ≥ 95% | Push warnings. The fix is the yearly history squash below. |
 | Cloudflare Pages | Unlimited static traffic; 500 deploys/month | 1–2 deploys a day | ≥ 88% | The new deploy fails and yesterday's page stays up. |
 | Cloudflare Pages Functions (password gate) | 100,000 requests/day | Under 100/day | > 99% | The gate errors until midnight UTC. |
-| Telegram Bot API | ~30 messages/second | 1–3 a day | ~100% | Messages retry. |
+| Telegram Bot API (optional) | ~30 messages/second | 0 (not set up) | 100% | Messages retry. |
 | data.dubai (DLD open data) | Free; limits not published | 1 bulk download a day (~1.2 GB), or a few API calls once keys arrive | n/a | Falls back to the other route, then to the last saved day. |
 | Gemini / Groq (News and Brief modules) | Free tiers, no card | Capped at 10 calls/day in `config/settings.toml` | ≥ 50% | Rule-based fallback (keywords and templates). |
 
@@ -61,9 +64,29 @@ Open `config/watchlist.toml`, copy a `[[dubai]]` block, then change the name and
 - **A new module:** add a `pipeline/<module>.py` that returns a dict, run it inside `log.step(...)` in `pipeline/run.py`, save it with `save_last_good`, and add a card to `templates/index.html.j2`.
 - **Never** scrape sites whose terms forbid it. Bayut and Property Finder are excluded for that reason.
 
-## Switching AI providers
+## Free AI (optional) and switching providers
 
-This arrives with the News module. Providers will be listed in `config/settings.toml` in order: Gemini, then Groq, then rule-based. If a free tier changes, swap the order or the model name there and add the new key to GitHub Secrets.
+Without a key, everything works with rules and templates. With a free key the news summaries, the Brief and the pipeline details read better:
+1. Google AI Studio → Get API key (free, no card) → add it as the GitHub secret `GEMINI_API_KEY`.
+2. Optional backup: Groq console → API key → `GROQ_API_KEY`.
+
+Providers are tried in the order listed under `[llm]` in `config/settings.toml`; the run never makes more than `daily_call_cap` calls (10) a day. If a free tier changes, reorder the list or change the model name. The Brief rejects any AI text that contains a number not found in the page's own data.
+
+## Rent and Developers data (one-time loads)
+
+Both need DLD files that data.dubai only serves to UAE connections (and, later, through the API key):
+```bash
+.venv/bin/python -m pipeline.rent --bootstrap        # Ejari rent contracts, ~5 GB download, keeps 25 months of new contracts
+.venv/bin/python -m pipeline.developers --refresh    # DLD projects list, ~3 MB
+```
+Commit the new files in `data/` afterwards; the cloud keeps them updated once the API key exists.
+
+## Edit the news rules, landmarks and developer lists
+
+- `config/news_rules.toml`: which words make a story relevant, its category and impact.
+- `config/landmarks.toml`: one block per landmark; keep a source link for every fact.
+- `config/developers.toml`: the Sharjah top 5.
+- `config/catalysts.toml`: verified infrastructure used for "Analysis, not a forecast" notes.
 
 ## Storage and retention
 
