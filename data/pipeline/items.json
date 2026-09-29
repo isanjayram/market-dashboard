@@ -25,5 +25,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"a3d91808c155": {
+"id": "a3d91808c155",
+"title": "Bayut launches AI search for conversational property discovery",
+"link": "https://www.thenationalnews.com/advertorial/2026/09/28/bayut-expands-conversational-property-discovery-with-new-ai-search/",
+"source": "The National",
+"category": "Developer news",
+"published": "2026-09-28T14:34+04:00",
+"first_seen": "2026-09-29",
+"kind": "Off-plan launch",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

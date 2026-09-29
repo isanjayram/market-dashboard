@@ -1,27 +1,27 @@
 {
- "started": "2026-09-29T22:14:09+04:00",
- "finished": "2026-09-29T22:14:25+04:00",
- "llm_calls": 2,
+ "started": "2026-09-29T22:16:44+04:00",
+ "finished": "2026-09-29T22:16:58+04:00",
+ "llm_calls": 3,
  "llm_cap": 10,
  "modules": {
   "dld_sales": {
    "status": "failed",
-   "error": "SourceError: data.dubai listing returned HTTP 200 (text/html; charset=utf-8), not JSON: <html><head><title>Request Rejected</title></head><body>The requested URL was rejected. Please consult with your administrator.<br><br>Your support ID is: 2831694023542975852<br><br><a href='javascript:history.back();'>[Go Back]</a></body></html>",
-   "seconds": 1.5
+   "error": "SourceError: data.dubai listing returned HTTP 200 (text/html; charset=utf-8), not JSON: <html><head><title>Request Rejected</title></head><body>The requested URL was rejected. Please consult with your administrator.<br><br>Your support ID is: 2831694023565000325<br><br><a href='javascript:history.back();'>[Go Back]</a></body></html>",
+   "seconds": 1.4
   },
   "pulse": {
    "status": "ok",
    "rows": 416950,
    "as_of": "2026-09-25",
-   "seconds": 0.5
+   "seconds": 0.7
   },
   "news": {
    "status": "ok",
    "top": 6,
-   "relevant": 16,
-   "mode": "rules only (gemini: JSONDecodeError: Expecting property name enclosed in double quotes: line 11 column 7 (char 518))",
+   "relevant": 14,
+   "mode": "AI summaries (gemini)",
    "feed_errors": {},
-   "seconds": 10.0
+   "seconds": 7.4
   },
   "archive": {
    "status": "ok",
@@ -29,18 +29,18 @@
   },
   "pipeline": {
    "status": "ok",
-   "new_today": 0,
-   "mode": "rules only",
-   "seconds": 0.0
+   "new_today": 1,
+   "mode": "AI extraction (gemini)",
+   "seconds": 0.8
   },
   "rent": {
    "status": "ok",
    "has_data": true,
-   "seconds": 1.1
+   "seconds": 1.5
   },
   "developers": {
    "status": "ok",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   "landmarks": {
    "status": "ok",
@@ -49,7 +49,7 @@
   "brief": {
    "status": "ok",
    "mode": "AI (gemini)",
-   "seconds": 1.5
+   "seconds": 1.4
   },
   "render": {
    "status": "ok",
@@ -62,6 +62,6 @@
   }
  },
  "traces": {
-  "dld_sales": "Traceback (most recent call last):\n  File \"/home/runner/work/market-dashboard/market-dashboard/pipeline/runlog.py\", line 34, in step\n    yield entry\n  File \"/home/runner/work/market-dashboard/market-dashboard/pipeline/run.py\", line 65, in main\n    s.update(refresh_sales(con, args.files))\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/market-dashboard/market-dashboard/pipeline/run.py\", line 41, in refresh_sales\n    listing, paths = dld.fetch_bulk_files(SETTINGS[\"dld\"][\"transactions_dataset\"], \"transactions\")\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/market-dashboard/market-dashboard/pipeline/dld.py\", line 125, in fetch_bulk_files\n    listing = list_bulk(dataset_id)\n              ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/market-dashboard/market-dashboard/pipeline/dld.py\", line 82, in list_bulk\n    raise SourceError(f\"data.dubai listing returned HTTP {r.status_code} \"\npipeline.dld.SourceError: data.dubai listing returned HTTP 200 (text/html; charset=utf-8), not JSON: <html><head><title>Request Rejected</title></head><body>The requested URL was rejected. Please consult with your administrator.<br><br>Your support ID is: 2831694023542975852<br><br><a href='javascript:history.back();'>[Go Back]</a></body></html>\n"
+  "dld_sales": "Traceback (most recent call last):\n  File \"/home/runner/work/market-dashboard/market-dashboard/pipeline/runlog.py\", line 34, in step\n    yield entry\n  File \"/home/runner/work/market-dashboard/market-dashboard/pipeline/run.py\", line 65, in main\n    s.update(refresh_sales(con, args.files))\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/market-dashboard/market-dashboard/pipeline/run.py\", line 41, in refresh_sales\n    listing, paths = dld.fetch_bulk_files(SETTINGS[\"dld\"][\"transactions_dataset\"], \"transactions\")\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/market-dashboard/market-dashboard/pipeline/dld.py\", line 125, in fetch_bulk_files\n    listing = list_bulk(dataset_id)\n              ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/market-dashboard/market-dashboard/pipeline/dld.py\", line 82, in list_bulk\n    raise SourceError(f\"data.dubai listing returned HTTP {r.status_code} \"\npipeline.dld.SourceError: data.dubai listing returned HTTP 200 (text/html; charset=utf-8), not JSON: <html><head><title>Request Rejected</title></head><body>The requested URL was rejected. Please consult with your administrator.<br><br>Your support ID is: 2831694023565000325<br><br><a href='javascript:history.back();'>[Go Back]</a></body></html>\n"
  }
 }
