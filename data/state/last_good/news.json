@@ -18,29 +18,29 @@
    "headline": "Sharjah to Fujairah in 25 minutes: Etihad Rail tickets start at Dh19",
    "summary": "",
    "why": "infrastructure can shift which areas buyers favour over time (analysis, not a forecast).",
-   "age_hours": 4.0,
+   "age_hours": 4.1,
    "topic": "etihad rail",
-   "more": 6
+   "more": 5
   },
   {
-   "id": "0894e3e29244",
-   "title": "Etihad Rail bookings open from Sharjah's Al Dhaid; fares from Dh19",
-   "link": "https://www.khaleejtimes.com/uae/etihad-rail-bookings-open-from-sharjahs-al-dhaid-fares-from-dh19",
+   "id": "90cdf8eea39c",
+   "title": "UAE President 'surprises' Sheikh Hamdan as first Etihad Rail passenger to Dubai station",
+   "link": "https://www.khaleejtimes.com/uae/uae-president-surprises-sheikh-hamdan-first-etihad-rail-passenger-dubai-station",
    "source": "Khaleej Times",
    "kind": "outlet",
-   "published": "2026-09-29T17:45+04:00",
+   "published": "2026-09-29T21:07+04:00",
    "tags": [
     "UAE"
    ],
-   "teaser": "Passengers can now book Etihad Rail journeys from Al Dhaid Station in Sharjah, with tickets starting from Dh19 and a direct train reaching Fujairah in just 25 minutes. The station appears on the booking platform for journeys from September 30, giving communities in Sharjah\u2019s central region direct rail connections to Fujairah and Abu Dhabi. Bookings seen by Khaleej Times on Tuesday show two daily s",
+   "teaser": "September 28 marked the beginning of a new journey for Dubai with the inauguration of the Etihad Rail station in the emirate, two days ahead of the launch of passenger services to Abu Dhabi and Fujairah. Dubai Crown Prince Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum and Sheikh Theyab bin Mohamed bin Zayed Al Nahyan, Chairman of the Board of Directors of Etihad Rail, inaugurated the station. A",
    "category": "Infrastructure",
    "impact": "Medium",
    "impact_reason": "Infrastructure that can move area demand",
-   "watch": true,
-   "headline": "Etihad Rail bookings open from Sharjah's Al Dhaid; fares from Dh19",
+   "watch": false,
+   "headline": "UAE President 'surprises' Sheikh Hamdan as first Etihad Rail passenger to Dubai station",
    "summary": "",
    "why": "infrastructure can shift which areas buyers favour over time (analysis, not a forecast).",
-   "age_hours": 4.4,
+   "age_hours": 1.1,
    "topic": "etihad rail"
   },
   {
@@ -59,7 +59,7 @@
    "headline": "Aldar generates more than Dh5bn in sales from new housing developments",
    "summary": "",
    "why": "new launches or results change the options and prices you can offer clients.",
-   "age_hours": 9.5,
+   "age_hours": 9.6,
    "topic": "aldar"
   },
   {
@@ -81,7 +81,7 @@
    "headline": "Sharjah sets up new committee to combat illegal residential practices",
    "summary": "",
    "why": "rules or fees may change what clients pay or who can buy, so check the details before advising.",
-   "age_hours": 2.5,
+   "age_hours": 2.6,
    "topic": "Regulation & fees"
   },
   {
@@ -103,7 +103,7 @@
    "headline": "Ajman launches pilot to regulate bachelor and shared housing",
    "summary": "",
    "why": "can move investor sentiment; expect questions about where the market is heading.",
-   "age_hours": 0.9,
+   "age_hours": 1.0,
    "topic": "Macro & geopolitics"
   },
   {
@@ -124,15 +124,15 @@
    "headline": "Mohammed Alabbar says his business is not real estate but the art of creating life through architecture",
    "summary": "",
    "why": "new launches or results change the options and prices you can offer clients.",
-   "age_hours": 2.6,
+   "age_hours": 2.7,
    "topic": "Developer news"
   }
  ],
  "window_hours": 24,
- "count_relevant": 15,
- "count_fetched": 182,
+ "count_relevant": 14,
+ "count_fetched": 170,
  "feed_errors": {},
- "mode": "rules only (no AI key)",
- "as_of": "2026-09-29T22:06+04:00",
- "saved_at": "2026-09-29T22:06+04:00"
+ "mode": "rules only (gemini: JSONDecodeError)",
+ "as_of": "2026-09-29T22:11+04:00",
+ "saved_at": "2026-09-29T22:11+04:00"
 }
