@@ -92,5 +92,6 @@ def build(pulse: dict[str, Any] | None, pulse_meta: dict[str, Any], run: dict[st
     health = {"updated": stamp.isoformat(timespec="minutes"), "dld_as_of": pulse and pulse.get("as_of"),
               "stale": bool(pulse_meta.get("stale"))}
     (SITE_DIR / "health.json").write_text(json.dumps(health))
-    for extra in STATIC_DIR.glob("*.svg"):
-        shutil.copy(extra, SITE_DIR / extra.name)
+    for extra in (STATIC_DIR / "app").iterdir():  # home-screen app: manifest, icons, offline worker
+        if extra.is_file():
+            shutil.copy(extra, SITE_DIR / extra.name)

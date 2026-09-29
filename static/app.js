@@ -70,4 +70,9 @@
     g.addEventListener("blur", hide);
   });
   addEventListener("scroll", hide, { passive: true });
+
+  // Home-screen app: keep the last dashboard available offline.
+  if ("serviceWorker" in navigator && location.protocol === "https:") {
+    navigator.serviceWorker.register("/sw.js").catch(() => {});
+  }
 })();

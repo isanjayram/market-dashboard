@@ -1,10 +1,12 @@
 // Password gate for the whole dashboard (Cloudflare Pages Function, free plan, no card).
 // The password is the Pages secret DASHBOARD_PASSWORD, copied from GitHub Secrets on each deploy.
-// Signing in sets a cookie for 30 days on that device; changing the password signs everyone out.
+// Signing in sets a cookie for 90 days on that device; changing the password signs everyone out.
 
 const COOKIE = "mdash";
-const MAX_AGE = 60 * 60 * 24 * 30;
+const MAX_AGE = 60 * 60 * 24 * 90; // 90 days, so the home-screen app rarely asks again
 const enc = new TextEncoder();
+const PUBLIC = new Set(["/health.json", "/manifest.webmanifest", "/apple-touch-icon.png", "/icon-192.png",
+  "/icon-512.png", "/sw.js", "/robots.txt"]);
 
 async function tokenFor(password) {
   const key = await crypto.subtle.importKey("raw", enc.encode(password), { name: "HMAC", hash: "SHA-256" }, false, ["sign"]);
@@ -32,6 +34,9 @@ function loginPage(message, status = 401) {
   const html = `<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex, nofollow">
 <meta name="theme-color" content="#0d0d0d"><title>Morning Brief · sign in</title>
+<link rel="manifest" href="/manifest.webmanifest"><link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Brief">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <style>
   :root { color-scheme: dark; }
   body { margin: 0; min-height: 100vh; display: grid; place-items: center; background: #0d0d0d; color: #fff;
@@ -62,8 +67,9 @@ function loginPage(message, status = 401) {
 
 export async function onRequest({ request, env, next }) {
   const url = new URL(request.url);
-  // Freshness only (no market data), so an outside check can warn if updates stop.
-  if (url.pathname === "/health.json") return next();
+  // No market data in these: freshness for an outside check, and the home-screen app's
+  // manifest, icons and offline worker (iOS fetches the icon before you sign in).
+  if (PUBLIC.has(url.pathname)) return next();
 
   const password = env.DASHBOARD_PASSWORD;
   if (!password) return new Response("Dashboard password is not set yet.", { status: 503 });
