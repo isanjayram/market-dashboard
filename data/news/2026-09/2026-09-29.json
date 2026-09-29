@@ -237,5 +237,19 @@
 "impact_reason": "General market context",
 "watch": false,
 "topic": "Developer news"
+},
+{
+"id": "90cdf8eea39c",
+"headline": "UAE President 'surprises' Sheikh Hamdan as first Etihad Rail passenger to Dubai station",
+"summary": "",
+"why": "infrastructure can shift which areas buyers favour over time (analysis, not a forecast).",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/uae/uae-president-surprises-sheikh-hamdan-first-etihad-rail-passenger-dubai-station",
+"published": "2026-09-29T21:07+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Infrastructure that can move area demand",
+"watch": false,
+"topic": "etihad rail"
 }
 ]

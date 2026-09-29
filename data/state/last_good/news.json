@@ -18,9 +18,9 @@
    "headline": "Sharjah to Fujairah in 25 minutes: Etihad Rail tickets start at Dh19",
    "summary": "",
    "why": "infrastructure can shift which areas buyers favour over time (analysis, not a forecast).",
-   "age_hours": 3.5,
+   "age_hours": 4.0,
    "topic": "etihad rail",
-   "more": 8
+   "more": 6
   },
   {
    "id": "0894e3e29244",
@@ -40,7 +40,7 @@
    "headline": "Etihad Rail bookings open from Sharjah's Al Dhaid; fares from Dh19",
    "summary": "",
    "why": "infrastructure can shift which areas buyers favour over time (analysis, not a forecast).",
-   "age_hours": 3.9,
+   "age_hours": 4.4,
    "topic": "etihad rail"
   },
   {
@@ -59,7 +59,7 @@
    "headline": "Aldar generates more than Dh5bn in sales from new housing developments",
    "summary": "",
    "why": "new launches or results change the options and prices you can offer clients.",
-   "age_hours": 9.0,
+   "age_hours": 9.5,
    "topic": "aldar"
   },
   {
@@ -81,7 +81,7 @@
    "headline": "Sharjah sets up new committee to combat illegal residential practices",
    "summary": "",
    "why": "rules or fees may change what clients pay or who can buy, so check the details before advising.",
-   "age_hours": 2.0,
+   "age_hours": 2.5,
    "topic": "Regulation & fees"
   },
   {
@@ -103,7 +103,7 @@
    "headline": "Ajman launches pilot to regulate bachelor and shared housing",
    "summary": "",
    "why": "can move investor sentiment; expect questions about where the market is heading.",
-   "age_hours": 0.4,
+   "age_hours": 0.9,
    "topic": "Macro & geopolitics"
   },
   {
@@ -124,15 +124,15 @@
    "headline": "Mohammed Alabbar says his business is not real estate but the art of creating life through architecture",
    "summary": "",
    "why": "new launches or results change the options and prices you can offer clients.",
-   "age_hours": 2.1,
+   "age_hours": 2.6,
    "topic": "Developer news"
   }
  ],
  "window_hours": 24,
- "count_relevant": 17,
- "count_fetched": 213,
+ "count_relevant": 15,
+ "count_fetched": 182,
  "feed_errors": {},
  "mode": "rules only (no AI key)",
- "as_of": "2026-09-29T21:38+04:00",
- "saved_at": "2026-09-29T21:38+04:00"
+ "as_of": "2026-09-29T22:06+04:00",
+ "saved_at": "2026-09-29T22:06+04:00"
 }
