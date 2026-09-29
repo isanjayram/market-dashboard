@@ -36,7 +36,7 @@ def facts(pulse: dict[str, Any] | None, news: dict[str, Any] | None, rent: dict[
             "vs_typical_weekday_pct": c["deals"].get("wd"), "weekday": c.get("weekday"),
             "offplan_share_pct": k["offplan_share"], "offplan_share_7d_pct": c.get("offplan_share_7d"),
             "median_aed_per_sqft": k["median_psf"], "median_vs_30d_pct": c["psf"]["d30"],
-            "median_vs_last_year_pct": c["psf"]["yoy"], "sales_per_day_this_week": round(c["deals"]["avg7"] or 0),
+            "median_vs_last_year_pct": c["psf"]["yoy"], "sales_per_day_this_week": round(c["deals"].get("tw_avg", c["deals"]["avg7"]) or 0),
             "sales_per_day_same_week_last_year": round(c["deals"]["ly_avg"] or 0),
             "sales_vs_same_week_last_year_pct": c["deals"]["yoy"],
             "busiest_areas_7d": [{"area": a["area"], "sales": a["deals"]} for a in pulse["top_volume"][:3]],

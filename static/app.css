@@ -198,6 +198,7 @@ details > summary::-webkit-details-marker { display: none; }
 .chips-f button, .chips-f .chip { font: 600 12.5px/1 var(--sans); padding: 8px 11px; border-radius: 99px; border: 0; background: var(--chip); color: var(--ink-2); cursor: pointer; text-decoration: none; }
 .chips-f button[aria-pressed="true"] { background: var(--ink); color: var(--page); }
 .chips-f.jump { margin: 0 12px 4px; }
+#pipef { margin: 0 12px 12px; }
 #q { width: 100%; font: 15px var(--sans); color: var(--ink); background: var(--chip); border: 1px solid var(--hair); border-radius: 12px; padding: 10px 12px; }
 .arch { padding: 9px 0; border-top: 1px solid var(--hair); }
 .arch a { color: var(--ink); text-decoration: none; font: 600 14px/1.35 var(--sans); }

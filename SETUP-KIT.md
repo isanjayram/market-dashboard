@@ -54,7 +54,9 @@ After that I'll open the "Request API Access Key" form for three datasets: Real 
 3. Copy the key and save it as `GROQ_API_KEY`.
 4. Don't add a card.
 
-## 5. Telegram (alerts + your 9:30 brief)
+## 5. Telegram (optional, skipped for now)
+
+The dashboard doesn't need this. Only do it if you later want the 9:30 brief and failure alerts as phone messages.
 
 1. Install Telegram if you don't have it. It needs your phone number.
 2. Search for **@BotFather** and send `/newbot`.
@@ -87,8 +89,8 @@ After that I'll open the "Request API Access Key" form for three datasets: Real 
 |---|---|
 | `GEMINI_API_KEY` | 3 |
 | `GROQ_API_KEY` | 4 |
-| `TELEGRAM_BOT_TOKEN` | 5 |
-| `TELEGRAM_CHAT_ID` | 5 |
+| `TELEGRAM_BOT_TOKEN` | 5, optional |
+| `TELEGRAM_CHAT_ID` | 5, optional |
 | `CLOUDFLARE_ACCOUNT_ID` | 6 |
 | `CLOUDFLARE_API_TOKEN` | 6 |
 | `DASHBOARD_PASSWORD` | 6 |
