@@ -53,6 +53,42 @@ try { if (localStorage.getItem("theme") === "light") document.documentElement.da
     {%- endfor %}
   </div>
   {%- endif %}
+  {%- if listings %}
+  <div class="card" id="top10">
+    <h2>Your Top 10 <small>checked {{ listings.checked_at|ago }}</small></h2>
+    {%- if listings.changed %}
+    <p class="t10-lead">{{ listings.changed|length }} fact{{ 's' if listings.changed|length > 1 }} on your site no longer match{{ 'es' if listings.changed|length == 1 }} the developer's page:</p>
+    {%- for c in listings.changed %}
+    <a class="mini-news" href="{{ c.url }}" target="_blank" rel="noopener">
+      <span class="imp high" aria-hidden="true"></span>
+      <span><b>{{ c.project }} · {{ c.label }}</b><small>Your site: {{ c.expect }} → developer now: {{ c.found }}</small></span>
+    </a>
+    {%- endfor %}
+    <p class="empty">Tell Claude "update the Top 10" and the site is fixed in a minute.</p>
+    {%- else %}
+    <p class="t10-ok"><span class="pill up">✓ All {{ listings.counts.ok }} checks match</span> Prices and facts on your site agree with the developers' pages.</p>
+    {%- endif %}
+    {%- if listings.news %}
+    <h3 class="t10-h">In the news, last 14 days</h3>
+    {%- for n in listings.news %}
+    <a class="mini-news" href="{{ n.link }}" target="_blank" rel="noopener">
+      <span class="imp medium" aria-hidden="true"></span>
+      <span><b>{{ n.title }}</b><small>{{ n.project }} · {{ n.source }} · {{ n.published|ago }}</small></span>
+    </a>
+    {%- endfor %}
+    {%- endif %}
+    {%- if listings.problems or listings.unchecked %}
+    <details>
+      <summary>{% if listings.problems %}{{ listings.problems|length }} couldn't be checked{% else %}What isn't checked{% endif %}</summary>
+      <ul class="t10-list">
+        {%- for x in listings.problems %}<li><a href="{{ x.url }}" target="_blank" rel="noopener">{{ x.project }} · {{ x.label }}</a>: {{ x.note }}</li>{% endfor %}
+        {%- if listings.unchecked %}<li>News only (no price on the developer's page): {{ listings.unchecked|join(', ') }}</li>{% endif %}
+      </ul>
+    </details>
+    {%- endif %}
+    <a class="more-link" href="{{ listings.site }}/#projects" target="_blank" rel="noopener">Open your Top 10 →</a>
+  </div>
+  {%- endif %}
   {%- if news and news.top %}
   <div class="card">
     <h2>Top news <a class="more-link" href="#news" data-go="news">All news →</a></h2>

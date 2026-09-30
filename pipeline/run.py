@@ -1,4 +1,4 @@
-"""Daily run: DLD sales → Market Pulse → News → Pipeline → Rent → Developers → Landmarks → Brief → page.
+"""Daily run: DLD sales → Market Pulse → News → Pipeline → Rent → Developers → Landmarks → Top 10 → Brief → page.
 
     python -m pipeline.run                    normal run (what GitHub Actions calls)
     python -m pipeline.run --files a.csv.gz   use local DLD export files instead of downloading
@@ -16,7 +16,7 @@ from pathlib import Path
 
 import duckdb
 
-from . import brief, developers, dld, landmarks, launches, llm, news, notify, pulse, rent, render, store
+from . import brief, developers, dld, landmarks, launches, listings, llm, news, notify, pulse, rent, render, store
 from .config import SETTINGS, now, today
 from .runlog import (RunLog, load_dld_source, load_last_good, load_status, save_dld_source,
                      save_last_good, save_status)
@@ -101,7 +101,7 @@ def main() -> int:
 
     sections: dict = {"brief": {"bullets": [], "talking_points": [], "mode": "template"}, "news": None,
                       "pipeline": None, "rent": None, "developers": {"dubai": None, "sharjah": []},
-                      "landmarks": None, "archive": []}
+                      "landmarks": None, "archive": [], "listings": None}
     news_all: list = []
     with log.step("news") as s:
         nd = news.run()
@@ -129,6 +129,13 @@ def main() -> int:
                                   "projects_as_of": developers.projects_as_of()}
     with log.step("landmarks"):
         sections["landmarks"] = landmarks.load(con if log.ok("pulse") else None)
+    with log.step("listings") as s:
+        lw = listings.run()
+        s.update(lw["counts"], news=len(lw["news"]))
+        sections["listings"] = lw
+        save_last_good("listings", lw)
+    if not log.ok("listings"):
+        sections["listings"] = load_last_good("listings")
     with log.step("brief") as s:
         sections["brief"] = brief.build(pulse_data, sections["news"], sections["rent"])
         s["mode"] = sections["brief"]["mode"]

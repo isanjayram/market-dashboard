@@ -155,6 +155,13 @@ ul.brief li::before { content: ""; position: absolute; left: 1px; top: 8px; widt
 .say .copy { flex: none; font: 600 12.5px var(--sans); color: var(--link); padding-top: 3px; }
 .say.copied .copy { color: var(--up); }
 .more-link { font: 600 13px var(--sans); color: var(--link); text-decoration: none; }
+#top10 .more-link { display: inline-block; margin-top: 8px; }
+.t10-ok { margin: 0; font-size: 13.5px; line-height: 1.5; color: var(--ink-2); }
+.t10-ok .pill { margin-right: 6px; }
+.t10-lead { margin: 0 0 8px; font-size: 13.5px; color: var(--ink-2); }
+.t10-h { margin: 14px 0 6px; font: 700 13px var(--sans); color: var(--muted); text-transform: uppercase; letter-spacing: .04em; }
+.t10-list { margin: 4px 0 0; padding-left: 18px; font-size: 13px; line-height: 1.5; color: var(--ink-2); }
+.t10-list a { color: var(--link); }
 .mini-news { display: flex; gap: 10px; align-items: flex-start; padding: 9px 0; border-top: 1px solid var(--hair); color: var(--ink); text-decoration: none; }
 .mini-news:first-of-type { border-top: 0; padding-top: 0; }
 .mini-news b { display: block; font: 600 14.5px/1.35 var(--sans); }
