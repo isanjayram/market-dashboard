@@ -65,7 +65,10 @@ def check_pages(projects: list[dict[str, Any]]) -> list[dict[str, Any]]:
                 row.update(status="error", note=_why(text))
             else:
                 m = re.search(c["pattern"], text, re.I)
-                if not m:
+                if not m and p["name"].split()[0].lower() not in text.lower():
+                    # The project isn't even named: a bot-check or cookie page, not the real one.
+                    row.update(status="error", note="the site showed a block page to the cloud check")
+                elif not m:
                     row.update(status="missing", note="couldn't find it on the page; the page may have changed")
                 else:
                     found = m.group(1).strip()
