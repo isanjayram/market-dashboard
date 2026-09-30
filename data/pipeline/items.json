@@ -74,5 +74,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"4040eeb4e837": {
+"id": "4040eeb4e837",
+"title": "Aldar brings in over Dh5 billion from new residential launches",
+"link": "https://www.thenationalnews.com/business/property/2026/09/29/aldar-generates-more-than-dh5bn-in-sales-from-new-housing-developments/",
+"source": "The National",
+"category": "Developer news",
+"published": "2026-09-29T12:36+04:00",
+"first_seen": "2026-09-30",
+"kind": "Off-plan launch",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": "Talay and Yas Riva Reserve",
+"developer": "Aldar Properties",
+"location": "Saadiyat and Yas islands",
+"type": "residential housing",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
