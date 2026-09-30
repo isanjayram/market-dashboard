@@ -4,5 +4,11 @@
   "by_provider": {
    "gemini": 10
   }
+ },
+ "2026-09-30": {
+  "calls": 3,
+  "by_provider": {
+   "gemini": 3
+  }
  }
 }

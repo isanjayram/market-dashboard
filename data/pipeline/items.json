@@ -47,5 +47,32 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"81db29914478": {
+"id": "81db29914478",
+"title": "Etihad Rail launches first Dubai to Abu Dhabi passenger train service",
+"link": "https://gulfnews.com/uae/dubai/history-on-track-etihad-rails-first-dubaiabu-dhabi-train-service-begins-inside-the-inaugural-journey-1.500692921",
+"source": "Gulf News",
+"category": "Infrastructure",
+"published": "2026-09-30T08:52+04:00",
+"first_seen": "2026-09-30",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": {
+"name": "Etihad Rail passenger stations",
+"status": "Al Yalayis (Dubai) and Al Dhaid (Sharjah) open 30 Sep 2026",
+"source": "Gulf News",
+"url": "https://gulfnews.com/uae/dubai/etihad-rail-is-coming-to-dubai-what-changes-when-al-yalayis-station-opens-september-30-1.500679227"
+},
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

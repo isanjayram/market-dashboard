@@ -96,10 +96,10 @@
     "value": 109437502.0
    },
    {
-    "area": "Motor City",
-    "dld_area": "Al Hebiah First",
+    "area": "Arjan",
+    "dld_area": "Al Barshaa South Third",
     "deals": 61,
-    "value": 227804401.0
+    "value": 64021965.0
    }
   ],
   "top_value": [
@@ -1590,5 +1590,5 @@
   "fetched_at": "2026-09-29T15:41+04:00",
   "test": false
  },
- "saved_at": "2026-09-29T22:32+04:00"
+ "saved_at": "2026-09-30T10:00+04:00"
 }
