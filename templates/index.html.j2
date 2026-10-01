@@ -203,24 +203,34 @@ try { if (localStorage.getItem("theme") === "light") document.documentElement.da
   <div class="card">
     <h2>Rent moves over 5% <small>{{ rent.month }}</small></h2>
     {%- for a in rent.alerts %}{%- set m = a.mom|delta %}
-    <div class="wrow"><div><b>{{ a.area }} · {{ rent.labels[a.unit] }}</b><small>{{ a.n }} new contracts</small></div><div class="r"><span class="pill {{ m.cls }}">{{ m.text }} MoM</span></div></div>
+    <div class="wrow"><div><b>{{ a.area }} · {{ a.label }}</b><small>{{ a.n }} new contracts</small></div><div class="r"><span class="pill {{ m.cls }}">{{ m.text }} MoM</span></div></div>
     {%- endfor %}
   </div>
   {%- endif %}
   <div class="card">
     <h2>Median rent <small>new contracts · {{ rent.month }}</small></h2>
-    <div class="seg" data-range-group="unit" role="group" aria-label="Unit type">
-      {%- for u in rent.units %}<button type="button" data-range="u-{{ u }}" aria-pressed="{{ 'true' if u == '1br' else 'false' }}">{{ rent.labels[u] }}</button>{% endfor %}
+    <div class="seg wide" data-range-group="kind" role="group" aria-label="Property type">
+      {%- for k in rent.kinds %}<button type="button" data-range="k-{{ k.key }}" aria-pressed="{{ 'true' if loop.first else 'false' }}">{{ k.label }}</button>{% endfor %}
     </div>
-    {%- for u in rent.units %}
-    <div data-group="unit" data-panel="u-{{ u }}"{% if u != '1br' %} hidden{% endif %}>
-      {%- for r in rent.rows if r.unit == u %}{%- set m = r.mom|delta %}{%- set y = r.yoy|delta %}
-      <div class="wrow"><div><b>{{ r.area }}</b><small>{{ r.n }} contracts{% if r.gross_yield %} · gross yield {{ r.gross_yield }}%{% endif %}</small></div>
-        <div class="r"><div>AED {{ r.median|num }}</div><div class="pills"><span class="pill {{ m.cls }}">MoM {{ m.text }}</span><span class="pill {{ y.cls }}">YoY {{ y.text }}</span></div></div></div>
-      {%- else %}<p class="empty">Not enough contracts for this unit type.</p>{%- endfor %}
+    {%- for k in rent.kinds %}
+    <div data-group="kind" data-panel="k-{{ k.key }}"{% if not loop.first %} hidden{% endif %}>
+      {%- if k.beds %}
+      {%- set first = '1br' if '1br' in k.beds else k.beds[0] %}
+      <div class="seg" data-range-group="beds-{{ k.key }}" role="group" aria-label="Bedrooms">
+        {%- for b in k.beds %}<button type="button" data-range="b-{{ k.key }}-{{ b }}" aria-pressed="{{ 'true' if b == first else 'false' }}">{{ rent.bed_labels[b] }}</button>{% endfor %}
+      </div>
+      {%- for b in k.beds %}
+      <div data-group="beds-{{ k.key }}" data-panel="b-{{ k.key }}-{{ b }}"{% if b != first %} hidden{% endif %}>
+        {%- for r in rent.rows if r.kind == k.key and r.beds == b %}{%- set m = r.mom|delta %}{%- set y = r.yoy|delta %}
+        <div class="wrow"><div><b>{{ r.area }}</b><small>{{ r.n }} contracts{% if r.gross_yield %} · gross yield {{ r.gross_yield }}%{% endif %}</small></div>
+          <div class="r"><div>AED {{ r.median|num }}</div><div class="pills"><span class="pill {{ m.cls }}">MoM {{ m.text }}</span><span class="pill {{ y.cls }}">YoY {{ y.text }}</span></div></div></div>
+        {%- endfor %}
+      </div>
+      {%- endfor %}
+      {%- else %}<p class="empty">Not enough new contracts in the watchlist areas last month.</p>{%- endif %}
     </div>
     {%- endfor %}
-    <p class="foot">Gross yield = median annual rent ÷ median sale price for the same area and unit type (gross, before costs).</p>
+    <p class="foot">Only areas with at least 20 new contracts in the month are shown. Apartments: your watchlist areas. Villas &amp; townhouses: the 12 busiest communities in Dubai. DLD's rent records file townhouses as "Villa", so the two can't be separated; as a rough guide, 2–3BR is mostly townhouses and 4–5BR mostly villas. Gross yield (apartments only) = median annual rent ÷ median sale price for the same area and size, before costs.</p>
   </div>
   <p class="src">Source: DLD Ejari rent contracts via data.dubai. Renewals excluded (they lag the market because of the rent cap).</p>
 {%- else %}

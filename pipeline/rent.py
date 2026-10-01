@@ -9,6 +9,7 @@ the big bulk export (about 5 GB) is only used for a one-time bootstrap:
 """
 from __future__ import annotations
 
+import shutil
 import sys
 from datetime import date, timedelta
 from pathlib import Path
@@ -18,28 +19,41 @@ import duckdb
 
 from . import dld
 from .config import DATA_DIR, SETTINGS, WATCHLIST, today
-from .pulse import watch_filter
+from .pulse import friendly_names, watch_filter
 from .store import add_months, month_start
 
 RENT_DIR = DATA_DIR / "dld" / "rent"
-UNITS = ["studio", "1br", "2br", "3br", "villa"]
-UNIT_LABEL = {"studio": "Studio", "1br": "1BR", "2br": "2BR", "3br": "3BR", "villa": "Villa"}
-UNIT_SQL = """CASE
-    WHEN ejari_property_type_en IN ('Villa', 'Complex Villas') THEN 'villa'
+# Ejari has no "townhouse" label. Townhouses are recorded as Villa, like standalone villas, so the
+# two can't be told apart; bedrooms are the only guide. "Complex Villas" (about 100 contracts a
+# month, stored as kind 'townhouse') is too small to show alone and is counted with villas.
+KINDS = ["apartment", "villa"]
+KIND_LABEL = {"apartment": "Apartments", "villa": "Villas & townhouses"}
+KIND_SHORT = {"apartment": "Apt", "villa": "Villa/TH"}
+BEDS = {"apartment": ["studio", "1br", "2br", "3br", "4br"], "villa": ["2br", "3br", "4br", "5br"]}
+VILLA_AREAS = 12  # villas and townhouses: the busiest communities market-wide, not just the watchlist
+BED_LABEL = {"studio": "Studio", "1br": "1BR", "2br": "2BR", "3br": "3BR", "4br": "4BR", "5br": "5BR"}
+KIND_SQL = """CASE trim(ejari_property_type_en) WHEN 'Villa' THEN 'villa' WHEN 'Complex Villas' THEN 'townhouse'
+    WHEN 'Flat' THEN 'apartment' WHEN 'Studio' THEN 'apartment' END"""
+BEDS_SQL = """CASE
     WHEN trim(ejari_property_sub_type_en) = 'Studio' OR trim(ejari_property_type_en) = 'Studio' THEN 'studio'
-    WHEN ejari_property_sub_type_en ILIKE '1bed%' THEN '1br'
+    WHEN ejari_property_sub_type_en ILIKE '1bed%' OR ejari_property_sub_type_en ILIKE '1 bed%' THEN '1br'
     WHEN ejari_property_sub_type_en ILIKE '2 bed%' THEN '2br'
-    WHEN ejari_property_sub_type_en ILIKE '3 bed%' THEN '3br' END"""
+    WHEN ejari_property_sub_type_en ILIKE '3 bed%' THEN '3br'
+    WHEN ejari_property_sub_type_en ILIKE '4 bed%' THEN '4br'
+    WHEN ejari_property_sub_type_en ILIKE '5 bed%' THEN '5br' END"""
 RENT_SELECT = f"""
     contract_id,
     CAST(COALESCE(TRY_STRPTIME(contract_start_date, '%Y-%m-%d'), TRY_STRPTIME(contract_start_date, '%d-%m-%Y'),
                   TRY_STRPTIME(contract_start_date, '%Y-%m-%dT%H:%M:%S')) AS DATE) AS start,
     area_name_en AS area, master_project_en AS master_project, project_name_en AS project,
-    {UNIT_SQL} AS unit, TRY_CAST(annual_amount AS DOUBLE) AS rent, TRY_CAST(actual_area AS DOUBLE) AS size_sqm"""
+    {KIND_SQL} AS kind, {BEDS_SQL} AS beds, TRY_CAST(annual_amount AS DOUBLE) AS rent,
+    TRY_CAST(actual_area AS DOUBLE) AS size_sqm"""
 RENT_WHERE = """trim(property_usage_en) = 'Residential' AND contract_reg_type_en = 'New'
     AND TRY_CAST(no_of_prop AS INTEGER) = 1"""
-SALE_UNIT = """CASE WHEN ptype = 'Villa' THEN 'villa' WHEN rooms = 'Studio' THEN 'studio'
-    WHEN rooms = '1 B/R' THEN '1br' WHEN rooms = '2 B/R' THEN '2br' WHEN rooms = '3 B/R' THEN '3br' END"""
+# Yield is worked out for apartments only: DLD sales don't separate standalone villas from townhouses.
+SALE_BEDS = """CASE WHEN ptype = 'Unit' AND rooms = 'Studio' THEN 'studio' WHEN ptype = 'Unit' AND rooms = '1 B/R' THEN '1br'
+    WHEN ptype = 'Unit' AND rooms = '2 B/R' THEN '2br' WHEN ptype = 'Unit' AND rooms = '3 B/R' THEN '3br'
+    WHEN ptype = 'Unit' AND rooms = '4 B/R' THEN '4br' END"""
 
 
 def has_data() -> bool:
@@ -81,7 +95,7 @@ def refresh(con: duckdb.DuckDBPyConnection) -> dict[str, Any]:
     path = dld.dump_rows(rows, "api_rent.ndjson")
     con.execute(f"""CREATE OR REPLACE TABLE fresh_rent AS SELECT * FROM (SELECT {RENT_SELECT}
                     FROM read_json('{path}', format = 'newline_delimited') WHERE {RENT_WHERE})
-                    WHERE unit IS NOT NULL AND rent BETWEEN 5000 AND 5000000""")
+                    WHERE kind IS NOT NULL AND beds IS NOT NULL AND rent BETWEEN 5000 AND 5000000""")
     return {"source": "data.dubai API", "files_written": _save(con, since)}
 
 
@@ -94,8 +108,13 @@ def bootstrap(paths: list[Path] | None = None) -> dict[str, Any]:
     files = ", ".join(f"'{p}'" for p in paths)
     con.execute(f"""CREATE OR REPLACE TABLE fresh_rent AS SELECT * FROM (SELECT {RENT_SELECT}
         FROM read_csv([{files}], header = true, all_varchar = true, union_by_name = true, compression = '{kinds.pop()}')
-        WHERE {RENT_WHERE}) WHERE unit IS NOT NULL AND rent BETWEEN 5000 AND 5000000 AND start >= DATE '{since}'""")
-    return {"rows": con.execute("SELECT count(*) FROM fresh_rent").fetchone()[0], "files_written": _save(con, since)}
+        WHERE {RENT_WHERE}) WHERE kind IS NOT NULL AND beds IS NOT NULL AND rent BETWEEN 5000 AND 5000000 AND start >= DATE '{since}'""")
+    rows = con.execute("SELECT count(*) FROM fresh_rent").fetchone()[0]
+    if not rows:
+        raise dld.SourceError("rent export had no usable rows")
+    shutil.rmtree(RENT_DIR, ignore_errors=True)  # a bootstrap replaces the whole history
+    return {"rows": rows, "files_written": _save(con, since),
+            "by_kind": con.execute("SELECT kind, count(*) FROM fresh_rent GROUP BY 1 ORDER BY 1").fetchall()}
 
 
 def compute(con: duckdb.DuckDBPyConnection, sales_ready: bool) -> dict[str, Any] | None:
@@ -105,37 +124,48 @@ def compute(con: duckdb.DuckDBPyConnection, sales_ready: bool) -> dict[str, Any]
     M = add_months(month_start(today()), -1)  # last complete month
     windows = {"m": (M, add_months(M, 1)), "p": (add_months(M, -1), M), "y": (add_months(M, -12), add_months(M, -11))}
     min_n = SETTINGS["pulse"]["min_sample"]
+    if "kind" not in [c[0] for c in con.execute("DESCRIBE rent").fetchall()]:
+        return None  # history saved before apartments / villas / townhouses were split; needs a bootstrap
+    con.execute("CREATE OR REPLACE VIEW rent AS SELECT * REPLACE (CASE WHEN kind = 'townhouse' THEN 'villa' ELSE kind END AS kind) "
+                f"FROM read_parquet('{RENT_DIR}/**/*.parquet', union_by_name = true)")
+    names = friendly_names(con, M - timedelta(days=365)) if sales_ready else {}
+    busiest = [a for (a,) in con.execute("SELECT area FROM rent WHERE kind = 'villa' AND start >= ? AND start < ? AND area IS NOT NULL "
+                                         "GROUP BY 1 ORDER BY count(*) DESC LIMIT ?", [M, add_months(M, 1), VILLA_AREAS]).fetchall()]
+    places = {"apartment": [(e["name"], watch_filter(e)) for e in WATCHLIST.get("dubai", [])],
+              "villa": [(names.get(a, a), "area = '" + a.replace("'", "''") + "'") for a in busiest]}
     rows, alerts = [], []
-    for entry in WATCHLIST.get("dubai", []):
-        where = watch_filter(entry)
-        for unit in UNITS:
-            stats = {}
-            for key, (lo, hi) in windows.items():
-                med, n = con.execute(f"SELECT median(rent), count(*) FROM rent WHERE {where} AND unit = ? "
-                                     f"AND start >= ? AND start < ?", [unit, lo, hi]).fetchone()
-                stats[key] = (med, n)
-            (m_med, m_n), (p_med, p_n), (y_med, y_n) = stats["m"], stats["p"], stats["y"]
-            if not m_med or m_n < min_n:
-                continue
-            mom = round((m_med / p_med - 1) * 100, 1) if p_med and p_n >= min_n else None
-            yoy = round((m_med / y_med - 1) * 100, 1) if y_med and y_n >= min_n else None
-            gross = None
-            if sales_ready:
-                price, sn = con.execute(f"SELECT median(worth), count(*) FROM sales WHERE {where} AND ({SALE_UNIT}) = ? "
-                                        f"AND usage = 'Residential' AND day >= ?", [unit, M - timedelta(days=180)]).fetchone()
-                if price and sn >= min_n:
-                    gross = round(m_med / price * 100, 1)
-            row = {"area": entry["name"], "unit": unit, "median": round(m_med), "n": m_n,
-                   "mom": mom, "yoy": yoy, "gross_yield": gross}
-            rows.append(row)
-            if mom is not None and abs(mom) >= 5 and p_n >= 30 and m_n >= 30:
-                alerts.append(row)
+    for kind in KINDS:
+        for name, where in places[kind]:
+            for beds in BEDS[kind]:
+                stats = {}
+                for key, (lo, hi) in windows.items():
+                    stats[key] = con.execute(f"SELECT median(rent), count(*) FROM rent WHERE {where} AND kind = ? AND beds = ? "
+                                             f"AND start >= ? AND start < ?", [kind, beds, lo, hi]).fetchone()
+                (m_med, m_n), (p_med, p_n), (y_med, y_n) = stats["m"], stats["p"], stats["y"]
+                if not m_med or m_n < min_n:
+                    continue
+                mom = round((m_med / p_med - 1) * 100, 1) if p_med and p_n >= min_n else None
+                yoy = round((m_med / y_med - 1) * 100, 1) if y_med and y_n >= min_n else None
+                gross = None
+                if sales_ready and kind == "apartment":
+                    price, sn = con.execute(f"SELECT median(worth), count(*) FROM sales WHERE {where} AND ({SALE_BEDS}) = ? "
+                                            f"AND usage = 'Residential' AND day >= ?", [beds, M - timedelta(days=180)]).fetchone()
+                    if price and sn >= min_n:
+                        gross = round(m_med / price * 100, 1)
+                row = {"area": name, "kind": kind, "beds": beds, "label": f"{KIND_SHORT[kind]} {BED_LABEL[beds]}",
+                       "median": round(m_med), "n": m_n, "mom": mom, "yoy": yoy, "gross_yield": gross}
+                rows.append(row)
+                if mom is not None and abs(mom) >= 5 and p_n >= 30 and m_n >= 30:
+                    alerts.append(row)
     if not rows:
         return None
-    pick = next((r for r in rows if r["area"] == "JVC" and r["unit"] == "1br"), rows[0])
-    line = (f"Rents (new contracts, {M:%B}): {pick['area']} {UNIT_LABEL[pick['unit']]} median AED {pick['median']:,} a year"
+    pick = next((r for r in rows if r["area"] == "JVC" and r["kind"] == "apartment" and r["beds"] == "1br"), rows[0])
+    line = (f"Rents (new contracts, {M:%B}): {pick['area']} {BED_LABEL[pick['beds']]} "
+            f"apartment median AED {pick['median']:,} a year"
             + (f", {'up' if pick['mom'] > 0 else 'down'} {abs(pick['mom']):.1f}% on the month" if pick["mom"] else "") + ".")
-    return {"month": M.strftime("%B %Y"), "rows": rows, "alerts": alerts, "units": UNITS, "labels": UNIT_LABEL,
+    kinds = [{"key": k, "label": KIND_LABEL[k], "beds": [b for b in BEDS[k] if any(r["kind"] == k and r["beds"] == b for r in rows)]}
+             for k in KINDS]
+    return {"month": M.strftime("%B %Y"), "rows": rows, "alerts": alerts, "kinds": kinds, "bed_labels": BED_LABEL,
             "brief_facts": {"line": line}}
 
 

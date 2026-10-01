@@ -82,6 +82,9 @@ nav.chips a.on { background: var(--ink); color: var(--page); box-shadow: none; }
 
 .seg { display: inline-flex; background: var(--chip); border-radius: 10px; padding: 3px; }
 .seg button { font: 600 12.5px/1 var(--sans); padding: 7px 10px; border-radius: 8px; border: 0; background: none; color: var(--ink-2); cursor: pointer; }
+.seg.wide { display: flex; flex-wrap: wrap; margin-bottom: 8px; }
+.seg.wide button { flex: 1 1 auto; }
+[data-group^="beds-"] > .wrow:first-of-type, [data-group="kind"] .seg + div .wrow:first-of-type { padding-top: 10px; }
 .seg button[aria-pressed="true"] { background: var(--card); color: var(--ink); box-shadow: var(--shadow); }
 
 .chart { display: block; width: 100%; height: auto; overflow: visible; font-family: var(--sans); }
