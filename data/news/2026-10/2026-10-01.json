@@ -127,5 +127,19 @@
 "impact_reason": "Early-stage planning for a new waterfront development.",
 "watch": false,
 "topic": "Developer news"
+},
+{
+"id": "9a666f56a4df",
+"headline": "Etihad Rail to influence Abu Dhabi rents first and then prices, says new report",
+"summary": "",
+"why": "infrastructure can shift which areas buyers favour over time (analysis, not a forecast).",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/business/etihad-rail-to-influence-abu-dhabi-rents-first-and-then-prices-says-new-report",
+"published": "2026-10-01T13:46+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "New market data or report",
+"watch": false,
+"topic": "etihad rail"
 }
 ]
