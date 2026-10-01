@@ -96,5 +96,54 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"5c51a2d9566c": {
+"id": "5c51a2d9566c",
+"title": "Etihad Rail passenger service connects Dubai and Abu Dhabi.",
+"link": "https://www.thenationalnews.com/news/uae/2026/09/30/etihad-rail-dubai-al-yalayis-station-reaching-abu-dhabi/",
+"source": "The National",
+"category": "Infrastructure",
+"published": "2026-09-30T17:01+04:00",
+"first_seen": "2026-10-01",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": {
+"name": "Dubai Metro Gold Line",
+"status": "approved 22 Apr 2026; due 9 Sep 2032 (18 stations, underground)",
+"source": "Dubai Media Office",
+"url": "https://www.mediaoffice.ae/en/news/2026/april/22-04/mohammed-bin-rashid-approves-dubai-metro-gold-line"
+},
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"df454f5d8205": {
+"id": "df454f5d8205",
+"title": "UAE fuel price spike drives residents towards public transport.",
+"link": "https://www.khaleejtimes.com/uae/transport/petrol-prices-jump-october-2026-residents-plans-dubai-metro-trips-fewer-office-days",
+"source": "Khaleej Times",
+"category": "Infrastructure",
+"published": "2026-10-01T06:00+04:00",
+"first_seen": "2026-10-01",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
