@@ -141,5 +141,33 @@
 "impact_reason": "New market data or report",
 "watch": false,
 "topic": "etihad rail"
+},
+{
+"id": "f1b228a4088f",
+"headline": "Etihad Rail Partners for Smart Station Parking",
+"summary": "Etihad Rail joins Q Mobility and Parkin to build smart parking systems at passenger stations. The initial phase focuses on developing facilities across the new rail network.",
+"why": "It improves connectivity and accessibility around upcoming regional transit hubs.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/business/markets/etihad-rail-signs-deal-for-smart-parking-at-uae-stations-1.500695212",
+"published": "2026-10-01T19:04+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Enhances transport infrastructure and surrounding community accessibility.",
+"watch": false,
+"topic": "etihad rail"
+},
+{
+"id": "913a0d6818b6",
+"headline": "UAE Central Bank Boosts 2027 GDP Forecast",
+"summary": "The Central Bank upgraded its 2027 growth projections to 10.4 percent based on strong oil and non-oil performance. This update reflects broader economic expansion across the Emirates.",
+"why": "Strong macroeconomic indicators boost long-term investor confidence in the property market.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/business/uae-central-bank-raises-2027-gdp-growth-forecast-to-104",
+"published": "2026-10-01T18:37+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "Signals strong future economic conditions for the market.",
+"watch": false,
+"topic": "Macro & geopolitics"
 }
 ]
