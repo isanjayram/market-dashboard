@@ -85,5 +85,47 @@
 "impact_reason": "Minor shift in commuting habits and transport preference.",
 "watch": false,
 "topic": "metro"
+},
+{
+"id": "695d68461b13",
+"headline": "Etihad Rail Expands Passenger Service Across UAE",
+"summary": "Passenger trains now link Dubai, Abu Dhabi, Fujairah, and Al Dhaid. Four stations are currently open with more launching later this year.",
+"why": "Transport links enhance regional connectivity and property appeal.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/living-in-uae/etihad-rail-uae-stations-locations-opening-dates-2026-2027-1.500694596",
+"published": "2026-10-01T12:22+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Improves regional connectivity and accessibility for residents.",
+"watch": true,
+"topic": "etihad rail"
+},
+{
+"id": "7efce23c936f",
+"headline": "Rove Hotels and IRTH Partner for UAE Residences",
+"summary": "The developers established a multi-year partnership to launch new Rove Home projects. This follows previous sales success exceeding 2,000 units in Dubai.",
+"why": "New branded residences expand buyer options in the market.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/business/rove-hotels-irth-group-to-launch-new-residential-projects-across-uae",
+"published": "2026-10-01T12:00+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Expands branded residential supply across the country.",
+"watch": false,
+"topic": "Developer news"
+},
+{
+"id": "ae410d8ab0e0",
+"headline": "TARAF and Mubadala Plan Al Reem Island Project",
+"summary": "Both firms signed an agreement to explore a waterfront development on Al Reem Island. The proposal spans ten plots with substantial gross floor area.",
+"why": "Waterfront masterplans create future investment prospects.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/business/property/taraf-and-mubadala-to-explore-mixed-use-waterfront-development-on-al-reem-island-1.500694568",
+"published": "2026-10-01T13:16+04:00",
+"category": "Developer news",
+"impact": "Low",
+"impact_reason": "Early-stage planning for a new waterfront development.",
+"watch": false,
+"topic": "Developer news"
 }
 ]

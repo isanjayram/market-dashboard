@@ -145,5 +145,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"7efce23c936f": {
+"id": "7efce23c936f",
+"title": "Rove Hotels and IRTH Partner for UAE Residences",
+"link": "https://www.khaleejtimes.com/business/rove-hotels-irth-group-to-launch-new-residential-projects-across-uae",
+"source": "Khaleej Times",
+"category": "Developer news",
+"published": "2026-10-01T12:00+04:00",
+"first_seen": "2026-10-01",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": "Rove Home The Greens",
+"developer": "Rove Hotels and IRTH Group",
+"location": "The Greens, Dubai",
+"type": "residential",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

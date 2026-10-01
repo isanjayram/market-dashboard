@@ -1,23 +1,49 @@
 {
  "top": [
   {
-   "id": "c95cb86017a4",
-   "title": "Aldar and Arada sign Dh15bn partnership for new projects in Abu Dhabi",
-   "link": "https://www.thenationalnews.com/business/property/2026/09/30/aldar-and-arada-sign-dh15bn-partnership-for-new-developments-in-abu-dhabi/",
-   "source": "The National",
+   "id": "695d68461b13",
+   "title": "Etihad Rail stations in UAE: Which are open and when will the remaining stations launch?",
+   "link": "https://gulfnews.com/living-in-uae/etihad-rail-uae-stations-locations-opening-dates-2026-2027-1.500694596",
+   "source": "Gulf News",
    "kind": "outlet",
-   "published": "2026-09-30T10:46+04:00",
-   "tags": [],
-   "teaser": "Aldar, Abu Dhabi\u2019s biggest listed developer, and Sharjah-based Arada have teamed up to build new housing projects on Yas Island and at Seih Sdeirah in Abu Dhabi, representing a combined value of about Dh15 billion ($4 billion). The partnership involves a masterplan joint venture to create a large-scale mixed-use community at Seih Sdeirah on the Abu Dhabi-Dubai border and Arada\u2019s acquisition of thr",
+   "published": "2026-10-01T12:22+04:00",
+   "tags": [
+    "Living-UAE",
+    "UAE",
+    "Living-Transport"
+   ],
+   "teaser": "Dubai: Etihad Rail passenger services now connect Dubai, Abu Dhabi, Fujairah and Al Dhaid in Sharjah, as the national railway network expands to serve more destinations across the country. Four passenger stations are currently operational, with additional stations scheduled to open later this year and next year. Here\u2019s when the remaining stations are expected to open. Get updated faster and for FR",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Improves regional connectivity and accessibility for residents.",
+   "watch": true,
+   "headline": "Etihad Rail Expands Passenger Service Across UAE",
+   "summary": "Passenger trains now link Dubai, Abu Dhabi, Fujairah, and Al Dhaid. Four stations are currently open with more launching later this year.",
+   "why": "Transport links enhance regional connectivity and property appeal.",
+   "age_hours": 2.7,
+   "topic": "etihad rail"
+  },
+  {
+   "id": "7efce23c936f",
+   "title": "Rove Hotels, IRTH Group to launch new residential projects across UAE",
+   "link": "https://www.khaleejtimes.com/business/rove-hotels-irth-group-to-launch-new-residential-projects-across-uae",
+   "source": "Khaleej Times",
+   "kind": "outlet",
+   "published": "2026-10-01T12:00+04:00",
+   "tags": [
+    "Business",
+    "Property"
+   ],
+   "teaser": "Rove Hotels and IRTH Group have entered an exclusive multi-year partnership to develop a pipeline of Rove Home residential projects across the UAE, building on a collaboration that has already seen more than 2,000 units sold out in Dubai. The first residential development under the expanded partnership will be Rove Home The Greens, a 200-home project in one of Dubai's established residential neigh",
    "category": "Developer news",
    "impact": "Medium",
-   "impact_reason": "Significant new housing supply in Abu Dhabi.",
-   "watch": true,
-   "headline": "Aldar and Arada form fifteen billion dirham partnership in Abu Dhabi.",
-   "summary": "The developers joined forces to construct new residential communities on Yas Island and Seih Sdeirah. The massive joint venture totals fifteen billion dirhams.",
-   "why": "Major developer collaborations signal strong capital deployment and future housing supply.",
-   "age_hours": 23.8,
-   "topic": "aldar"
+   "impact_reason": "Expands branded residential supply across the country.",
+   "watch": false,
+   "headline": "Rove Hotels and IRTH Partner for UAE Residences",
+   "summary": "The developers established a multi-year partnership to launch new Rove Home projects. This follows previous sales success exceeding 2,000 units in Dubai.",
+   "why": "New branded residences expand buyer options in the market.",
+   "age_hours": 3.1,
+   "topic": "Developer news"
   },
   {
    "id": "390d289df6e7",
@@ -30,12 +56,12 @@
    "teaser": "Ajman has launched a pilot phase of a project to classify and regulate buildings, including shared accommodation in residential buildings. It is part of Ajman Municipality and Planning Department\u2019s efforts to improve efficient building use, provide a safe, well-regulated residential environment and enhance urban planning and quality of life in the emirate. The department announced the start of the",
    "category": "Regulation & fees",
    "impact": "Medium",
-   "impact_reason": "Affects rental compliance and housing availability in Ajman.",
+   "impact_reason": "Changes rental compliance and housing standards in Ajman.",
    "watch": false,
-   "headline": "Ajman launches pilot to regulate shared accommodation in specific zones.",
-   "summary": "Ajman Municipality started classifying buildings to organize shared housing within five residential areas. The initiative aims to enhance safety and efficient building use.",
-   "why": "Rental regulations and housing standards directly impact local landlords and tenant dynamics.",
-   "age_hours": 14.9,
+   "headline": "Ajman Regulates Shared Accommodation in Residential Zones",
+   "summary": "Ajman Municipality started a pilot phase to classify buildings and regulate shared housing. The initiative aims to create safer residential environments.",
+   "why": "New housing regulations impact rental market dynamics in Ajman.",
+   "age_hours": 19.4,
    "topic": "Regulation & fees"
   },
   {
@@ -49,16 +75,34 @@
    "teaser": "The Dubai-Abu Dhabi Etihad Rail passenger train is finally on track, with residents now travelling from Al Yalayis Station in Jumeirah Golf Estates. The new route gives Dubai travellers another way to reach the capital without spending hours behind the wheel. With tickets starting at Dh39 ($10.60) in \u201ccomfort\u201d and Dh109 in \u201cpremium\u201d, the train could be an affordable alternative for residents makin",
    "category": "Infrastructure",
    "impact": "Medium",
-   "impact_reason": "Enhances connectivity between major emirates, boosting regional appeal.",
+   "impact_reason": "Enhances inter-emirate transit options for property commuters.",
    "watch": false,
-   "also": [
-    "Khaleej Times"
-   ],
-   "headline": "Etihad Rail passenger service connects Dubai and Abu Dhabi.",
-   "summary": "Travelers can now commute between Dubai and Abu Dhabi using the Etihad Rail service from Al Yalayis Station. Tickets start at thirty-nine dirhams.",
-   "why": "Improved inter-emirate transit infrastructure boosts regional connectivity and suburban property appeal.",
-   "age_hours": 17.5,
+   "headline": "Dubai to Abu Dhabi Etihad Rail Commute Launches",
+   "summary": "Residents can now travel between emirates from Al Yalayis Station in Jumeirah Golf Estates. Tickets start at Dh39.",
+   "why": "Direct rail links between emirates boost regional property accessibility.",
+   "age_hours": 22.1,
    "topic": "etihad rail"
+  },
+  {
+   "id": "ae410d8ab0e0",
+   "title": "TARAF and Mubadala to explore mixed-use waterfront development on Al Reem Island",
+   "link": "https://gulfnews.com/business/property/taraf-and-mubadala-to-explore-mixed-use-waterfront-development-on-al-reem-island-1.500694568",
+   "source": "Gulf News",
+   "kind": "outlet",
+   "published": "2026-10-01T13:16+04:00",
+   "tags": [
+    "Property"
+   ],
+   "teaser": "Dubai: TARAF, the real estate division of Yas Holding, and Mubadala Investment Company have signed a Memorandum of Understanding to explore a major mixed-use waterfront development on Al Reem Island. The proposed project spans 10 plots across about 655,000 sq. ft. of land, with a total gross floor area of roughly 5.4 million sq. ft. Under the MoU, the two parties will assess the plans and take the",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Early-stage planning for a new waterfront development.",
+   "watch": false,
+   "headline": "TARAF and Mubadala Plan Al Reem Island Project",
+   "summary": "Both firms signed an agreement to explore a waterfront development on Al Reem Island. The proposal spans ten plots with substantial gross floor area.",
+   "why": "Waterfront masterplans create future investment prospects.",
+   "age_hours": 1.8,
+   "topic": "Developer news"
   },
   {
    "id": "ddedddce5aee",
@@ -74,42 +118,20 @@
    "teaser": "Dubai: Moving out of a rented property does not always mean getting your security deposit back immediately. Disagreements over maintenance charges, repainting costs and alleged property damage can leave tenants waiting for their money, sometimes long after handing over the keys. But what can tenants do if their landlord refuses to refund the deposit, and when should they consider filing a rental d",
    "category": "Regulation & fees",
    "impact": "Low",
-   "impact_reason": "Provides clarity on existing rental dispute processes.",
+   "impact_reason": "Informs tenants of existing rental dispute procedures.",
    "watch": false,
-   "headline": "Guidance issued for Dubai tenants facing withheld security deposits.",
-   "summary": "Tenants often face delayed security deposit refunds due to maintenance disputes after moving out. Legal avenues exist to help renters recover these funds.",
-   "why": "Rental deposit practices affect tenant cash flow and landlord-tenant relations.",
-   "age_hours": 3.2,
+   "headline": "Guide Issued for Recovering Dubai Security Deposits",
+   "summary": "Tenants facing landlord disputes over security deposits can take specific actions. Disagreements often arise from maintenance and repair charges.",
+   "why": "Tenant rights awareness protects renters during lease terminations.",
+   "age_hours": 7.7,
    "topic": "Regulation & fees"
-  },
-  {
-   "id": "df454f5d8205",
-   "title": "UAE petrol prices jump by over 16%: Residents plan Dubai Metro trips, remote work",
-   "link": "https://www.khaleejtimes.com/uae/transport/petrol-prices-jump-october-2026-residents-plans-dubai-metro-trips-fewer-office-days",
-   "source": "Khaleej Times",
-   "kind": "outlet",
-   "published": "2026-10-01T06:00+04:00",
-   "tags": [
-    "Transport",
-    "UAE"
-   ],
-   "teaser": "Taking the Metro to work, asking for fewer office days and planning client visits around public transport are some of the changes UAE residents are considering as petrol prices rise by more than 16 per cent in October . Some motorists are preparing to increase their fuel budgets, while others are looking for ways to reduce their driving. For residents who use a car lift, a change in the monthly fa",
-   "category": "Infrastructure",
-   "impact": "Low",
-   "impact_reason": "Minor shift in commuting habits and transport preference.",
-   "watch": false,
-   "headline": "UAE fuel price spike drives residents towards public transport.",
-   "summary": "Fuel costs in the UAE increased by over sixteen percent in October. Commuters are shifting towards the Dubai Metro and remote work.",
-   "why": "Higher living expenses can influence residential location choices relative to transport links.",
-   "age_hours": 4.6,
-   "topic": "metro"
   }
  ],
  "window_hours": 24,
- "count_relevant": 6,
- "count_fetched": 176,
+ "count_relevant": 8,
+ "count_fetched": 193,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-01T10:33+04:00",
- "saved_at": "2026-10-01T10:33+04:00"
+ "as_of": "2026-10-01T15:05+04:00",
+ "saved_at": "2026-10-01T15:05+04:00"
 }

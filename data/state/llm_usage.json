@@ -12,9 +12,9 @@
   }
  },
  "2026-10-01": {
-  "calls": 3,
+  "calls": 6,
   "by_provider": {
-   "gemini": 3
+   "gemini": 6
   }
  }
 }
