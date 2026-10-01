@@ -2,8 +2,13 @@ name: Daily dashboard
 
 on:
   schedule:
-    - cron: "30 4 * * *"   # 08:30 Gulf time
-    - cron: "0 5 * * *"    # 09:00 Gulf time: retries only if 08:30 didn't finish with fresh DLD data
+    # GitHub starts scheduled runs late (hours late at :00 and :30), so use odd minutes and
+    # several slots. Each run takes about a minute; the page is ready well before 09:30 Gulf time.
+    - cron: "17 1 * * *"   # 05:17 Gulf time
+    - cron: "47 2 * * *"   # 06:47
+    - cron: "43 3 * * *"   # 07:43
+    - cron: "23 4 * * *"   # 08:23
+    - cron: "53 4 * * *"   # 08:53
   workflow_dispatch:
     inputs:
       force:
@@ -12,7 +17,7 @@ on:
         default: true
   push:
     branches: [main]
-    paths: ["data/state/dld_source.json"]   # the Mac pushed fresh DLD data
+    paths: ["data/state/dld_source.json", "data/state/mac_tick.json"]   # the Mac pushed fresh DLD data or its daily wake-up
 
 permissions:
   contents: write

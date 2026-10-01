@@ -65,6 +65,7 @@ def refresh() -> int:
     have = load_dld_source().get("snapshot")
     if listing["snapshot"] == have:
         log(f"already have {have}; nothing to do")
+        tick()
         return 0
     log(f"new DLD export {listing['snapshot']}; downloading")
     meta = refresh_sales(duckdb.connect(), None)
@@ -77,6 +78,23 @@ def refresh() -> int:
         git("push", "--quiet")
     log(f"pushed {meta['snapshot']} (newest day {meta['newest_day']}, {meta.get('rows')} rows)")
     return 0
+
+
+def tick() -> None:
+    """First run of the day with no new DLD file: push a small marker so the cloud still rebuilds
+    (GitHub's own scheduler can start hours late)."""
+    marker = REPO / "data" / "state" / "mac_tick.json"
+    today = f"{datetime.now():%Y-%m-%d}"
+    if marker.exists() and today in marker.read_text():
+        return
+    if today in git("log", "-1", "--format=%cs", "--", "data/state/dld_source.json"):
+        return  # today's DLD push already started a build
+    marker.write_text(f'{{"date": "{today}"}}\n')
+    git("add", "data/state/mac_tick.json")
+    git("commit", "--quiet", "-m", f"tick: {today} (Mac switched on)")
+    git("pull", "--rebase", "--quiet")
+    git("push", "--quiet")
+    log("no new DLD file; asked the cloud to rebuild")
 
 
 def install() -> None:
