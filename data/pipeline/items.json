@@ -167,5 +167,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"8a10c24ff835": {
+"id": "8a10c24ff835",
+"title": "Etihad Rail celebrates launch with nationwide light shows",
+"link": "https://www.khaleejtimes.com/uae/etihad-rail-abu-dhabi-dubai-fujairah-station-light-laser-shows-oct-2-2026",
+"source": "Khaleej Times",
+"category": "Infrastructure",
+"published": "2026-10-02T08:33+04:00",
+"first_seen": "2026-10-02",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
