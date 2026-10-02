@@ -1,6 +1,26 @@
 {
  "top": [
   {
+   "id": "9eb444e54770",
+   "title": "Etihad Rail stations to host dazzling laser shows to celebrate network expansion",
+   "link": "https://www.thenationalnews.com/news/uae/2026/10/02/etihad-rail-stations-to-host-dazzling-laser-shows-to-celebrate-network-expansion/",
+   "source": "The National",
+   "kind": "outlet",
+   "published": "2026-10-02T09:58+04:00",
+   "tags": [],
+   "teaser": "Spectacular laser shows will be held at Etihad Rail stations across the Emirates on Friday evening to signal the growth of the passenger rail network. Dubai's Al Yalayis station in Jumeirah Golf Estates, which opened to the public on Wednesday, Abu Dhabi's Mohamed bin Zayed City station, and Fujairah's Al Hilal will take centre stage for hours of dazzling celebrations. The laser shows at the three",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Improves transport connectivity and boosts local area appeal.",
+   "watch": false,
+   "headline": "Etihad Rail stations host laser shows for network expansion",
+   "summary": "Spectacular laser shows celebrated the growth of the passenger rail network across the Emirates. Events took place at stations including Dubai's Al Yalayis.",
+   "why": "New passenger rail infrastructure enhances regional connectivity and local property accessibility.",
+   "age_hours": 1.0,
+   "topic": "etihad rail",
+   "more": 1
+  },
+  {
    "id": "8a10c24ff835",
    "title": "Etihad Rail lights up UAE stations with light, laser shows; last chance to watch today",
    "link": "https://www.khaleejtimes.com/uae/etihad-rail-abu-dhabi-dubai-fujairah-station-light-laser-shows-oct-2-2026",
@@ -13,43 +33,20 @@
    "teaser": "Etihad Rail is marking the launch of its passenger services with spectacular light and laser shows at its stations in Abu Dhabi, Dubai and Fujairah, illuminating the UAE skies as the country enters a new chapter in rail travel. The shows run from 7pm to 1am, with residents having one final night on Friday, October 2, to catch the displays at the stations. The celebrations come as Etihad Rail offic",
    "category": "Infrastructure",
    "impact": "Medium",
-   "impact_reason": "Highlights major new regional transport infrastructure.",
+   "impact_reason": "Enhances national transit links impacting commuter accessibility.",
    "watch": false,
-   "headline": "Etihad Rail celebrates launch with nationwide light shows",
-   "summary": "Etihad Rail is marking its passenger service launch with evening laser shows across Abu Dhabi, Dubai, and Fujairah stations. Residents have until tonight to catch the final displays.",
-   "why": "Transport milestones improve regional connectivity and influence property desirability.",
-   "age_hours": 1.1,
-   "topic": "etihad rail",
-   "more": 1
-  },
-  {
-   "id": "fec715df4f41",
-   "title": "Etihad Rail laser shows: UAE stations light up \u2014 where and when to see them",
-   "link": "https://gulfnews.com/uae/dubai/etihad-rail-laser-shows-uae-stations-light-up-where-and-when-to-see-them-1.500695618",
-   "source": "Gulf News",
-   "kind": "outlet",
-   "published": "2026-10-02T07:22+04:00",
-   "tags": [
-    "Dubai",
-    "Transport"
-   ],
-   "teaser": "UAE skies are glowing as Etihad Rail marks a major milestone in the country\u2019s transport network. Laser shows are lighting up stations in Abu Dhabi, Dubai and Fujairah as the national passenger service officially launches across more destinations. Etihad Rail said the laser shows will continue tonight, October 2, running from 7pm to 1am. Get updated faster and for FREE: Download the Gulf News app n",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Showcases new transport infrastructure rollout.",
-   "watch": false,
-   "headline": "Etihad Rail marks passenger launch with station light shows",
-   "summary": "Laser shows are illuminating stations in Abu Dhabi, Dubai, and Fujairah to celebrate the national railway's expansion. The final night of displays runs from evening until early morning.",
-   "why": "New transport links shape regional connectivity and property market sentiment.",
-   "age_hours": 2.3,
+   "headline": "Etihad Rail lights up UAE stations with final laser shows",
+   "summary": "Etihad Rail marked its passenger service launch with evening light displays at stations in Abu Dhabi, Dubai, and Fujairah. Residents enjoyed the final night of celebrations.",
+   "why": "The launch of national rail passenger services improves connectivity across key emirates.",
+   "age_hours": 2.4,
    "topic": "etihad rail"
   }
  ],
  "window_hours": 24,
- "count_relevant": 5,
- "count_fetched": 168,
+ "count_relevant": 4,
+ "count_fetched": 177,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-02T09:37+04:00",
- "saved_at": "2026-10-02T09:37+04:00"
+ "as_of": "2026-10-02T10:59+04:00",
+ "saved_at": "2026-10-02T10:59+04:00"
 }
