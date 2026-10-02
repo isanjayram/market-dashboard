@@ -1,52 +1,56 @@
 {
  "top": [
   {
-   "id": "9eb444e54770",
-   "title": "Etihad Rail stations to host dazzling laser shows to celebrate network expansion",
-   "link": "https://www.thenationalnews.com/news/uae/2026/10/02/etihad-rail-stations-to-host-dazzling-laser-shows-to-celebrate-network-expansion/",
-   "source": "The National",
+   "id": "08bc5c0d6b40",
+   "title": "Etihad Rail: How to reach Dubai and Abu Dhabi stations without a car",
+   "link": "https://gulfnews.com/living-in-uae/transport/etihad-rail-dubai-abu-dhabi-station-public-transport-guide-1.500695919",
+   "source": "Gulf News",
    "kind": "outlet",
-   "published": "2026-10-02T09:58+04:00",
-   "tags": [],
-   "teaser": "Spectacular laser shows will be held at Etihad Rail stations across the Emirates on Friday evening to signal the growth of the passenger rail network. Dubai's Al Yalayis station in Jumeirah Golf Estates, which opened to the public on Wednesday, Abu Dhabi's Mohamed bin Zayed City station, and Fujairah's Al Hilal will take centre stage for hours of dazzling celebrations. The laser shows at the three",
+   "published": "2026-10-02T12:42+04:00",
+   "tags": [
+    "Living-Transport",
+    "UAE",
+    "Transport"
+   ],
+   "teaser": "Dubai: Travelling between Dubai and Abu Dhabi on Etihad Rail starts from Dh39 , with the journey taking around 64 minutes. But if you are travelling without a car, how do you get to the station and how much will the onward journey cost? The good news is that you do not necessarily need to rely on taxis. Both Dubai's Al Yalayis Station and Abu Dhabi's Mohammed Bin Zayed City Station are connected t",
    "category": "Infrastructure",
    "impact": "Medium",
-   "impact_reason": "Improves transport connectivity and boosts local area appeal.",
+   "impact_reason": "Better transport connectivity boosts regional property appeal.",
    "watch": false,
-   "headline": "Etihad Rail stations host laser shows for network expansion",
-   "summary": "Spectacular laser shows celebrated the growth of the passenger rail network across the Emirates. Events took place at stations including Dubai's Al Yalayis.",
-   "why": "New passenger rail infrastructure enhances regional connectivity and local property accessibility.",
-   "age_hours": 1.0,
+   "headline": "Reaching Etihad Rail Stations Without a Car",
+   "summary": "Travel between Dubai and Abu Dhabi on Etihad Rail costs from Dh39 and takes about 64 minutes. Public transport options help commuters reach the newly opened stations easily.",
+   "why": "It improves regional transport links which directly impacts neighborhood accessibility and property appeal.",
+   "age_hours": 0.3,
    "topic": "etihad rail",
    "more": 1
   },
   {
-   "id": "8a10c24ff835",
-   "title": "Etihad Rail lights up UAE stations with light, laser shows; last chance to watch today",
-   "link": "https://www.khaleejtimes.com/uae/etihad-rail-abu-dhabi-dubai-fujairah-station-light-laser-shows-oct-2-2026",
+   "id": "78fef2bf9e1f",
+   "title": "Etihad Rail could reshape UAE travel, but Dubai Metro, bus links are key, experts say",
+   "link": "https://www.khaleejtimes.com/uae/transport/etihad-rail-reshape-uae-travel-metro-bus-links-key",
    "source": "Khaleej Times",
    "kind": "outlet",
-   "published": "2026-10-02T08:33+04:00",
+   "published": "2026-10-02T06:00+04:00",
    "tags": [
-    "UAE"
+    "Transport"
    ],
-   "teaser": "Etihad Rail is marking the launch of its passenger services with spectacular light and laser shows at its stations in Abu Dhabi, Dubai and Fujairah, illuminating the UAE skies as the country enters a new chapter in rail travel. The shows run from 7pm to 1am, with residents having one final night on Friday, October 2, to catch the displays at the stations. The celebrations come as Etihad Rail offic",
+   "teaser": "Etihad Rail could change the way people travel between the UAE's cities, but its long-term success will depend on how easily passengers can get from the train to their final destination, transport experts say. Passenger services between Dubai and Abu Dhabi began on September 30, adding a new option for journeys that have long relied on private cars. The service connects Dubai's Al Yalayis Station ",
    "category": "Infrastructure",
    "impact": "Medium",
-   "impact_reason": "Enhances national transit links impacting commuter accessibility.",
+   "impact_reason": "Transit integration heavily influences long-term community desirability.",
    "watch": false,
-   "headline": "Etihad Rail lights up UAE stations with final laser shows",
-   "summary": "Etihad Rail marked its passenger service launch with evening light displays at stations in Abu Dhabi, Dubai, and Fujairah. Residents enjoyed the final night of celebrations.",
-   "why": "The launch of national rail passenger services improves connectivity across key emirates.",
-   "age_hours": 2.4,
+   "headline": "Seamless Metro and Bus Links Crucial for Etihad Rail",
+   "summary": "Transport experts state that Etihad Rail's long-term success relies on efficient onward travel from stations. Connecting transit options will determine how effectively the new rail transforms commuting.",
+   "why": "Efficient mass transit integration influences the long-term desirability and value of surrounding communities.",
+   "age_hours": 7.0,
    "topic": "etihad rail"
   }
  ],
  "window_hours": 24,
  "count_relevant": 4,
- "count_fetched": 177,
+ "count_fetched": 194,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-02T10:59+04:00",
- "saved_at": "2026-10-02T10:59+04:00"
+ "as_of": "2026-10-02T13:02+04:00",
+ "saved_at": "2026-10-02T13:02+04:00"
 }

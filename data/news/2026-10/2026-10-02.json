@@ -84,5 +84,34 @@
 "watch": false,
 "more": 1,
 "topic": "etihad rail"
+},
+{
+"id": "08bc5c0d6b40",
+"headline": "Reaching Etihad Rail Stations Without a Car",
+"summary": "Travel between Dubai and Abu Dhabi on Etihad Rail costs from Dh39 and takes about 64 minutes. Public transport options help commuters reach the newly opened stations easily.",
+"why": "It improves regional transport links which directly impacts neighborhood accessibility and property appeal.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/living-in-uae/transport/etihad-rail-dubai-abu-dhabi-station-public-transport-guide-1.500695919",
+"published": "2026-10-02T12:42+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Better transport connectivity boosts regional property appeal.",
+"watch": false,
+"more": 1,
+"topic": "etihad rail"
+},
+{
+"id": "df454f5d8205",
+"headline": "UAE Petrol Prices Surge Over 16 Percent in October",
+"summary": "Fuel price hikes are prompting UAE residents to consider Metro trips and remote work options. Higher commuting costs may shift housing demand toward transit-oriented developments.",
+"why": "Rising transport costs can shift buyer preferences toward locations near public transport.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/uae/transport/petrol-prices-jump-october-2026-residents-plans-dubai-metro-trips-fewer-office-days",
+"published": "2026-10-01T06:00+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Higher commuting costs alter urban housing demand patterns.",
+"watch": false,
+"topic": "metro"
 }
 ]
