@@ -1,27 +1,6 @@
 {
  "top": [
   {
-   "id": "0c8de6d094e5",
-   "title": "Taking Etihad Rail over the weekend? Everything you need to know to plan your travel",
-   "link": "https://www.khaleejtimes.com/uae/transport/etihad-rail-train-timings-parking-travel-guide",
-   "source": "Khaleej Times",
-   "kind": "outlet",
-   "published": "2026-10-03T06:00+04:00",
-   "tags": [
-    "Transport"
-   ],
-   "teaser": "With two new stations now open, Etihad Rail has become far more accessible for UAE residents looking to explore the country by train. On Wednesday, the much-awaited Al Yalayis station in Dubai opened to public alongside the Al Dhaid station located in Sharjah. The customer demand was so high that Etihad Rail announced six additional services over the weekend. For residents who are hoping to take t",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Enhances transport connectivity across Emirates.",
-   "watch": false,
-   "headline": "New Etihad Rail Stations Open in Dubai and Sharjah",
-   "summary": "Etihad Rail opened new stations at Al Yalayis in Dubai and Al Dhaid in Sharjah. High public demand prompted the expansion.",
-   "why": "Improves regional connectivity and accessibility for residents.",
-   "age_hours": 7.4,
-   "topic": "etihad rail"
-  },
-  {
    "id": "bfcd90736499",
    "title": "Etihad Rail announces more trains between Abu Dhabi and Dubai to meet demand",
    "link": "https://www.thenationalnews.com/news/uae/2026/10/02/etihad-rail-announces-more-trains-between-abu-dhabi-and-dubai-to-meet-demand/",
@@ -32,12 +11,31 @@
    "teaser": "Etihad Rail has added more than 2,000 tickets across six extra train services between Abu Dhabi and Dubai this weekend. The additional services were announced on Friday and were made available after the new passenger rail route connecting the UAE's biggest cities attracted \u201cexceptional early demand\u201d. In addition to the initial 10 trains, three more services will run on both Saturday and Sunday, wi",
    "category": "Infrastructure",
    "impact": "Medium",
-   "impact_reason": "Improves inter-emirate travel capacity.",
+   "impact_reason": "Improves inter-emirate connectivity and commuter convenience.",
    "watch": false,
-   "headline": "Etihad Rail Adds Extra Dubai and Abu Dhabi Services",
-   "summary": "Six additional train services offering over 2,000 tickets have been added between Dubai and Abu Dhabi. The move follows exceptional early demand.",
-   "why": "Demonstrates successful transport links between major UAE cities.",
-   "age_hours": 20.0,
+   "headline": "Etihad Rail adds trains between Abu Dhabi and Dubai",
+   "summary": "Extra train services have been launched for the weekend following exceptional demand. Over 2,000 new tickets were made available across six additional trips.",
+   "why": "Enhanced connectivity between major emirates can positively influence regional property demand and commuter appeal.",
+   "age_hours": 20.5,
+   "topic": "etihad rail"
+  },
+  {
+   "id": "9eb444e54770",
+   "title": "Etihad Rail stations host dazzling laser shows to celebrate network expansion",
+   "link": "https://www.thenationalnews.com/news/uae/2026/10/02/etihad-rail-stations-to-host-dazzling-laser-shows-to-celebrate-network-expansion/",
+   "source": "The National",
+   "kind": "outlet",
+   "published": "2026-10-02T09:58+04:00",
+   "tags": [],
+   "teaser": "Spectacular laser shows were held at Etihad Rail stations across the Emirates on Friday evening to signal the growth of the passenger rail network. Dubai's Al Yalayis station in Jumeirah Golf Estates, which opened to the public on Wednesday, Abu Dhabi's Mohamed bin Zayed City station, and Fujairah's Al Hilal all took centre stage for hours of dazzling celebrations. The laser shows at the three sta",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Highlights transport expansion near key residential developments.",
+   "watch": false,
+   "headline": "Etihad Rail marks network growth with station laser shows",
+   "summary": "Laser displays lit up stations across the Emirates to celebrate network expansion. This includes the newly opened Dubai station in Jumeirah Golf Estates.",
+   "why": "New transport hubs enhance accessibility to surrounding residential communities, boosting their long-term value.",
+   "age_hours": 27.9,
    "topic": "etihad rail"
   },
   {
@@ -51,20 +49,20 @@
    "teaser": "Question: I rent a villa in Dubai and recently bought an electric car. There is no charging point at the property, so I asked my landlord whether I could have one installed at my own expense. He initially agreed, but is now saying that because the charger will remain with the villa when I eventually leave, I should also pay for any approvals, electrical upgrades and reinstatement, if required. The",
    "category": "Regulation & fees",
    "impact": "Low",
-   "impact_reason": "Addresses specific tenant-landlord utility disputes.",
+   "impact_reason": "Addresses minor property modification disputes rather than market trends.",
    "watch": false,
-   "headline": "Tenant Guidance Issued on Installing Villa EV Chargers",
-   "summary": "A legal query addresses whether landlords or tenants are responsible for EV charger installation costs in rented villas. The situation highlights emerging property upgrade disputes.",
-   "why": "Clarifies landlord and tenant obligations regarding property modifications.",
-   "age_hours": 5.4,
+   "headline": "Guidance on installing EV chargers in rented Dubai villas",
+   "summary": "A tenant inquires about the cost and ownership responsibilities for adding an EV charger to a leased property. Landlord negotiations arise regarding who retains the fixture.",
+   "why": "Understanding tenant improvement rights helps clarify property upgrade norms for landlords and renters.",
+   "age_hours": 5.9,
    "topic": "Regulation & fees"
   }
  ],
- "window_hours": 24,
- "count_relevant": 4,
- "count_fetched": 174,
+ "window_hours": 48,
+ "count_relevant": 3,
+ "count_fetched": 184,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-03T13:26+04:00",
- "saved_at": "2026-10-03T13:26+04:00"
+ "as_of": "2026-10-03T13:54+04:00",
+ "saved_at": "2026-10-03T13:54+04:00"
 }
