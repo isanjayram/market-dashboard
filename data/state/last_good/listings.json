@@ -1,19 +1,40 @@
 {
- "checked_at": "2026-10-03T13:55+04:00",
+ "checked_at": "2026-10-03T14:05+04:00",
  "site": "https://propertywithsanjay.pages.dev",
  "projects": 10,
  "counts": {
-  "ok": 9,
+  "ok": 7,
   "changed": 0,
   "missing": 0,
-  "error": 0
+  "error": 2
  },
  "changed": [],
- "problems": [],
+ "problems": [
+  {
+   "project": "Linar",
+   "slug": "linar",
+   "page": "https://propertywithsanjay.com/projects/linar/",
+   "label": "Launch price",
+   "url": "https://www.alefgroup.ae/alef-communities/linar/",
+   "expect": "945K",
+   "status": "error",
+   "note": "the site showed a block page to the cloud check"
+  },
+  {
+   "project": "Hayyan",
+   "slug": "hayyan",
+   "page": "https://propertywithsanjay.com/projects/hayyan/",
+   "label": "Lagoon size (sq ft)",
+   "url": "https://www.alefgroup.ae/alef-communities/hayyan/",
+   "expect": "60,278",
+   "status": "error",
+   "note": "the site showed a block page to the cloud check"
+  }
+ ],
  "unchecked": [
   "Palm Jebel Ali",
   "Sobha Hartland II"
  ],
  "news": [],
- "saved_at": "2026-10-03T13:55+04:00"
+ "saved_at": "2026-10-03T14:05+04:00"
 }
