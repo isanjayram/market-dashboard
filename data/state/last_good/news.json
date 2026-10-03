@@ -13,12 +13,12 @@
    "teaser": "With two new stations now open, Etihad Rail has become far more accessible for UAE residents looking to explore the country by train. On Wednesday, the much-awaited Al Yalayis station in Dubai opened to public alongside the Al Dhaid station located in Sharjah. The customer demand was so high that Etihad Rail announced six additional services over the weekend. For residents who are hoping to take t",
    "category": "Infrastructure",
    "impact": "Medium",
-   "impact_reason": "Improves regional transport connectivity and accessibility.",
+   "impact_reason": "Enhances transport connectivity across Emirates.",
    "watch": false,
    "headline": "New Etihad Rail Stations Open in Dubai and Sharjah",
-   "summary": "Etihad Rail expands its passenger network by opening new stations in Al Yalayis, Dubai, and Al Dhaid, Sharjah. High public demand prompted this latest accessibility upgrade.",
-   "why": "New transit hubs boost connectivity and property appeal in surrounding areas.",
-   "age_hours": 6.6,
+   "summary": "Etihad Rail opened new stations at Al Yalayis in Dubai and Al Dhaid in Sharjah. High public demand prompted the expansion.",
+   "why": "Improves regional connectivity and accessibility for residents.",
+   "age_hours": 7.4,
    "topic": "etihad rail"
   },
   {
@@ -32,12 +32,12 @@
    "teaser": "Etihad Rail has added more than 2,000 tickets across six extra train services between Abu Dhabi and Dubai this weekend. The additional services were announced on Friday and were made available after the new passenger rail route connecting the UAE's biggest cities attracted \u201cexceptional early demand\u201d. In addition to the initial 10 trains, three more services will run on both Saturday and Sunday, wi",
    "category": "Infrastructure",
    "impact": "Medium",
-   "impact_reason": "Boosts intercity mobility and transit capacity.",
+   "impact_reason": "Improves inter-emirate travel capacity.",
    "watch": false,
-   "headline": "Etihad Rail Adds More Dubai-Abu Dhabi Trains",
-   "summary": "High weekend demand led Etihad Rail to introduce six extra services between Dubai and Abu Dhabi. Over two thousand new tickets were released following exceptional early interest.",
-   "why": "Enhanced intercity transit benefits commuters and regional property sentiment.",
-   "age_hours": 19.1,
+   "headline": "Etihad Rail Adds Extra Dubai and Abu Dhabi Services",
+   "summary": "Six additional train services offering over 2,000 tickets have been added between Dubai and Abu Dhabi. The move follows exceptional early demand.",
+   "why": "Demonstrates successful transport links between major UAE cities.",
+   "age_hours": 20.0,
    "topic": "etihad rail"
   },
   {
@@ -51,20 +51,20 @@
    "teaser": "Question: I rent a villa in Dubai and recently bought an electric car. There is no charging point at the property, so I asked my landlord whether I could have one installed at my own expense. He initially agreed, but is now saying that because the charger will remain with the villa when I eventually leave, I should also pay for any approvals, electrical upgrades and reinstatement, if required. The",
    "category": "Regulation & fees",
    "impact": "Low",
-   "impact_reason": "Individual rental dispute with limited broader market effect.",
+   "impact_reason": "Addresses specific tenant-landlord utility disputes.",
    "watch": false,
-   "headline": "Tenant and Landlord Debate EV Charger Installation Costs",
-   "summary": "A Dubai tenant inquiring about installing an EV charger faces a dispute over fixture ownership. The landlord argues the installed charger must stay with the rented villa.",
-   "why": "Highlights common landlord-tenant fixture disputes regarding property upgrades.",
-   "age_hours": 4.6,
+   "headline": "Tenant Guidance Issued on Installing Villa EV Chargers",
+   "summary": "A legal query addresses whether landlords or tenants are responsible for EV charger installation costs in rented villas. The situation highlights emerging property upgrade disputes.",
+   "why": "Clarifies landlord and tenant obligations regarding property modifications.",
+   "age_hours": 5.4,
    "topic": "Regulation & fees"
   }
  ],
  "window_hours": 24,
  "count_relevant": 4,
- "count_fetched": 173,
+ "count_fetched": 174,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-03T12:34+04:00",
- "saved_at": "2026-10-03T12:34+04:00"
+ "as_of": "2026-10-03T13:26+04:00",
+ "saved_at": "2026-10-03T13:26+04:00"
 }
