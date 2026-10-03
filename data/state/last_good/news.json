@@ -10,17 +10,16 @@
    "tags": [
     "Transport"
    ],
-   "teaser": "With two new stations now open, Etihad Rail has become far more accessible for UAE residents looking to explore the country by train. On Wednesday, the much-awaited Al Yalayis station in Dubai opened to public alongside the Al Dhaid station located in Sharjah. The customer demand was so high that Etihad Rail announced six additional services over the weekend. For all those who are hoping to take t",
+   "teaser": "With two new stations now open, Etihad Rail has become far more accessible for UAE residents looking to explore the country by train. On Wednesday, the much-awaited Al Yalayis station in Dubai opened to public alongside the Al Dhaid station located in Sharjah. The customer demand was so high that Etihad Rail announced six additional services over the weekend. For residents who are hoping to take t",
    "category": "Infrastructure",
    "impact": "Medium",
-   "impact_reason": "Improves regional connectivity and accessibility for residents.",
+   "impact_reason": "Improves regional transport connectivity and accessibility.",
    "watch": false,
    "headline": "New Etihad Rail Stations Open in Dubai and Sharjah",
-   "summary": "Etihad Rail opened new passenger stations in Dubai and Sharjah to accommodate high public demand. The expansion improves connectivity across the emirates.",
-   "why": "Better transport links enhance regional accessibility and property appeal.",
-   "age_hours": 3.3,
-   "topic": "etihad rail",
-   "more": 1
+   "summary": "Etihad Rail opened new stations in Dubai and Sharjah to meet strong public demand. These additions expand the national passenger rail network.",
+   "why": "Transport connectivity influences regional desirability and property access.",
+   "age_hours": 4.5,
+   "topic": "etihad rail"
   },
   {
    "id": "bfcd90736499",
@@ -33,12 +32,12 @@
    "teaser": "Etihad Rail has added more than 2,000 tickets across six extra train services between Abu Dhabi and Dubai this weekend. The additional services were announced on Friday and were made available after the new passenger rail route connecting the UAE's biggest cities attracted \u201cexceptional early demand\u201d. In addition to the initial 10 trains, three more services will run on both Saturday and Sunday, wi",
    "category": "Infrastructure",
    "impact": "Medium",
-   "impact_reason": "Increases transit capacity between major emirates.",
+   "impact_reason": "Boosts inter-emirate travel capacity.",
    "watch": false,
-   "headline": "Etihad Rail Adds Extra Services Between Dubai and Abu Dhabi",
-   "summary": "Following strong early interest, Etihad Rail introduced extra train trips and thousands of new tickets between Abu Dhabi and Dubai. High weekend demand prompted the rapid service expansion.",
-   "why": "Enhanced inter-emirate transit supports commuter convenience and regional mobility.",
-   "age_hours": 15.9,
+   "headline": "Etihad Rail Adds Extra Dubai and Abu Dhabi Services",
+   "summary": "Six additional train services and 2,000 tickets were added between Dubai and Abu Dhabi due to high demand. The inter-emirate route experienced exceptional early popularity.",
+   "why": "Enhanced commuting options affect residential choices across emirates.",
+   "age_hours": 17.1,
    "topic": "etihad rail"
   },
   {
@@ -52,20 +51,20 @@
    "teaser": "Question: I rent a villa in Dubai and recently bought an electric car. There is no charging point at the property, so I asked my landlord whether I could have one installed at my own expense. He initially agreed, but is now saying that because the charger will remain with the villa when I eventually leave, I should also pay for any approvals, electrical upgrades and reinstatement, if required. The",
    "category": "Regulation & fees",
    "impact": "Low",
-   "impact_reason": "Individual leasing inquiry with limited market-wide impact.",
+   "impact_reason": "Isolated rental dispute regarding property modifications.",
    "watch": false,
-   "headline": "Tenant Queries Responsibility for Installing EV Charger at Rented Villa",
-   "summary": "A Dubai tenant sought guidance regarding financial responsibility for adding an electric vehicle charging station to a leased villa. Landlord discussions arose over whether the permanent upgrade stays with the property.",
-   "why": "Leasing queries around property upgrades highlight tenant landlord responsibilities.",
-   "age_hours": 1.3,
+   "headline": "Tenant Questions EV Charger Installation Costs in Villa",
+   "summary": "A Dubai tenant asked about financial responsibility for installing an EV charger in a rented villa. The landlord disputed ownership of the permanent upgrade.",
+   "why": "Rental property upgrades concern tenant and landlord obligations.",
+   "age_hours": 2.5,
    "topic": "Regulation & fees"
   }
  ],
  "window_hours": 24,
  "count_relevant": 4,
- "count_fetched": 153,
+ "count_fetched": 167,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-03T09:18+04:00",
- "saved_at": "2026-10-03T09:18+04:00"
+ "as_of": "2026-10-03T10:31+04:00",
+ "saved_at": "2026-10-03T10:31+04:00"
 }
