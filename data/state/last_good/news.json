@@ -16,9 +16,9 @@
    "impact_reason": "Improves regional transport connectivity and accessibility.",
    "watch": false,
    "headline": "New Etihad Rail Stations Open in Dubai and Sharjah",
-   "summary": "Etihad Rail opened new stations in Dubai and Sharjah to meet strong public demand. These additions expand the national passenger rail network.",
-   "why": "Transport connectivity influences regional desirability and property access.",
-   "age_hours": 4.5,
+   "summary": "Etihad Rail expands its passenger network by opening new stations in Al Yalayis, Dubai, and Al Dhaid, Sharjah. High public demand prompted this latest accessibility upgrade.",
+   "why": "New transit hubs boost connectivity and property appeal in surrounding areas.",
+   "age_hours": 6.6,
    "topic": "etihad rail"
   },
   {
@@ -32,12 +32,12 @@
    "teaser": "Etihad Rail has added more than 2,000 tickets across six extra train services between Abu Dhabi and Dubai this weekend. The additional services were announced on Friday and were made available after the new passenger rail route connecting the UAE's biggest cities attracted \u201cexceptional early demand\u201d. In addition to the initial 10 trains, three more services will run on both Saturday and Sunday, wi",
    "category": "Infrastructure",
    "impact": "Medium",
-   "impact_reason": "Boosts inter-emirate travel capacity.",
+   "impact_reason": "Boosts intercity mobility and transit capacity.",
    "watch": false,
-   "headline": "Etihad Rail Adds Extra Dubai and Abu Dhabi Services",
-   "summary": "Six additional train services and 2,000 tickets were added between Dubai and Abu Dhabi due to high demand. The inter-emirate route experienced exceptional early popularity.",
-   "why": "Enhanced commuting options affect residential choices across emirates.",
-   "age_hours": 17.1,
+   "headline": "Etihad Rail Adds More Dubai-Abu Dhabi Trains",
+   "summary": "High weekend demand led Etihad Rail to introduce six extra services between Dubai and Abu Dhabi. Over two thousand new tickets were released following exceptional early interest.",
+   "why": "Enhanced intercity transit benefits commuters and regional property sentiment.",
+   "age_hours": 19.1,
    "topic": "etihad rail"
   },
   {
@@ -51,20 +51,20 @@
    "teaser": "Question: I rent a villa in Dubai and recently bought an electric car. There is no charging point at the property, so I asked my landlord whether I could have one installed at my own expense. He initially agreed, but is now saying that because the charger will remain with the villa when I eventually leave, I should also pay for any approvals, electrical upgrades and reinstatement, if required. The",
    "category": "Regulation & fees",
    "impact": "Low",
-   "impact_reason": "Isolated rental dispute regarding property modifications.",
+   "impact_reason": "Individual rental dispute with limited broader market effect.",
    "watch": false,
-   "headline": "Tenant Questions EV Charger Installation Costs in Villa",
-   "summary": "A Dubai tenant asked about financial responsibility for installing an EV charger in a rented villa. The landlord disputed ownership of the permanent upgrade.",
-   "why": "Rental property upgrades concern tenant and landlord obligations.",
-   "age_hours": 2.5,
+   "headline": "Tenant and Landlord Debate EV Charger Installation Costs",
+   "summary": "A Dubai tenant inquiring about installing an EV charger faces a dispute over fixture ownership. The landlord argues the installed charger must stay with the rented villa.",
+   "why": "Highlights common landlord-tenant fixture disputes regarding property upgrades.",
+   "age_hours": 4.6,
    "topic": "Regulation & fees"
   }
  ],
  "window_hours": 24,
  "count_relevant": 4,
- "count_fetched": 167,
+ "count_fetched": 173,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-03T10:31+04:00",
- "saved_at": "2026-10-03T10:31+04:00"
+ "as_of": "2026-10-03T12:34+04:00",
+ "saved_at": "2026-10-03T12:34+04:00"
 }
