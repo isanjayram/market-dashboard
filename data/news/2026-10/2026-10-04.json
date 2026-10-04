@@ -1,0 +1,58 @@
+[
+{
+"id": "a5b6290afab0",
+"headline": "Tenant rights when Rera index prohibits rent increases",
+"summary": "Tenants can challenge illegal rent hikes using Dubai rental index regulations. Legal channels exist to protect occupants from unauthorized landlord increases.",
+"why": "It directly impacts tenant costs and local rental regulations.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/uae/legal/dubai-rent-increase-notice-what-tenants-can-do-no-hike-allowed-index",
+"published": "2026-10-04T10:14+04:00",
+"category": "Regulation & fees",
+"impact": "Medium",
+"impact_reason": "Affects tenant rental costs and legal rights.",
+"watch": false,
+"topic": "rera"
+},
+{
+"id": "193fd084ba2a",
+"headline": "Comparing travel costs between Dubai and Abu Dhabi",
+"summary": "Etihad Rail now offers passenger services from Dubai starting at Dh39 per ticket. Commuters must also factor in local transport expenses to and from stations.",
+"why": "Transport links between emirates influence regional property appeal.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/uae/dubai-abu-dhabi-pay-etihad-rail-bus-car-taxi",
+"published": "2026-10-04T06:00+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Improves inter-emirate connectivity and lifestyle options.",
+"watch": false,
+"topic": "etihad rail"
+},
+{
+"id": "bfcd90736499",
+"headline": "Etihad Rail adds weekend services between emirates",
+"summary": "Etihad Rail introduced extra train services and tickets following strong early demand. The expansion aims to accommodate weekend travelers between Abu Dhabi and Dubai.",
+"why": "Enhanced transport infrastructure can boost regional housing demand.",
+"source": "The National",
+"link": "https://www.thenationalnews.com/news/uae/2026/10/02/etihad-rail-announces-more-trains-between-abu-dhabi-and-dubai-to-meet-demand/",
+"published": "2026-10-02T17:27+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Increases transit capacity between major UAE hubs.",
+"watch": false,
+"topic": "etihad rail"
+},
+{
+"id": "04650b744468",
+"headline": "EV charger installation responsibilities in rented villas",
+"summary": "A tenant seeking to install an electric vehicle charger faces disputes over ownership and costs. Landlord agreements regarding permanent additions require clear legal understanding.",
+"why": "Relates to tenant improvements and property modifications.",
+"source": "The National",
+"link": "https://www.thenationalnews.com/business/money/2026/10/03/uae-property-who-pays-to-install-an-ev-charger-at-a-rented-villa/",
+"published": "2026-10-03T08:00+04:00",
+"category": "Regulation & fees",
+"impact": "Low",
+"impact_reason": "Involves minor tenant-landlord utility upgrade disputes.",
+"watch": false,
+"topic": "Regulation & fees"
+}
+]

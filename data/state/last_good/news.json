@@ -1,6 +1,49 @@
 {
  "top": [
   {
+   "id": "a5b6290afab0",
+   "title": "Dubai rent increase: What tenants can do if Rera index says no hike is allowed",
+   "link": "https://www.khaleejtimes.com/uae/legal/dubai-rent-increase-notice-what-tenants-can-do-no-hike-allowed-index",
+   "source": "Khaleej Times",
+   "kind": "outlet",
+   "published": "2026-10-04T10:14+04:00",
+   "tags": [
+    "Legal"
+   ],
+   "teaser": "Question: I have just received a rent increase notice for my apartment in Dubai. I checked the rental index and found that the property is not eligible for an increase. What is the legal process from here? Answer: Pursuant to your query, as you are a resident of Dubai, the provisions of the Dubai land laws and its amendment are applicable. In Dubai, the percentage increase in rent may depend on av",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Affects tenant rental costs and legal rights.",
+   "watch": false,
+   "headline": "Tenant rights when Rera index prohibits rent increases",
+   "summary": "Tenants can challenge illegal rent hikes using Dubai rental index regulations. Legal channels exist to protect occupants from unauthorized landlord increases.",
+   "why": "It directly impacts tenant costs and local rental regulations.",
+   "age_hours": 0.6,
+   "topic": "rera"
+  },
+  {
+   "id": "193fd084ba2a",
+   "title": "Dubai to Abu Dhabi: What will you pay by Etihad Rail train, bus, car and taxi?",
+   "link": "https://www.khaleejtimes.com/uae/dubai-abu-dhabi-pay-etihad-rail-bus-car-taxi",
+   "source": "Khaleej Times",
+   "kind": "outlet",
+   "published": "2026-10-04T06:00+04:00",
+   "tags": [
+    "UAE",
+    "Transport"
+   ],
+   "teaser": "A Dh39 train ticket can take you from Dubai to Abu Dhabi. But how much will you spend getting to the station and reaching your destination after stepping off the train? Etihad Rail began passenger services from Dubai\u2019s Al Yalayis station on Wednesday, giving passengers another option to travel between the emirates. The train journey takes an hour and four minutes, but the complete trip depends on ",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Improves inter-emirate connectivity and lifestyle options.",
+   "watch": false,
+   "headline": "Comparing travel costs between Dubai and Abu Dhabi",
+   "summary": "Etihad Rail now offers passenger services from Dubai starting at Dh39 per ticket. Commuters must also factor in local transport expenses to and from stations.",
+   "why": "Transport links between emirates influence regional property appeal.",
+   "age_hours": 4.8,
+   "topic": "etihad rail"
+  },
+  {
    "id": "bfcd90736499",
    "title": "Etihad Rail announces more trains between Abu Dhabi and Dubai to meet demand",
    "link": "https://www.thenationalnews.com/news/uae/2026/10/02/etihad-rail-announces-more-trains-between-abu-dhabi-and-dubai-to-meet-demand/",
@@ -11,31 +54,12 @@
    "teaser": "Etihad Rail has added more than 2,000 tickets across six extra train services between Abu Dhabi and Dubai this weekend. The additional services were announced on Friday and were made available after the new passenger rail route connecting the UAE's biggest cities attracted \u201cexceptional early demand\u201d. In addition to the initial 10 trains, three more services will run on both Saturday and Sunday, wi",
    "category": "Infrastructure",
    "impact": "Medium",
-   "impact_reason": "Infrastructure that can move area demand",
+   "impact_reason": "Increases transit capacity between major UAE hubs.",
    "watch": false,
-   "headline": "Etihad Rail announces more trains between Abu Dhabi and Dubai to meet demand",
-   "summary": "",
-   "why": "infrastructure can shift which areas buyers favour over time (analysis, not a forecast).",
-   "age_hours": 20.6,
-   "topic": "etihad rail"
-  },
-  {
-   "id": "9eb444e54770",
-   "title": "Etihad Rail stations host dazzling laser shows to celebrate network expansion",
-   "link": "https://www.thenationalnews.com/news/uae/2026/10/02/etihad-rail-stations-to-host-dazzling-laser-shows-to-celebrate-network-expansion/",
-   "source": "The National",
-   "kind": "outlet",
-   "published": "2026-10-02T09:58+04:00",
-   "tags": [],
-   "teaser": "Spectacular laser shows were held at Etihad Rail stations across the Emirates on Friday evening to signal the growth of the passenger rail network. Dubai's Al Yalayis station in Jumeirah Golf Estates, which opened to the public on Wednesday, Abu Dhabi's Mohamed bin Zayed City station, and Fujairah's Al Hilal all took centre stage for hours of dazzling celebrations. The laser shows at the three sta",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Infrastructure that can move area demand",
-   "watch": false,
-   "headline": "Etihad Rail stations host dazzling laser shows to celebrate network expansion",
-   "summary": "",
-   "why": "infrastructure can shift which areas buyers favour over time (analysis, not a forecast).",
-   "age_hours": 28.1,
+   "headline": "Etihad Rail adds weekend services between emirates",
+   "summary": "Etihad Rail introduced extra train services and tickets following strong early demand. The expansion aims to accommodate weekend travelers between Abu Dhabi and Dubai.",
+   "why": "Enhanced transport infrastructure can boost regional housing demand.",
+   "age_hours": 41.4,
    "topic": "etihad rail"
   },
   {
@@ -47,22 +71,22 @@
    "published": "2026-10-03T08:00+04:00",
    "tags": [],
    "teaser": "Question: I rent a villa in Dubai and recently bought an electric car. There is no charging point at the property, so I asked my landlord whether I could have one installed at my own expense. He initially agreed, but is now saying that because the charger will remain with the villa when I eventually leave, I should also pay for any approvals, electrical upgrades and reinstatement, if required. The",
-   "category": "Macro & geopolitics",
+   "category": "Regulation & fees",
    "impact": "Low",
-   "impact_reason": "General market context",
+   "impact_reason": "Involves minor tenant-landlord utility upgrade disputes.",
    "watch": false,
-   "headline": "UAE Property: 'Who pays to install an EV charger at a rented villa?'",
-   "summary": "",
-   "why": "can move investor sentiment; expect questions about where the market is heading.",
-   "age_hours": 6.1,
-   "topic": "Macro & geopolitics"
+   "headline": "EV charger installation responsibilities in rented villas",
+   "summary": "A tenant seeking to install an electric vehicle charger faces disputes over ownership and costs. Landlord agreements regarding permanent additions require clear legal understanding.",
+   "why": "Relates to tenant improvements and property modifications.",
+   "age_hours": 26.8,
+   "topic": "Regulation & fees"
   }
  ],
  "window_hours": 48,
- "count_relevant": 3,
- "count_fetched": 182,
+ "count_relevant": 4,
+ "count_fetched": 162,
  "feed_errors": {},
- "mode": "rules only (daily AI cap reached)",
- "as_of": "2026-10-03T14:05+04:00",
- "saved_at": "2026-10-03T14:05+04:00"
+ "mode": "AI summaries (gemini)",
+ "as_of": "2026-10-04T10:49+04:00",
+ "saved_at": "2026-10-04T10:49+04:00"
 }
