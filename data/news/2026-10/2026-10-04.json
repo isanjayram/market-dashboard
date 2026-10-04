@@ -110,5 +110,47 @@
 "impact_reason": "Broad regulatory cooperation with minimal immediate local property impact.",
 "watch": false,
 "topic": "Rates & mortgages"
+},
+{
+"id": "7b1d23164192",
+"headline": "Fitch projects positive growth for Ras Al Khaimah property market.",
+"summary": "Fitch Ratings indicates that war-related risks in Ras Al Khaimah have eased. A transformational investment project faced minor delays and cost increases.",
+"why": "Improved regional stability boosts investor confidence in northern emirates real estate.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/business/ras-al-khaimah-to-see-positive-growth-as-regional-conflict-risks-ease-says-fitch",
+"published": "2026-10-04T13:37+04:00",
+"category": "Supply & market reports",
+"impact": "High",
+"impact_reason": "Shifts regional investor sentiment and investment security.",
+"watch": false,
+"topic": "Supply & market reports"
+},
+{
+"id": "4edc4892805c",
+"headline": "Sharjah launches Al Tay Hills with 1,100 new family homes.",
+"summary": "A new Dh3.5 billion residential community is taking shape in Sharjah. The Al Tay Hills project delivers approximately 1,100 villas and townhouses.",
+"why": "New large-scale supply expands housing options for families in Sharjah.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/uae/sharjah/sharjah-housing-gets-1100-new-family-homes-1.500697787",
+"published": "2026-10-04T12:54+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "Adds localized residential supply in Sharjah.",
+"watch": true,
+"topic": "Macro & geopolitics"
+},
+{
+"id": "4c2cadf153a4",
+"headline": "Developers eye projects along the new Fourth Corridor highway.",
+"summary": "Property developers are exploring opportunities along the planned 80km Fourth Corridor highway. The route connects Sharjah, Dubai, and Abu Dhabi amid rising population demand.",
+"why": "New highway infrastructure opens up fresh corridors for future residential developments.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/business/property/uae-property-developers-eye-fourth-corridor-highway-linking-sharjah-dubai-and-abu-dhabi",
+"published": "2026-10-04T12:40+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "Highlights future development areas along major new highways.",
+"watch": true,
+"topic": "Macro & geopolitics"
 }
 ]

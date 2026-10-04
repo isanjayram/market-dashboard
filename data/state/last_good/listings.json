@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-04T12:50+04:00",
+ "checked_at": "2026-10-04T14:05+04:00",
  "site": "https://propertywithsanjay.pages.dev",
  "projects": 10,
  "counts": {
@@ -11,24 +11,24 @@
  "changed": [],
  "problems": [
   {
-   "project": "Linar",
-   "slug": "linar",
-   "page": "https://propertywithsanjay.com/projects/linar/",
-   "label": "Launch price",
-   "url": "https://www.alefgroup.ae/alef-communities/linar/",
-   "expect": "945K",
+   "project": "Sukoon",
+   "slug": "sukoon",
+   "page": "https://propertywithsanjay.com/projects/sukoon/",
+   "label": "Handover",
+   "url": "https://sanzen.ae/sukoon-by-sanzen/",
+   "expect": "Q2 2028",
    "status": "error",
-   "note": "the site showed a block page to the cloud check"
+   "note": "the site blocked the check"
   },
   {
-   "project": "Hayyan",
-   "slug": "hayyan",
-   "page": "https://propertywithsanjay.com/projects/hayyan/",
-   "label": "Lagoon size (sq ft)",
-   "url": "https://www.alefgroup.ae/alef-communities/hayyan/",
-   "expect": "60,278",
+   "project": "Sukoon",
+   "slug": "sukoon",
+   "page": "https://propertywithsanjay.com/projects/sukoon/",
+   "label": "Homes in the community",
+   "url": "https://sanzen.ae/sukoon-by-sanzen/",
+   "expect": "859",
    "status": "error",
-   "note": "the site showed a block page to the cloud check"
+   "note": "the site blocked the check"
   }
  ],
  "unchecked": [
@@ -36,5 +36,5 @@
   "Sobha Hartland II"
  ],
  "news": [],
- "saved_at": "2026-10-04T12:50+04:00"
+ "saved_at": "2026-10-04T14:05+04:00"
 }
