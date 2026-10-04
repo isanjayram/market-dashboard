@@ -18,7 +18,7 @@
    "headline": "Ras Al Khaimah to see positive growth as regional conflict risks ease, says Fitch",
    "summary": "",
    "why": "fresh data on prices or supply, useful context when discussing value and timing.",
-   "age_hours": 1.0,
+   "age_hours": 1.2,
    "topic": "Supply & market reports"
   },
   {
@@ -40,7 +40,7 @@
    "headline": "Fitch affirms Ras Al Khaimah\u2019s A+ rating, upgrades 2026 growth forecast to 1.5%",
    "summary": "",
    "why": "fresh data on prices or supply, useful context when discussing value and timing.",
-   "age_hours": 2.1,
+   "age_hours": 2.2,
    "topic": "Supply & market reports"
   },
   {
@@ -62,7 +62,7 @@
    "headline": "Etihad Rail sets passenger rules, with ticket gates closing two minutes before departure",
    "summary": "",
    "why": "infrastructure can shift which areas buyers favour over time (analysis, not a forecast).",
-   "age_hours": 3.5,
+   "age_hours": 3.7,
    "topic": "etihad rail"
   },
   {
@@ -83,7 +83,7 @@
    "headline": "Sharjah housing gets 1,100 new family homes",
    "summary": "",
    "why": "can move investor sentiment; expect questions about where the market is heading.",
-   "age_hours": 1.7,
+   "age_hours": 1.9,
    "topic": "Macro & geopolitics"
   },
   {
@@ -105,7 +105,7 @@
    "headline": "UAE property developers eye Fourth Corridor highway linking Sharjah, Dubai and Abu Dhabi",
    "summary": "",
    "why": "can move investor sentiment; expect questions about where the market is heading.",
-   "age_hours": 2.0,
+   "age_hours": 2.1,
    "topic": "Macro & geopolitics"
   },
   {
@@ -127,15 +127,15 @@
    "headline": "Opec+ set to keep November oil output targets steady, sources say",
    "summary": "",
    "why": "can move investor sentiment; expect questions about where the market is heading.",
-   "age_hours": 0.2,
+   "age_hours": 0.4,
    "topic": "oil"
   }
  ],
  "window_hours": 24,
  "count_relevant": 9,
- "count_fetched": 174,
+ "count_fetched": 172,
  "feed_errors": {},
  "mode": "rules only (daily AI cap reached)",
- "as_of": "2026-10-04T14:37+04:00",
- "saved_at": "2026-10-04T14:37+04:00"
+ "as_of": "2026-10-04T14:46+04:00",
+ "saved_at": "2026-10-04T14:46+04:00"
 }
