@@ -1,40 +1,19 @@
 {
- "checked_at": "2026-10-04T14:05+04:00",
+ "checked_at": "2026-10-04T14:32+04:00",
  "site": "https://propertywithsanjay.pages.dev",
  "projects": 10,
  "counts": {
-  "ok": 7,
+  "ok": 9,
   "changed": 0,
   "missing": 0,
-  "error": 2
+  "error": 0
  },
  "changed": [],
- "problems": [
-  {
-   "project": "Sukoon",
-   "slug": "sukoon",
-   "page": "https://propertywithsanjay.com/projects/sukoon/",
-   "label": "Handover",
-   "url": "https://sanzen.ae/sukoon-by-sanzen/",
-   "expect": "Q2 2028",
-   "status": "error",
-   "note": "the site blocked the check"
-  },
-  {
-   "project": "Sukoon",
-   "slug": "sukoon",
-   "page": "https://propertywithsanjay.com/projects/sukoon/",
-   "label": "Homes in the community",
-   "url": "https://sanzen.ae/sukoon-by-sanzen/",
-   "expect": "859",
-   "status": "error",
-   "note": "the site blocked the check"
-  }
- ],
+ "problems": [],
  "unchecked": [
   "Palm Jebel Ali",
   "Sobha Hartland II"
  ],
  "news": [],
- "saved_at": "2026-10-04T14:05+04:00"
+ "saved_at": "2026-10-04T14:32+04:00"
 }
