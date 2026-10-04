@@ -152,5 +152,19 @@
 "impact_reason": "Highlights future development areas along major new highways.",
 "watch": true,
 "topic": "Macro & geopolitics"
+},
+{
+"id": "2858ac97692d",
+"headline": "Opec+ set to keep November oil output targets steady, sources say",
+"summary": "",
+"why": "can move investor sentiment; expect questions about where the market is heading.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/business/opec-set-to-keep-november-oil-output-targets-steady-sources-say",
+"published": "2026-10-04T14:25+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": false,
+"topic": "oil"
 }
 ]
