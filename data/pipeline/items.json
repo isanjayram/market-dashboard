@@ -243,5 +243,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"e9d5529a5f04": {
+"id": "e9d5529a5f04",
+"title": "Etihad Rail Outlines New Passenger Rules and Timings",
+"link": "https://gulfnews.com/uae/transport/etihad-rail-sets-passenger-rules-with-ticket-gates-closing-two-minutes-before-departure-1.500697681",
+"source": "Gulf News",
+"category": "Infrastructure",
+"published": "2026-10-04T11:05+04:00",
+"first_seen": "2026-10-04",
+"kind": "Infrastructure",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

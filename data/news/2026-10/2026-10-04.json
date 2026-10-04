@@ -54,5 +54,61 @@
 "impact_reason": "Involves minor tenant-landlord utility upgrade disputes.",
 "watch": false,
 "topic": "Regulation & fees"
+},
+{
+"id": "be1121917c39",
+"headline": "Fitch Affirms RAK A+ Rating and Upgrades Growth",
+"summary": "Fitch Ratings has affirmed Ras Al Khaimah with an A+ credit rating. The agency also upgraded its economic growth forecast for the emirate for 2026.",
+"why": "Credit ratings and economic forecasts influence market confidence and investor sentiment in the UAE.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/business/markets/c2knrbw-fitch-affirms-ras-khaimah25e225802599s-25e225802598a25e225802599-rating-raises-1.500697760",
+"published": "2026-10-04T12:33+04:00",
+"category": "Supply & market reports",
+"impact": "Medium",
+"impact_reason": "Reflects regional economic health and investor confidence.",
+"watch": false,
+"topic": "Supply & market reports"
+},
+{
+"id": "e9d5529a5f04",
+"headline": "Etihad Rail Outlines New Passenger Rules and Timings",
+"summary": "Etihad Rail published standard operating procedures for train travellers. Passengers must pass ticket gates at least two minutes before scheduled departures.",
+"why": "New passenger transit rules affect connectivity between major UAE emirates.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/uae/transport/etihad-rail-sets-passenger-rules-with-ticket-gates-closing-two-minutes-before-departure-1.500697681",
+"published": "2026-10-04T11:05+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Important operational details for inter-emirate commuters.",
+"watch": false,
+"topic": "etihad rail"
+},
+{
+"id": "99130136071b",
+"headline": "Developers Eye Projects Along New Fourth Corridor Highway",
+"summary": "UAE property developers are exploring residential opportunities along the newly planned eighty-kilometer Fourth Corridor highway. The route connects Sharjah, Dubai, and Abu Dhabi.",
+"why": "New major highways often unlock fresh land banks for residential development.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/business/uae-property-developers-eye-fourth-corridor-highway-linking-sharjah-dubai-and-abu-dhabi",
+"published": "2026-10-04T12:40+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "Highlights future developer interest in upcoming transport corridors.",
+"watch": true,
+"topic": "Macro & geopolitics"
+},
+{
+"id": "a5a9d6ce9d28",
+"headline": "UAE Central Bank Partners With Syria and Morocco",
+"summary": "The Central Bank of the UAE agreed to strengthen bilateral financial co-operation with regulators in Syria and Morocco. The focus centers on financial stability and payment technology.",
+"why": "Central bank agreements support broader macroeconomic stability and regulatory alignment.",
+"source": "The National",
+"link": "https://www.thenationalnews.com/business/banking/2026/10/02/uae-and-syria-central-banks-agree-to-deepen-co-operation/",
+"published": "2026-10-02T21:30+04:00",
+"category": "Rates & mortgages",
+"impact": "Low",
+"impact_reason": "Broad regulatory cooperation with minimal immediate local property impact.",
+"watch": false,
+"topic": "Rates & mortgages"
 }
 ]
