@@ -54,5 +54,33 @@
 "impact_reason": "Encourages foreign investment without altering local regulations.",
 "watch": true,
 "topic": "Macro & geopolitics"
+},
+{
+"id": "15405a992bee",
+"headline": "Sharjah rents rise across key communities; Al Mamzar, Al Nabba lead",
+"summary": "",
+"why": "can move investor sentiment; expect questions about where the market is heading.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/business/sharjah-rents-rise-across-key-communities-al-mamzar-al-nabba-lead",
+"published": "2026-10-05T14:58+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": true,
+"topic": "rents"
+},
+{
+"id": "5d13a398b21f",
+"headline": "PRYPCO Blocks wants to change the way people talk about property ownership",
+"summary": "",
+"why": "can move investor sentiment; expect questions about where the market is heading.",
+"source": "The National",
+"link": "https://www.thenationalnews.com/in-focus/2026/10/05/prypco-blocks-wants-to-change-the-way-people-talk-about-property-ownership/",
+"published": "2026-10-05T15:22+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": false,
+"topic": "Macro & geopolitics"
 }
 ]
