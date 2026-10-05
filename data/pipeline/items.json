@@ -265,5 +265,32 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"05e21a549adf": {
+"id": "05e21a549adf",
+"title": "Al Maktoum International airport expansion moves forward rapidly",
+"link": "https://www.khaleejtimes.com/business-technology-review/al-maktoum-international-accelerates-toward-worlds-biggest-airport-status",
+"source": "Khaleej Times",
+"category": "Infrastructure",
+"published": "2026-10-05T08:00+04:00",
+"first_seen": "2026-10-05",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": {
+"name": "Al Maktoum International Airport expansion",
+"status": "AED 128bn terminal approved 28 Apr 2024; first phase due 2032",
+"source": "Dubai Media Office",
+"url": "https://mediaoffice.ae/en/news/2024/april/28-04/al-maktoum-international-airport"
+},
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
