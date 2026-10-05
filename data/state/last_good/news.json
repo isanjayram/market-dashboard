@@ -19,7 +19,7 @@
    "headline": "Sharjah rents rise across key communities; Al Mamzar, Al Nabba lead",
    "summary": "",
    "why": "can move investor sentiment; expect questions about where the market is heading.",
-   "age_hours": 0.6,
+   "age_hours": 0.9,
    "topic": "rents"
   },
   {
@@ -40,7 +40,7 @@
    "headline": "Gateway to Global Real Estate: Hyderabad to host UAE Property Grand Expo 2026",
    "summary": "",
    "why": "can move investor sentiment; expect questions about where the market is heading.",
-   "age_hours": 2.5,
+   "age_hours": 2.8,
    "topic": "Macro & geopolitics",
    "more": 1
   },
@@ -60,15 +60,15 @@
    "headline": "PRYPCO Blocks wants to change the way people talk about property ownership",
    "summary": "",
    "why": "can move investor sentiment; expect questions about where the market is heading.",
-   "age_hours": 0.2,
+   "age_hours": 0.5,
    "topic": "Macro & geopolitics"
   }
  ],
  "window_hours": 24,
  "count_relevant": 5,
- "count_fetched": 206,
+ "count_fetched": 208,
  "feed_errors": {},
  "mode": "rules only (daily AI cap reached)",
- "as_of": "2026-10-05T15:34+04:00",
- "saved_at": "2026-10-05T15:34+04:00"
+ "as_of": "2026-10-05T15:52+04:00",
+ "saved_at": "2026-10-05T15:52+04:00"
 }
