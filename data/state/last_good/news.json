@@ -1,52 +1,53 @@
 {
  "top": [
   {
-   "id": "05e21a549adf",
-   "title": "Al Maktoum International accelerates toward world's biggest airport status",
-   "link": "https://www.khaleejtimes.com/business-technology-review/al-maktoum-international-accelerates-toward-worlds-biggest-airport-status",
-   "source": "Khaleej Times",
+   "id": "fac8ed3413d0",
+   "title": "New Abu Dhabi beachfront homes launched on Al Reem Island",
+   "link": "https://gulfnews.com/uae/abu-dhabi/new-abu-dhabi-beachfront-homes-launched-on-al-reem-island-1.500698718",
+   "source": "Gulf News",
    "kind": "outlet",
-   "published": "2026-10-05T08:00+04:00",
+   "published": "2026-10-05T12:45+04:00",
    "tags": [
-    "Business Technology Review",
-    "Business"
+    "Abu Dhabi"
    ],
-   "teaser": "Al Maktoum International Airport is poised to become the world's largest aviation hub, with Dubai World Central (DWC) confirming that its second runway will become operational next year as scheduled. The milestone is expected to boost the airport's annual passenger handling capacity to 150 million during the first phase of the mega-expansion project, which is due to open in 2032. The $35 billion A",
-   "category": "Infrastructure",
+   "teaser": "Abu Dhabi: A new beachfront residential development has been launched on Al Reem Island, offering direct beach access and sea and mangrove views as Abu Dhabi\u2019s waterfront property market continues to expand. Bab Al Qasr Beach Resort Residence 77, developed by Burtville Developments, will occupy a 17,534-square-metre beachfront site, with around 92 per cent of its residences designed to have direct",
+   "category": "Developer news",
    "impact": "Medium",
-   "impact_reason": "Boosts regional connectivity and nearby property demand.",
+   "impact_reason": "Expands waterfront housing supply in Abu Dhabi.",
    "watch": false,
-   "headline": "Al Maktoum International Airport Expands Capacity for Next Year",
-   "summary": "Dubai World Central confirms the second runway will open next year on schedule. This development aims to scale the airport's annual capacity to 150 million passengers.",
-   "why": "Major aviation expansions directly drive local real estate demand and property values nearby.",
-   "age_hours": 3.0,
-   "topic": "al maktoum"
+   "headline": "New beachfront residences launched on Al Reem Island",
+   "summary": "Burtville Developments introduced a waterfront project named Bab Al Qasr Beach Resort Residence 77. The scheme expands Abu Dhabi's growing coastal housing inventory.",
+   "why": "New project launches increase housing supply and offer fresh options for buyers.",
+   "age_hours": 0.9,
+   "topic": "Developer news"
   },
   {
-   "id": "167b0a730760",
-   "title": "Opec+ keeps oil output targets unchanged for November",
-   "link": "https://www.thenationalnews.com/business/energy/2026/10/04/opec-keeps-oil-output-targets-unchanged-for-november/",
-   "source": "The National",
+   "id": "caa999e3d483",
+   "title": "Gateway to Global Real Estate: Hyderabad to host UAE Property Grand Expo 2026",
+   "link": "https://gulfnews.com/gn-focus/gateway-to-global-real-estate-hyderabad-to-host-uae-property-grand-expo-2026-1.500698730",
+   "source": "Gulf News",
    "kind": "outlet",
-   "published": "2026-10-04T15:30+04:00",
-   "tags": [],
-   "teaser": "Opec + kept its oil production targets unchanged for November, extending the pause it started in October after six months of gradual increases. The group's seven core members \u2013 Saudi Arabia, Iraq, Kuwait, Oman, Algeria, Russia and Kazakhstan \u2013 decided during the meeting on Sunday to \"maintain September 2026 required production for November 2026\", a statement said. The group finished unwinding 1.65",
+   "published": "2026-10-05T13:06+04:00",
+   "tags": [
+    "GN Focus"
+   ],
+   "teaser": "Indian investors are among the largest and most active international investors in the UAE\u2019s property market and this affinity is driven by their desire to diversify investments to proven and safe global markets helping them earn high returns, wealth preservation and long-term planning. Organisers of the upcoming `TOI Property Grand Expo 2026,\u2019 said the presence of reputed UAE and Indian developers",
    "category": "Macro & geopolitics",
    "impact": "Low",
-   "impact_reason": "Maintains economic stability without direct property market changes.",
-   "watch": false,
-   "headline": "Opec+ Maintains Steady Oil Production Targets for November",
-   "summary": "The alliance has chosen to keep current production targets unchanged through November. This decision extends the output pause that began last month.",
-   "why": "Oil market stability underpins overall economic confidence and investor sentiment in the UAE.",
-   "age_hours": 19.5,
-   "topic": "oil"
+   "impact_reason": "Encourages foreign investment without altering local regulations.",
+   "watch": true,
+   "headline": "Hyderabad to host UAE Property Grand Expo 2026",
+   "summary": "The upcoming expo in India aims to attract international buyers to the UAE. Indian nationals remain key investors for local real estate.",
+   "why": "This event targets a major buyer demographic to stimulate foreign capital inflow.",
+   "age_hours": 0.5,
+   "topic": "Macro & geopolitics"
   }
  ],
  "window_hours": 48,
  "count_relevant": 2,
- "count_fetched": 173,
+ "count_fetched": 208,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-05T11:01+04:00",
- "saved_at": "2026-10-05T11:01+04:00"
+ "as_of": "2026-10-05T13:37+04:00",
+ "saved_at": "2026-10-05T13:37+04:00"
 }

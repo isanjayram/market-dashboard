@@ -26,5 +26,33 @@
 "impact_reason": "Maintains economic stability without direct property market changes.",
 "watch": false,
 "topic": "oil"
+},
+{
+"id": "fac8ed3413d0",
+"headline": "New beachfront residences launched on Al Reem Island",
+"summary": "Burtville Developments introduced a waterfront project named Bab Al Qasr Beach Resort Residence 77. The scheme expands Abu Dhabi's growing coastal housing inventory.",
+"why": "New project launches increase housing supply and offer fresh options for buyers.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/uae/abu-dhabi/new-abu-dhabi-beachfront-homes-launched-on-al-reem-island-1.500698718",
+"published": "2026-10-05T12:45+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Expands waterfront housing supply in Abu Dhabi.",
+"watch": false,
+"topic": "Developer news"
+},
+{
+"id": "caa999e3d483",
+"headline": "Hyderabad to host UAE Property Grand Expo 2026",
+"summary": "The upcoming expo in India aims to attract international buyers to the UAE. Indian nationals remain key investors for local real estate.",
+"why": "This event targets a major buyer demographic to stimulate foreign capital inflow.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/gn-focus/gateway-to-global-real-estate-hyderabad-to-host-uae-property-grand-expo-2026-1.500698730",
+"published": "2026-10-05T13:06+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "Encourages foreign investment without altering local regulations.",
+"watch": true,
+"topic": "Macro & geopolitics"
 }
 ]

@@ -292,5 +292,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"fac8ed3413d0": {
+"id": "fac8ed3413d0",
+"title": "New beachfront residences launched on Al Reem Island",
+"link": "https://gulfnews.com/uae/abu-dhabi/new-abu-dhabi-beachfront-homes-launched-on-al-reem-island-1.500698718",
+"source": "Gulf News",
+"category": "Developer news",
+"published": "2026-10-05T12:45+04:00",
+"first_seen": "2026-10-05",
+"kind": "Off-plan launch",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": "Bab Al Qasr Beach Resort Residence 77",
+"developer": "Burtville Developments",
+"location": "Al Reem Island",
+"type": "residential development",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
