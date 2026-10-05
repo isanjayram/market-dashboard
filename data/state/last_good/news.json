@@ -13,12 +13,12 @@
    "teaser": "Abu Dhabi: A new beachfront residential development has been launched on Al Reem Island, offering direct beach access and sea and mangrove views as Abu Dhabi\u2019s waterfront property market continues to expand. Bab Al Qasr Beach Resort Residence 77, developed by Burtville Developments, will occupy a 17,534-square-metre beachfront site, with around 92 per cent of its residences designed to have direct",
    "category": "Developer news",
    "impact": "Medium",
-   "impact_reason": "Expands waterfront housing supply in Abu Dhabi.",
+   "impact_reason": "Adds new supply to the waterfront property market.",
    "watch": false,
    "headline": "New beachfront residences launched on Al Reem Island",
-   "summary": "Burtville Developments introduced a waterfront project named Bab Al Qasr Beach Resort Residence 77. The scheme expands Abu Dhabi's growing coastal housing inventory.",
-   "why": "New project launches increase housing supply and offer fresh options for buyers.",
-   "age_hours": 0.9,
+   "summary": "Burtville Developments introduced a new waterfront project featuring direct beach access and scenic views. This launch expands Abu Dhabi's growing coastal residential sector.",
+   "why": "It highlights new inventory in the expanding waterfront property market.",
+   "age_hours": 2.1,
    "topic": "Developer news"
   },
   {
@@ -34,20 +34,20 @@
    "teaser": "Indian investors are among the largest and most active international investors in the UAE\u2019s property market and this affinity is driven by their desire to diversify investments to proven and safe global markets helping them earn high returns, wealth preservation and long-term planning. Organisers of the upcoming `TOI Property Grand Expo 2026,\u2019 said the presence of reputed UAE and Indian developers",
    "category": "Macro & geopolitics",
    "impact": "Low",
-   "impact_reason": "Encourages foreign investment without altering local regulations.",
+   "impact_reason": "Promotes foreign investment without altering local regulations.",
    "watch": true,
    "headline": "Hyderabad to host UAE Property Grand Expo 2026",
-   "summary": "The upcoming expo in India aims to attract international buyers to the UAE. Indian nationals remain key investors for local real estate.",
-   "why": "This event targets a major buyer demographic to stimulate foreign capital inflow.",
-   "age_hours": 0.5,
+   "summary": "The upcoming expo in India aims to attract international investors seeking high returns and wealth preservation in the UAE. Indian buyers remain key participants in the local property market.",
+   "why": "It targets a major source of international capital for local real estate.",
+   "age_hours": 1.8,
    "topic": "Macro & geopolitics"
   }
  ],
  "window_hours": 48,
  "count_relevant": 2,
- "count_fetched": 208,
+ "count_fetched": 203,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-05T13:37+04:00",
- "saved_at": "2026-10-05T13:37+04:00"
+ "as_of": "2026-10-05T14:51+04:00",
+ "saved_at": "2026-10-05T14:51+04:00"
 }
