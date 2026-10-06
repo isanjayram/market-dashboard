@@ -26,5 +26,47 @@
 "impact_reason": "Promotes fractional investing without altering broader market fundamentals.",
 "watch": false,
 "topic": "Macro & geopolitics"
+},
+{
+"id": "9c82bcb1b1df",
+"headline": "Etihad Rail passengers can now add nol day passes",
+"summary": "Travelers arriving via Etihad Rail can bundle a nol pass with their ticket. This integration simplifies transit across Dubai's metro, tram, and bus networks.",
+"why": "Infrastructure enhancements improve connectivity and community appeal.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/living-in-uae/transport/etihad-rail-nol-day-pass-dubai-metro-public-transport-1.500691557",
+"published": "2026-10-06T09:39+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Improves transport connectivity across the emirate.",
+"watch": false,
+"topic": "etihad rail"
+},
+{
+"id": "cdb8fb62ce12",
+"headline": "Abu Dhabi's Eagle Hills to build Syrian projects",
+"summary": "Eagle Hills signed an agreement with the Syrian government for two residential and tourism developments. These projects will be located in Damascus and Latakia.",
+"why": "Regional developer expansion reflects broader market strategies.",
+"source": "The National",
+"link": "https://www.thenationalnews.com/business/property/2026/10/05/abu-dhabis-eagle-hills-to-develop-residential-and-tourism-projects-in-syria/",
+"published": "2026-10-05T19:01+04:00",
+"category": "Developer news",
+"impact": "Low",
+"impact_reason": "Expands developer activity outside the local market.",
+"watch": false,
+"topic": "Developer news"
+},
+{
+"id": "167b0a730760",
+"headline": "Opec+ maintains current oil production targets for November",
+"summary": "Core Opec+ members decided to keep oil output targets unchanged for November. This extends the pause initiated after previous gradual production increases.",
+"why": "Oil policies affect overall national economic health and investor confidence.",
+"source": "The National",
+"link": "https://www.thenationalnews.com/business/energy/2026/10/04/opec-keeps-oil-output-targets-unchanged-for-november/",
+"published": "2026-10-04T15:30+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "Continuation of existing policy creates no new market shock.",
+"watch": false,
+"topic": "oil"
 }
 ]
