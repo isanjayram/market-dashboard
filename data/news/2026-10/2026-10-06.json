@@ -68,5 +68,19 @@
 "impact_reason": "Continuation of existing policy creates no new market shock.",
 "watch": false,
 "topic": "oil"
+},
+{
+"id": "a60e3e0f9cf6",
+"headline": "Eagle Hills signs Damascus and Latakia project deals",
+"summary": "Abu Dhabi developer Eagle Hills has entered a framework agreement with Syria for residential and tourism projects in Damascus and Latakia. Financial terms for the developments have not been disclosed.",
+"why": "Tracks regional expansion by major UAE-based real estate developers.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/business/property/eagle-hills-enters-syria-with-damascus-latakia-deals-1.500700060",
+"published": "2026-10-06T12:53+04:00",
+"category": "Developer news",
+"impact": "Low",
+"impact_reason": "Indicates international expansion by a local developer.",
+"watch": false,
+"topic": "Developer news"
 }
 ]
