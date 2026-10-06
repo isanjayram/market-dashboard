@@ -341,5 +341,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"0f6329b07f9c": {
+"id": "0f6329b07f9c",
+"title": "Yemeni forces secure Bab Al Mandeb, UAE-Jordan launch $2.3bn railway and Eagle Hills signs Syria projects",
+"link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/06/yemeni-forces-secure-bab-al-mandeb-uae-jordan-launch-23bn-railway-and-eagle-hills-signs-syria-projects/",
+"source": "The National",
+"category": "Developer news",
+"published": "2026-10-06T09:43+04:00",
+"first_seen": "2026-10-06",
+"kind": "Off-plan launch",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

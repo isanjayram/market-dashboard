@@ -82,5 +82,48 @@
 "impact_reason": "Indicates international expansion by a local developer.",
 "watch": false,
 "topic": "Developer news"
+},
+{
+"id": "5fe91700002d",
+"headline": "du Pay to move into a subscription model for its remittance services",
+"summary": "",
+"why": "rules or fees may change what clients pay or who can buy, so check the details before advising.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/business/telecom/du-pay-to-move-subscription-model-remittance-services",
+"published": "2026-10-06T12:35+04:00",
+"category": "Regulation & fees",
+"impact": "Medium",
+"impact_reason": "New launch or developer update",
+"watch": true,
+"topic": "Regulation & fees"
+},
+{
+"id": "0f6329b07f9c",
+"headline": "Yemeni forces secure Bab Al Mandeb, UAE-Jordan launch $2.3bn railway and Eagle Hills signs Syria projects",
+"summary": "",
+"why": "new launches or results change the options and prices you can offer clients.",
+"source": "The National",
+"link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/06/yemeni-forces-secure-bab-al-mandeb-uae-jordan-launch-23bn-railway-and-eagle-hills-signs-syria-projects/",
+"published": "2026-10-06T09:43+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "New launch or developer update",
+"watch": false,
+"more": 1,
+"topic": "Developer news"
+},
+{
+"id": "13a58246362b",
+"headline": "Abu Dhabi targets 70% food self-sufficiency by 2040 under new ADAFSA strategy",
+"summary": "",
+"why": "can move investor sentiment; expect questions about where the market is heading.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/uae/abu-dhabi/abu-dhabi-targets-70-food-self-sufficiency-by-2040-under-new-adafsa-strategy-1.500700053",
+"published": "2026-10-06T12:55+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": false,
+"topic": "Macro & geopolitics"
 }
 ]
