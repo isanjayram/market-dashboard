@@ -82,5 +82,33 @@
 "impact_reason": "High-profile project launch drives buyer interest.",
 "watch": false,
 "topic": "Developer news"
+},
+{
+"id": "0f6329b07f9c",
+"headline": "Yemeni forces secure Bab Al Mandeb, UAE-Jordan launch $2.5bn railway and Eagle Hills signs Syria projects",
+"summary": "",
+"why": "new launches or results change the options and prices you can offer clients.",
+"source": "The National",
+"link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/06/yemeni-forces-secure-bab-al-mandeb-uae-jordan-launch-23bn-railway-and-eagle-hills-signs-syria-projects/",
+"published": "2026-10-06T09:43+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "New launch or developer update",
+"watch": false,
+"topic": "Developer news"
+},
+{
+"id": "8b16ec44ec6a",
+"headline": "Oman arrests man linked to more than 60 online fraud cases",
+"summary": "",
+"why": "can move investor sentiment; expect questions about where the market is heading.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/world/gulf/oman/oman-arrests-man-linked-to-more-than-60-online-fraud-cases-1.500701476",
+"published": "2026-10-07T12:43+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": false,
+"topic": "Macro & geopolitics"
 }
 ]
