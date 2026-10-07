@@ -11,20 +11,41 @@
    "teaser": "Hundreds of educators across private schools and universities in Dubai are benefiting from a Golden Visa drive recognising exceptional teaching. The annual programme, which was launched under the directive of Sheikh Hamdan bin Mohammed, Crown Prince of Dubai, Deputy Prime Minister and Minister of Defence, grants long-term residency to high-performing teachers and educators working in private early",
    "category": "Regulation & fees",
    "impact": "High",
-   "impact_reason": "Expands residency eligibility and long-term buyer pool.",
+   "impact_reason": "Boosts long-term residency and local investor confidence.",
    "watch": false,
-   "headline": "Dubai Grants Golden Visas to Outstanding Teachers",
-   "summary": "Hundreds of private school and university educators in Dubai received long-term residency. This initiative honors exceptional teaching contributions across the emirate.",
-   "why": "Residency reforms directly influence long-term property investment decisions by expanding the pool of eligible homeowners.",
-   "age_hours": 35.4,
+   "headline": "Dubai Grants Golden Visas to Outstanding Educators",
+   "summary": "Hundreds of exceptional teachers in Dubai schools and universities received Golden Visas. This initiative honors teaching excellence under the directive of Sheikh Hamdan.",
+   "why": "It affects residency rules and long-term population stability for property buyers.",
+   "age_hours": 37.3,
    "topic": "golden visa"
+  },
+  {
+   "id": "566818ae109b",
+   "title": "India's central bank hikes rates for first time in more than three years",
+   "link": "https://www.khaleejtimes.com/business/india-central-bank-hikes-interest-rates",
+   "source": "Khaleej Times",
+   "kind": "outlet",
+   "published": "2026-10-07T09:21+04:00",
+   "tags": [
+    "Business"
+   ],
+   "teaser": "India central bank hike interest rate 25 basis points to 5.5%",
+   "category": "Rates & mortgages",
+   "impact": "Medium",
+   "impact_reason": "Shifts borrowing costs and foreign investment flows.",
+   "watch": true,
+   "headline": "India Central Bank Raises Interest Rates",
+   "summary": "India's central bank increased interest rates by 25 basis points to 5.5 percent, marking the first hike in over three years.",
+   "why": "Changes in foreign interest rates can influence cross-border capital flows and NRI investments in Dubai real estate.",
+   "age_hours": 1.9,
+   "topic": "Rates & mortgages"
   }
  ],
  "window_hours": 48,
- "count_relevant": 1,
- "count_fetched": 170,
+ "count_relevant": 2,
+ "count_fetched": 181,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-07T09:17+04:00",
- "saved_at": "2026-10-07T09:18+04:00"
+ "as_of": "2026-10-07T11:13+04:00",
+ "saved_at": "2026-10-07T11:13+04:00"
 }

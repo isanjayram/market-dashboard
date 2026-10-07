@@ -12,5 +12,19 @@
 "impact_reason": "Expands residency eligibility and long-term buyer pool.",
 "watch": false,
 "topic": "golden visa"
+},
+{
+"id": "566818ae109b",
+"headline": "India Central Bank Raises Interest Rates",
+"summary": "India's central bank increased interest rates by 25 basis points to 5.5 percent, marking the first hike in over three years.",
+"why": "Changes in foreign interest rates can influence cross-border capital flows and NRI investments in Dubai real estate.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/business/india-central-bank-hikes-interest-rates",
+"published": "2026-10-07T09:21+04:00",
+"category": "Rates & mortgages",
+"impact": "Medium",
+"impact_reason": "Shifts borrowing costs and foreign investment flows.",
+"watch": true,
+"topic": "Rates & mortgages"
 }
 ]
