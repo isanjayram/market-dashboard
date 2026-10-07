@@ -26,5 +26,33 @@
 "impact_reason": "Shifts borrowing costs and foreign investment flows.",
 "watch": true,
 "topic": "Rates & mortgages"
+},
+{
+"id": "516b7a02c9ca",
+"headline": "Dubai bans mixing families and bachelors in shared homes",
+"summary": "New municipal regulations prohibit mixing families and individual occupants within the same residential unit. Shared housing is now strictly limited to designated municipal zones.",
+"why": "The law directly impacts residential leasing structures and landlord compliance across the emirate.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/business/property/dubai-bans-mixing-families-and-individuals-in-shared-housing-units-1.500701345",
+"published": "2026-10-07T11:07+04:00",
+"category": "Regulation & fees",
+"impact": "Medium",
+"impact_reason": "Changes occupancy rules for shared rental properties.",
+"watch": false,
+"topic": "Regulation & fees"
+},
+{
+"id": "2673a05c3db7",
+"headline": "Dubai restricts bachelor housing in tourist zones",
+"summary": "Shared housing units are now restricted to specific areas designated by the Dubai Municipality. Bachelor accommodations are prohibited on major tourist and commercial streets.",
+"why": "New municipal rules alter how residential and shared properties can be utilized.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/uae/dubai-shared-housing-bachelor-accommodation-rules-zones",
+"published": "2026-10-07T12:57+04:00",
+"category": "Regulation & fees",
+"impact": "Low",
+"impact_reason": "Restricts specific rental formats in designated areas.",
+"watch": false,
+"topic": "Regulation & fees"
 }
 ]
