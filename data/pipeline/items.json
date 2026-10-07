@@ -363,5 +363,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"6847f2f6b68b": {
+"id": "6847f2f6b68b",
+"title": "Danube Launches Shahrukhz Residences in Dubai",
+"link": "https://gulfnews.com/business/corporate-news/shah-rukh-khan-rizwan-sajan-reunite-for-shahrukhz-residences-by-danube-1.500701625",
+"source": "Gulf News",
+"category": "Developer news",
+"published": "2026-10-07T14:07+04:00",
+"first_seen": "2026-10-07",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": "Shahrukhz Residences",
+"developer": "Danube Properties",
+"location": "Dubai Maritime City",
+"type": "residential tower",
+"launch_date": null,
+"handover": null,
+"starting_price": "Dh1.65 million",
+"payment_plan": "flexible payment plan"
+}
 }
 }

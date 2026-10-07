@@ -54,5 +54,33 @@
 "impact_reason": "Restricts specific rental formats in designated areas.",
 "watch": false,
 "topic": "Regulation & fees"
+},
+{
+"id": "7d9aa0fd9ab0",
+"headline": "Dubai Home Sales Drop in Third Quarter",
+"summary": "Residential property transaction volumes and values in Dubai declined significantly during the third quarter. Market reports indicate that regional uncertainties caused buyers to adopt a more cautious approach.",
+"why": "Quarterly sales figures provide critical insight into shifting market sentiment and demand.",
+"source": "The National",
+"link": "https://www.thenationalnews.com/business/property/2026/10/07/dubai-home-sale-transactions-fall-in-third-quarter-due-to-regional-uncertainty/",
+"published": "2026-10-07T13:55+04:00",
+"category": "Supply & market reports",
+"impact": "High",
+"impact_reason": "Reflects a significant shift in overall market sentiment.",
+"watch": false,
+"topic": "Supply & market reports"
+},
+{
+"id": "6847f2f6b68b",
+"headline": "Danube Launches Shahrukhz Residences in Dubai",
+"summary": "Danube Properties has announced Shahrukhz Residences, a fully furnished waterfront residential project developed in partnership with Bollywood star Shah Rukh Khan. This launch follows the rapid sell-out of their previous commercial tower collaboration.",
+"why": "New branded residential project launches impact market supply and buyer demand.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/business/corporate-news/shah-rukh-khan-rizwan-sajan-reunite-for-shahrukhz-residences-by-danube-1.500701625",
+"published": "2026-10-07T14:07+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "High-profile project launch drives buyer interest.",
+"watch": false,
+"topic": "Developer news"
 }
 ]
