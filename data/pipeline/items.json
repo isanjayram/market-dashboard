@@ -407,5 +407,32 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"371bcab67a8b": {
+"id": "371bcab67a8b",
+"title": "DHG Properties completes Helvetia Residences handover in JVC",
+"link": "https://www.khaleejtimes.com/business-technology-review/dhg-properties-hands-over-200-million-helvetia-residences-its-first-completed-development-in-dubai",
+"source": "Khaleej Times",
+"category": "Developer news",
+"published": "2026-10-08T14:23+04:00",
+"first_seen": "2026-10-08",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": {
+"name": "Dubai Metro Gold Line",
+"status": "approved 22 Apr 2026; due 9 Sep 2032 (18 stations, underground)",
+"source": "Dubai Media Office",
+"url": "https://www.mediaoffice.ae/en/news/2026/april/22-04/mohammed-bin-rashid-approves-dubai-metro-gold-line"
+},
+"fields": {
+"project": "Helvetia Residences",
+"developer": "DHG Properties",
+"location": "Jumeirah Village Circle (JVC)",
+"type": "residential",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

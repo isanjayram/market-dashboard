@@ -110,5 +110,48 @@
 "impact_reason": "Expands waterfront amenities on a residential development.",
 "watch": false,
 "topic": "Developer news"
+},
+{
+"id": "371bcab67a8b",
+"headline": "DHG Properties completes Helvetia Residences handover in JVC",
+"summary": "DHG Properties has started handing over units at its $200 million Helvetia Residences project in JVC. This marks the developer's first completed project in Dubai.",
+"why": "It increases the completed residential supply in JVC.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/business-technology-review/dhg-properties-hands-over-200-million-helvetia-residences-its-first-completed-development-in-dubai",
+"published": "2026-10-08T14:23+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Highlights completed residential supply from developers.",
+"watch": true,
+"more": 1,
+"topic": "Developer news"
+},
+{
+"id": "70dc18232da6",
+"headline": "Amwaj Development finishes Starlight Park in Meydan",
+"summary": "Amwaj Development successfully delivered Starlight Park in Meydan on schedule. This marks the boutique developer's first finished project in Dubai.",
+"why": "It brings new residential units to the Meydan market.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/gn-focus/company-news/amwaj-development-completes-first-dubai-handover-with-on-time-delivery-of-starlight-park-1.500703020",
+"published": "2026-10-08T13:30+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Marks a new developer's delivery milestone in Dubai.",
+"watch": false,
+"topic": "Developer news"
+},
+{
+"id": "b81a4aaf824c",
+"headline": "Dubai introduces new shared housing law with strict penalties",
+"summary": "A comprehensive regulatory framework for shared housing sets clear rules for landlords and tenants. Violators face heavy fines up to Dh1 million.",
+"why": "It establishes legal standards and penalties for shared rentals.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/business/property/dubai-shared-housing-law-who-can-rent-sublet-and-face-fines-of-up-to-dh1-million-1.500702961",
+"published": "2026-10-08T13:02+04:00",
+"category": "Regulation & fees",
+"impact": "Low",
+"impact_reason": "Imposes compliance rules on shared rental properties.",
+"watch": false,
+"topic": "rent"
 }
 ]
