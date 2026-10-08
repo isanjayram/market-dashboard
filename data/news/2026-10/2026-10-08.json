@@ -153,5 +153,50 @@
 "impact_reason": "Imposes compliance rules on shared rental properties.",
 "watch": false,
 "topic": "rent"
+},
+{
+"id": "f17ca9838f41",
+"headline": "DHG Properties completes first Dubai project; starts handover of $200m Helvetia Residences",
+"summary": "",
+"why": "new launches or results change the options and prices you can offer clients.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/business/property/dhg-properties-completes-first-dubai-project-starts-handover-of-200m-helvetia-residences-1.500703150",
+"published": "2026-10-08T16:48+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "New launch or developer update",
+"watch": true,
+"topic": "Developer news"
+},
+{
+"id": "5468eb323c2d",
+"headline": "Kuwait jails three for 10 years over embezzlement of minors’ funds in London property deal",
+"summary": "",
+"why": "can move investor sentiment; expect questions about where the market is heading.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/world/gulf/kuwait/kuwait-jails-three-for-10-years-over-embezzlement-of-minors-funds-in-london-property-deal-1.500703221",
+"published": "2026-10-08T15:37+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": false,
+"topic": "Macro & geopolitics"
+},
+{
+"id": "8148fe350214",
+"headline": "Barsha 1, Karama: Full list of Dubai areas where shared housing is allowed",
+"summary": "",
+"why": "can move investor sentiment; expect questions about where the market is heading.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/uae/full-list-of-dubai-areas-where-shared-housing-is-allowed",
+"published": "2026-10-08T15:23+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": false,
+"also": [
+"Gulf News"
+],
+"topic": "Macro & geopolitics"
 }
 ]
