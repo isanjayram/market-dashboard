@@ -385,5 +385,27 @@
 "starting_price": "Dh1.65 million",
 "payment_plan": "flexible payment plan"
 }
+},
+"5c3c522a14fc": {
+"id": "5c3c522a14fc",
+"title": "Etihad Rail introduces flexible peak pricing with surcharges",
+"link": "https://www.khaleejtimes.com/uae/abu-dhabi-dubai-etihad-rail-tickets-peak-hours-pricing",
+"source": "Khaleej Times",
+"category": "Infrastructure",
+"published": "2026-10-08T10:33+04:00",
+"first_seen": "2026-10-08",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

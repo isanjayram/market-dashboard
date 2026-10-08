@@ -1,7 +1,7 @@
 {
- "checked_at": "2026-10-07T15:23+04:00",
+ "checked_at": "2026-10-08T11:23+04:00",
  "site": "https://propertywithsanjay.pages.dev",
- "projects": 8,
+ "projects": 0,
  "counts": {
   "ok": 0,
   "changed": 0,
@@ -10,16 +10,7 @@
  },
  "changed": [],
  "problems": [],
- "unchecked": [
-  "Emaar South",
-  "Expo City Dubai",
-  "South Square",
-  "Azizi Venice",
-  "Expo Living",
-  "Hayat",
-  "Waada",
-  "South Bay"
- ],
+ "unchecked": [],
  "news": [],
- "saved_at": "2026-10-07T15:23+04:00"
+ "saved_at": "2026-10-08T11:23+04:00"
 }

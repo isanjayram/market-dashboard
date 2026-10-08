@@ -1,0 +1,44 @@
+[
+{
+"id": "7d9aa0fd9ab0",
+"headline": "Dubai home sales drop in third quarter amid regional tensions",
+"summary": "Both transaction volumes and overall sales values declined during the third quarter. Market reports indicate buyers adopted a cautious approach due to geopolitical uncertainty.",
+"why": "Transaction volumes and values directly reflect prevailing market sentiment and buyer demand.",
+"source": "The National",
+"link": "https://www.thenationalnews.com/business/property/2026/10/07/dubai-home-sale-transactions-fall-in-third-quarter-due-to-regional-uncertainty/",
+"published": "2026-10-07T13:55+04:00",
+"category": "Supply & market reports",
+"impact": "High",
+"impact_reason": "Reflects a shift in buyer demand and market sentiment.",
+"watch": false,
+"topic": "Supply & market reports"
+},
+{
+"id": "5c3c522a14fc",
+"headline": "Etihad Rail introduces flexible peak pricing with surcharges",
+"summary": "Abu Dhabi and Dubai train tickets now cost more during high-demand periods. The rail operator confirmed the flexible pricing structure applies to weekend and peak travel.",
+"why": "Transport connectivity influences commuter choices and regional accessibility for property buyers.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/uae/abu-dhabi-dubai-etihad-rail-tickets-peak-hours-pricing",
+"published": "2026-10-08T10:33+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Affects transport costs between emirates.",
+"watch": false,
+"topic": "etihad rail"
+},
+{
+"id": "7441c84074d4",
+"headline": "Dubai gives landlords one year for shared housing compliance",
+"summary": "Property owners must align properties with new shared accommodation rules within twelve months. The initiative targets overcrowding and illegal subletting across designated urban areas.",
+"why": "Landlords must adjust rental property management to comply with municipal compliance standards.",
+"source": "The National",
+"link": "https://www.thenationalnews.com/news/uae/2026/10/07/dubai-shared-housing-law-44-areas-one-year-comply/",
+"published": "2026-10-07T17:00+04:00",
+"category": "Regulation & fees",
+"impact": "Low",
+"impact_reason": "Enforces compliance without shifting overall property costs.",
+"watch": false,
+"topic": "Regulation & fees"
+}
+]
