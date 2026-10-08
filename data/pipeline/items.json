@@ -434,5 +434,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"7b3e04dae834": {
+"id": "7b3e04dae834",
+"title": "US-Iran war: Saudi-led coalition strikes 82 Houthi targets after airport attacks, tanker hit off Qatar, Iran-Oman agree Hormuz routes as Brent stays above $100",
+"link": "https://gulfnews.com/world/mena/us-iran-war-saudi-led-coalition-strikes-82-houthi-targets-after-airport-attacks-tanker-hit-off-qatar-iran-oman-agree-hormuz-routes-as-brent-stays-above-100-1.500702560",
+"source": "Gulf News",
+"category": "Infrastructure",
+"published": "2026-10-08T07:43+04:00",
+"first_seen": "2026-10-08",
+"kind": "Infrastructure",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
