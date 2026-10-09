@@ -65,6 +65,6 @@ feeds = [
 
 [listings]
 # The Top 10 on Sanjay's site: /watch.json lists each project's facts and where to check them.
-site_url = "https://propertywithsanjay.pages.dev"
-watch_url = "https://propertywithsanjay.pages.dev/watch.json"
+site_url = "https://propertywithsanjay.com"
+watch_url = "https://propertywithsanjay.com/watch.json"
 news_days = 14

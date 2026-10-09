@@ -9,17 +9,17 @@
     try { localStorage.setItem("theme", light ? "light" : "dark"); } catch (e) { /* private mode */ }
   });
 
-  // Tabs: Brief / Market / Rent / News / More (the hash keeps the tab on reload).
+  // Tabs: Brief / Market / Rent / Villas / News / More (the hash keeps the tab on reload).
   const showTab = (tab) => {
-    if (!/^(brief|market|rent|news|more)$/.test(tab)) tab = "brief";
+    if (!/^(brief|market|rent|villas|news|more)$/.test(tab)) tab = "brief";
     root.dataset.tab = tab;
     if (tab === "news") loadArchive();
   };
   addEventListener("hashchange", () => { showTab(location.hash.slice(1)); scrollTo(0, 0); });
   document.querySelectorAll("[data-go]").forEach((a) => a.addEventListener("click", () => setTimeout(() => scrollTo(0, 0))));
-  // On a PC, keys 1-5 jump between sections (ignored while typing in the search box).
+  // On a PC, keys 1-6 jump between sections (ignored while typing in the search box).
   addEventListener("keydown", (e) => {
-    const tab = ["brief", "market", "rent", "news", "more"][Number(e.key) - 1];
+    const tab = ["brief", "market", "rent", "villas", "news", "more"][Number(e.key) - 1];
     if (!tab || e.metaKey || e.ctrlKey || e.altKey || /^(INPUT|TEXTAREA)$/.test(document.activeElement?.tagName)) return;
     location.hash = tab;
   });

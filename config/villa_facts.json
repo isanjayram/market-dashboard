@@ -1,0 +1,1290 @@
+{
+ "asOf": "1 October 2026",
+ "beach": {
+  "gap": "Nobody publishes a single count of beachfront villas. These are the island and beach addresses with a known size.",
+  "rows": [
+   {
+    "name": "Palm Jumeirah",
+    "where": "Dubai",
+    "count": "1,730",
+    "note": "Villas on the register, all titled. Built out, so supply is fixed.",
+    "src": "DLD register"
+   },
+   {
+    "name": "Palm Jebel Ali",
+    "where": "Dubai",
+    "count": "1,619",
+    "note": "Villa plots on the register. 544 are under construction on Fronds A to F, with first handovers late 2026 into 2027.",
+    "src": "DLD register"
+   },
+   {
+    "name": "The World islands",
+    "where": "Dubai",
+    "count": "165",
+    "note": "Villas on the register across all islands, 12 of them titled.",
+    "src": "DLD register"
+   },
+   {
+    "name": "Saadiyat Beach Villas",
+    "where": "Abu Dhabi",
+    "count": "620",
+    "note": "Villas and townhouses in one gated community on Saadiyat Island.",
+    "src": "Community site"
+   },
+   {
+    "name": "Floating Seahorse, The World",
+    "where": "Dubai",
+    "count": "131",
+    "note": "Floating villas with an underwater level, at The Heart of Europe.",
+    "src": "Developer"
+   },
+   {
+    "name": "Amali Island, The World",
+    "where": "Dubai",
+    "count": "24",
+    "note": "Villas reached by boat. First phase sold out.",
+    "src": "Developer"
+   }
+  ],
+  "more": "Also beachfront, without a published villa count: Jumeirah Bay Island, Jumeirah Asora Bay and Dubai Islands in Dubai; Nawayef and Nobu on Saadiyat, Ramhan Island, Jubail Island and Hudayriyat in Abu Dhabi."
+ },
+ "build": {
+  "dubai": [
+   {
+    "value": "39,291",
+    "label": "villas and townhouses under construction, due by 2029. DLD’s own register shows a similar 36,839 not yet titled.",
+    "src": "ValuStrat"
+   },
+   {
+    "value": "68,297",
+    "label": "launched and not yet finished, which includes projects where building has not started. 58,349 of them (85.4%) are already sold.",
+    "src": "Fäm Properties"
+   },
+   {
+    "value": "<20%",
+    "label": "of Dubai’s roughly 1 million homes are villas or townhouses, so fewer than 200,000 are standing today.",
+    "src": "ValuStrat"
+   },
+   {
+    "value": "9,382",
+    "label": "villas and townhouses were completed in 2025.",
+    "src": "ValuStrat"
+   },
+   {
+    "value": "128,620",
+    "label": "villas and townhouses in freehold areas hold a title today, with 36,839 more registered but not yet titled.",
+    "src": "DLD register"
+   }
+  ],
+  "abuDhabi": [
+   {
+    "value": "409,000",
+    "label": "homes of every type stand in Abu Dhabi emirate today.",
+    "src": "ADREC"
+   },
+   {
+    "value": "71,000",
+    "label": "more homes are due by 2030. The biggest year is 2028, with about 21,800.",
+    "src": "ADREC"
+   },
+   {
+    "value": "82%",
+    "label": "of first-half 2026 home sales were off-plan, so most buyers are buying homes still being built.",
+    "src": "ADREC"
+   }
+  ],
+  "dubaiSplit": {
+   "offPlan": 9214,
+   "ready": 6085
+  },
+  "gap": "Abu Dhabi does not publish how many of its 409,000 homes, or of the 71,000 on the way, are villas or townhouses."
+ },
+ "communities": {
+  "dubai": [
+   {
+    "value": "95",
+    "label": "DLD areas recorded at least one villa or townhouse sale",
+    "src": "DLD"
+   },
+   {
+    "value": "393",
+    "label": "separate projects and phases recorded a sale",
+    "src": "DLD"
+   }
+  ],
+  "abuDhabi": [
+   {
+    "value": "6",
+    "label": "districts will take 77% of new supply to 2030: Saadiyat, Al Reem, Yas, Zayed City, Khalifa City and Hudayriyat",
+    "src": "ADREC"
+   }
+  ],
+  "gap": "There is no official list that counts villa communities in either emirate. The Dubai figures count where sales were actually registered.",
+  "busiest": [
+   {
+    "name": "DAMAC Islands 2",
+    "value": 3735,
+    "show": "3,735",
+    "note": "Al Yelayiss 1"
+   },
+   {
+    "name": "Grand Polo Club and DAMAC Riverside",
+    "value": 1462,
+    "show": "1,462",
+    "note": "Dubai Investment Park 2"
+   },
+   {
+    "name": "Dubai South",
+    "value": 1237,
+    "show": "1,237",
+    "note": "Madinat Al Mataar"
+   },
+   {
+    "name": "The Valley",
+    "value": 1171,
+    "show": "1,171",
+    "note": "Al Yufrah 1"
+   },
+   {
+    "name": "Villanova and Arabian Ranches 3",
+    "value": 967,
+    "show": "967",
+    "note": "Wadi Al Safa 5"
+   },
+   {
+    "name": "Mudon",
+    "value": 543,
+    "show": "543",
+    "note": "Al Hebiah 6"
+   },
+   {
+    "name": "The Springs, Meadows and Lakes",
+    "value": 487,
+    "show": "487",
+    "note": "Emirates Living"
+   },
+   {
+    "name": "Lunaya",
+    "value": 399,
+    "show": "399",
+    "note": "Saih Shuaib 1"
+   }
+  ]
+ },
+ "developers": {
+  "soldNote": "Villa and townhouse sales registered in Dubai, last 12 months, grouped by developer brand.",
+  "sold": [
+   {
+    "name": "DAMAC",
+    "value": 3913,
+    "show": "3,913",
+    "note": "AED 13.4bn"
+   },
+   {
+    "name": "Emaar",
+    "value": 3682,
+    "show": "3,682",
+    "note": "AED 16.3bn"
+   },
+   {
+    "name": "Dubai South Properties",
+    "value": 912,
+    "show": "912",
+    "note": "AED 4.5bn"
+   },
+   {
+    "name": "Reportage",
+    "value": 776,
+    "show": "776",
+    "note": "AED 1.4bn"
+   },
+   {
+    "name": "Mudon (Dubai Holding)",
+    "value": 523,
+    "show": "523",
+    "note": "AED 2.0bn"
+   },
+   {
+    "name": "Villanova (Dubai Holding)",
+    "value": 448,
+    "show": "448",
+    "note": "AED 1.4bn"
+   },
+   {
+    "name": "Nshama",
+    "value": 289,
+    "show": "289",
+    "note": "AED 0.9bn"
+   },
+   {
+    "name": "Majid Al Futtaim",
+    "value": 222,
+    "show": "222",
+    "note": "AED 1.1bn"
+   }
+  ],
+  "soldCaveat": "About 2,200 sales could not be matched to a developer and are not counted. DAMAC sold the most homes; Emaar took the most money.",
+  "priceyNote": "Highest median sale price in Dubai, developers with at least 30 villa sales in the year.",
+  "pricey": [
+   {
+    "name": "Taraf",
+    "value": 16.27,
+    "show": "AED 16.3m",
+    "note": "AED 3,545 per sq ft"
+   },
+   {
+    "name": "Victory Heights",
+    "value": 11.4,
+    "show": "AED 11.4m",
+    "note": "AED 1,668 per sq ft"
+   },
+   {
+    "name": "Jumeirah Golf Estates",
+    "value": 10.6,
+    "show": "AED 10.6m",
+    "note": "AED 2,279 per sq ft"
+   },
+   {
+    "name": "Jumeirah Park (Nakheel)",
+    "value": 8.7,
+    "show": "AED 8.7m",
+    "note": "AED 1,304 per sq ft"
+   },
+   {
+    "name": "Leos",
+    "value": 8.27,
+    "show": "AED 8.3m",
+    "note": "AED 3,026 per sq ft"
+   },
+   {
+    "name": "Al Barari",
+    "value": 7.93,
+    "show": "AED 7.9m",
+    "note": "AED 4,005 per sq ft, the highest"
+   },
+   {
+    "name": "Ellington",
+    "value": 7.78,
+    "show": "AED 7.8m",
+    "note": "AED 3,054 per sq ft"
+   }
+  ],
+  "abuDhabi": [
+   {
+    "value": "23",
+    "unit": "bn",
+    "label": "AED of Abu Dhabi sales by Modon in the first half of 2026, the most of any UAE developer. All home types.",
+    "src": "Gulf News"
+   },
+   {
+    "value": "9.5",
+    "unit": "bn",
+    "label": "AED of UAE development sales by Aldar in the same six months. All home types.",
+    "src": "Gulf News"
+   },
+   {
+    "value": "448",
+    "label": "sales at Al Naseem, Abu Dhabi’s top villa project by value: AED 4.34bn, median AED 9.63m",
+    "src": "ADREC"
+   }
+  ],
+  "abuDhabiGap": "No public ranking splits Abu Dhabi developers by villas alone."
+ },
+ "dldWindow": "12 months to 25 Sep 2026",
+ "growth": {
+  "dubaiNote": "Change in the median price per sq ft of ready villas and townhouses, last 12 months against the 12 before. Communities with at least 50 resales in each year. The area is the one DLD registers, which for a finished villa is the plot.",
+  "dubai": [
+   {
+    "name": "Mudon",
+    "value": 27.4,
+    "show": "+27.4%",
+    "note": "AED 1,673"
+   },
+   {
+    "name": "Rukan",
+    "value": 21.9,
+    "show": "+21.9%",
+    "note": "AED 1,560"
+   },
+   {
+    "name": "Jumeirah Golf Estates",
+    "value": 16.4,
+    "show": "+16.4%",
+    "note": "AED 2,567"
+   },
+   {
+    "name": "The Villa",
+    "value": 15.6,
+    "show": "+15.6%",
+    "note": "AED 1,013"
+   },
+   {
+    "name": "Dubai Sports City",
+    "value": 13.9,
+    "show": "+13.9%",
+    "note": "AED 1,668"
+   },
+   {
+    "name": "Palm Jumeirah",
+    "value": 12.9,
+    "show": "+12.9%",
+    "note": "AED 4,870"
+   },
+   {
+    "name": "Springs, Meadows, Lakes",
+    "value": 12.4,
+    "show": "+12.4%",
+    "note": "AED 1,701"
+   },
+   {
+    "name": "Jumeirah Park",
+    "value": 11.5,
+    "show": "+11.5%",
+    "note": "AED 1,340"
+   },
+   {
+    "name": "Town Square",
+    "value": 9.7,
+    "show": "+9.7%",
+    "note": "AED 1,358"
+   },
+   {
+    "name": "Jumeirah Islands",
+    "value": 8.9,
+    "show": "+8.9%",
+    "note": "AED 2,233"
+   },
+   {
+    "name": "Tilal Al Ghaf",
+    "value": 7.3,
+    "show": "+7.3%",
+    "note": "AED 2,474"
+   },
+   {
+    "name": "DAMAC Hills",
+    "value": 6.1,
+    "show": "+6.1%",
+    "note": "AED 1,302"
+   },
+   {
+    "name": "Arabian Ranches 2",
+    "value": 5.1,
+    "show": "+5.1%",
+    "note": "AED 1,389"
+   },
+   {
+    "name": "The Valley",
+    "value": 3.4,
+    "show": "+3.4%",
+    "note": "AED 1,435"
+   },
+   {
+    "name": "Arabian Ranches 3",
+    "value": -2.2,
+    "show": "−2.2%",
+    "note": "AED 1,924"
+   }
+  ],
+  "caveat": "A median moves when the mix of homes sold changes, not only when prices do. Jumeirah Village Triangle shows +43% on this measure and is left out for that reason. All Dubai ready villas together: AED 1,476 per sq ft, up 8.5%.",
+  "others": [
+   {
+    "value": "+2%",
+    "label": "Dubai villa values, year to June 2026. Jumeirah Islands +17.9%, Emirates Hills +10.7%, The Meadows +10%.",
+    "src": "ValuStrat"
+   },
+   {
+    "value": "+12%",
+    "label": "Abu Dhabi villa prices, year on year, on repeat sales of the same homes",
+    "src": "ADREC"
+   },
+   {
+    "value": "+9%",
+    "label": "Abu Dhabi villa rents on new leases, year on year",
+    "src": "ADREC"
+   }
+  ],
+  "abuDhabiGap": "ADREC does not publish villa price growth community by community. Press reports put Yas Island and Saadiyat Island villas up by 10% to 15% over the year, with Saadiyat the most expensive."
+ },
+ "guide": [
+  {
+   "term": "Villa or townhouse",
+   "text": "A villa stands alone on its own plot. A townhouse shares one or both side walls with its neighbours, so the plot is smaller and the price lower. A “semi-detached” or “twin villa” shares one wall."
+  },
+  {
+   "term": "Plot and built-up area",
+   "text": "The plot is the land. Built-up area (BUA) is the floor space inside. Price per sq ft is usually quoted on BUA, so a big garden makes a home look expensive per sq ft."
+  },
+  {
+   "term": "Freehold",
+   "text": "You own the home and the land with no end date, and can sell, rent or pass it on. For foreign buyers this is only possible inside designated areas in Dubai and investment zones in Abu Dhabi."
+  },
+  {
+   "term": "Leasehold, usufruct, musataha",
+   "text": "Rights to use a property for a fixed term, up to 99 years. You do not own the land. Resale value falls as the term runs down, and banks lend less readily."
+  },
+  {
+   "term": "Off-plan",
+   "text": "Bought from the developer before it is finished. You pay in stages and the money goes into an escrow account that the developer can only draw on as building progresses."
+  },
+  {
+   "term": "Ready or secondary",
+   "text": "Finished and transferable now. You can see it, rent it from day one and take a normal mortgage, but you pay everything at transfer."
+  },
+  {
+   "term": "Oqood",
+   "text": "Dubai’s registration of an off-plan sale. It proves the unit is yours until the title deed is issued at handover. Check it exists before any resale."
+  },
+  {
+   "term": "Transfer fees",
+   "text": "Dubai: 4% of the price to Dubai Land Department, plus small admin and trustee fees. Abu Dhabi: 2% of the price. Agency commission is usually 2% on resale."
+  },
+  {
+   "term": "Service charges",
+   "text": "The yearly fee for running the community. Villas are charged on plot or built-up area, and it is far lower per sq ft than in a tower, but you pay for your own garden, pool and AC upkeep."
+  },
+  {
+   "term": "Payment plan",
+   "text": "The schedule for an off-plan purchase, for example 60/40: 60% during construction, 40% at handover. A post-handover plan lets you keep paying after you get the keys."
+  },
+  {
+   "term": "Mortgage",
+   "text": "For expats on a ready home, banks lend up to 80% below AED 5m and 70% above it on a first property. On off-plan the cap is 50%."
+  },
+  {
+   "term": "Golden Visa",
+   "text": "Property worth AED 2 million or more can qualify the owner for a 10-year residence visa. Mortgaged and off-plan homes can count, under conditions."
+  },
+  {
+   "term": "Handover and snagging",
+   "text": "At handover you inspect the home and list defects for the developer to fix. Use a snagging company. The developer is liable for defects for a year, and for the structure for ten."
+  },
+  {
+   "term": "NOC",
+   "text": "A no-objection certificate from the developer, needed before a resale. It confirms service charges are paid."
+  },
+  {
+   "term": "Title deed",
+   "text": "The ownership document, issued by Dubai Land Department or by Abu Dhabi’s land registry. It states whether the home is freehold or leasehold. Always read it."
+  },
+  {
+   "term": "Net yield",
+   "text": "Yearly rent, minus service charge, upkeep and empty months, divided by the price plus fees. Villas usually yield less than apartments and gain more in value."
+  },
+  {
+   "term": "Who regulates",
+   "text": "Dubai: Dubai Land Department and its agency RERA. Abu Dhabi: the Abu Dhabi Real Estate Centre, ADREC."
+  }
+ ],
+ "hero": [
+  {
+   "value": "15,299",
+   "label": "Dubai villa and townhouse sales, last 12 months",
+   "src": "DLD"
+  },
+  {
+   "value": "77.7",
+   "unit": "bn",
+   "label": "AED paid for them in Dubai",
+   "src": "DLD"
+  },
+  {
+   "value": "3,695",
+   "label": "Abu Dhabi villa and townhouse sales, first half of 2026",
+   "src": "ADREC"
+  },
+  {
+   "value": "34.3",
+   "unit": "bn",
+   "label": "AED paid for them in Abu Dhabi",
+   "src": "ADREC"
+  }
+ ],
+ "palms": [
+  {
+   "name": "Palm Jumeirah",
+   "tag": "Built and trading",
+   "facts": [
+    [
+     "Villa sales, last 12 months",
+     "84",
+     "DLD"
+    ],
+    [
+     "Money paid",
+     "AED 4.1bn",
+     "DLD"
+    ],
+    [
+     "Median price",
+     "AED 37.9m",
+     "DLD"
+    ],
+    [
+     "Median per sq ft",
+     "AED 4,878",
+     "DLD"
+    ],
+    [
+     "Ready villas, year on year",
+     "+12.9% per sq ft",
+     "DLD"
+    ],
+    [
+     "Top sale",
+     "AED 260m, September 2026",
+     "DLD"
+    ],
+    [
+     "Villas on the register",
+     "1,730",
+     "DLD register"
+    ]
+   ],
+   "note": "Every villa is resale now; one off-plan villa sale was registered all year. The record in this data is AED 300m in May 2025."
+  },
+  {
+   "name": "Palm Jebel Ali",
+   "tag": "Under construction",
+   "facts": [
+    [
+     "Size",
+     "7 islands, 16 fronds",
+     "Nakheel"
+    ],
+    [
+     "Beachfront",
+     "90 km+",
+     "Nakheel"
+    ],
+    [
+     "Villas on the register",
+     "1,619",
+     "DLD register"
+    ],
+    [
+     "Being built now",
+     "544 on Fronds A to F",
+     "Nakheel"
+    ],
+    [
+     "First handovers",
+     "Late 2026 into 2027",
+     "Nakheel"
+    ],
+    [
+     "Beach Collection, 5 to 6 bed",
+     "From AED 25.2m",
+     "Nakheel"
+    ],
+    [
+     "Coral Collection, 6 to 7 bed",
+     "From AED 42.6m",
+     "Nakheel"
+    ],
+    [
+     "Contracts awarded",
+     "AED 13bn+",
+     "Nakheel"
+    ]
+   ],
+   "note": "Prices are from Nakheel’s August 2026 release of 44 villas on Frond F. I could not isolate Palm Jebel Ali sales in the DLD records, so there is no sales count here."
+  },
+  {
+   "name": "Jebel Ali Village and Al Furjan",
+   "tag": "On the mainland",
+   "facts": [
+    [
+     "Villa and townhouse sales, last 12 months",
+     "206",
+     "DLD"
+    ],
+    [
+     "Money paid",
+     "AED 0.92bn",
+     "DLD"
+    ],
+    [
+     "Median price",
+     "AED 4.0m",
+     "DLD"
+    ],
+    [
+     "Median per sq ft",
+     "AED 1,669",
+     "DLD"
+    ],
+    [
+     "Year on year",
+     "+2.6% per sq ft",
+     "DLD"
+    ],
+    [
+     "Top sale",
+     "AED 12.6m",
+     "DLD"
+    ]
+   ],
+   "note": "This is DLD’s “Jabal Ali First” area, all ready homes. It is the affordable side of the Jebel Ali name."
+  }
+ ],
+ "sources": [
+  {
+   "name": "DLD register",
+   "what": "Dubai Land Department buildings register via data.dubai, snapshot of 1 October 2026: 223,701 villa and townhouse records. My own counts.",
+   "url": "https://data.dubai/en/l/459613"
+  },
+  {
+   "name": "DLD",
+   "what": "Dubai Land Department sales records via data.dubai, 1 Aug 2024 to 25 Sep 2026. My own counts and medians.",
+   "url": "https://data.dubai"
+  },
+  {
+   "name": "ADREC",
+   "what": "Abu Dhabi Real Estate Centre, market report for the first half of 2026, and its sales data as tabulated by Projectory.",
+   "url": "https://adrec.gov.ae/en/news/press-29---adrec-releases-the-abu-dhabi-real-estate-market-report-for-h1-2026"
+  },
+  {
+   "name": "ValuStrat",
+   "what": "Dubai stock, pipeline and price index, January to June 2026.",
+   "url": "https://valustrat.com/pages/dubai-real-estate-220000-units-under-construction-2029"
+  },
+  {
+   "name": "Fäm Properties",
+   "what": "Homes under construction and share already sold, 2026.",
+   "url": "https://teslaproperties.ae/blog/dubai-real-estate-surge-75-of-564000-homes-under-construction-sold-as-villa-absorption-reaches-85"
+  },
+  {
+   "name": "Savills",
+   "what": "Dubai villa and townhouse pipeline by developer, mid-2025 to 2027.",
+   "url": "https://www.savills.co.uk/blog/article/379101/middle-east-articles/over-50--of-dubai-s-new-villas-and-townhouses-will-be-built-by-just-two-developers.aspx"
+  },
+  {
+   "name": "Nakheel",
+   "what": "Palm Jebel Ali release, 20 August 2026.",
+   "url": "https://www.nakheel.com/en/media-centre/press-releases/news-detail/2026/08/20/nakheel-unveils-limited-collection-of-44-beachfront-villas-on-palm-jebel-ali-s-frond-f"
+  },
+  {
+   "name": "Gulf News",
+   "what": "Top 10 UAE developers by sales, first half of 2026, 13 August 2026.",
+   "url": "https://gulfnews.com/business/property/uaes-top-10-developers-sell-dh1137-billion-of-property-in-six-months-1.500639749"
+  },
+  {
+   "name": "Cavendish Maxwell",
+   "what": "Dubai residential market, first half of 2026.",
+   "url": "https://www.zawya.com/en/press-release/research-studies/dubai-adds-24800-new-residential-units-in-h1-2026-as-market-shifts-from-launch-led-to-delivery-driven-says-cavendish-maxwell-414719"
+  }
+ ],
+ "supplyDemand": {
+  "gap": "Dubai Land Department files townhouses and villas under one type, “Villa”, so Dubai’s official records cannot split them. Abu Dhabi’s can.",
+  "townhouse": [
+   {
+    "value": "664",
+    "label": "Abu Dhabi townhouse sales in the first half of 2026, worth AED 1.87bn",
+    "src": "ADREC"
+   },
+   {
+    "value": "5,100+",
+    "label": "townhouses in DAMAC’s Dubai pipeline alone. Townhouses are most of what is coming.",
+    "src": "Savills"
+   },
+   {
+    "value": "17,468",
+    "label": "villas and townhouses due in Dubai from mid-2025 to 2027, mostly townhouses",
+    "src": "Savills"
+   }
+  ],
+  "villa": [
+   {
+    "value": "3,031",
+    "label": "Abu Dhabi villa sales in the first half of 2026, worth AED 32.43bn",
+    "src": "ADREC"
+   },
+   {
+    "value": "7.67",
+    "unit": "m",
+    "label": "AED median Abu Dhabi villa price in the first half of 2026",
+    "src": "ADREC"
+   },
+   {
+    "value": "95%",
+    "label": "of the 5,376 Dubai villas due for handover in 2026 were already sold",
+    "src": "Fäm Properties"
+   }
+  ],
+  "monthly": [
+   [
+    "Oct 25",
+    1554
+   ],
+   [
+    "Nov",
+    1356
+   ],
+   [
+    "Dec",
+    1910
+   ],
+   [
+    "Jan 26",
+    2272
+   ],
+   [
+    "Feb",
+    1824
+   ],
+   [
+    "Mar",
+    1389
+   ],
+   [
+    "Apr",
+    1081
+   ],
+   [
+    "May",
+    634
+   ],
+   [
+    "Jun",
+    798
+   ],
+   [
+    "Jul",
+    818
+   ],
+   [
+    "Aug",
+    759
+   ],
+   [
+    "Sep",
+    722
+   ]
+  ],
+  "trend": "Dubai sales peaked at 2,272 in January 2026 and have run at 630 to 820 a month since May. First-half 2026 was 7,998 sales against 8,832 a year earlier, down 9%.",
+  "beds": [
+   {
+    "name": "2 bedrooms",
+    "value": 649,
+    "show": "649"
+   },
+   {
+    "name": "3 bedrooms",
+    "value": 4467,
+    "show": "4,467"
+   },
+   {
+    "name": "4 bedrooms",
+    "value": 5927,
+    "show": "5,927"
+   },
+   {
+    "name": "5 bedrooms",
+    "value": 1826,
+    "show": "1,826"
+   },
+   {
+    "name": "6 and 7 bedrooms",
+    "value": 65,
+    "show": "65"
+   }
+  ],
+  "prices": [
+   {
+    "name": "Under AED 2m",
+    "value": 969,
+    "show": "969"
+   },
+   {
+    "name": "AED 2m to 5m",
+    "value": 10741,
+    "show": "10,741"
+   },
+   {
+    "name": "AED 5m to 10m",
+    "value": 2548,
+    "show": "2,548"
+   },
+   {
+    "name": "AED 10m to 30m",
+    "value": 858,
+    "show": "858"
+   },
+   {
+    "name": "AED 30m and above",
+    "value": 183,
+    "show": "183"
+   }
+  ]
+ },
+ "tenure": {
+  "total": "223,701",
+  "counts": [
+   {
+    "value": "165,459",
+    "pct": 74,
+    "label": "Freehold",
+    "text": "In areas where any nationality can own. 128,620 already hold a title; 36,839 are registered but not yet titled, mostly off-plan."
+   },
+   {
+    "value": "53,595",
+    "pct": 24,
+    "label": "Citizens’ areas",
+    "text": "Outside the foreign-ownership areas. Freehold for UAE and GCC nationals only, so an expat cannot buy these."
+   },
+   {
+    "value": "4,647",
+    "pct": 2,
+    "label": "Leasehold",
+    "text": "Long leases, in three places only."
+   }
+  ],
+  "leasehold": [
+   {
+    "name": "Green Community and Verdana",
+    "value": 3939,
+    "show": "3,939",
+    "note": "Dubai Investment Park 1"
+   },
+   {
+    "name": "Dubai Silicon Oasis villas",
+    "value": 561,
+    "show": "561",
+    "note": "Nadd Hessa"
+   },
+   {
+    "name": "Uptown Mirdif",
+    "value": 147,
+    "show": "147",
+    "note": "Mirdif"
+   }
+  ],
+  "freehold": [
+   {
+    "name": "DAMAC Hills 2",
+    "value": 13385,
+    "show": "13,385"
+   },
+   {
+    "name": "The Valley",
+    "value": 7948,
+    "show": "7,948"
+   },
+   {
+    "name": "The Springs, Meadows and Lakes",
+    "value": 7487,
+    "show": "7,487"
+   },
+   {
+    "name": "Dubai South",
+    "value": 7370,
+    "show": "7,370"
+   },
+   {
+    "name": "DAMAC Lagoons",
+    "value": 4396,
+    "show": "4,396"
+   },
+   {
+    "name": "Arabian Ranches",
+    "value": 4287,
+    "show": "4,287"
+   },
+   {
+    "name": "Al Furjan",
+    "value": 4249,
+    "show": "4,249"
+   },
+   {
+    "name": "Arabian Ranches 3",
+    "value": 4220,
+    "show": "4,220"
+   },
+   {
+    "name": "Mudon",
+    "value": 4153,
+    "show": "4,153"
+   },
+   {
+    "name": "Town Square",
+    "value": 3790,
+    "show": "3,790"
+   }
+  ],
+  "citizens": [
+   {
+    "name": "Mirdif",
+    "value": 10110,
+    "show": "10,110"
+   },
+   {
+    "name": "Jumeirah 1, 2 and 3",
+    "value": 5570,
+    "show": "5,570"
+   },
+   {
+    "name": "Umm Suqeim 1, 2 and 3",
+    "value": 4535,
+    "show": "4,535"
+   },
+   {
+    "name": "Al Barsha 1, 2 and 3",
+    "value": 2989,
+    "show": "2,989"
+   },
+   {
+    "name": "Al Safa 1 and 2",
+    "value": 2342,
+    "show": "2,342"
+   },
+   {
+    "name": "Al Bada",
+    "value": 2338,
+    "show": "2,338"
+   },
+   {
+    "name": "Al Rashidiya",
+    "value": 2139,
+    "show": "2,139"
+   }
+  ],
+  "caveat": "The freehold and leasehold counts cover every villa in those areas. The citizens’ areas count is a floor: those homes only reach this register when they are recorded with DLD, mostly for renting out, so the true number is higher. Freehold villas sit in 64 DLD areas; citizens’ villas are spread over 151.",
+  "abuDhabiGap": "Abu Dhabi has no public register like this, so it cannot be counted. The logic is the same: a villa inside an investment zone is freehold for any nationality, and a villa outside one is for UAE and GCC nationals.",
+  "rows": [
+   {
+    "place": "Dubai",
+    "freehold": "Foreign buyers can own freehold only inside areas the Ruler has designated. Almost every master-planned villa community sold to expats sits in one.",
+    "leasehold": "Leases of up to 99 years, and usufruct rights, exist in a few designated areas. Outside the designated areas only UAE and GCC nationals can own.",
+    "law": "Law No. 7 of 2006"
+   },
+   {
+    "place": "Abu Dhabi",
+    "freehold": "Since April 2019 foreign buyers can own freehold, land included, inside investment zones such as Saadiyat, Yas, Al Reem, Al Raha Beach, Al Reef, Masdar City and Hudayriyat.",
+    "leasehold": "Before 2019 foreigners held villas there on 99-year musataha or usufruct rights, and older contracts can still be on those terms. Outside the zones, ownership is for UAE and GCC nationals.",
+    "law": "Law No. 13 of 2019"
+   }
+  ],
+  "zones": {
+   "value": "72,000+",
+   "label": "homes of all types sit inside Abu Dhabi’s investment zones, more than 22% of the emirate’s stock. Al Reem Island alone has 27,500.",
+   "src": "ADREC"
+  }
+ },
+ "top20": [
+  {
+   "name": "DAMAC Islands 2",
+   "dev": "DAMAC",
+   "where": "Dubailand, Dubai",
+   "sales": "3,511",
+   "value": "AED 11.7bn",
+   "median": "AED 2.9m",
+   "ppsf": "AED 1,822",
+   "offPlan": "100%",
+   "beds": "4 and 5",
+   "homes": "4,659",
+   "note": "Launched late 2025 across ten island-themed clusters. Nothing is built yet."
+  },
+  {
+   "name": "Grand Polo Club and Resort",
+   "dev": "Emaar",
+   "where": "Dubai Investment Park 2, Dubai",
+   "sales": "1,195",
+   "value": "AED 4.8bn",
+   "median": "AED 3.7m",
+   "ppsf": "AED 2,232",
+   "offPlan": "100%",
+   "beds": "3 and 4",
+   "homes": "3,105",
+   "note": "Equestrian community."
+  },
+  {
+   "name": "The Valley",
+   "dev": "Emaar",
+   "where": "Dubai–Al Ain Road, Dubai",
+   "sales": "1,171",
+   "value": "AED 4.0bn",
+   "median": "AED 3.2m",
+   "ppsf": "AED 1,495",
+   "offPlan": "74%",
+   "beds": "3 and 4",
+   "homes": "9,311",
+   "note": "Early phases are handed over and reselling; resale prices rose 3.4% in a year."
+  },
+  {
+   "name": "Hayat",
+   "dev": "Dubai South Properties",
+   "where": "Dubai South, Dubai",
+   "sales": "644",
+   "value": "AED 3.2bn",
+   "median": "AED 4.7m",
+   "ppsf": "AED 1,353",
+   "offPlan": "100%",
+   "beds": "4 and 5",
+   "homes": "902",
+   "note": "Large villas near Al Maktoum Airport."
+  },
+  {
+   "name": "Mudon",
+   "dev": "Dubai Holding",
+   "where": "Dubailand, Dubai",
+   "sales": "543",
+   "value": "AED 2.1bn",
+   "median": "AED 3.7m",
+   "ppsf": "AED 1,644",
+   "offPlan": "27%",
+   "beds": "3 and 4",
+   "homes": "4,154",
+   "note": "Mostly resale. The fastest-rising community in this data, up 27.4%."
+  },
+  {
+   "name": "The Springs, Meadows and Lakes",
+   "dev": "Emaar",
+   "where": "Emirates Living, Dubai",
+   "sales": "487",
+   "value": "AED 3.7bn",
+   "median": "AED 5.0m",
+   "ppsf": "AED 1,701",
+   "offPlan": "0%",
+   "beds": "2 and 3",
+   "homes": "7,587",
+   "note": "All resale, built 2004 to 2008. Up 12.4% in a year."
+  },
+  {
+   "name": "Al Naseem",
+   "dev": "Modon",
+   "where": "Hudayriyat Island, Abu Dhabi",
+   "sales": "448",
+   "value": "AED 4.3bn",
+   "median": "AED 9.6m",
+   "ppsf": null,
+   "offPlan": "100%",
+   "beds": "4 to 6",
+   "homes": null,
+   "note": "Abu Dhabi’s top villa project. These are six months of sales (first half of 2026), not twelve."
+  },
+  {
+   "name": "Lunaya",
+   "dev": "Zaya",
+   "where": "Saih Shuaib, Dubai",
+   "sales": "399",
+   "value": "AED 3.2bn",
+   "median": "AED 6.6m",
+   "ppsf": "AED 2,712",
+   "offPlan": "100%",
+   "beds": "4",
+   "homes": "564",
+   "note": "Lagoon villas launched in 2026. Handover planned for 2029."
+  },
+  {
+   "name": "Villanova",
+   "dev": "Dubai Holding",
+   "where": "Dubailand, Dubai",
+   "sales": "371",
+   "value": "AED 1.2bn",
+   "median": "AED 3.2m",
+   "ppsf": "AED 1,496",
+   "offPlan": "33%",
+   "beds": "3 and 4",
+   "homes": "4,684",
+   "note": "La Tilia and La Violeta phases still selling off-plan; the rest is resale."
+  },
+  {
+   "name": "Arabian Ranches 3",
+   "dev": "Emaar",
+   "where": "Dubailand, Dubai",
+   "sales": "343",
+   "value": "AED 1.3bn",
+   "median": "AED 3.3m",
+   "ppsf": "AED 1,804",
+   "offPlan": "36%",
+   "beds": "3 and 4",
+   "homes": "4,220",
+   "note": "The one community here where resale prices slipped, down 2.2%."
+  },
+  {
+   "name": "Nad Al Sheba Gardens",
+   "dev": "Meraas",
+   "where": "Nad Al Sheba, Dubai",
+   "sales": "333",
+   "value": "AED 2.0bn",
+   "median": "AED 6.1m",
+   "ppsf": "AED 2,627",
+   "offPlan": "98%",
+   "beds": "3 to 5",
+   "homes": "1,878",
+   "note": "Close to Downtown, sold phase by phase."
+  },
+  {
+   "name": "Emaar South",
+   "dev": "Emaar",
+   "where": "Dubai South, Dubai",
+   "sales": "325",
+   "value": "AED 1.0bn",
+   "median": "AED 2.9m",
+   "ppsf": "AED 1,424",
+   "offPlan": "40%",
+   "beds": "3 and 4",
+   "homes": null,
+   "note": "Golf-course townhouses. The lowest entry price among the Emaar communities here."
+  },
+  {
+   "name": "MBR City District 11",
+   "dev": "G&Co, Leos and others",
+   "where": "Meydan, Dubai",
+   "sales": "309",
+   "value": "AED 3.0bn",
+   "median": "AED 6.7m",
+   "ppsf": "AED 2,126",
+   "offPlan": "55%",
+   "beds": "4 and 5",
+   "homes": "3,574",
+   "note": "The Fields and Knightsbridge are the main projects."
+  },
+  {
+   "name": "Reportage Hills",
+   "dev": "Reportage",
+   "where": "Dubailand, Dubai",
+   "sales": "292",
+   "value": "AED 0.6bn",
+   "median": "AED 2.0m",
+   "ppsf": "AED 1,417",
+   "offPlan": "100%",
+   "beds": "3",
+   "homes": "902",
+   "note": "Among the cheapest new townhouses in Dubai."
+  },
+  {
+   "name": "Town Square",
+   "dev": "Nshama",
+   "where": "Al Qudra Road, Dubai",
+   "sales": "289",
+   "value": "AED 0.9bn",
+   "median": "AED 2.9m",
+   "ppsf": "AED 1,358",
+   "offPlan": "0%",
+   "beds": "3 and 4",
+   "homes": "3,792",
+   "note": "All resale. Up 9.7% in a year."
+  },
+  {
+   "name": "Arabian Ranches",
+   "dev": "Emaar",
+   "where": "Dubailand, Dubai",
+   "sales": "279",
+   "value": "AED 2.3bn",
+   "median": "AED 6.8m",
+   "ppsf": "AED 1,379",
+   "offPlan": "0%",
+   "beds": "3 to 6",
+   "homes": "4,301",
+   "note": "The original, on big plots. Up 2.3% in a year."
+  },
+  {
+   "name": "South Bay and the Residential District",
+   "dev": "Dubai South Properties",
+   "where": "Dubai South, Dubai",
+   "sales": "268",
+   "value": "AED 1.3bn",
+   "median": "AED 4.2m",
+   "ppsf": "AED 1,237",
+   "offPlan": "40%",
+   "beds": "4 and 5",
+   "homes": "2,204",
+   "note": "The lowest price per sq ft on this list."
+  },
+  {
+   "name": "DAMAC Riverside",
+   "dev": "DAMAC",
+   "where": "Dubai Investment Park 2, Dubai",
+   "sales": "267",
+   "value": "AED 0.8bn",
+   "median": "AED 2.8m",
+   "ppsf": "AED 1,744",
+   "offPlan": "100%",
+   "beds": "4 and 5",
+   "homes": "2,110",
+   "note": "Townhouse clusters, none built yet."
+  },
+  {
+   "name": "Reportage Village",
+   "dev": "Reportage",
+   "where": "Dubailand, Dubai",
+   "sales": "264",
+   "value": "AED 0.3bn",
+   "median": "AED 1.3m",
+   "ppsf": "AED 1,254",
+   "offPlan": "100%",
+   "beds": "2 and 3",
+   "homes": "1,752",
+   "note": "The cheapest homes on this list."
+  },
+  {
+   "name": "Jumeirah Village Circle",
+   "dev": "Various",
+   "where": "JVC, Dubai",
+   "sales": "248",
+   "value": "AED 0.9bn",
+   "median": "AED 3.3m",
+   "ppsf": "AED 1,618",
+   "offPlan": "5%",
+   "beds": "3 and 4",
+   "homes": "3,248",
+   "note": "Resale townhouses from many small developers. Up 5.8% in a year."
+  }
+ ],
+ "top20Note": "Ranked by number of sales. Tilal Al Ghaf (222 sales) is next. No other Abu Dhabi villa project has published sales figures, so only Al Naseem appears.",
+ "unique": {
+  "gap": "There is no register of “unique” villas, so no total exists. These are the ones with numbers behind them.",
+  "rows": [
+   {
+    "name": "Floating Seahorse",
+    "where": "The Heart of Europe, The World",
+    "figure": "131 villas",
+    "note": "Three floors on the water, with the bedroom level below the surface.",
+    "src": "Developer"
+   },
+   {
+    "name": "Amali Island",
+    "where": "The World",
+    "figure": "24 villas",
+    "note": "22 sales registered since 2024. Median AED 56.9m, top sale AED 220m in March 2026.",
+    "src": "DLD"
+   },
+   {
+    "name": "Zuha Island",
+    "where": "The World",
+    "figure": "6 sales",
+    "note": "Private-island villas. Median AED 68.6m, top sale AED 79.2m.",
+    "src": "DLD"
+   },
+   {
+    "name": "Sweden Beach Palaces",
+    "where": "The Heart of Europe, The World",
+    "figure": "10 palaces",
+    "note": "Beach mansions on Sweden Island.",
+    "src": "Developer"
+   },
+   {
+    "name": "Eome",
+    "where": "Palm Jumeirah",
+    "figure": "AED 300m",
+    "note": "Three sales above AED 200m since 2024, the highest villa prices in Dubai’s records.",
+    "src": "DLD"
+   },
+   {
+    "name": "Emirates Hills",
+    "where": "Dubai",
+    "figure": "AED 95.2m",
+    "note": "Value of a typical villa, AED 5,600 per sq ft. Custom-built mansions on a golf course.",
+    "src": "ValuStrat"
+   },
+   {
+    "name": "Coral Collection",
+    "where": "Palm Jebel Ali",
+    "figure": "From AED 42.6m",
+    "note": "Six and seven bedroom beach villas of 11,500 to 12,500 sq ft.",
+    "src": "Nakheel"
+   }
+  ]
+ }
+}

@@ -15,7 +15,7 @@
 <title>Morning Brief · {{ today_label }}</title>
 <script>
 try { if (localStorage.getItem("theme") === "light") document.documentElement.dataset.theme = "light"; } catch (e) {}
-(function () { var t = (location.hash || "").slice(1); if (!/^(brief|market|rent|news|more)$/.test(t)) t = "brief"; document.documentElement.dataset.tab = t; })();
+(function () { var t = (location.hash || "").slice(1); if (!/^(brief|market|rent|villas|news|more)$/.test(t)) t = "brief"; document.documentElement.dataset.tab = t; })();
 </script>
 <style>{{ css|safe }}</style>
 </head>
@@ -239,6 +239,159 @@ try { if (localStorage.getItem("theme") === "light") document.documentElement.da
 {%- endif %}
 </section>
 
+{# ============================== VILLAS ============================== #}
+{%- macro stats(items) %}
+  {%- for s in items %}
+  <div class="wrow"><div><b class="vf-n">{{ s.value }}{% if s.unit %}<span class="unit"> {{ s.unit }}</span>{% endif %}</b><small>{{ s.label }}</small></div><div class="r small muted">{{ s.src }}</div></div>
+  {%- endfor %}
+{%- endmacro %}
+<section class="tab" id="villas" aria-label="Villa and townhouse market facts">
+{%- if villa %}
+  <div class="card hero">
+    <div class="eyebrow">Villas and townhouses · {{ villa.dldWindow }}</div>
+    <div class="hero-n">{{ villa.hero[0].value }}<em>Dubai sales</em></div>
+    <div class="hero-sub"><span class="v">AED {{ villa.hero[1].value }}{{ villa.hero[1].unit }}</span><span class="pill flat">paid in Dubai, 12 months</span></div>
+    <div class="cmp vf-cmp">
+      <div><small>Abu Dhabi sales, H1 2026</small><b>{{ villa.hero[2].value }}</b></div>
+      <div><small>Paid in Abu Dhabi</small><b>AED {{ villa.hero[3].value }}{{ villa.hero[3].unit }}</b></div>
+    </div>
+    <p class="foot">Reference figures, checked {{ villa.asOf }}. They do not update each morning.</p>
+  </div>
+
+  <div class="card">
+    <h2>Sales by month <small>Dubai</small></h2>
+    {{ villa.charts.monthly|safe }}
+    <p class="small">{{ villa.supplyDemand.trend }}</p>
+  </div>
+  <div class="card">
+    <h2>What sells <small>Dubai, 12 months</small></h2>
+    <div class="seg wide" data-range-group="vf-sell" role="group" aria-label="Split by">
+      <button type="button" data-range="vf-beds" aria-pressed="true">By bedrooms</button><button type="button" data-range="vf-prices" aria-pressed="false">By price</button>
+    </div>
+    <div data-group="vf-sell" data-panel="vf-beds">{{ villa.charts.beds|safe }}</div>
+    <div data-group="vf-sell" data-panel="vf-prices" hidden>{{ villa.charts.prices|safe }}</div>
+    <p class="foot">{{ villa.supplyDemand.gap }}</p>
+  </div>
+  <div class="card">
+    <h2>Villas against townhouses <small>Abu Dhabi</small></h2>
+    {{ stats(villa.supplyDemand.villa) }}{{ stats(villa.supplyDemand.townhouse) }}
+  </div>
+
+  <div class="card">
+    <h2>Busiest communities <small>sales, 12 months</small></h2>
+    {{ villa.charts.busiest|safe }}
+    {{ stats(villa.communities.dubai) }}{{ stats(villa.communities.abuDhabi) }}
+    <p class="foot">{{ villa.communities.gap }}</p>
+  </div>
+  <div class="card">
+    <h2>Price growth <small>ready villas, by community</small></h2>
+    {{ villa.charts.growth|safe }}
+    <p class="small">{{ villa.growth.dubaiNote }}</p>
+    {{ stats(villa.growth.others) }}
+    <p class="foot">{{ villa.growth.caveat }} {{ villa.growth.abuDhabiGap }}</p>
+  </div>
+
+  <div class="card">
+    <h2>Built or building <small>Dubai</small></h2>
+    {{ stats(villa.build.dubai) }}
+    <div class="split" aria-hidden="true"><span style="flex:{{ villa.build.dubaiSplit.offPlan }}"></span><span style="flex:{{ villa.build.dubaiSplit.ready }}"></span></div>
+    <div class="lg"><i class="sw off"></i>{{ villa.build.dubaiSplit.offPlan|num }} off-plan sales · <i class="sw ready"></i>{{ villa.build.dubaiSplit.ready|num }} ready, last 12 months</div>
+  </div>
+  <div class="card">
+    <h2>Built or building <small>Abu Dhabi</small></h2>
+    {{ stats(villa.build.abuDhabi) }}
+    <p class="foot">{{ villa.build.gap }}</p>
+  </div>
+
+  <div class="card">
+    <h2>Who can own <small>{{ villa.tenure.total }} Dubai villas on the register</small></h2>
+    {%- for c in villa.tenure.counts %}
+    <div class="wrow"><div><b>{{ c.label }} · {{ c.pct }}%</b><small>{{ c.text }}</small></div><div class="r"><b class="num">{{ c.value }}</b></div></div>
+    {%- endfor %}
+    <div class="seg wide" data-range-group="vf-ten" role="group" aria-label="Area list">
+      <button type="button" data-range="vf-free" aria-pressed="true">Freehold</button><button type="button" data-range="vf-lease" aria-pressed="false">Leasehold</button><button type="button" data-range="vf-cit" aria-pressed="false">Citizens</button>
+    </div>
+    <div data-group="vf-ten" data-panel="vf-free">{{ villa.charts.freehold|safe }}</div>
+    <div data-group="vf-ten" data-panel="vf-lease" hidden>{{ villa.charts.leasehold|safe }}</div>
+    <div data-group="vf-ten" data-panel="vf-cit" hidden>{{ villa.charts.citizens|safe }}</div>
+    {{ stats([villa.tenure.zones]) }}
+    {%- for r in villa.tenure.rows %}
+    <details class="dev"><summary><b>{{ r.place }}: the rules</b></summary>
+      <p class="small"><b>Freehold.</b> {{ r.freehold }}</p><p class="small"><b>Leasehold.</b> {{ r.leasehold }}</p>
+      {%- if r.law %}<p class="small muted">{{ r.law }}</p>{% endif %}
+    </details>
+    {%- endfor %}
+    <p class="foot">{{ villa.tenure.caveat }} {{ villa.tenure.abuDhabiGap }}</p>
+  </div>
+
+  <div class="card">
+    <h2>Developers <small>Dubai villa sales, 12 months</small></h2>
+    <div class="seg wide" data-range-group="vf-dev" role="group" aria-label="Rank by">
+      <button type="button" data-range="vf-sold" aria-pressed="true">Most sold</button><button type="button" data-range="vf-pricey" aria-pressed="false">Highest price</button>
+    </div>
+    <div data-group="vf-dev" data-panel="vf-sold">{{ villa.charts.sold|safe }}<p class="small">{{ villa.developers.soldNote }} {{ villa.developers.soldCaveat }}</p></div>
+    <div data-group="vf-dev" data-panel="vf-pricey" hidden>{{ villa.charts.pricey|safe }}<p class="small">{{ villa.developers.priceyNote }}</p></div>
+    {{ stats(villa.developers.abuDhabi) }}
+    <p class="foot">{{ villa.developers.abuDhabiGap }}</p>
+  </div>
+
+  <div class="card">
+    <h2>Beachfront <small>villas with a known count</small></h2>
+    {%- for r in villa.beach.rows %}
+    <div class="wrow"><div><b>{{ r.name }}</b><small>{{ r.where }} · {{ r.note }}</small></div><div class="r"><b class="num">{{ r.count }}</b><br><span class="small muted">{{ r.src }}</span></div></div>
+    {%- endfor %}
+    <p class="foot">{{ villa.beach.gap }} {{ villa.beach.more }}</p>
+  </div>
+
+  <h2 class="sec">The Palms</h2>
+  {%- for p in villa.palms %}
+  <details class="card lm"><summary><b>{{ p.name }}</b><small>{{ p.tag }}</small></summary>
+    {%- for f in p.facts %}
+    <div class="wrow"><div><small>{{ f[0] }}</small></div><div class="r small"><b>{{ f[1] }}</b> <span class="muted">{{ f[2] }}</span></div></div>
+    {%- endfor %}
+    {%- if p.note %}<p class="small">{{ p.note }}</p>{% endif %}
+  </details>
+  {%- endfor %}
+
+  <h2 class="sec">Top 20 by sales</h2>
+  <div class="card">
+    {%- for p in villa.top20 %}
+    <details class="dev"><summary><span class="rank">{{ loop.index }}</span><b>{{ p.name }}</b><span class="r">{{ p.sales }}</span></summary>
+      <p class="small muted">{{ p.dev }} · {{ p.where }}</p>
+      <div class="wrow"><div><small>Money paid</small></div><div class="r small"><b>{{ p.value }}</b></div></div>
+      <div class="wrow"><div><small>Median price</small></div><div class="r small"><b>{{ p.median }}</b> · {{ p.ppsf }} per sq ft</div></div>
+      <div class="wrow"><div><small>Off-plan share</small></div><div class="r small"><b>{{ p.offPlan }}</b></div></div>
+      <div class="wrow"><div><small>Bedrooms · homes</small></div><div class="r small"><b>{{ p.beds }}</b> · {{ p.homes }}</div></div>
+      {%- if p.note %}<p class="small">{{ p.note }}</p>{% endif %}
+    </details>
+    {%- endfor %}
+    <p class="foot">{{ villa.top20Note }}</p>
+  </div>
+
+  <h2 class="sec">One of a kind</h2>
+  <div class="card">
+    {%- for r in villa.unique.rows %}
+    <div class="wrow"><div><b>{{ r.name }}</b><small>{{ r.where }} · {{ r.note }}</small></div><div class="r small"><b>{{ r.figure }}</b><br><span class="muted">{{ r.src }}</span></div></div>
+    {%- endfor %}
+    <p class="foot">{{ villa.unique.gap }}</p>
+  </div>
+
+  <h2 class="sec">Villa terms, A to Z</h2>
+  <div class="card">
+    {%- for g in villa.guide %}
+    <details class="dev"><summary><b>{{ g.term }}</b></summary><p class="small">{{ g.text }}</p></details>
+    {%- endfor %}
+  </div>
+
+  <div class="card">
+    <h2>Sources</h2>
+    {%- for s in villa.sources %}
+    <p class="small"><b>{{ s.name }}.</b> {{ s.what }}{% if s.url %} <a href="{{ s.url }}" target="_blank" rel="noopener">Open ↗</a>{% endif %}</p>
+    {%- endfor %}
+  </div>
+{%- else %}<div class="card"><p class="empty">Villa facts file is missing.</p></div>{% endif %}
+</section>
+
 {# ============================== NEWS ============================== #}
 <section class="tab" id="news" aria-label="Market-impact news">
 {%- if news %}
@@ -340,6 +493,7 @@ try { if (localStorage.getItem("theme") === "light") document.documentElement.da
   <a href="#brief" data-go="brief"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6h16M4 12h10M4 18h13"/></svg>Brief</a>
   <a href="#market" data-go="market"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19l5-6 4 3 7-9"/></svg>Market</a>
   <a href="#rent" data-go="rent"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 11l8-6 8 6v8H4z"/><path d="M10 19v-5h4v5"/></svg>Rent</a>
+  <a href="#villas" data-go="villas"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 20V10l6-4 6 4v10"/><path d="M15 13l6 3v4H3"/><path d="M8 20v-5h2v5"/></svg>Villas</a>
   <a href="#news" data-go="news"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><rect x="4" y="5" width="16" height="14" rx="2"/><path d="M8 9h8M8 13h8M8 16h5"/></svg>News</a>
   <a href="#more" data-go="more"><svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><circle cx="6" cy="12" r="1.8"/><circle cx="12" cy="12" r="1.8"/><circle cx="18" cy="12" r="1.8"/></svg>More</a>
 </nav>

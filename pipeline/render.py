@@ -9,7 +9,7 @@ from typing import Any
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 from . import charts
-from .config import SETTINGS, SITE_DIR, STATIC_DIR, TEMPLATE_DIR, now
+from .config import CONFIG_DIR, SETTINGS, SITE_DIR, STATIC_DIR, TEMPLATE_DIR, now
 from .news import RULES as NEWS_RULES
 
 
@@ -69,6 +69,31 @@ def ago(iso: str) -> str:
     return datetime.fromisoformat(iso).strftime("%-d %b")
 
 
+def villa_facts() -> dict[str, Any] | None:
+    """Villa and townhouse market facts: a hand-checked reference set (config/villa_facts.json),
+    moved here from the website on 9 Oct 2026. Bars are drawn once, here."""
+    path = CONFIG_DIR / "villa_facts.json"
+    if not path.exists():
+        return None
+    v = json.loads(path.read_text())
+    bars = lambda rows, label: charts.bar_list([(r["name"], r["value"], r["show"]) for r in rows], label=label)
+    months = v["supplyDemand"]["monthly"]
+    v["charts"] = {
+        "monthly": charts.line_chart([m[1] for m in months], [m[0] for m in months], [0, len(months) // 2, len(months) - 1],
+                                     label="Dubai villa and townhouse sales by month"),
+        "busiest": bars(v["communities"]["busiest"], "Busiest villa communities, sales in 12 months"),
+        "beds": bars(v["supplyDemand"]["beds"], "Dubai villa sales by bedrooms"),
+        "prices": bars(v["supplyDemand"]["prices"], "Dubai villa sales by price band"),
+        "freehold": bars(v["tenure"]["freehold"], "Biggest freehold villa areas"),
+        "leasehold": bars(v["tenure"]["leasehold"], "Leasehold villa areas"),
+        "citizens": bars(v["tenure"]["citizens"], "Biggest citizens-only villa areas"),
+        "growth": bars(v["growth"]["dubai"], "Price growth by community, 12 months"),
+        "sold": bars(v["developers"]["sold"], "Villa sales by developer, 12 months"),
+        "pricey": bars(v["developers"]["pricey"], "Highest median villa price by developer"),
+    }
+    return v
+
+
 def brief_mode(mode: str) -> str:
     return "written by AI from today's numbers" if mode.startswith("AI") else "from today's numbers"
 
@@ -90,6 +115,7 @@ def build(pulse: dict[str, Any] | None, pulse_meta: dict[str, Any], run: dict[st
         "news_sources": [f["name"] for f in SETTINGS["news"]["feeds"]],
         "css": (STATIC_DIR / "app.css").read_text(),
         "js": (STATIC_DIR / "app.js").read_text(),
+        "villa": villa_facts(),
         **sections,
     }
     if pulse:
