@@ -65,7 +65,7 @@ def line_chart(values: list[float], labels: list[str], x_ticks: list[int], *, wi
         f"{xl}</svg>")
 
 
-def bar_list(items: list[tuple[str, float, str]], *, width: int = 358, label: str, label_w: int = 132) -> str:
+def bar_list(items: list[tuple[str, float, str]], *, width: int = 358, label: str, label_w: int = 142) -> str:
     """Horizontal bars, one colour. items = (name, value, value_label)."""
     if not items:
         return f'<p class="empty">No data for "{html.escape(label)}".</p>'

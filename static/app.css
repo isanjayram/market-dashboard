@@ -299,3 +299,18 @@ body::before { content: ""; position: fixed; inset: -10%; z-index: -1; pointer-e
 .vf-cmp { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 #villas .wrow small { display: block; }
 #villas .seg { margin: 10px 0; }
+
+/* Alignment pass: rows keep one grid whatever the text length. */
+.nb { white-space: nowrap; }
+.cmp b .unit { display: inline; font: 500 12px var(--sans); }
+details.dev .rank { flex: none; }
+details.dev > summary b { flex: 1; min-width: 0; }
+details.dev .r { flex: none; margin-left: 0; text-align: right; white-space: nowrap; }
+details.lm > summary { align-items: baseline; }
+details.lm > summary b { min-width: 0; }
+details.lm > summary small { flex: none; max-width: 52%; text-align: right; }
+#villas .wrow { align-items: first baseline; }
+@media (min-width: 1024px) {
+  /* Charts start at the card's left edge, under its title, instead of floating in the middle. */
+  svg.chart { margin-left: 0; }
+}

@@ -129,7 +129,7 @@ try { if (localStorage.getItem("theme") === "light") document.documentElement.da
       <small>Off-plan share</small>
       <div class="v">{{ k.offplan_share|round|int }}%</div>
       <div class="split" aria-hidden="true"><span style="flex:{{ k.offplan }}"></span><span style="flex:{{ k.ready }}"></span></div>
-      <div class="lg"><i class="sw off"></i>{{ k.offplan|num }} off-plan · <i class="sw ready"></i>{{ k.ready|num }} ready</div>
+      <div class="lg"><span class="nb"><i class="sw off"></i>{{ k.offplan|num }} off-plan</span> · <span class="nb"><i class="sw ready"></i>{{ k.ready|num }} ready</span></div>
     </div>
     <div class="card">
       <small>Median price · homes</small>
@@ -170,7 +170,7 @@ try { if (localStorage.getItem("theme") === "light") document.documentElement.da
     {%- macro wrow(w) %}
       {%- set w30 = w.d30|delta %}{%- set w90 = w.d90|delta %}
       <div class="wrow">
-        <div><b>{{ w.name }}</b><small>{% if w.deals30 %}{{ w.deals30|num }} sales{% if w.offplan_share is not none %} · {{ w.offplan_share }}% off-plan{% endif %}{% else %}no sales in 30 days{% endif %}</small></div>
+        <div><b>{{ w.name }}</b><small>{% if w.deals30 %}<span class="nb">{{ w.deals30|num }} sales</span>{% if w.offplan_share is not none %} · <span class="nb">{{ w.offplan_share }}% off-plan</span>{% endif %}{% else %}no sales in 30 days{% endif %}</small></div>
         <div class="r"><div>{{ w.median_psf|num if w.median_psf else '—' }}</div>
           <div class="pills"><span class="pill {{ w30.cls }}">30d {{ w30.text }}</span><span class="pill {{ w90.cls }}">90d {{ w90.text }}</span></div></div>
       </div>
@@ -222,7 +222,7 @@ try { if (localStorage.getItem("theme") === "light") document.documentElement.da
       {%- for b in k.beds %}
       <div data-group="beds-{{ k.key }}" data-panel="b-{{ k.key }}-{{ b }}"{% if b != first %} hidden{% endif %}>
         {%- for r in rent.rows if r.kind == k.key and r.beds == b %}{%- set m = r.mom|delta %}{%- set y = r.yoy|delta %}
-        <div class="wrow"><div><b>{{ r.area }}</b><small>{{ r.n }} contracts{% if r.gross_yield %} · gross yield {{ r.gross_yield }}%{% endif %}</small></div>
+        <div class="wrow"><div><b>{{ r.area }}</b><small><span class="nb">{{ r.n }} contracts</span>{% if r.gross_yield %} · <span class="nb">gross yield {{ r.gross_yield }}%</span>{% endif %}</small></div>
           <div class="r"><div>AED {{ r.median|num }}</div><div class="pills"><span class="pill {{ m.cls }}">MoM {{ m.text }}</span><span class="pill {{ y.cls }}">YoY {{ y.text }}</span></div></div></div>
         {%- endfor %}
       </div>
