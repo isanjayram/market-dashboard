@@ -11,22 +11,22 @@
     "Property"
    ],
    "teaser": "Dubai: Imagine buying an off-plan apartment in Dubai with a promise to receive the keys in three years, only to find your new home ready nine months ahead of schedule. For investors, that could mean earning rental income earlier, while end-users could move in sooner and potentially save thousands of dirhams in rent. As Dubai\u2019s property market matures, some developers are completing residential pro",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Boosts buyer returns and speeds up market supply.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "General market context",
    "watch": false,
-   "headline": "Dubai off-plan properties are delivering months ahead of schedule",
-   "summary": "Investors and buyers in Dubai are receiving their property keys up to nine months early. This early completion allows owners to start collecting rental income or move in sooner.",
-   "why": "Early handovers accelerate rental yields and save holding costs for buyers.",
-   "age_hours": 6.6,
-   "topic": "Developer news"
+   "headline": "Dubai property buyers get keys months ahead of time",
+   "summary": "",
+   "why": "can move investor sentiment; expect questions about where the market is heading.",
+   "age_hours": 7.8,
+   "topic": "Macro & geopolitics"
   }
  ],
  "window_hours": 48,
  "count_relevant": 1,
- "count_fetched": 213,
+ "count_fetched": 214,
  "feed_errors": {},
- "mode": "AI summaries (gemini)",
- "as_of": "2026-10-09T13:39+04:00",
- "saved_at": "2026-10-09T13:39+04:00"
+ "mode": "rules only (daily AI cap reached)",
+ "as_of": "2026-10-09T14:54+04:00",
+ "saved_at": "2026-10-09T14:54+04:00"
 }
