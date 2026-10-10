@@ -11,12 +11,12 @@
    "teaser": "Public transport passengers in Dubai can now use digital QR codes on their phones to access the metro, trams and buses, eliminating the need for a single-use red paper Nol ticket. Passengers can buy digital Nol QR tickets through the Nol Pay or S'hail apps, the Roads and Transport Authority announced. This option is especially convenient for occasional passengers and visitors who use red Nol ticke",
    "category": "Infrastructure",
    "impact": "Medium",
-   "impact_reason": "Enhances neighborhood accessibility and public transit convenience.",
+   "impact_reason": "Infrastructure that can move area demand",
    "watch": false,
-   "headline": "Dubai launches digital Nol QR tickets for public transport",
-   "summary": "Commuters can now buy and use digital QR codes for metro, bus, and tram rides via apps. This update replaces traditional single-use paper tickets with mobile access.",
-   "why": "Improved public transit connectivity adds value to nearby residential and commercial real estate.",
-   "age_hours": 1.7,
+   "headline": "Dubai introduces digital Nol QR tickets for metro, buses and trams",
+   "summary": "",
+   "why": "infrastructure can shift which areas buyers favour over time (analysis, not a forecast).",
+   "age_hours": 2.2,
    "topic": "metro"
   },
   {
@@ -31,15 +31,15 @@
     "Property"
    ],
    "teaser": "For thousands of tenants and landlords in Dubai, rental disputes were resolved through an agreement in days rather than a prolonged legal battle this year. The Rental Disputes Center said it concluded 2,350 amicable settlement cases between January and the end of September, involving a combined value of Dh401 million. On average, each case was resolved in six days. The cases were handled through t",
-   "category": "Regulation & fees",
-   "impact": "Medium",
-   "impact_reason": "Improves landlord and tenant confidence in rental stability.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "General market context",
    "watch": false,
-   "headline": "Dubai rental disputes settled in six days on average",
-   "summary": "The Rental Disputes Center successfully resolved thousands of landlord-tenant cases amicably within days. This rapid turnaround highlights efficient legal processes for the local rental market.",
-   "why": "Fast dispute resolution builds confidence for landlords and tenants participating in the rental market.",
-   "age_hours": 1.8,
-   "topic": "Regulation & fees"
+   "headline": "Dubai tenants, landlords settle rental disputes in six days on average",
+   "summary": "",
+   "why": "can move investor sentiment; expect questions about where the market is heading.",
+   "age_hours": 2.3,
+   "topic": "Macro & geopolitics"
   },
   {
    "id": "9d626d835c68",
@@ -55,12 +55,12 @@
    "teaser": "Dubai: Dubai Holding Entertainment is preparing to expand its portfolio with a new park and additional attractions, as the company looks to introduce more entertainment experiences across its destinations. In an interview with Gulf News during the reopening of Dubai Parks and Resorts for its annual season, themed \u2018Truly Amazing\u2019, Fernando Eiroa, CEO of Dubai Holding Entertainment, revealed that ne",
    "category": "Developer news",
    "impact": "Low",
-   "impact_reason": "Minor boost to community appeal and leisure offerings.",
+   "impact_reason": "General market context",
    "watch": false,
-   "headline": "Dubai Holding Entertainment announces new park and expansions",
-   "summary": "The entertainment giant is preparing to add a new park and fresh attractions across its destinations. These expansions aim to boost leisure offerings throughout the emirate.",
-   "why": "New leisure destinations can increase the attractiveness and property values of surrounding communities.",
-   "age_hours": 5.7,
+   "headline": "Dubai Holding Entertainment plans new park, attractions as CEO reveals expansion plans",
+   "summary": "",
+   "why": "new launches or results change the options and prices you can offer clients.",
+   "age_hours": 6.2,
    "topic": "Developer news"
   }
  ],
@@ -68,7 +68,7 @@
  "count_relevant": 3,
  "count_fetched": 170,
  "feed_errors": {},
- "mode": "AI summaries (gemini)",
- "as_of": "2026-10-10T14:08+04:00",
- "saved_at": "2026-10-10T14:08+04:00"
+ "mode": "rules only (daily AI cap reached)",
+ "as_of": "2026-10-10T14:39+04:00",
+ "saved_at": "2026-10-10T14:39+04:00"
 }
