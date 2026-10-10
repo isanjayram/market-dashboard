@@ -16,7 +16,7 @@
    "headline": "Dubai introduces digital Nol QR tickets for metro, buses and trams",
    "summary": "",
    "why": "infrastructure can shift which areas buyers favour over time (analysis, not a forecast).",
-   "age_hours": 2.2,
+   "age_hours": 2.4,
    "topic": "metro"
   },
   {
@@ -38,7 +38,7 @@
    "headline": "Dubai tenants, landlords settle rental disputes in six days on average",
    "summary": "",
    "why": "can move investor sentiment; expect questions about where the market is heading.",
-   "age_hours": 2.3,
+   "age_hours": 2.5,
    "topic": "Macro & geopolitics"
   },
   {
@@ -60,15 +60,15 @@
    "headline": "Dubai Holding Entertainment plans new park, attractions as CEO reveals expansion plans",
    "summary": "",
    "why": "new launches or results change the options and prices you can offer clients.",
-   "age_hours": 6.2,
+   "age_hours": 6.4,
    "topic": "Developer news"
   }
  ],
  "window_hours": 24,
  "count_relevant": 3,
- "count_fetched": 170,
+ "count_fetched": 174,
  "feed_errors": {},
  "mode": "rules only (daily AI cap reached)",
- "as_of": "2026-10-10T14:39+04:00",
- "saved_at": "2026-10-10T14:39+04:00"
+ "as_of": "2026-10-10T14:50+04:00",
+ "saved_at": "2026-10-10T14:50+04:00"
 }
