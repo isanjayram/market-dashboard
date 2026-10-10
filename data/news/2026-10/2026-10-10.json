@@ -12,5 +12,33 @@
 "impact_reason": "Safeguards buyer investments and dictates contract termination rules.",
 "watch": false,
 "topic": "Regulation & fees"
+},
+{
+"id": "9d626d835c68",
+"headline": "Dubai Holding Entertainment Announces New Park and Attractions",
+"summary": "Dubai Holding Entertainment plans to expand its portfolio with a new park and attractions. The move aims to enhance entertainment experiences across its destinations.",
+"why": "Expansion of leisure infrastructure enhances community appeal and can positively influence nearby residential property values.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/uae/dubai-holding-entertainment-plans-new-park-attractions-as-ceo-reveals-expansion-plans-1.500705328",
+"published": "2026-10-10T08:28+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Boosts local lifestyle offerings and community attractiveness.",
+"watch": false,
+"topic": "Developer news"
+},
+{
+"id": "356eb4566711",
+"headline": "India Central Bank Opens Dollar Window to Support Rupee",
+"summary": "The Reserve Bank of India implemented measures to stabilize the rupee by opening a dollar window for oil firms. This financial intervention aims to curb currency depreciation.",
+"why": "Currency stability in India affects the wealth and purchasing power of Non-Resident Indians investing in Dubai property.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/business/markets/india-central-bank-support-rupee-opens-dollar-window-oil-companies",
+"published": "2026-10-10T09:02+04:00",
+"category": "Rates & mortgages",
+"impact": "Low",
+"impact_reason": "Minor effect on NRI remittance purchasing power.",
+"watch": true,
+"topic": "oil"
 }
 ]
