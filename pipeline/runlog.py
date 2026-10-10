@@ -90,3 +90,12 @@ def save_dld_source(info: dict[str, Any]) -> None:
 
 def load_dld_source() -> dict[str, Any]:
     return json.loads(DLD_SOURCE_FILE.read_text()) if DLD_SOURCE_FILE.exists() else {}
+
+
+def load_mac_tick() -> dict[str, Any]:
+    """The Mac's daily marker: the day it last checked data.dubai and the newest file it saw there."""
+    f = DLD_SOURCE_FILE.with_name("mac_tick.json")
+    try:
+        return json.loads(f.read_text()) if f.exists() else {}
+    except ValueError:
+        return {}

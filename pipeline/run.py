@@ -18,7 +18,7 @@ import duckdb
 
 from . import brief, developers, dld, landmarks, launches, listings, llm, news, notify, pulse, rent, render, store
 from .config import SETTINGS, now, today
-from .runlog import (RunLog, load_dld_source, load_last_good, load_status, save_dld_source,
+from .runlog import (RunLog, load_dld_source, load_last_good, load_mac_tick, load_status, save_dld_source,
                      save_last_good, save_status)
 
 
@@ -86,7 +86,13 @@ def main() -> int:
         # A failed download only matters if the saved DLD file is itself old. data.dubai
         # publishes one file a day, so yesterday's or today's file is still current.
         snap_day = str(dld_src.get("snapshot_time") or "")[:10]
-        if not snap_day or date.fromisoformat(snap_day) < today() - timedelta(days=1):
+        tick = load_mac_tick()
+        if tick.get("date") == today().isoformat() and tick.get("snapshot") == dld_src.get("snapshot"):
+            # The Mac asked data.dubai today and this is still DLD's newest file: nothing is stale.
+            pulse_meta["label"] = "No newer DLD file"
+            pulse_meta["note"] = (f"DLD has not published a newer file since {dld_src.get('snapshot_time')} "
+                                  f"(checked from your Mac today at {tick.get('checked')}).")
+        elif not snap_day or date.fromisoformat(snap_day) < today() - timedelta(days=1):
             stale_reason = f"couldn't download DLD's newer files; showing the file of {snap_day or 'an earlier day'}"
         else:
             where = "on your Mac" if "Mac" in str(dld_src.get("source")) else "earlier"

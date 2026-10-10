@@ -15,11 +15,13 @@ is asleep at a scheduled time, macOS runs the job when it wakes.
 """
 from __future__ import annotations
 
+import json
 import os
 import plistlib
 import shutil
 import subprocess
 import sys
+import time
 from datetime import datetime
 from pathlib import Path
 
@@ -37,6 +39,10 @@ PLIST = HOME / "Library" / "LaunchAgents" / f"{LABEL}.plist"
 TIMES = [(7, 0), (8, 15), (9, 15), (9, 45), (10, 30), (12, 0), (15, 0)]
 ROOT = Path(__file__).resolve().parents[1]
 MAC_SOURCE = "data.dubai bulk export (downloaded on Sanjay's Mac; GitHub's servers are blocked)"
+# One failed run nearly always fixes itself on the next try, so the Mac only speaks up
+# after this many failures in a row.
+FAILS = APP_DIR / "failures"
+ALERT_AFTER = 3
 
 
 def log(msg: str) -> None:
@@ -45,6 +51,19 @@ def log(msg: str) -> None:
 
 def git(*args: str, cwd: Path = REPO) -> str:
     return subprocess.run(["git", *args], cwd=cwd, check=True, capture_output=True, text=True).stdout.strip()
+
+
+def push() -> None:
+    """Pull, then push. The cloud run pushes too, so a clash is retried instead of failing the run."""
+    for attempt in range(3):
+        git("pull", "--rebase", "--quiet")
+        try:
+            git("push", "--quiet")
+            return
+        except subprocess.CalledProcessError:
+            if attempt == 2:
+                raise
+            time.sleep(10)
 
 
 def notify(msg: str) -> None:
@@ -65,7 +84,7 @@ def refresh() -> int:
     have = load_dld_source().get("snapshot")
     if listing["snapshot"] == have:
         log(f"already have {have}; nothing to do")
-        tick()
+        tick(have)
         return 0
     log(f"new DLD export {listing['snapshot']}; downloading")
     meta = refresh_sales(duckdb.connect(), None)
@@ -74,26 +93,26 @@ def refresh() -> int:
     git("add", "data/dld", "data/state/dld_source.json")
     if subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=REPO).returncode:
         git("commit", "--quiet", "-m", f"data: DLD {meta['snapshot']} (Mac refresh)")
-        git("pull", "--rebase", "--quiet")
-        git("push", "--quiet")
+        push()
     log(f"pushed {meta['snapshot']} (newest day {meta['newest_day']}, {meta.get('rows')} rows)")
     return 0
 
 
-def tick() -> None:
+def tick(have: str | None = None) -> None:
     """First run of the day with no new DLD file: push a small marker so the cloud still rebuilds
-    (GitHub's own scheduler can start hours late)."""
+    (GitHub's own scheduler can start hours late). The marker also records that data.dubai was
+    checked from here today and which file is still its newest, so the page can say that DLD
+    has published nothing new instead of calling its numbers stale."""
     marker = REPO / "data" / "state" / "mac_tick.json"
     today = f"{datetime.now():%Y-%m-%d}"
     if marker.exists() and today in marker.read_text():
         return
     if today in git("log", "-1", "--format=%cs", "--", "data/state/dld_source.json"):
         return  # today's DLD push already started a build
-    marker.write_text(f'{{"date": "{today}"}}\n')
+    marker.write_text(json.dumps({"date": today, "checked": f"{datetime.now():%H:%M}", "snapshot": have}) + "\n")
     git("add", "data/state/mac_tick.json")
     git("commit", "--quiet", "-m", f"tick: {today} (Mac switched on)")
-    git("pull", "--rebase", "--quiet")
-    git("push", "--quiet")
+    push()
     log("no new DLD file; asked the cloud to rebuild")
 
 
@@ -137,8 +156,13 @@ if __name__ == "__main__":
         uninstall()
     else:
         try:
-            sys.exit(refresh())
+            code = refresh()
+            FAILS.unlink(missing_ok=True)
+            sys.exit(code)
         except Exception as exc:
-            log(f"FAILED {type(exc).__name__}: {exc}")
-            notify("DLD refresh failed; it will retry at the next scheduled time.")
+            fails = int(FAILS.read_text() or 0) + 1 if FAILS.exists() else 1
+            FAILS.write_text(str(fails))
+            log(f"FAILED {type(exc).__name__}: {exc} (failure {fails} in a row)")
+            if fails == ALERT_AFTER:
+                notify(f"The DLD download has failed {fails} times in a row. The brief may be out of date.")
             sys.exit(1)
