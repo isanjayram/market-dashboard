@@ -14,12 +14,12 @@
    "teaser": "Dubai: Dubai Holding Entertainment is preparing to expand its portfolio with a new park and additional attractions, as the company looks to introduce more entertainment experiences across its destinations. In an interview with Gulf News during the seasonal reopening of Dubai Parks and Resorts , Fernando Eiroa, CEO of Dubai Holding Entertainment, revealed that new developments are in the pipeline, ",
    "category": "Developer news",
    "impact": "Medium",
-   "impact_reason": "Boosts local lifestyle offerings and community attractiveness.",
+   "impact_reason": "Enhances community appeal and regional tourism.",
    "watch": false,
-   "headline": "Dubai Holding Entertainment Announces New Park and Attractions",
-   "summary": "Dubai Holding Entertainment plans to expand its portfolio with a new park and attractions. The move aims to enhance entertainment experiences across its destinations.",
-   "why": "Expansion of leisure infrastructure enhances community appeal and can positively influence nearby residential property values.",
-   "age_hours": 2.4,
+   "headline": "Dubai Holding Entertainment announces new park and expansions",
+   "summary": "Dubai Holding Entertainment revealed plans to introduce a new park and additional attractions across its destinations.",
+   "why": "Major entertainment expansions enhance community appeal and boost surrounding property values.",
+   "age_hours": 2.6,
    "topic": "Developer news"
   },
   {
@@ -36,20 +36,20 @@
    "teaser": "REFILE-India central bank takes steps to support rupee, opens dollar window for oil companies",
    "category": "Rates & mortgages",
    "impact": "Low",
-   "impact_reason": "Minor effect on NRI remittance purchasing power.",
+   "impact_reason": "Indirect impact on NRI buying power.",
    "watch": true,
-   "headline": "India Central Bank Opens Dollar Window to Support Rupee",
-   "summary": "The Reserve Bank of India implemented measures to stabilize the rupee by opening a dollar window for oil firms. This financial intervention aims to curb currency depreciation.",
-   "why": "Currency stability in India affects the wealth and purchasing power of Non-Resident Indians investing in Dubai property.",
-   "age_hours": 1.8,
+   "headline": "India's central bank opens dollar window to support rupee",
+   "summary": "The Reserve Bank of India implemented measures to stabilize the rupee by opening a dollar window for oil firms.",
+   "why": "Currency stability in India can affect NRI investment flows into Dubai real estate.",
+   "age_hours": 2.1,
    "topic": "oil"
   }
  ],
  "window_hours": 48,
  "count_relevant": 2,
- "count_fetched": 154,
+ "count_fetched": 156,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-10T10:52+04:00",
- "saved_at": "2026-10-10T10:52+04:00"
+ "as_of": "2026-10-10T11:05+04:00",
+ "saved_at": "2026-10-10T11:05+04:00"
 }
