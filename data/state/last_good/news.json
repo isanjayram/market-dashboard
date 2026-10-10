@@ -1,32 +1,32 @@
 {
  "top": [
   {
-   "id": "bc5272953ba9",
-   "title": "Dubai property buyers get keys months ahead of time",
-   "link": "https://gulfnews.com/business/property/dubai-property-buyers-get-keys-months-ahead-of-time-1.500703324",
-   "source": "Gulf News",
+   "id": "6f3a0f2f5580",
+   "title": "Missed off-plan payments in Dubai? Here's what your developer can legally do",
+   "link": "https://www.khaleejtimes.com/uae/missed-off-plan-payments-dubai-developer-legally-do",
+   "source": "Khaleej Times",
    "kind": "outlet",
-   "published": "2026-10-09T07:06+04:00",
+   "published": "2026-10-10T06:00+04:00",
    "tags": [
-    "Property"
+    "UAE"
    ],
-   "teaser": "Dubai: Imagine buying an off-plan apartment in Dubai with a promise to receive the keys in three years, only to find your new home ready nine months ahead of schedule. For investors, that could mean earning rental income earlier, while end-users could move in sooner and potentially save thousands of dirhams in rent. As Dubai\u2019s property market matures, some developers are completing residential pro",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "General market context",
+   "teaser": "Can a Dubai developer cancel your off-plan contract and keep your money the moment you miss a payment? The short answer is no, but the process matters. Buying off-plan has become one of the most popular routes to property ownership in Dubai, offering investors the chance to secure units during early project stages and spread payments across construction milestones. But when a buyer falls behind on",
+   "category": "Regulation & fees",
+   "impact": "High",
+   "impact_reason": "Safeguards buyer investments and dictates contract termination rules.",
    "watch": false,
-   "headline": "Dubai property buyers get keys months ahead of time",
-   "summary": "",
-   "why": "can move investor sentiment; expect questions about where the market is heading.",
-   "age_hours": 8.4,
-   "topic": "Macro & geopolitics"
+   "headline": "Legal rules for missed Dubai off-plan payments",
+   "summary": "Developers cannot instantly cancel contracts or seize funds when buyers miss payments. Specific legal procedures must be followed.",
+   "why": "Protects investor capital by clarifying developer legal limitations during payment defaults.",
+   "age_hours": 1.3,
+   "topic": "Regulation & fees"
   }
  ],
  "window_hours": 48,
  "count_relevant": 1,
- "count_fetched": 223,
+ "count_fetched": 137,
  "feed_errors": {},
- "mode": "rules only (daily AI cap reached)",
- "as_of": "2026-10-09T15:32+04:00",
- "saved_at": "2026-10-09T15:32+04:00"
+ "mode": "AI summaries (gemini)",
+ "as_of": "2026-10-10T07:15+04:00",
+ "saved_at": "2026-10-10T07:15+04:00"
 }
