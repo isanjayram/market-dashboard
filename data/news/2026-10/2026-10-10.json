@@ -40,5 +40,33 @@
 "impact_reason": "Minor effect on NRI remittance purchasing power.",
 "watch": true,
 "topic": "oil"
+},
+{
+"id": "67256a2f13cc",
+"headline": "Dubai launches digital Nol QR tickets for public transport",
+"summary": "Commuters can now use mobile QR codes for the metro, buses, and trams instead of paper tickets. The new digital option is available through the Nol Pay and S'hail applications.",
+"why": "Improves overall public transit convenience across the city.",
+"source": "The National",
+"link": "https://www.thenationalnews.com/news/uae/2026/10/10/dubai-digital-nol-qr-tickets-metro-bus-tram/",
+"published": "2026-10-10T12:27+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Enhances daily urban mobility and transit convenience.",
+"watch": false,
+"topic": "metro"
+},
+{
+"id": "062b10d685a2",
+"headline": "Dubai rental disputes resolved in six days on average",
+"summary": "The Rental Disputes Center successfully settled thousands of landlord and tenant cases amicably within days. This rapid resolution process helps avoid lengthy courtroom battles.",
+"why": "Demonstrates efficient legal processes for Dubai rental stakeholders.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/uae/legal/dubai-rental-disputes-settled-six-days-average-2026",
+"published": "2026-10-10T12:20+04:00",
+"category": "Regulation & fees",
+"impact": "Low",
+"impact_reason": "Improves dispute resolution efficiency for landlords and tenants.",
+"watch": false,
+"topic": "Regulation & fees"
 }
 ]

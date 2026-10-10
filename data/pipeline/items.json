@@ -456,5 +456,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"67256a2f13cc": {
+"id": "67256a2f13cc",
+"title": "Dubai launches digital Nol QR tickets for public transport",
+"link": "https://www.thenationalnews.com/news/uae/2026/10/10/dubai-digital-nol-qr-tickets-metro-bus-tram/",
+"source": "The National",
+"category": "Infrastructure",
+"published": "2026-10-10T12:27+04:00",
+"first_seen": "2026-10-10",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

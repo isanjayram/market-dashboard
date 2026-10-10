@@ -1,26 +1,23 @@
 {
  "top": [
   {
-   "id": "9d626d835c68",
-   "title": "Dubai Holding Entertainment plans new park, attractions as CEO reveals expansion plans",
-   "link": "https://gulfnews.com/uae/dubai-holding-entertainment-plans-new-park-attractions-as-ceo-reveals-expansion-plans-1.500705328",
-   "source": "Gulf News",
+   "id": "67256a2f13cc",
+   "title": "Dubai introduces digital Nol QR tickets for metro, buses and trams",
+   "link": "https://www.thenationalnews.com/news/uae/2026/10/10/dubai-digital-nol-qr-tickets-metro-bus-tram/",
+   "source": "The National",
    "kind": "outlet",
-   "published": "2026-10-10T08:28+04:00",
-   "tags": [
-    "UAE",
-    "Business"
-   ],
-   "teaser": "Dubai: Dubai Holding Entertainment is preparing to expand its portfolio with a new park and additional attractions, as the company looks to introduce more entertainment experiences across its destinations. In an interview with Gulf News during the seasonal reopening of Dubai Parks and Resorts , Fernando Eiroa, CEO of Dubai Holding Entertainment, revealed that new developments are in the pipeline, ",
-   "category": "Developer news",
+   "published": "2026-10-10T12:27+04:00",
+   "tags": [],
+   "teaser": "Public transport passengers in Dubai can now use digital QR codes on their phones to access the metro, trams and buses, eliminating the need for a single-use red paper Nol ticket. Passengers can buy digital Nol QR tickets through the Nol Pay or S'hail apps, the Roads and Transport Authority announced. This option is especially convenient for occasional passengers and visitors who use red Nol ticke",
+   "category": "Infrastructure",
    "impact": "Medium",
-   "impact_reason": "Enhances community appeal and regional tourism.",
+   "impact_reason": "Enhances daily urban mobility and transit convenience.",
    "watch": false,
-   "headline": "Dubai Holding Entertainment announces new park and expansions",
-   "summary": "Dubai Holding Entertainment revealed plans to introduce a new park and additional attractions across its destinations.",
-   "why": "Major entertainment expansions enhance community appeal and boost surrounding property values.",
-   "age_hours": 2.6,
-   "topic": "Developer news"
+   "headline": "Dubai launches digital Nol QR tickets for public transport",
+   "summary": "Commuters can now use mobile QR codes for the metro, buses, and trams instead of paper tickets. The new digital option is available through the Nol Pay and S'hail applications.",
+   "why": "Improves overall public transit convenience across the city.",
+   "age_hours": 0.6,
+   "topic": "metro"
   },
   {
    "id": "356eb4566711",
@@ -36,20 +33,64 @@
    "teaser": "REFILE-India central bank takes steps to support rupee, opens dollar window for oil companies",
    "category": "Rates & mortgages",
    "impact": "Low",
-   "impact_reason": "Indirect impact on NRI buying power.",
+   "impact_reason": "Minor effect on foreign exchange and overseas investments.",
    "watch": true,
-   "headline": "India's central bank opens dollar window to support rupee",
-   "summary": "The Reserve Bank of India implemented measures to stabilize the rupee by opening a dollar window for oil firms.",
-   "why": "Currency stability in India can affect NRI investment flows into Dubai real estate.",
-   "age_hours": 2.1,
+   "headline": "India central bank opens dollar window to support rupee",
+   "summary": "The Reserve Bank of India implemented measures to stabilize the national currency by offering a dollar window specifically for oil companies. These steps aim to ease pressure on the foreign exchange market.",
+   "why": "Affects currency strength and NRI investment capital flows.",
+   "age_hours": 4.0,
    "topic": "oil"
+  },
+  {
+   "id": "062b10d685a2",
+   "title": "Dubai tenants, landlords settle rental disputes in six days on average",
+   "link": "https://www.khaleejtimes.com/uae/legal/dubai-rental-disputes-settled-six-days-average-2026",
+   "source": "Khaleej Times",
+   "kind": "outlet",
+   "published": "2026-10-10T12:20+04:00",
+   "tags": [
+    "Legal",
+    "Property"
+   ],
+   "teaser": "For thousands of tenants and landlords in Dubai, rental disputes were resolved through an agreement in days rather than a prolonged legal battle this year. The Rental Disputes Center said it concluded 2,350 amicable settlement cases between January and the end of September, involving a combined value of Dh401 million. On average, each case was resolved in six days. The cases were handled through t",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Improves dispute resolution efficiency for landlords and tenants.",
+   "watch": false,
+   "headline": "Dubai rental disputes resolved in six days on average",
+   "summary": "The Rental Disputes Center successfully settled thousands of landlord and tenant cases amicably within days. This rapid resolution process helps avoid lengthy courtroom battles.",
+   "why": "Demonstrates efficient legal processes for Dubai rental stakeholders.",
+   "age_hours": 0.7,
+   "topic": "Regulation & fees"
+  },
+  {
+   "id": "9d626d835c68",
+   "title": "Dubai Holding Entertainment plans new park, attractions as CEO reveals expansion plans",
+   "link": "https://gulfnews.com/uae/dubai-holding-entertainment-plans-new-park-attractions-as-ceo-reveals-expansion-plans-1.500705328",
+   "source": "Gulf News",
+   "kind": "outlet",
+   "published": "2026-10-10T08:28+04:00",
+   "tags": [
+    "UAE",
+    "Business"
+   ],
+   "teaser": "Dubai: Dubai Holding Entertainment is preparing to expand its portfolio with a new park and additional attractions, as the company looks to introduce more entertainment experiences across its destinations. In an interview with Gulf News during the reopening of Dubai Parks and Resorts for its annual season, themed \u2018Truly Amazing\u2019, Fernando Eiroa, CEO of Dubai Holding Entertainment, revealed that ne",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Expands local leisure attractions without immediate market changes.",
+   "watch": false,
+   "headline": "Dubai Holding Entertainment announces new park and expansions",
+   "summary": "The entertainment giant is developing a brand-new park alongside additional attractions across its destinations. This move is part of an ongoing strategy to boost leisure experiences in the emirate.",
+   "why": "Enhances community lifestyle and tourism appeal in Dubai.",
+   "age_hours": 4.6,
+   "topic": "Developer news"
   }
  ],
- "window_hours": 48,
- "count_relevant": 2,
- "count_fetched": 156,
+ "window_hours": 24,
+ "count_relevant": 4,
+ "count_fetched": 165,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-10T11:05+04:00",
- "saved_at": "2026-10-10T11:05+04:00"
+ "as_of": "2026-10-10T13:04+04:00",
+ "saved_at": "2026-10-10T13:04+04:00"
 }
