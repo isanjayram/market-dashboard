@@ -478,5 +478,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"e06a59783d00": {
+"id": "e06a59783d00",
+"title": "Dubai RTA wins government award for metro efficiency",
+"link": "https://gulfnews.com/uae/transport/rta-wins-dubai-it-award-sheikh-hamdan-hails-speed-efficiency-and-997-metro-punctuality-1.500706340",
+"source": "Gulf News",
+"category": "Infrastructure",
+"published": "2026-10-11T12:37+04:00",
+"first_seen": "2026-10-11",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

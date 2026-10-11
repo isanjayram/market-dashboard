@@ -12,5 +12,47 @@
 "impact_reason": "Enhances public transport accessibility and commuter convenience.",
 "watch": false,
 "topic": "metro"
+},
+{
+"id": "5e2bbf79f491",
+"headline": "UAE adopts artificial intelligence to improve firefighting systems",
+"summary": "The country is integrating agentic AI to accelerate emergency response times. This technology aims to safeguard residents and minimize property damage.",
+"why": "Advanced safety measures help protect real estate assets and improve community security.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/uae/uae-turns-to-ai-to-fight-fires-find-out-how-it-will-save-residents-firefighters-and-protect-properties-1.500706341",
+"published": "2026-10-11T13:13+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "Improves overall public safety without direct market changes.",
+"watch": false,
+"topic": "Macro & geopolitics"
+},
+{
+"id": "e06a59783d00",
+"headline": "Dubai RTA wins government award for metro efficiency",
+"summary": "Sheikh Hamdan praised the RTA for exceptional service quality and high metro punctuality. The authority received the Dubai-it Award for government institutions.",
+"why": "Transport efficiency directly influences property values and neighborhood desirability in Dubai.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/uae/transport/rta-wins-dubai-it-award-sheikh-hamdan-hails-speed-efficiency-and-997-metro-punctuality-1.500706340",
+"published": "2026-10-11T12:37+04:00",
+"category": "Infrastructure",
+"impact": "Low",
+"impact_reason": "Recognizes operational excellence without altering property fundamentals.",
+"watch": false,
+"topic": "metro"
+},
+{
+"id": "39dfed6e25f6",
+"headline": "RTA recognized with Dubai-it award for project performance",
+"summary": "Crown Prince Sheikh Hamdan announced the RTA as the recipient of the government sector award. The honor highlights the authority's successful infrastructure development projects.",
+"why": "Strong transport infrastructure development is vital for real estate growth and connectivity.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/uae/rta-wins-first-dubai-it-award-in-government-sector-sheikh-hamdan-announces",
+"published": "2026-10-11T12:15+04:00",
+"category": "Infrastructure",
+"impact": "Low",
+"impact_reason": "Celebrates infrastructural achievements without immediate market shifts.",
+"watch": false,
+"topic": "Infrastructure"
 }
 ]
