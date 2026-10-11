@@ -54,5 +54,19 @@
 "impact_reason": "Celebrates infrastructural achievements without immediate market shifts.",
 "watch": false,
 "topic": "Infrastructure"
+},
+{
+"id": "89ec4d20ec67",
+"headline": "RTA studies driverless pods to connect metro stations and homes",
+"summary": "Dubai is exploring autonomous electric pods to link metro stations with residential and business areas. This initiative forms part of the Dubai Glydways project.",
+"why": "Improved community transit connectivity directly boosts the appeal and accessibility of residential neighborhoods.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/uae/dubai-metro-station-to-home-in-a-driverless-pod-rta-studies-new-transport-routes",
+"published": "2026-10-11T13:16+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Better community transit links enhance residential property appeal.",
+"watch": false,
+"topic": "metro"
 }
 ]

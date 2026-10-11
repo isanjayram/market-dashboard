@@ -1,6 +1,28 @@
 {
  "top": [
   {
+   "id": "89ec4d20ec67",
+   "title": "Dubai Metro station to home in a driverless pod? RTA studies new transport routes",
+   "link": "https://www.khaleejtimes.com/uae/dubai-metro-station-to-home-in-a-driverless-pod-rta-studies-new-transport-routes",
+   "source": "Khaleej Times",
+   "kind": "outlet",
+   "published": "2026-10-11T13:16+04:00",
+   "tags": [
+    "UAE",
+    "Transport"
+   ],
+   "teaser": "Dubai is studying plans to connect Metro stations with residential neighbourhoods, business districts and tourist attractions using driverless electric pods. The proposed routes are part of the Roads and Transport Authority's (RTA) Dubai Glydways project, which aims to make it easier for commuters to reach their final destinations through direct, on-demand transport. RTA launched a four-week trial",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Better community transit links enhance residential property appeal.",
+   "watch": false,
+   "headline": "RTA studies driverless pods to connect metro stations and homes",
+   "summary": "Dubai is exploring autonomous electric pods to link metro stations with residential and business areas. This initiative forms part of the Dubai Glydways project.",
+   "why": "Improved community transit connectivity directly boosts the appeal and accessibility of residential neighborhoods.",
+   "age_hours": 1.1,
+   "topic": "metro"
+  },
+  {
    "id": "5e2bbf79f491",
    "title": "UAE turns to AI to fight fires: Find out how it will save residents, firefighters and protect properties",
    "link": "https://gulfnews.com/uae/uae-turns-to-ai-to-fight-fires-find-out-how-it-will-save-residents-firefighters-and-protect-properties-1.500706341",
@@ -14,63 +36,20 @@
    "teaser": "Dubai: The UAE is turning to artificial intelligence (AI) to make firefighting and disaster response faster and safter, helping save lives and protect property, according to two top officials. At the heart of the push is agentic AI, a form of AI that can act with a degree of independence. Major General Dr Jassim Mohammed Al Marzooqi, Director General of the Federal Authority for Ambulance and Civi",
    "category": "Macro & geopolitics",
    "impact": "Low",
-   "impact_reason": "Improves overall public safety without direct market changes.",
+   "impact_reason": "Improves property safety measures and disaster response capabilities.",
    "watch": false,
-   "headline": "UAE adopts artificial intelligence to improve firefighting systems",
-   "summary": "The country is integrating agentic AI to accelerate emergency response times. This technology aims to safeguard residents and minimize property damage.",
-   "why": "Advanced safety measures help protect real estate assets and improve community security.",
-   "age_hours": 0.1,
-   "topic": "Macro & geopolitics"
-  },
-  {
-   "id": "e06a59783d00",
-   "title": "RTA wins Dubai-it Award, Sheikh Hamdan hails speed, efficiency and 99.7% Metro punctuality",
-   "link": "https://gulfnews.com/uae/transport/rta-wins-dubai-it-award-sheikh-hamdan-hails-speed-efficiency-and-997-metro-punctuality-1.500706340",
-   "source": "Gulf News",
-   "kind": "outlet",
-   "published": "2026-10-11T12:37+04:00",
-   "tags": [
-    "Transport",
-    "Dubai"
-   ],
-   "teaser": "Dubai: Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Crown Prince of Dubai, Deputy Prime Minister and Minister of Defence, has announced that Dubai's Roads and Transport Authority (RTA) has won the Dubai-it Award in the government institutions category, recognising its ability to deliver major infrastructure projects at twice the speed and efficiency of global benchmarks without compromising q",
-   "category": "Infrastructure",
-   "impact": "Low",
-   "impact_reason": "Recognizes operational excellence without altering property fundamentals.",
-   "watch": false,
-   "headline": "Dubai RTA wins government award for metro efficiency",
-   "summary": "Sheikh Hamdan praised the RTA for exceptional service quality and high metro punctuality. The authority received the Dubai-it Award for government institutions.",
-   "why": "Transport efficiency directly influences property values and neighborhood desirability in Dubai.",
-   "age_hours": 0.7,
-   "topic": "metro"
-  },
-  {
-   "id": "39dfed6e25f6",
-   "title": "RTA wins first Dubai-it award in government sector, Sheikh Hamdan announces",
-   "link": "https://www.khaleejtimes.com/uae/rta-wins-first-dubai-it-award-in-government-sector-sheikh-hamdan-announces",
-   "source": "Khaleej Times",
-   "kind": "outlet",
-   "published": "2026-10-11T12:15+04:00",
-   "tags": [
-    "UAE"
-   ],
-   "teaser": "Dubai's Roads and Transport Authority (RTA) has won the Dubai-it award in the government institution category, Crown Prince Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum announced on Sunday. According to Sheikh Hamdan, RTA was chosen for its outstanding performance in projects undertaken to develop the transport system in the city and serve its residents. In announcing the award recipient, the ",
-   "category": "Infrastructure",
-   "impact": "Low",
-   "impact_reason": "Celebrates infrastructural achievements without immediate market shifts.",
-   "watch": false,
-   "headline": "RTA recognized with Dubai-it award for project performance",
-   "summary": "Crown Prince Sheikh Hamdan announced the RTA as the recipient of the government sector award. The honor highlights the authority's successful infrastructure development projects.",
-   "why": "Strong transport infrastructure development is vital for real estate growth and connectivity.",
+   "headline": "UAE adopts artificial intelligence to improve firefighting response",
+   "summary": "The UAE is deploying agentic AI to accelerate disaster response and protect properties from fires. Officials state this technology will improve overall safety.",
+   "why": "Enhanced property protection and fire safety measures positively impact long-term asset security.",
    "age_hours": 1.1,
-   "topic": "Infrastructure"
+   "topic": "Macro & geopolitics"
   }
  ],
- "window_hours": 24,
- "count_relevant": 4,
- "count_fetched": 166,
+ "window_hours": 48,
+ "count_relevant": 2,
+ "count_fetched": 167,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-11T13:19+04:00",
- "saved_at": "2026-10-11T13:19+04:00"
+ "as_of": "2026-10-11T14:19+04:00",
+ "saved_at": "2026-10-11T14:19+04:00"
 }
