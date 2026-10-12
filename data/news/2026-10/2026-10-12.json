@@ -40,5 +40,33 @@
 "impact_reason": "Enhances public transit accessibility across the emirate.",
 "watch": false,
 "topic": "metro"
+},
+{
+"id": "ea6506d8a9cb",
+"headline": "Gold increases as falling oil costs hint at US rate pause",
+"summary": "Gold prices ticked up following a drop in oil prices. This shift boosts expectations that the US Federal Reserve might halt further interest rate hikes.",
+"why": "Interest rate trends directly influence mortgage costs and borrowing conditions for real estate buyers.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/business/retail/gold-rises-as-cheaper-oil-lifts-hopes-for-a-fed-pause-1.500707212",
+"published": "2026-10-12T11:47+04:00",
+"category": "Rates & mortgages",
+"impact": "Medium",
+"impact_reason": "Could influence local mortgage rates through global financial shifts.",
+"watch": false,
+"topic": "oil"
+},
+{
+"id": "b6c617102b47",
+"headline": "RTA honored for rapid infrastructure project delivery in Dubai",
+"summary": "Dubai's Roads and Transport Authority received the inaugural Dubai-it Award. The recognition highlights their efficiency in completing civic infrastructure projects quickly.",
+"why": "Improved transport infrastructure generally enhances surrounding property values and accessibility.",
+"source": "The National",
+"link": "https://www.thenationalnews.com/news/uae/2026/10/11/rta-wins-dubai-it-award-for-delivering-projects-at-record-speed/",
+"published": "2026-10-11T16:48+04:00",
+"category": "Infrastructure",
+"impact": "Low",
+"impact_reason": "General achievement award without immediate direct changes to property markets.",
+"watch": false,
+"topic": "Infrastructure"
 }
 ]
