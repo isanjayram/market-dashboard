@@ -11,12 +11,12 @@
    "teaser": "Question: I own an apartment in Dubai Marina, which I've rented to the same tenant for two years. A neighbour recently contacted me because different people appear to be entering the apartment every few days with suitcases. I checked one of the holiday rental websites and, to my surprise, found what appears to be my apartment being advertised for short-term stays . I never agreed to this and my te",
    "category": "Regulation & fees",
    "impact": "Medium",
-   "impact_reason": "Affects landlord asset control and tenant legal obligations.",
+   "impact_reason": "Highlights crucial rental compliance and subletting legal risks.",
    "watch": true,
-   "headline": "Tenant illegally listing Dubai apartment as holiday rental without consent",
-   "summary": "A Dubai Marina landlord discovers their tenant is subletting the property on vacation home sites. This violates standard tenancy laws unless proper landlord authorization is secured.",
-   "why": "It highlights legal risks and unauthorized subletting issues for property owners.",
-   "age_hours": 9.1,
+   "headline": "Tenant unauthorised holiday home listing",
+   "summary": "A Dubai Marina landlord discovered their tenant is illegally subletting the apartment as a holiday home. Frequent unknown visitors alerted neighbours to the unauthorized short-term rentals.",
+   "why": "It addresses property leasing regulations and landlord-tenant rights in Dubai.",
+   "age_hours": 9.5,
    "topic": "Regulation & fees"
   },
   {
@@ -30,20 +30,20 @@
    "teaser": "The first Dubai-it Award for Institutions in the Field of Government has been given to the emirate's Roads and Transport Authority in recognition of its record-breaking delivery of infrastructure. Sheikh Hamdan bin Mohammed, Crown Prince of Dubai, Deputy Prime Minister, Minister of Defence and Chairman of the Dubai Executive Council, presented the award to the RTA, citing its ability to deliver ma",
    "category": "Infrastructure",
    "impact": "Medium",
-   "impact_reason": "Improved transport infrastructure enhances nearby real estate appeal.",
+   "impact_reason": "Faster infrastructure rollouts enhance surrounding real estate value.",
    "watch": false,
-   "headline": "RTA wins Dubai award for rapid infrastructure project delivery",
-   "summary": "Dubai's Roads and Transport Authority received the inaugural Dubai-it Award. The honor acknowledges their exceptional speed in completing vital city infrastructure.",
-   "why": "Fast infrastructure development enhances connectivity and boosts surrounding property values.",
-   "age_hours": 23.3,
+   "headline": "RTA honored for rapid infrastructure delivery",
+   "summary": "Dubai's RTA received the inaugural Dubai-it Award from Sheikh Hamdan for record-breaking infrastructure delivery. The accolade recognizes swift execution of public projects.",
+   "why": "Fast infrastructure development directly affects property values and accessibility in Dubai.",
+   "age_hours": 23.7,
    "topic": "Infrastructure"
   }
  ],
  "window_hours": 48,
  "count_relevant": 2,
- "count_fetched": 200,
+ "count_fetched": 204,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-12T16:06+04:00",
- "saved_at": "2026-10-12T16:06+04:00"
+ "as_of": "2026-10-12T16:30+04:00",
+ "saved_at": "2026-10-12T16:30+04:00"
 }
