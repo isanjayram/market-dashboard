@@ -1,0 +1,44 @@
+[
+{
+"id": "3961b7ff8d8d",
+"headline": "Can tenants legally sublelist Dubai apartments as holiday homes?",
+"summary": "Landlords discover tenants unauthorizedly listing properties on vacation rental platforms. Legal guidance addresses property misuse and owner consent.",
+"why": "Property management issues directly concern landlords and rental regulations.",
+"source": "The National",
+"link": "https://www.thenationalnews.com/business/money/2026/10/12/uae-property-can-my-tenant-legally-list-my-apartment-as-a-holiday-rental-without-my-consent/",
+"published": "2026-10-12T07:00+04:00",
+"category": "Regulation & fees",
+"impact": "Medium",
+"impact_reason": "Clarifies landlord rights regarding unauthorized short-term rentals.",
+"watch": true,
+"topic": "Regulation & fees"
+},
+{
+"id": "621688592041",
+"headline": "Guidelines released for approved bedspace rentals in Dubai",
+"summary": "Shared housing in approved areas must strictly adhere to new Dubai Municipality guidelines. Location approval does not automatically guarantee compliance.",
+"why": "Rental compliance impacts property investors operating shared accommodations.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/living-in-uae/housing/dubai-shared-housing-rules-bedspace-approved-buildings-1.500707000",
+"published": "2026-10-12T08:33+04:00",
+"category": "Regulation & fees",
+"impact": "Medium",
+"impact_reason": "Outlines compliance standards for shared rental properties.",
+"watch": false,
+"topic": "Regulation & fees"
+},
+{
+"id": "67256a2f13cc",
+"headline": "Dubai launches digital Nol QR codes for public transport",
+"summary": "Commuters can now use mobile QR codes via specific apps for metro, bus, and tram travel. This innovation replaces traditional single-use paper tickets.",
+"why": "Transport updates affect neighborhood accessibility and local residential appeal.",
+"source": "The National",
+"link": "https://www.thenationalnews.com/news/uae/2026/10/10/dubai-digital-nol-qr-tickets-metro-bus-tram/",
+"published": "2026-10-10T12:27+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Enhances public transit accessibility across the emirate.",
+"watch": false,
+"topic": "metro"
+}
+]
