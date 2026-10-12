@@ -1,28 +1,6 @@
 {
  "top": [
   {
-   "id": "ea6506d8a9cb",
-   "title": "Gold rises as cheaper oil lifts hopes for a Fed pause",
-   "link": "https://gulfnews.com/business/retail/gold-rises-as-cheaper-oil-lifts-hopes-for-a-fed-pause-1.500707212",
-   "source": "Gulf News",
-   "kind": "outlet",
-   "published": "2026-10-12T11:47+04:00",
-   "tags": [
-    "Retail",
-    "Your Money"
-   ],
-   "teaser": "Dubai: Gold inched up on Monday, October 12, as falling oil prices calmed worries about inflation. Traders now see a better chance that the US Federal Reserve will hold off on more interest rate hikes. Globally bullion is trading slightly lower at $4,190.15 after it breached the $4200 mark in early morning trade on Monday. In the UAE, prices have stayed stable through the weekend. 24-karat gold ho",
-   "category": "Rates & mortgages",
-   "impact": "Medium",
-   "impact_reason": "Shifts global rate expectations affecting local financing costs.",
-   "watch": false,
-   "headline": "Gold increases as falling oil prices fuel Federal Reserve pause hopes",
-   "summary": "Gold prices ticked up following a drop in oil prices, easing inflation concerns. Investors are now anticipating that the US central bank will pause further interest rate increases.",
-   "why": "Interest rate expectations directly influence mortgage costs and borrowing sentiment in Dubai.",
-   "age_hours": 3.6,
-   "topic": "oil"
-  },
-  {
    "id": "3961b7ff8d8d",
    "title": "UAE Property: 'Can my tenant legally list my apartment as a holiday rental without my consent?'",
    "link": "https://www.thenationalnews.com/business/money/2026/10/12/uae-property-can-my-tenant-legally-list-my-apartment-as-a-holiday-rental-without-my-consent/",
@@ -32,13 +10,13 @@
    "tags": [],
    "teaser": "Question: I own an apartment in Dubai Marina, which I've rented to the same tenant for two years. A neighbour recently contacted me because different people appear to be entering the apartment every few days with suitcases. I checked one of the holiday rental websites and, to my surprise, found what appears to be my apartment being advertised for short-term stays . I never agreed to this and my te",
    "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Single legal dispute rather than a wide market change.",
+   "impact": "Medium",
+   "impact_reason": "Affects landlord asset control and tenant legal obligations.",
    "watch": true,
-   "headline": "Tenant illegally listing Dubai property as a holiday home without consent",
-   "summary": "A Dubai Marina landlord discovered their long-term tenant was secretly operating their rented apartment as a short-term holiday home. The issue highlights risks regarding unauthorized subleasing and property control.",
-   "why": "Landlords need awareness of tenant subleasing rules and short-term rental regulations.",
-   "age_hours": 8.3,
+   "headline": "Tenant illegally listing Dubai apartment as holiday rental without consent",
+   "summary": "A Dubai Marina landlord discovers their tenant is subletting the property on vacation home sites. This violates standard tenancy laws unless proper landlord authorization is secured.",
+   "why": "It highlights legal risks and unauthorized subletting issues for property owners.",
+   "age_hours": 9.1,
    "topic": "Regulation & fees"
   },
   {
@@ -51,21 +29,21 @@
    "tags": [],
    "teaser": "The first Dubai-it Award for Institutions in the Field of Government has been given to the emirate's Roads and Transport Authority in recognition of its record-breaking delivery of infrastructure. Sheikh Hamdan bin Mohammed, Crown Prince of Dubai, Deputy Prime Minister, Minister of Defence and Chairman of the Dubai Executive Council, presented the award to the RTA, citing its ability to deliver ma",
    "category": "Infrastructure",
-   "impact": "Low",
-   "impact_reason": "Recognition award rather than a new transport launch.",
+   "impact": "Medium",
+   "impact_reason": "Improved transport infrastructure enhances nearby real estate appeal.",
    "watch": false,
-   "headline": "RTA wins Dubai-it Award for fast infrastructure project delivery",
-   "summary": "Dubai's Roads and Transport Authority received the inaugural Dubai-it Award for Institutions in the Field of Government. The honor acknowledges the agency's exceptional speed in completing urban infrastructure projects.",
-   "why": "Improved public transit networks positively impact surrounding real estate values and accessibility.",
-   "age_hours": 22.5,
+   "headline": "RTA wins Dubai award for rapid infrastructure project delivery",
+   "summary": "Dubai's Roads and Transport Authority received the inaugural Dubai-it Award. The honor acknowledges their exceptional speed in completing vital city infrastructure.",
+   "why": "Fast infrastructure development enhances connectivity and boosts surrounding property values.",
+   "age_hours": 23.3,
    "topic": "Infrastructure"
   }
  ],
- "window_hours": 24,
- "count_relevant": 3,
- "count_fetched": 204,
+ "window_hours": 48,
+ "count_relevant": 2,
+ "count_fetched": 200,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-12T15:20+04:00",
- "saved_at": "2026-10-12T15:20+04:00"
+ "as_of": "2026-10-12T16:06+04:00",
+ "saved_at": "2026-10-12T16:06+04:00"
 }
