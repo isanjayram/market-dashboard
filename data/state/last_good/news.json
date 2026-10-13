@@ -16,7 +16,7 @@
    "headline": "UAE Golden Visa eligibility: Check if you qualify in minutes using the ICP\u2019s free online tool",
    "summary": "",
    "why": "rules or fees may change what clients pay or who can buy, so check the details before advising.",
-   "age_hours": 4.4,
+   "age_hours": 4.5,
    "topic": "golden visa",
    "more": 1
   },
@@ -99,7 +99,7 @@
    "headline": "Dubai talks growth with big plans for airport, metro, Dh100-billion financial district",
    "summary": "",
    "why": "infrastructure can shift which areas buyers favour over time (analysis, not a forecast).",
-   "age_hours": 2.3,
+   "age_hours": 2.4,
    "topic": "airport"
   },
   {
@@ -137,7 +137,7 @@
    "headline": "China-Abu Dhabi JV wins $2.7bn Al Maktoum Airport terminal deal",
    "summary": "",
    "why": "infrastructure can shift which areas buyers favour over time (analysis, not a forecast).",
-   "age_hours": 19.7,
+   "age_hours": 19.8,
    "topic": "abu dhabi"
   },
   {
@@ -156,7 +156,7 @@
    "headline": "7 surprising benefits of the UAE golden visa that you may not know",
    "summary": "",
    "why": "rules or fees may change what clients pay or who can buy, so check the details before advising.",
-   "age_hours": 1.5,
+   "age_hours": 1.6,
    "topic": "golden visa"
   },
   {
@@ -194,15 +194,15 @@
    "headline": "61.4% sales percentage.. Dubai real estate transactions amounted to AED 4.69 billion over the weekend",
    "summary": "",
    "why": "new launches or results change the options and prices you can offer clients.",
-   "age_hours": 3.4,
+   "age_hours": 3.5,
    "topic": "Developer news"
   }
  ],
  "window_hours": 24,
- "count_relevant": 30,
- "count_fetched": 425,
+ "count_relevant": 31,
+ "count_fetched": 414,
  "feed_errors": {},
- "mode": "rules only (gemini: HTTPError: 503 Server Error: Service Unavailable for url: https://generativelanguage.google)",
- "as_of": "2026-10-13T18:21+04:00",
- "saved_at": "2026-10-13T18:21+04:00"
+ "mode": "rules only (gemini: ReadTimeout: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read ti)",
+ "as_of": "2026-10-13T18:25+04:00",
+ "saved_at": "2026-10-13T18:28+04:00"
 }
