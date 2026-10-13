@@ -68,5 +68,33 @@
 "impact_reason": "Marketing activity with no direct impact on property buyers.",
 "watch": false,
 "topic": "Developer news"
+},
+{
+"id": "175b5e20c14d",
+"headline": "How is AI changing Dubai’s rental market?",
+"summary": "",
+"why": "can move investor sentiment; expect questions about where the market is heading.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/uae/dubai/how-is-ai-changing-dubais-rental-market-1.500708880",
+"published": "2026-10-13T15:34+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": false,
+"topic": "Macro & geopolitics"
+},
+{
+"id": "c764c995d781",
+"headline": "Jon Rahm to make Abu Dhabi Aldar Championship debut as he gets set for LIV Golf exit",
+"summary": "",
+"why": "new launches or results change the options and prices you can offer clients.",
+"source": "The National",
+"link": "https://www.thenationalnews.com/sport/2026/10/12/jon-rahm-to-make-abu-dhabi-aldar-championship-debut-as-he-gets-set-for-liv-golf-exit/",
+"published": "2026-10-12T15:22+04:00",
+"category": "Developer news",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": false,
+"topic": "aldar"
 }
 ]
