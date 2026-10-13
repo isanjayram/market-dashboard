@@ -11,6 +11,7 @@ import hashlib
 import json
 import os
 import re
+import time
 from typing import Any
 
 import requests
@@ -51,13 +52,17 @@ def available() -> bool:
 
 
 def _gemini(model: str, key: str, system: str, user: str) -> str:
-    r = requests.post(
-        f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
-        headers={"x-goog-api-key": key, "Content-Type": "application/json"}, timeout=90,
-        json={"systemInstruction": {"parts": [{"text": system}]},
-              "contents": [{"role": "user", "parts": [{"text": user}]}],
-              "generationConfig": {"responseMimeType": "application/json", "temperature": 0.2,
-                                   "maxOutputTokens": 8192}})
+    for attempt in range(3):  # "503 overloaded" usually clears within seconds
+        r = requests.post(
+            f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
+            headers={"x-goog-api-key": key, "Content-Type": "application/json"}, timeout=90,
+            json={"systemInstruction": {"parts": [{"text": system}]},
+                  "contents": [{"role": "user", "parts": [{"text": user}]}],
+                  "generationConfig": {"responseMimeType": "application/json", "temperature": 0.2,
+                                       "maxOutputTokens": 8192}})
+        if r.status_code != 503 or attempt == 2:
+            break
+        time.sleep(8 * (attempt + 1))
     r.raise_for_status()
     cand = r.json()["candidates"][0]
     if cand.get("finishReason") not in (None, "STOP"):
