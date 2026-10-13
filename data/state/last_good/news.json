@@ -1,28 +1,6 @@
 {
  "top": [
   {
-   "id": "ed8c03d29e62",
-   "title": "Rents in Dubai fall over 12%: Dubai Marina, Business Bay and JVC lead",
-   "link": "https://www.khaleejtimes.com/business/rents-in-dubai-fall-over-12-dubai-marina-business-bay-and-jvc-lead",
-   "source": "Khaleej Times",
-   "kind": "outlet",
-   "published": "2026-10-13T10:35+04:00",
-   "tags": [
-    "Business",
-    "Property"
-   ],
-   "teaser": "Apartment rents in Dubai Marina, Business Bay, and Jumeirah Village Circle (JVC) saw a double-digit drop \u2013 the highest drop among Dubai communities \u2013 in the third quarter of 2026 as the property market softened, according to property consultancy Savills\u2019 Q3 2026 report. Data showed that apartment rents in Marina, Business Bay, and JVC fell 12.8 per cent, 12.2 per cent and 10.4 per cent year-on-yea",
-   "category": "Supply & market reports",
-   "impact": "High",
-   "impact_reason": "Shifts investor rental yields and market sentiment.",
-   "watch": true,
-   "headline": "Dubai apartment rents drop over 12% in Q3",
-   "summary": "Savills reports that Dubai Marina, Business Bay, and JVC experienced double-digit rental declines in the third quarter of 2026. This indicates a softening of the local property market.",
-   "why": "Rental price shifts directly impact investor yields and tenant market dynamics.",
-   "age_hours": 3.2,
-   "topic": "rents"
-  },
-  {
    "id": "3961b7ff8d8d",
    "title": "UAE Property: 'Can my tenant legally list my apartment as a holiday rental without my consent?'",
    "link": "https://www.thenationalnews.com/business/money/2026/10/12/uae-property-can-my-tenant-legally-list-my-apartment-as-a-holiday-rental-without-my-consent/",
@@ -33,12 +11,12 @@
    "teaser": "Question: I own an apartment in Dubai Marina, which I've rented to the same tenant for two years. A neighbour recently contacted me because different people appear to be entering the apartment every few days with suitcases. I checked one of the holiday rental websites and, to my surprise, found what appears to be my apartment being advertised for short-term stays . I never agreed to this and my te",
    "category": "Regulation & fees",
    "impact": "Medium",
-   "impact_reason": "Clarifies landlord rights against unauthorized holiday rentals.",
+   "impact_reason": "Clarifies landlord rights and tenant regulations for short-term rentals.",
    "watch": true,
-   "headline": "Legal advice on tenants listing properties as holiday homes",
-   "summary": "A landlord discovers a tenant has been illegally listing their Dubai Marina apartment on holiday rental sites. The situation highlights issues regarding unauthorized short-term subletting.",
-   "why": "It addresses landlord rights and regulatory compliance regarding holiday rentals.",
-   "age_hours": 30.8,
+   "headline": "Tenant Unlawfully Lists Dubai Marina Flat as Holiday Home",
+   "summary": "A Dubai Marina landlord discovered their tenant was illegally listing the rented apartment on holiday home websites without consent. Such unauthorized subletting violates standard tenancy agreements.",
+   "why": "It addresses legal obligations and tenant restrictions regarding property subleasing.",
+   "age_hours": 32.1,
    "topic": "Regulation & fees"
   },
   {
@@ -54,12 +32,12 @@
    "teaser": "Tabeer Developments has handed over its Dh250-million residential project in Arjan, 48 Parkside, strengthening its credentials as a developer capable of turning plans into finished homes as it prepares for a larger phase of expansion. For the Dubai-based company, the milestone brings its commercial and operational capabilities into focus. Delivering the completed development gives buyers a concret",
    "category": "Developer news",
    "impact": "Medium",
-   "impact_reason": "Demonstrates developer delivery capability and sector growth.",
+   "impact_reason": "Highlights developer project delivery and upcoming market supply.",
    "watch": false,
-   "headline": "Tabeer Developments delivers Dh250m project in Arjan",
-   "summary": "Tabeer Developments completed its 48 Parkside residential project in Arjan within two years. The company now plans to pursue a larger phase of expansion.",
-   "why": "It highlights active project completions and developer growth in Dubai's real estate sector.",
-   "age_hours": 2.5,
+   "headline": "Tabeer Finishes Dh250M Arjan Project and Plans Growth",
+   "summary": "Tabeer Developments delivered its Dh250-million 48 Parkside residential building in Arjan within two years. The company now targets a broader expansion phase following this successful delivery.",
+   "why": "It shows developer delivery capability and future project pipelines in Dubai.",
+   "age_hours": 3.8,
    "topic": "Developer news"
   },
   {
@@ -73,20 +51,20 @@
    "teaser": "The first Dubai-it Award for Institutions in the Field of Government has been given to the emirate's Roads and Transport Authority in recognition of its record-breaking delivery of infrastructure. Sheikh Hamdan bin Mohammed, Crown Prince of Dubai, Deputy Prime Minister, Minister of Defence and Chairman of the Dubai Executive Council, presented the award to the RTA, citing its ability to deliver ma",
    "category": "Infrastructure",
    "impact": "Medium",
-   "impact_reason": "Highlights regional infrastructure progress supporting communities.",
+   "impact_reason": "Faster infrastructure development boosts regional accessibility and property appeal.",
    "watch": false,
-   "headline": "RTA wins Dubai-it Award for fast infrastructure delivery",
-   "summary": "Dubai's Roads and Transport Authority received the inaugural Dubai-it Award for its rapid project execution. Sheikh Hamdan bin Mohammed praised the agency's record-breaking speed.",
-   "why": "Efficient infrastructure development enhances connectivity and supports property values.",
-   "age_hours": 45.0,
+   "headline": "RTA Honored for Fast Infrastructure Delivery in Dubai",
+   "summary": "Dubai's Roads and Transport Authority received the Dubai-it Award for Institutional Excellence. The prize recognizes the agency's record-breaking speed in completing infrastructure projects.",
+   "why": "Fast infrastructure development enhances connectivity and supports surrounding property values.",
+   "age_hours": 46.3,
    "topic": "Infrastructure"
   }
  ],
  "window_hours": 48,
- "count_relevant": 4,
- "count_fetched": 256,
+ "count_relevant": 3,
+ "count_fetched": 261,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-13T13:45+04:00",
- "saved_at": "2026-10-13T13:45+04:00"
+ "as_of": "2026-10-13T15:06+04:00",
+ "saved_at": "2026-10-13T15:07+04:00"
 }
