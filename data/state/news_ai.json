@@ -1,0 +1,76 @@
+{
+ "2026-10-13": {
+  "ab58a6f4034d": {
+   "relevant": true,
+   "headline": "ICP Launches Free Online Tool to Check Golden Visa Eligibility",
+   "summary": "Residents can now use a new online tool provided by the ICP to quickly check if they qualify for the UAE Golden Visa. This digital service simplifies the assessment process for applicants.",
+   "why": "It directly impacts residency rules and investor eligibility for property buyers.",
+   "category": "Regulation & fees",
+   "impact": "High",
+   "impact_reason": "Changes residency eligibility and investor retention."
+  },
+  "48ba24e795d2": {
+   "relevant": true,
+   "headline": "Sharjah Real Estate Transactions Reach $12.74 Billion in 9M 2026",
+   "summary": "Sharjah reported strong real estate performance through September 2026, with monetary transaction volumes reaching AED46.8 billion. Both transaction values and volumes showed positive momentum during this period.",
+   "why": "It provides crucial market data reflecting regional property demand.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Highlights regional market performance and demand trends."
+  },
+  "ac6a72a550e6": {
+   "relevant": true,
+   "headline": "Sharjah Property Transactions Hit $12.74 Billion in Nine Months",
+   "summary": "Official figures show Sharjah's property sector generated $12.74 billion across transactions during the first nine months of the year. The market maintained solid growth momentum throughout the period.",
+   "why": "It tracks official transaction volumes in a neighboring emirate's property market.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Demonstrates steady regional market growth."
+  },
+  "cadada16d255": {
+   "relevant": true,
+   "headline": "Sharjah Property Market Grows 14% with Dh46.8 Billion in Transactions",
+   "summary": "Sharjah's real estate sector expanded by 14 percent year-on-year as total transactions reached Dh46.8 billion in the first nine months. Trading volume specifically rose by 5.6 percent between January and September.",
+   "why": "It offers comprehensive figures on Sharjah's property market expansion.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects overall sector growth and investor activity."
+  },
+  "4a1216c17499": {
+   "relevant": true,
+   "headline": "Azizi Hosts Major Sales Event for $8.2 Billion Sharjah Project",
+   "summary": "Developer Azizi has launched its largest sales event to date for an extensive $8.2 billion development in Sharjah. The mega-project aims to draw substantial buyer interest.",
+   "why": "It highlights major developer activity and large-scale project launches.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Signals major new supply and sales activity."
+  },
+  "4b40941d2919": {
+   "relevant": true,
+   "headline": "OPEC Raises 2027 Global Oil Demand Growth Forecast",
+   "summary": "OPEC increased its global oil demand growth projections for 2027 to address inventory depletion caused by the Iran conflict. Meanwhile, the organization lowered its outlook for 2026 for the sixth consecutive month.",
+   "why": "Macroeconomic shifts in oil demand impact the broader UAE economy.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Influences broader economic sentiment and liquidity."
+  },
+  "54047659ce56": {
+   "relevant": true,
+   "headline": "Dubai Outlines Major Plans for Airport, Metro, and Financial District",
+   "summary": "Dubai officials presented ambitious long-term infrastructure plans at a recent leadership forum, focusing on integrated transport networks and a massive financial district. These projects aim to expand the emirate's travel and trade capabilities.",
+   "why": "New infrastructure developments significantly influence real estate values and demand.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Boosts long-term property values and urban connectivity."
+  },
+  "593d472f0e50": {
+   "relevant": true,
+   "headline": "Dubai Property Market Shifts as Ready-Home Sales Rise",
+   "summary": "Dubai's real estate landscape is evolving as demand shifts toward ready properties and buyers become more selective. This change reflects shifting preferences among active market participants.",
+   "why": "It details changing buyer behavior within the Dubai property sector.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Reflects shifting buyer preferences in the market."
+  }
+ }
+}

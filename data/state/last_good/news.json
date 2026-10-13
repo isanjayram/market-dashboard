@@ -11,11 +11,11 @@
    "teaser": "",
    "category": "Regulation & fees",
    "impact": "High",
-   "impact_reason": "Could change who can buy or get a visa",
+   "impact_reason": "Changes residency eligibility and investor retention.",
    "watch": false,
-   "headline": "UAE Golden Visa eligibility: Check if you qualify in minutes using the ICP\u2019s free online tool",
-   "summary": "",
-   "why": "rules or fees may change what clients pay or who can buy, so check the details before advising.",
+   "headline": "ICP Launches Free Online Tool to Check Golden Visa Eligibility",
+   "summary": "Residents can now use a new online tool provided by the ICP to quickly check if they qualify for the UAE Golden Visa. This digital service simplifies the assessment process for applicants.",
+   "why": "It directly impacts residency rules and investor eligibility for property buyers.",
    "age_hours": 4.5,
    "topic": "golden visa",
    "more": 1
@@ -31,15 +31,15 @@
    "teaser": "The real estate sector in Sharjah recorded strong results from the beginning of 2026 to the end of September, maintaining solid performance with growth in both the volume of monetary transactions and the total number of transactions. Total monetary transaction volume reached AED46.8 billion ($12.74 billion), compared to AED44.3 billion during the same period in [\u2026] The post Sharjah real estate tra",
    "category": "Supply & market reports",
    "impact": "Medium",
-   "impact_reason": "New market data or report",
+   "impact_reason": "Highlights regional market performance and demand trends.",
    "watch": true,
    "also": [
     "Gulf Today"
    ],
-   "headline": "Sharjah real estate transactions grow 5.6 percent to $12.74 billion in 9M 2026",
-   "summary": "",
-   "why": "fresh data on prices or supply, useful context when discussing value and timing.",
-   "age_hours": 0.7,
+   "headline": "Sharjah Real Estate Transactions Reach $12.74 Billion in 9M 2026",
+   "summary": "Sharjah reported strong real estate performance through September 2026, with monetary transaction volumes reaching AED46.8 billion. Both transaction values and volumes showed positive momentum during this period.",
+   "why": "It provides crucial market data reflecting regional property demand.",
+   "age_hours": 0.8,
    "topic": "sharjah",
    "more": 2
   },
@@ -54,12 +54,12 @@
    "teaser": "",
    "category": "Supply & market reports",
    "impact": "Medium",
-   "impact_reason": "New market data or report",
+   "impact_reason": "Demonstrates steady regional market growth.",
    "watch": true,
-   "headline": "Sharjah real estate transactions hit $12.74bln in nine months",
-   "summary": "",
-   "why": "fresh data on prices or supply, useful context when discussing value and timing.",
-   "age_hours": 1.0,
+   "headline": "Sharjah Property Transactions Hit $12.74 Billion in Nine Months",
+   "summary": "Official figures show Sharjah's property sector generated $12.74 billion across transactions during the first nine months of the year. The market maintained solid growth momentum throughout the period.",
+   "why": "It tracks official transaction volumes in a neighboring emirate's property market.",
+   "age_hours": 1.1,
    "topic": "sharjah"
   },
   {
@@ -73,12 +73,12 @@
    "teaser": "The Organization of the Petroleum Exporting Countries (OPEC) raised its forecast for global oil demand growth in 2027, citing the need to replenish inventories depleted by the Iran war, while lowering its outlook for 2026 for the sixth consecutive month. Global oil demand is expected to grow by 2.6 million barrels per day (bpd) in [\u2026] The post OPEC raises 2027 oil demand growth forecast as global ",
    "category": "Macro & geopolitics",
    "impact": "Medium",
-   "impact_reason": "Could shift buyer sentiment",
+   "impact_reason": "Influences broader economic sentiment and liquidity.",
    "watch": false,
-   "headline": "OPEC raises 2027 oil demand growth forecast as global inventories need rebuilding",
-   "summary": "",
-   "why": "can move investor sentiment; expect questions about where the market is heading.",
-   "age_hours": 1.1,
+   "headline": "OPEC Raises 2027 Global Oil Demand Growth Forecast",
+   "summary": "OPEC increased its global oil demand growth projections for 2027 to address inventory depletion caused by the Iran conflict. Meanwhile, the organization lowered its outlook for 2026 for the sixth consecutive month.",
+   "why": "Macroeconomic shifts in oil demand impact the broader UAE economy.",
+   "age_hours": 1.2,
    "topic": "oil"
   },
   {
@@ -94,12 +94,12 @@
    "teaser": "Dubai outlined its long-term vision for travel, trade and city life at the Mohammed bin Rashid Leadership Forum 2026, held at Dubai World Trade Centre on Tuesday, with officials presenting plans to connect the emirate through integrated transport systems, expand its global trade network and improve the experience of residents and visitors. The forum brought together government and private-sector l",
    "category": "Infrastructure",
    "impact": "Medium",
-   "impact_reason": "Infrastructure that can move area demand",
+   "impact_reason": "Boosts long-term property values and urban connectivity.",
    "watch": false,
-   "headline": "Dubai talks growth with big plans for airport, metro, Dh100-billion financial district",
-   "summary": "",
-   "why": "infrastructure can shift which areas buyers favour over time (analysis, not a forecast).",
-   "age_hours": 2.4,
+   "headline": "Dubai Outlines Major Plans for Airport, Metro, and Financial District",
+   "summary": "Dubai officials presented ambitious long-term infrastructure plans at a recent leadership forum, focusing on integrated transport networks and a massive financial district. These projects aim to expand the emirate's travel and trade capabilities.",
+   "why": "New infrastructure developments significantly influence real estate values and demand.",
+   "age_hours": 2.5,
    "topic": "airport"
   },
   {
@@ -113,12 +113,12 @@
    "teaser": "",
    "category": "Developer news",
    "impact": "Medium",
-   "impact_reason": "New launch or developer update",
+   "impact_reason": "Reflects shifting buyer preferences in the market.",
    "watch": false,
-   "headline": "Dubai property market shifts as ready-home sales rise and buyers become more selective",
-   "summary": "",
-   "why": "new launches or results change the options and prices you can offer clients.",
-   "age_hours": 7.9,
+   "headline": "Dubai Property Market Shifts as Ready-Home Sales Rise",
+   "summary": "Dubai's real estate landscape is evolving as demand shifts toward ready properties and buyers become more selective. This change reflects shifting preferences among active market participants.",
+   "why": "It details changing buyer behavior within the Dubai property sector.",
+   "age_hours": 8.0,
    "topic": "Developer news"
   },
   {
@@ -137,7 +137,7 @@
    "headline": "China-Abu Dhabi JV wins $2.7bn Al Maktoum Airport terminal deal",
    "summary": "",
    "why": "infrastructure can shift which areas buyers favour over time (analysis, not a forecast).",
-   "age_hours": 19.8,
+   "age_hours": 19.9,
    "topic": "abu dhabi"
   },
   {
@@ -156,7 +156,7 @@
    "headline": "7 surprising benefits of the UAE golden visa that you may not know",
    "summary": "",
    "why": "rules or fees may change what clients pay or who can buy, so check the details before advising.",
-   "age_hours": 1.6,
+   "age_hours": 1.7,
    "topic": "golden visa"
   },
   {
@@ -175,7 +175,7 @@
    "headline": "Dubai Metro Blue Line: How Major Infrastructure Projects Could Reshape Property Values",
    "summary": "",
    "why": "infrastructure can shift which areas buyers favour over time (analysis, not a forecast).",
-   "age_hours": 3.4,
+   "age_hours": 3.5,
    "topic": "blue line"
   },
   {
@@ -194,15 +194,15 @@
    "headline": "61.4% sales percentage.. Dubai real estate transactions amounted to AED 4.69 billion over the weekend",
    "summary": "",
    "why": "new launches or results change the options and prices you can offer clients.",
-   "age_hours": 3.5,
+   "age_hours": 3.6,
    "topic": "Developer news"
   }
  ],
  "window_hours": 24,
- "count_relevant": 31,
- "count_fetched": 414,
+ "count_relevant": 30,
+ "count_fetched": 417,
  "feed_errors": {},
- "mode": "rules only (gemini: ReadTimeout: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read ti)",
- "as_of": "2026-10-13T18:25+04:00",
- "saved_at": "2026-10-13T18:28+04:00"
+ "mode": "AI summaries for 8 of 24 stories; rules for the rest (gemini: ReadTimeout: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read ti)",
+ "as_of": "2026-10-13T18:30+04:00",
+ "saved_at": "2026-10-13T18:33+04:00"
 }
