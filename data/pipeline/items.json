@@ -500,5 +500,98 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"4a1216c17499": {
+"id": "4a1216c17499",
+"title": "Azizi announces biggest-ever sales event for $8.2bln Sharjah project",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRXJ6QTNJUEtoS3poUnhkVUJkLUNkRjJBb2tUazVYcGYzNXp3dW4yR2pNSDhiSFhYN1FocXlRaXZUSU5uNGJ4VHVmUVd2QzNUSkhoX0tRSU9GaWhOaXNYZlQ1WUlWdTNGOXhWN3BURTgwelFfczRpVUx0RjNDc1NIazNiYzFDZEhZUEFpTGhLVXNjQTFxTDdpOU9IaXJVUnRyMkU2V0M1ZTlOeXdvYTFFX0duLWlTR1NTUEFyekpSdTNwTDdmLVE?oc=5",
+"source": "Zawya",
+"category": "Developer news",
+"published": "2026-10-13T07:14+04:00",
+"first_seen": "2026-10-13",
+"kind": "Off-plan launch",
+"region": "Sharjah",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": "Azizi",
+"location": "Sharjah",
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"54047659ce56": {
+"id": "54047659ce56",
+"title": "Dubai talks growth with big plans for airport, metro, Dh100-billion financial district",
+"link": "https://www.khaleejtimes.com/uae/dubai-future-plans-airport-transport-trade-network-financial-district",
+"source": "Khaleej Times",
+"category": "Infrastructure",
+"published": "2026-10-13T16:02+04:00",
+"first_seen": "2026-10-13",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": "Dubai",
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"1c8f53fa8982": {
+"id": "1c8f53fa8982",
+"title": "China-Abu Dhabi JV wins $2.7bn Al Maktoum Airport terminal deal",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbFVrNVNvcEJPTFFpdlNzZlBKVXVYQTFzY0tjNnB1Tk92LWFGYVRxLWRMNE9ZZm9EaTN0dEtaZklTaUdTRHRPRk9aTG03Ym1RRFNIaVZNUDZXZE12TUExZ0E2MW5uWVVhV2N6U2l0eWVxX3RzX2RQcVVSZjJxelp4NGtkNDhvVXVRaFk1QU0wLWxINW43MzkyelRJeFcyZGhDWGxIWmlEY2I?oc=5",
+"source": "TradeArabia",
+"category": "Infrastructure",
+"published": "2026-10-12T22:37+04:00",
+"first_seen": "2026-10-13",
+"kind": "Infrastructure",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": "Abu Dhabi",
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"83b1160e10dc": {
+"id": "83b1160e10dc",
+"title": "Dubai Metro Blue Line: How Major Infrastructure Projects Could Reshape Property Values",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjNRVFVqSDhBdTRsUUdCVHdCX0dIOGFTWWdYQVc0ZUNzT1NQbGI0aFRPY3dVQndnbzhuaDZ0NndKMThmMDEzVlpzeW1sRUNmZEdOdjNyTk1rZU5KanUzakV2UUJPNDJQTVBOSG1sWjFRYnFXeEpUakcxRGhQMGQzOWhnRXJPd05kTFNwVVppbjJreUtmS3c?oc=5",
+"source": "The Aviation Hub",
+"category": "Infrastructure",
+"published": "2026-10-13T15:00+04:00",
+"first_seen": "2026-10-13",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": {
+"name": "Dubai Metro Blue Line",
+"status": "under construction; opens 9 Sep 2029 (14 stations)",
+"source": "Khaleej Times",
+"url": "https://www.khaleejtimes.com/uae/transport/dubai-metro-blue-line-to-be-completed-september-9-2029-rta-announces"
+},
+"fields": {
+"project": "Dubai Metro Blue Line",
+"developer": null,
+"location": "Dubai",
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
