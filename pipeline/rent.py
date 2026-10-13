@@ -165,6 +165,7 @@ def compute(con: duckdb.DuckDBPyConnection, sales_ready: bool) -> dict[str, Any]
             + (f", {'up' if pick['mom'] > 0 else 'down'} {abs(pick['mom']):.1f}% on the month" if pick["mom"] else "") + ".")
     kinds = [{"key": k, "label": KIND_LABEL[k], "beds": [b for b in BEDS[k] if any(r["kind"] == k and r["beds"] == b for r in rows)]}
              for k in KINDS]
+    alerts.sort(key=lambda r: abs(r.get("mom") or 0), reverse=True)  # biggest moves first
     return {"month": M.strftime("%B %Y"), "rows": rows, "alerts": alerts, "kinds": kinds, "bed_labels": BED_LABEL,
             "brief_facts": {"line": line}}
 

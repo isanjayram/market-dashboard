@@ -19,7 +19,7 @@ import requests
 import tomllib
 
 from . import llm
-from .config import CONFIG_DIR, DATA_DIR, SETTINGS, TZ, WATCHLIST, now
+from .config import CONFIG_DIR, DATA_DIR, SETTINGS, STATE_DIR, TZ, WATCHLIST, now
 
 NEWS_DIR = DATA_DIR / "news"
 UA = "sanjay-market-brief/1.0 (+RSS reader)"
@@ -30,6 +30,9 @@ STOP = set("the a an of in on for to and as with at by from is are be after over
 with open(CONFIG_DIR / "news_rules.toml", "rb") as f:
     RULES = tomllib.load(f)
 CATEGORIES = [c["name"] for c in RULES["category"]]
+SKIP_SOURCES = {s.lower() for s in RULES.get("skip_sources", [])}
+TRUSTED = {s.lower() for s in RULES.get("trusted_sources", [])}
+AI_FILE = STATE_DIR / "news_ai.json"
 
 
 def _clean(text: str | None, limit: int = 400) -> str:
@@ -63,8 +66,18 @@ def fetch_feed(feed: dict[str, Any]) -> list[dict[str, Any]]:
             continue
         cats = [_clean(c.text, 60) for c in it.findall("category") if c.text]
         teaser = _clean(it.findtext("description")) or _clean(it.findtext(CONTENT_NS))
+        source = feed["name"]
+        if feed.get("kind") == "search":
+            # A news search returns stories from many outlets: credit the outlet, not the search,
+            # and drop the " - Outlet" the search adds to each headline.
+            source = _clean(it.findtext("source"), 60) or source
+            if title.endswith(f" - {source}"):
+                title = title[: -len(source) - 3].strip()
+            teaser = ""  # the search's teaser only repeats the headline
+            if source.lower() in SKIP_SOURCES or not title:
+                continue
         out.append({"id": hashlib.sha1(link.split("?")[0].encode()).hexdigest()[:12], "title": title,
-                    "link": link, "source": feed["name"], "kind": feed.get("kind", "outlet"),
+                    "link": link, "source": source, "kind": feed.get("kind", "outlet"),
                     "published": when.isoformat(timespec="minutes"), "tags": cats, "teaser": teaser})
     return out
 
@@ -113,6 +126,8 @@ def classify(item: dict[str, Any]) -> dict[str, Any] | None:
         rule = next((r for r in RULES["impact"] if _has(body, r["keywords"])), RULES["default_impact"])
         if rule["level"] == "High":
             rule = dict(rule, level="Medium")
+    if rule["level"] == "High" and item.get("kind") == "search" and item["source"].lower() not in TRUSTED:
+        rule = dict(rule, level="Medium")  # an unknown outlet's headline is not enough for High
     watch_words = RULES["watch_terms"] + [w["name"] for w in WATCHLIST.get("dubai", [])]
     return dict(item, category=category, impact=rule["level"], impact_reason=rule["reason"],
                 watch=bool(_has(body, watch_words)))
@@ -152,44 +167,73 @@ WHY = {
 
 
 def _score(it: dict[str, Any]) -> tuple:
-    return (IMPACT_RANK[it["impact"]] + (0.5 if it["watch"] else 0), it["published"])
+    known = 0.25 if it["source"].lower() in TRUSTED or it.get("kind") == "official" else 0
+    return (IMPACT_RANK[it["impact"]] + (0.5 if it["watch"] else 0) + known, it["published"])
+
+
+def _ai_saved() -> dict[str, Any]:
+    """What the AI already said about each story, kept for two days so the day's later runs
+    reuse it instead of spending another call (or going without once the daily cap is hit)."""
+    try:
+        return json.loads(AI_FILE.read_text()) if AI_FILE.exists() else {}
+    except ValueError:
+        return {}
+
+
+def _apply_ai(it: dict[str, Any], r: dict[str, Any]) -> None:
+    if r.get("relevant") is False:
+        it["drop"] = True
+        return
+    it["headline"] = str(r.get("headline") or "")[:140] or it["title"]
+    it["summary"] = str(r.get("summary") or "")[:320]
+    it["why"] = str(r.get("why") or "")[:220]
+    if r.get("category") in CATEGORIES:
+        it["category"] = r["category"]
+    if r.get("impact") in IMPACT_RANK:
+        it["impact"] = r["impact"]
+        it["impact_reason"] = str(r.get("impact_reason") or it["impact_reason"])[:90]
 
 
 def enrich_with_ai(items: list[dict[str, Any]]) -> str:
     """One AI call rewrites headline/summary/why for the top candidates. Returns a status note."""
     if not items or not llm.available():
         return "rules only (no AI key)"
+    day = now().date().isoformat()
+    saved = _ai_saved()
+    known = {k: v for d in sorted(saved)[-2:] for k, v in saved[d].items()}
+    for it in items:
+        if it["id"] in known:
+            _apply_ai(it, known[it["id"]])
+    fresh = [i for i in items if i["id"] not in known]
+    if not fresh:
+        return "AI summaries (saved from an earlier run)"
     payload = [{"id": i["id"], "source": i["source"], "title": i["title"], "teaser": i["teaser"][:300],
-                "rule_category": i["category"], "rule_impact": i["impact"]} for i in items]
+                "rule_category": i["category"], "rule_impact": i["impact"]} for i in fresh]
     system = (
         "You help a Dubai real estate agent read the morning news. For each item return JSON only. "
         "Write in your own words; never copy sentences from the input. Use only facts in the input; "
         "if the teaser is empty, keep the summary to what the title says. Categories: " + ", ".join(CATEGORIES) + ". "
         "Impact: High if it changes buyer costs, eligibility, financing, sentiment or supply; Medium for market "
         "data, launches or infrastructure; Low otherwise. Set relevant=false for items not about property, "
-        "mortgages, rates, UAE residency rules, the economy, infrastructure, or NRI money rules.")
+        "mortgages, rates, UAE residency rules, the economy, infrastructure, or NRI money rules. Also set "
+        "relevant=false for sport, sponsorships, awards, lifestyle pieces, adverts and agent opinion with no news.")
     user = ("Return {\"items\": [{\"id\", \"relevant\", \"headline\" (max 12 words), \"summary\" (max 2 short "
             "sentences), \"why\" (one sentence, no prefix), \"category\", \"impact\", \"impact_reason\" (max 10 words)}]} "
             "for these items:\n" + json.dumps(payload, ensure_ascii=False))
     result, provider = llm.ask_json(system, user)
     if not result:
-        return f"rules only ({provider})"
+        done = len(items) - len(fresh)
+        return f"AI summaries for {done} of {len(items)} stories; rules for the rest ({provider})" if done else f"rules only ({provider})"
     by_id = {r.get("id"): r for r in result.get("items", []) if isinstance(r, dict)}
-    for it in items:
+    today_saved = saved.setdefault(day, {})
+    for it in fresh:
         r = by_id.get(it["id"])
         if not r:
             continue
-        if r.get("relevant") is False:
-            it["drop"] = True
-            continue
-        it["headline"] = str(r.get("headline") or "")[:140]
-        it["summary"] = str(r.get("summary") or "")[:320]
-        it["why"] = str(r.get("why") or "")[:220]
-        if r.get("category") in CATEGORIES:
-            it["category"] = r["category"]
-        if r.get("impact") in IMPACT_RANK:
-            it["impact"] = r["impact"]
-            it["impact_reason"] = str(r.get("impact_reason") or it["impact_reason"])[:90]
+        _apply_ai(it, r)
+        today_saved[it["id"]] = {k: r.get(k) for k in ("relevant", "headline", "summary", "why", "category", "impact", "impact_reason")}
+    STATE_DIR.mkdir(parents=True, exist_ok=True)
+    AI_FILE.write_text(json.dumps({d: saved[d] for d in sorted(saved)[-2:]}, ensure_ascii=False, indent=1))
     return f"AI summaries ({provider})"
 
 
@@ -207,7 +251,7 @@ def run() -> dict[str, Any]:
     recent = [i for i in fetched if t - datetime.fromisoformat(i["published"]) < timedelta(hours=48)]
     items = dedupe([c for c in (classify(i) for i in recent) if c])
     items.sort(key=_score, reverse=True)
-    note = enrich_with_ai(items[:15])
+    note = enrich_with_ai(items[:24])
     items = [i for i in items if not i.get("drop")]
     for it in items:
         it.setdefault("headline", it["title"])

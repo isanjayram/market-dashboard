@@ -9,6 +9,7 @@ relevant = [
   "base rate", "eibor", "federal reserve", "fomc", "central bank", "golden visa", "residency visa",
   "emaar", "nakheel", "damac", "sobha", "meraas", "dubai holding", "aldar", "arada", "alef",
   "binghatti", "danube", "ellington", "omniyat", "azizi", "select group", "eagle hills", "tiger properties",
+  "beyond developments", "meraki developers", "imtiaz", "samana", "townhouse", "townhouses", "villa", "villas", "apartments", "freehold",
   "ajmal makan", "tilal", "metro", "rta", "etihad rail", "al maktoum", "dwc", "airport expansion",
   "handover", "valustrat", "cbre", "knight frank", "betterhomes", "property monitor", "fitch", "moody",
   "brent", "opec", "remittance", "nri", "liberalised remittance", "lrs", "rupee", "fema",
@@ -23,13 +24,25 @@ places = ["uae", "dubai", "sharjah", "abu dhabi", "ajman", "ras al khaimah", "fu
 global_macro = ["federal reserve", "fed", "fomc", "interest rate", "oil", "brent", "opec", "recession", "inflation"]
 
 # Topics used to stop one big story filling the list (max 2 items each).
-topics = ["etihad rail", "blue line", "gold line", "metro", "golden visa", "al maktoum", "emaar", "nakheel", "damac", "sobha", "aldar", "arada", "alef", "binghatti", "dld", "rera", "ejari", "mortgage", "federal reserve", "oil", "rent", "rents"]
+topics = ["sharjah", "abu dhabi", "airport", "etihad rail", "blue line", "gold line", "metro", "golden visa", "al maktoum", "emaar", "nakheel", "damac", "sobha", "aldar", "arada", "alef", "binghatti", "dld", "rera", "ejari", "mortgage", "federal reserve", "oil", "rent", "rents"]
 
 # Items mentioning these are dropped even if they match above.
 exclude = [
   "football", "cricket", "tennis", "premier league", "asian games", "olympic", "formula 1", " f1 ",
   "movie", "film ", "actor", "actress", "bollywood", "celebrity", "recipe", "horoscope", "concert",
   "fashion", "wrestling", "boxing", "golf tournament", "match report",
+  "championship", "basketball", "haaland", "footballer", "striker", "liv golf", "tournament", "marathon", "sponsor", "sponsors", "sponsorship",
+]
+
+# Outlets from the news searches that are never shown (aggregators that only repeat others).
+skip_sources = ["msn", "yahoo", "yahoo finance", "aol", "newsbreak", "indexbox", "legit.ng", "pulse sports nigeria", "excel properties"]
+
+# Known outlets rank above unknown ones when two stories are otherwise equal.
+trusted_sources = [
+  "gulf news", "khaleej times", "the national", "the national (property)", "arabian business", "zawya", "reuters",
+  "bloomberg", "bloomberg.com", "construction week", "construction week online", "gulf business", "agbi",
+  "arabian gulf business insight", "economy middle east", "wam", "emirates news agency", "dubai media office",
+  "property finder", "bayut", "financial times", "emirates 24|7", "tradearabia", "the times of india", "fast company middle east", "cnbc", "the economic times", "mint", "business standard",
 ]
 
 # Extra words that earn the WATCHLIST tag (watchlist area names are added automatically).

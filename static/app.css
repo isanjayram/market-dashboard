@@ -139,7 +139,7 @@ html[data-tab="brief"] #brief, html[data-tab="market"] #market, html[data-tab="r
 html[data-tab="news"] #news, html[data-tab="more"] #more { display: block; }
 body { padding-bottom: calc(76px + env(safe-area-inset-bottom)); }
 .tabbar { position: fixed; left: 0; right: 0; bottom: 0; z-index: 5; background: var(--card); border-top: 1px solid var(--hair);
-  display: grid; grid-template-columns: repeat(6, 1fr); padding: 7px 6px calc(8px + env(safe-area-inset-bottom)); }
+  display: grid; grid-template-columns: repeat(5, 1fr); padding: 7px 6px calc(8px + env(safe-area-inset-bottom)); }
 .tabbar a { text-align: center; font: 600 12px/1.2 var(--sans); color: var(--muted); text-decoration: none; padding: 2px 0; }
 .tabbar a svg { display: block; margin: 0 auto 3px; }
 html[data-tab="brief"] .tabbar a[data-go="brief"], html[data-tab="market"] .tabbar a[data-go="market"],
@@ -236,7 +236,7 @@ details.lm li { margin: 4px 0; }
   html[data-tab="brief"] .tabbar a[data-go="brief"], html[data-tab="market"] .tabbar a[data-go="market"],
   html[data-tab="rent"] .tabbar a[data-go="rent"], html[data-tab="villas"] .tabbar a[data-go="villas"], html[data-tab="news"] .tabbar a[data-go="news"],
   html[data-tab="more"] .tabbar a[data-go="more"] { background: var(--chip); }
-  .tabbar::after { content: "Keys 1–6 switch sections"; margin-top: auto; padding: 0 12px; color: var(--muted); font-size: 12.5px; }
+  .tabbar::after { content: "Keys 1–5 switch sections"; margin-top: auto; padding: 0 12px; color: var(--muted); font-size: 12.5px; }
 
   html[data-tab="brief"] #brief, html[data-tab="market"] #market, html[data-tab="rent"] #rent, html[data-tab="villas"] #villas,
   html[data-tab="news"] #news, html[data-tab="more"] #more {
@@ -313,4 +313,11 @@ details.lm > summary small { flex: none; max-width: 52%; text-align: right; }
 @media (min-width: 1024px) {
   /* Charts start at the card's left edge, under its title, instead of floating in the middle. */
   svg.chart { margin-left: 0; }
+}
+
+/* Villa reference: no longer a tab; it closes the More tab. */
+@media (min-width: 1024px) {
+  #villas { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; align-items: start; }
+  #villas > * { grid-column: 1 / -1; }
+  #villas > .card { grid-column: auto; margin: 0; }
 }

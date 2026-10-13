@@ -42,14 +42,14 @@ largest_n = 5
 # usage tiny and predictable. Providers are tried in order; a provider whose
 # key isn't set in GitHub Secrets is skipped. To switch providers when a free
 # tier changes, reorder this list or change the model name.
-daily_call_cap = 10
+daily_call_cap = 20
 providers = [
   { name = "gemini", model = "gemini-flash-lite-latest", key_env = "GEMINI_API_KEY" },
   { name = "groq", model = "llama-3.3-70b-versatile", key_env = "GROQ_API_KEY" },
 ]
 
 [news]
-top_n = 8
+top_n = 10
 window_hours = 24
 archive_days = 30
 # Feeds that answer GitHub's servers (checked 29 Sep 2026). Arabian Business
@@ -61,6 +61,16 @@ feeds = [
   { name = "The National", url = "https://www.thenationalnews.com/arc/outboundfeeds/rss/?outputType=xml" },
   { name = "Khaleej Times", url = "https://www.khaleejtimes.com/stories.rss" },
   { name = "Gulf News", url = "https://gulfnews.com/feed" },
+  { name = "The National (property)", url = "https://www.thenationalnews.com/arc/outboundfeeds/rss/category/business/property/?outputType=xml" },
+  { name = "Economy Middle East", url = "https://economymiddleeast.com/feed/" },
+  # News searches (added 13 Oct 2026). The newspapers' own feeds carry every kind of story and
+  # only their latest few dozen, so most property news never reached this page. A search feed
+  # returns property stories from every outlet, including ones whose own feeds refuse automated
+  # readers (Arabian Business, Zawya, Construction Week). kind = "search" credits the outlet.
+  { name = "News search: Dubai property", kind = "search", url = "https://news.google.com/rss/search?q=%22Dubai%22%20%28%22real%20estate%22%20OR%20property%29%20when%3A1d&hl=en-AE&gl=AE&ceid=AE:en" },
+  { name = "News search: launches", kind = "search", url = "https://news.google.com/rss/search?q=%28Emaar%20OR%20Sobha%20OR%20Binghatti%20OR%20Arada%20OR%20Ellington%20OR%20Nakheel%20OR%20Omniyat%20OR%20Meraas%20OR%20Aldar%20OR%20Beyond%20OR%20Meraki%29%20%28launch%20OR%20launches%20OR%20unveils%20OR%20%22sold%20out%22%29%20when%3A2d&hl=en-AE&gl=AE&ceid=AE:en" },
+  { name = "News search: rules and fees", kind = "search", url = "https://news.google.com/rss/search?q=%28%22Dubai%20Land%20Department%22%20OR%20RERA%20OR%20DLD%20OR%20Ejari%20OR%20%22golden%20visa%22%29%20when%3A2d&hl=en-AE&gl=AE&ceid=AE:en" },
+  { name = "News search: Sharjah and Abu Dhabi", kind = "search", url = "https://news.google.com/rss/search?q=%28Sharjah%20OR%20%22Abu%20Dhabi%22%29%20%28%22real%20estate%22%20OR%20property%29%20when%3A1d&hl=en-AE&gl=AE&ceid=AE:en" },
 ]
 
 [listings]

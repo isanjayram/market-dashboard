@@ -7,6 +7,7 @@ exceeded. Callers always have a rule-based fallback for a None result.
 """
 from __future__ import annotations
 
+import hashlib
 import json
 import os
 import re
@@ -17,6 +18,7 @@ import requests
 from .config import SETTINGS, STATE_DIR, today
 
 USAGE_FILE = STATE_DIR / "llm_usage.json"
+CACHE_FILE = STATE_DIR / "llm_cache.json"
 _run_calls = 0
 
 
@@ -79,6 +81,16 @@ CALLERS = {"gemini": _gemini, "groq": _groq}
 
 def ask_json(system: str, user: str) -> tuple[dict[str, Any] | None, str]:
     """Return (parsed JSON, provider name) or (None, reason). Never raises."""
+    # The page is rebuilt several times a day. The same question on the same day gets the
+    # saved answer, so only new questions count toward the cap.
+    key_hash = hashlib.sha1(f"{system}\n{user}".encode()).hexdigest()[:16]
+    try:
+        cache = json.loads(CACHE_FILE.read_text()) if CACHE_FILE.exists() else {}
+    except ValueError:
+        cache = {}
+    hit = cache.get(today().isoformat(), {}).get(key_hash)
+    if hit:
+        return hit[0], hit[1]
     if used_today() >= SETTINGS["llm"]["daily_call_cap"]:
         return None, "daily AI cap reached"
     reasons = []
@@ -95,9 +107,12 @@ def ask_json(system: str, user: str) -> tuple[dict[str, Any] | None, str]:
             if not text.startswith("{"):  # tolerate a sentence before or after the JSON
                 text = text[text.find("{"):text.rfind("}") + 1]
             try:
-                return json.loads(text), p["name"]
+                parsed = json.loads(text)
             except json.JSONDecodeError:  # most common slip: a trailing comma before } or ]
-                return json.loads(re.sub(r",(\s*[}\]])", r"\1", text)), p["name"]
+                parsed = json.loads(re.sub(r",(\s*[}\]])", r"\1", text))
+            day = today().isoformat()
+            CACHE_FILE.write_text(json.dumps({day: dict(cache.get(day, {}), **{key_hash: [parsed, p["name"]]})}, ensure_ascii=False))
+            return parsed, p["name"]
         except Exception as exc:  # quota, outage or bad JSON: try the next provider
             reasons.append(f"{p['name']}: {type(exc).__name__}: {str(exc)[:80]}")
     return None, "; ".join(reasons) or "no AI key set"
