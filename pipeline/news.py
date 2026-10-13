@@ -207,8 +207,6 @@ def enrich_with_ai(items: list[dict[str, Any]]) -> str:
     fresh = [i for i in items if i["id"] not in known]
     if not fresh:
         return "AI summaries (saved from an earlier run)"
-    payload = [{"id": i["id"], "source": i["source"], "title": i["title"], "teaser": i["teaser"][:300],
-                "rule_category": i["category"], "rule_impact": i["impact"]} for i in fresh]
     system = (
         "You help a Dubai real estate agent read the morning news. For each item return JSON only. "
         "Write in your own words; never copy sentences from the input. Use only facts in the input; "
@@ -217,23 +215,33 @@ def enrich_with_ai(items: list[dict[str, Any]]) -> str:
         "data, launches or infrastructure; Low otherwise. Set relevant=false for items not about property, "
         "mortgages, rates, UAE residency rules, the economy, infrastructure, or NRI money rules. Also set "
         "relevant=false for sport, sponsorships, awards, lifestyle pieces, adverts and agent opinion with no news.")
-    user = ("Return {\"items\": [{\"id\", \"relevant\", \"headline\" (max 12 words), \"summary\" (max 2 short "
-            "sentences), \"why\" (one sentence, no prefix), \"category\", \"impact\", \"impact_reason\" (max 10 words)}]} "
-            "for these items:\n" + json.dumps(payload, ensure_ascii=False))
-    result, provider = llm.ask_json(system, user)
-    if not result:
-        done = len(items) - len(fresh)
-        return f"AI summaries for {done} of {len(items)} stories; rules for the rest ({provider})" if done else f"rules only ({provider})"
-    by_id = {r.get("id"): r for r in result.get("items", []) if isinstance(r, dict)}
     today_saved = saved.setdefault(day, {})
-    for it in fresh:
-        r = by_id.get(it["id"])
-        if not r:
-            continue
-        _apply_ai(it, r)
-        today_saved[it["id"]] = {k: r.get(k) for k in ("relevant", "headline", "summary", "why", "category", "impact", "impact_reason")}
-    STATE_DIR.mkdir(parents=True, exist_ok=True)
-    AI_FILE.write_text(json.dumps({d: saved[d] for d in sorted(saved)[-2:]}, ensure_ascii=False, indent=1))
+    provider, done = "", len(items) - len(fresh)
+    # Small batches: one long request for every story times out on the free tier.
+    for start in range(0, len(fresh), 8):
+        batch = fresh[start:start + 8]
+        payload = [{"id": i["id"], "source": i["source"], "title": i["title"], "teaser": i["teaser"][:300],
+                    "rule_category": i["category"], "rule_impact": i["impact"]} for i in batch]
+        user = ("Return {\"items\": [{\"id\", \"relevant\", \"headline\" (max 12 words), \"summary\" (max 2 short "
+                "sentences), \"why\" (one sentence, no prefix), \"category\", \"impact\", \"impact_reason\" (max 10 words)}]} "
+                "for these items:\n" + json.dumps(payload, ensure_ascii=False))
+        result, provider = llm.ask_json(system, user)
+        if not result:
+            break
+        by_id = {r.get("id"): r for r in result.get("items", []) if isinstance(r, dict)}
+        for it in batch:
+            r = by_id.get(it["id"])
+            if not r:
+                continue
+            _apply_ai(it, r)
+            done += 1
+            today_saved[it["id"]] = {k: r.get(k) for k in ("relevant", "headline", "summary", "why", "category", "impact", "impact_reason")}
+        STATE_DIR.mkdir(parents=True, exist_ok=True)
+        AI_FILE.write_text(json.dumps({d: saved[d] for d in sorted(saved)[-2:]}, ensure_ascii=False, indent=1))
+    if not done:
+        return f"rules only ({provider})"
+    if done < len(items):
+        return f"AI summaries for {done} of {len(items)} stories; rules for the rest ({provider})"
     return f"AI summaries ({provider})"
 
 
