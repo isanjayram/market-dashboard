@@ -84,16 +84,16 @@
     "value": 422519547.0
    },
    {
-    "area": "DAMAC Lagoons",
-    "dld_area": "Al Hebiah Fifth",
-    "deals": 90,
-    "value": 176476630.0
-   },
-   {
     "area": "Dubai Land Residence",
     "dld_area": "Wadi Al Safa 5",
     "deals": 90,
     "value": 149808026.0
+   },
+   {
+    "area": "DAMAC Lagoons",
+    "dld_area": "Al Hebiah Fifth",
+    "deals": 90,
+    "value": 176476630.0
    },
    {
     "area": "Al Yufrah 1",
@@ -1590,5 +1590,5 @@
   "fetched_at": "2026-10-11T15:07+04:00",
   "test": false
  },
- "saved_at": "2026-10-13T15:06+04:00"
+ "saved_at": "2026-10-13T15:52+04:00"
 }

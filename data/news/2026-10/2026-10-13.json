@@ -54,5 +54,19 @@
 "impact_reason": "Reflects builder delivery timelines and market expansion.",
 "watch": false,
 "topic": "Developer news"
+},
+{
+"id": "dd4285b6a8e1",
+"headline": "Ellington Properties sponsors Arab Basketball Championship in Lebanon",
+"summary": "Dubai-based developer Ellington Properties has been named the title sponsor for the upcoming Arab Basketball Championship 2026. The tournament will feature competing teams from across the region gathering in Lebanon.",
+"why": "It provides branding and marketing updates regarding a major Dubai developer.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/gn-focus/company-news/ellington-properties-brings-its-name-to-the-arab-basketball-championship-in-lebanon-1.500708680",
+"published": "2026-10-13T15:01+04:00",
+"category": "Developer news",
+"impact": "Low",
+"impact_reason": "Marketing activity with no direct impact on property buyers.",
+"watch": false,
+"topic": "Developer news"
 }
 ]
