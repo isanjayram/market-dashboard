@@ -26,5 +26,33 @@
 "impact_reason": "Faster infrastructure improves community connectivity and value.",
 "watch": false,
 "topic": "Infrastructure"
+},
+{
+"id": "ed8c03d29e62",
+"headline": "Dubai apartment rents drop over 12% in Q3 2026",
+"summary": "Savills reports significant double-digit rent declines in Dubai Marina, Business Bay, and JVC during Q3 2026. This downward trend indicates a softening in local residential leasing markets.",
+"why": "Rental price shifts directly impact landlord returns and tenant affordability.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/business/rents-in-dubai-fall-over-12-dubai-marina-business-bay-and-jvc-lead",
+"published": "2026-10-13T10:35+04:00",
+"category": "Supply & market reports",
+"impact": "High",
+"impact_reason": "Shifts tenant costs and landlord yields.",
+"watch": true,
+"topic": "rents"
+},
+{
+"id": "d9d513207a34",
+"headline": "Tabeer Developments delivers 48 Parkside project in Arjan",
+"summary": "Tabeer Developments completed its Dh250-million Arjan residential project within 24 months. The firm now plans a major expansion following this milestone delivery.",
+"why": "It highlights active project completions and developer growth in a key Dubai district.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/business/property/tabeer-hands-over-dh250-million-48-parkside-in-24-months-eyes-major-expansion-1.500707506",
+"published": "2026-10-13T11:16+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Reflects builder delivery timelines and market expansion.",
+"watch": false,
+"topic": "Developer news"
 }
 ]

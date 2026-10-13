@@ -1,6 +1,28 @@
 {
  "top": [
   {
+   "id": "ed8c03d29e62",
+   "title": "Rents in Dubai fall over 12%: Dubai Marina, Business Bay and JVC lead",
+   "link": "https://www.khaleejtimes.com/business/rents-in-dubai-fall-over-12-dubai-marina-business-bay-and-jvc-lead",
+   "source": "Khaleej Times",
+   "kind": "outlet",
+   "published": "2026-10-13T10:35+04:00",
+   "tags": [
+    "Business",
+    "Property"
+   ],
+   "teaser": "Apartment rents in Dubai Marina, Business Bay, and Jumeirah Village Circle (JVC) saw a double-digit drop \u2013 the highest drop among Dubai communities \u2013 in the third quarter of 2026 as the property market softened, according to property consultancy Savills\u2019 Q3 2026 report. Data showed that apartment rents in Marina, Business Bay, and JVC fell 12.8 per cent, 12.2 per cent and 10.4 per cent year-on-yea",
+   "category": "Supply & market reports",
+   "impact": "High",
+   "impact_reason": "Shifts tenant costs and landlord yields.",
+   "watch": true,
+   "headline": "Dubai apartment rents drop over 12% in Q3 2026",
+   "summary": "Savills reports significant double-digit rent declines in Dubai Marina, Business Bay, and JVC during Q3 2026. This downward trend indicates a softening in local residential leasing markets.",
+   "why": "Rental price shifts directly impact landlord returns and tenant affordability.",
+   "age_hours": 1.1,
+   "topic": "rents"
+  },
+  {
    "id": "3961b7ff8d8d",
    "title": "UAE Property: 'Can my tenant legally list my apartment as a holiday rental without my consent?'",
    "link": "https://www.thenationalnews.com/business/money/2026/10/12/uae-property-can-my-tenant-legally-list-my-apartment-as-a-holiday-rental-without-my-consent/",
@@ -11,13 +33,34 @@
    "teaser": "Question: I own an apartment in Dubai Marina, which I've rented to the same tenant for two years. A neighbour recently contacted me because different people appear to be entering the apartment every few days with suitcases. I checked one of the holiday rental websites and, to my surprise, found what appears to be my apartment being advertised for short-term stays . I never agreed to this and my te",
    "category": "Regulation & fees",
    "impact": "Medium",
-   "impact_reason": "Highlights illegal sub-leasing risks for landlords.",
+   "impact_reason": "Highlights landlord risks and property leasing regulations.",
    "watch": true,
-   "headline": "Tenant sub-leasing Dubai apartment as holiday home without permission",
-   "summary": "A Dubai landlord discovers their tenant is illegally listing the rented marina apartment on holiday home websites. Legal permissions are required for such activities.",
-   "why": "This addresses landlord-tenant regulations and unauthorized property sub-leasing in Dubai.",
-   "age_hours": 24.1,
+   "headline": "Tenant illegally listing Dubai rental as holiday home",
+   "summary": "A property owner discovered their long-term tenant was unlawfully subletting the apartment on holiday rental sites. Neighbours alerted the landlord after noticing frequent turnover of unfamiliar guests.",
+   "why": "It addresses legal compliance and landlord rights regarding unauthorized short-term rentals.",
+   "age_hours": 28.7,
    "topic": "Regulation & fees"
+  },
+  {
+   "id": "d9d513207a34",
+   "title": "Tabeer hands over Dh250-million 48 Parkside in 24 months; eyes major expansion",
+   "link": "https://gulfnews.com/business/property/tabeer-hands-over-dh250-million-48-parkside-in-24-months-eyes-major-expansion-1.500707506",
+   "source": "Gulf News",
+   "kind": "outlet",
+   "published": "2026-10-13T11:16+04:00",
+   "tags": [
+    "Property"
+   ],
+   "teaser": "Tabeer Developments has handed over its Dh250-million residential project in Arjan, 48 Parkside, strengthening its credentials as a developer capable of turning plans into finished homes as it prepares for a larger phase of expansion. For the Dubai-based company, the milestone brings its commercial and operational capabilities into focus. Delivering the completed development gives buyers a concret",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Reflects builder delivery timelines and market expansion.",
+   "watch": false,
+   "headline": "Tabeer Developments delivers 48 Parkside project in Arjan",
+   "summary": "Tabeer Developments completed its Dh250-million Arjan residential project within 24 months. The firm now plans a major expansion following this milestone delivery.",
+   "why": "It highlights active project completions and developer growth in a key Dubai district.",
+   "age_hours": 0.4,
+   "topic": "Developer news"
   },
   {
    "id": "b6c617102b47",
@@ -30,20 +73,20 @@
    "teaser": "The first Dubai-it Award for Institutions in the Field of Government has been given to the emirate's Roads and Transport Authority in recognition of its record-breaking delivery of infrastructure. Sheikh Hamdan bin Mohammed, Crown Prince of Dubai, Deputy Prime Minister, Minister of Defence and Chairman of the Dubai Executive Council, presented the award to the RTA, citing its ability to deliver ma",
    "category": "Infrastructure",
    "impact": "Medium",
-   "impact_reason": "Faster infrastructure improves community connectivity and value.",
+   "impact_reason": "Infrastructure speed affects regional accessibility and property appeal.",
    "watch": false,
-   "headline": "RTA honored for rapid infrastructure project delivery in Dubai",
-   "summary": "Dubai's Roads and Transport Authority received the Dubai-it Award for completing infrastructure projects at record speed. Sheikh Hamdan recognized their achievements.",
-   "why": "Fast infrastructure development directly impacts nearby property values and accessibility.",
-   "age_hours": 38.3,
+   "headline": "RTA wins Dubai-it Award for fast infrastructure delivery",
+   "summary": "Dubai's Roads and Transport Authority received the inaugural Dubai-it Award. The accolade recognizes the agency's speed in completing vital public infrastructure projects.",
+   "why": "Transport infrastructure developments directly influence nearby property values and accessibility.",
+   "age_hours": 42.9,
    "topic": "Infrastructure"
   }
  ],
  "window_hours": 48,
- "count_relevant": 2,
- "count_fetched": 146,
+ "count_relevant": 4,
+ "count_fetched": 196,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-13T07:03+04:00",
- "saved_at": "2026-10-13T07:03+04:00"
+ "as_of": "2026-10-13T11:41+04:00",
+ "saved_at": "2026-10-13T11:41+04:00"
 }
