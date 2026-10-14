@@ -593,5 +593,49 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"e9fa4e8617ec": {
+"id": "e9fa4e8617ec",
+"title": "Dubai unveils massive $572bn infrastructure and housing pipeline",
+"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VVzlaLU9NMHlWQjNyczVVWHJ3cC1jOG94SHNzTTJqMEE1b2dJNHhKbGxVYl9BYlEtTkRvRWxLM0pBNXFSZ2pDQk5SbzJYVFZFVzJyV0l2aktWU2NxREtyYUZWYUFObmwzelVzaTRDNFo?oc=5",
+"source": "Arabian Business",
+"category": "Infrastructure",
+"published": "2026-10-13T22:37+04:00",
+"first_seen": "2026-10-14",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"91414db313e9": {
+"id": "91414db313e9",
+"title": "Developer Launches New Mid-Rise Project in Jumeirah Garden City",
+"link": "https://economymiddleeast.com/news/interview-hazza-zaal-elemental-developments/?utm_source=rss&utm_medium=rss&utm_campaign=interview-hazza-zaal-elemental-developments",
+"source": "Economy Middle East",
+"category": "Developer news",
+"published": "2026-10-14T08:45+04:00",
+"first_seen": "2026-10-14",
+"kind": "Off-plan launch",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": "Elemental 78",
+"developer": "Elemental Developments",
+"location": "Jumeirah Garden City",
+"type": "mid-rise",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
