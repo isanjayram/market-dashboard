@@ -491,5 +491,51 @@
 "impact_reason": "General market context",
 "watch": false,
 "topic": "Macro & geopolitics"
+},
+{
+"id": "930b29c01784",
+"headline": "New Sharjah bus routes connect passengers to Etihad Rail station",
+"summary": "SRTA introduced three new bus services, ER1, ER2, and ER3, linking commuters to the Al Dhaid railway station. These routes aim to streamline travel to and from the upcoming rail network.",
+"why": "New transit links improve accessibility and regional connectivity for property owners and commuters.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/uae/transport/etihad-rail-sharjah-new-bus-routes-al-dhaid-station-timings-1.500710156",
+"published": "2026-10-14T13:15+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Improves regional transport connectivity and accessibility.",
+"watch": true,
+"more": 4,
+"topic": "sharjah"
+},
+{
+"id": "b4679d835a88",
+"headline": "Sharjah property market draws nearly 10,000 new investors",
+"summary": "Sharjah welcomed 9,891 fresh investors into its property sector during the first nine months of the year.",
+"why": "Investor registration data reflects ongoing buyer interest and market activity in the emirate.",
+"source": "Sharjah24",
+"link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1VGhDYmpwVlNjdW5GNFFJbTdjQ01FUzZUVWxkMHhCTk1hWDFqUjhlUVRZWUZnMTlDcHZwcXFIQV9rd1BVOEpsN2RySEV0Sy1tSHZOVFd2ZUJxTklyUXc?oc=5",
+"published": "2026-10-14T13:02+04:00",
+"category": "Supply & market reports",
+"impact": "Low",
+"impact_reason": "Highlights positive investor participation without changing market fundamentals.",
+"watch": true,
+"topic": "sharjah"
+},
+{
+"id": "562b1284e3ba",
+"headline": "Austin Albert Makes History With Dubai Real Estate Award",
+"summary": "",
+"why": "can move investor sentiment; expect questions about where the market is heading.",
+"source": "THISDAYLIVE",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX19ZQXE0ampKSTBVb1FhRmYxOWhFaFhOSUxndWV6NTdvM2trRU9KSldkQVQxOHlocWdnVGxYSVQyVGZGR3lodElDSFljV01YNS0yNUNWTFFVbjVmNHhOUEdXQl9YWG9BUVBPa1lEd0xSYnNLS1VGZVhfbk01RVdiSW5GZ3VQR3BZcTd3ei1OWXBqLU5CV2YwTE1ReEY?oc=5",
+"published": "2026-10-14T12:33+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": false,
+"also": [
+"Vanguard News"
+],
+"topic": "Macro & geopolitics"
 }
 ]

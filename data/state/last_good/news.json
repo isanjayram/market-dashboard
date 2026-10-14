@@ -19,7 +19,7 @@
    "headline": "Dubai unveils massive $572bn infrastructure and housing pipeline",
    "summary": "Dubai announced a vast $572 billion project pipeline featuring 350,000 new homes, metro expansions, and airport updates.",
    "why": "Major local infrastructure and housing supply pipelines directly impact Dubai real estate sentiment.",
-   "age_hours": 14.4,
+   "age_hours": 15.0,
    "topic": "airport"
   },
   {
@@ -38,7 +38,7 @@
    "headline": "Dubai's $55 billion infrastructure push to reshape property demand",
    "summary": "A massive $55 billion investment in infrastructure is underway across Dubai. This funding is expected to alter buyer preferences and reshape residential hotspots.",
    "why": "Major infrastructure spending directly influences neighborhood desirability and long-term property values.",
-   "age_hours": 20.1,
+   "age_hours": 20.6,
    "topic": "Infrastructure"
   },
   {
@@ -57,7 +57,7 @@
    "headline": "ICP Launches Free Online Tool to Check Golden Visa Eligibility",
    "summary": "Residents can now use a new online tool provided by the ICP to quickly check if they qualify for the UAE Golden Visa. This digital service simplifies the assessment process for applicants.",
    "why": "It directly impacts residency rules and investor eligibility for property buyers.",
-   "age_hours": 23.1,
+   "age_hours": 23.6,
    "topic": "golden visa",
    "more": 1
   },
@@ -77,8 +77,31 @@
    "headline": "Dubai Details Four Groups Eligible for Golden Visas",
    "summary": "Authorities have outlined the specific foreign categories that qualify for the 10-year residency program. Clear criteria help prospective investors plan their long-term property purchases.",
    "why": "It clarifies residency eligibility rules for foreign investors.",
-   "age_hours": 22.6,
+   "age_hours": 23.1,
    "topic": "golden visa"
+  },
+  {
+   "id": "930b29c01784",
+   "title": "Etihad Rail Sharjah: New bus routes to Al Dhaid station, timings revealed",
+   "link": "https://gulfnews.com/uae/transport/etihad-rail-sharjah-new-bus-routes-al-dhaid-station-timings-1.500710156",
+   "source": "Gulf News",
+   "kind": "outlet",
+   "published": "2026-10-14T13:15+04:00",
+   "tags": [
+    "Transport",
+    "Sharjah"
+   ],
+   "teaser": "Dubai: Travelling to or from Etihad Rail's Al Dhaid station in Sharjah? The Sharjah Roads and Transport Authority (SRTA) has published the routes and schedules of three bus services connecting passengers to the railway station. The services, ER1, ER2 and ER3, link Al Dhaid Etihad Rail Station with Al Madam, Al Saja\u2019a and Al Jubail bus stations, respectively, providing passengers with public transp",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Improves regional transport connectivity and accessibility.",
+   "watch": true,
+   "headline": "New Sharjah bus routes connect passengers to Etihad Rail station",
+   "summary": "SRTA introduced three new bus services, ER1, ER2, and ER3, linking commuters to the Al Dhaid railway station. These routes aim to streamline travel to and from the upcoming rail network.",
+   "why": "New transit links improve accessibility and regional connectivity for property owners and commuters.",
+   "age_hours": 0.3,
+   "topic": "sharjah",
+   "more": 4
   },
   {
    "id": "7bfab1cb76c4",
@@ -96,32 +119,7 @@
    "headline": "Sharjah property market reaches $12.7bn with 14% growth",
    "summary": "Sharjah real estate transaction volumes climbed 14 percent, pushing market value to $12.7 billion.",
    "why": "It reports key regional market transaction metrics and overall growth figures.",
-   "age_hours": 11.6,
-   "topic": "sharjah",
-   "more": 2
-  },
-  {
-   "id": "e97f04b7695f",
-   "title": "Sharjah property market grows 14% as transactions reach Dh46.8 billion in 9 months",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT0Q3eXJpcTRndnVfOTdJY3VfaGVmLUU2Yk03b2JQNWZlN0cyc3gyb2tpV1hqUGVyR0R0alFDeUhaeFdINndBTEtaa3hzSTI3SmdNaVZ1M0gwYUNGcG9zOW9Bdy1weDk2bTR4d1NEQnVfaGVnZlV3TmFFSE9VU1hXTzFpY0s5Yk0ySWlUYU1UaUF1TGZQMDJBdUl3andvYTlia0ZMYjItbkt5WEg0azBrMVl2WWFPNnJpMVHSAcIBQVVfeXFMTVZXN0VwYmZBVVJ3VWROck5hUlJEQ3Q4dmxKa0NJQXhrWlVVV2dLYWlROUluV0lFUUZSbjZpdUZWb2l1OW5BNWJTLUVXSmg2SUtzTHhUWHlZX3RBeTJHdUFYdzRWSFBsUDF5WHJUY1R3TmRWdEdrRUFhdTVreEdETFF6TEhSaHZkOERyNS1YdEg0LTIyd3FOaEI3cmQwU3VLaGVlS01nQVNtMVRvOVVLY3J0cTRabkQzZjhzdUpPbWIwQnc?oc=5",
-   "source": "Khaleej Times",
-   "kind": "search",
-   "published": "2026-10-13T16:36+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Reflects strong regional property growth.",
-   "watch": true,
-   "also": [
-    "Gulf News",
-    "Gulf News",
-    "Magzter"
-   ],
-   "headline": "Sharjah property market grows 14%",
-   "summary": "Sharjah real estate transactions hit Dh46.8 billion over the first nine months. This indicates a 14 percent growth in the local market.",
-   "why": "Transaction volume reports indicate overall regional property sector health and buyer demand.",
-   "age_hours": 20.4,
+   "age_hours": 12.1,
    "topic": "sharjah"
   },
   {
@@ -140,7 +138,7 @@
    "headline": "Gulf investors pivot to UK income assets",
    "summary": "Regional buyers are moving capital away from ultra-luxury houses into revenue-producing properties abroad. The shift reflects a changing appetite for steady financial returns.",
    "why": "It shows changing investment preferences among regional buyers.",
-   "age_hours": 4.4,
+   "age_hours": 4.9,
    "topic": "Supply & market reports",
    "more": 3
   },
@@ -160,7 +158,7 @@
    "headline": "Dubai luxury property prices rise 4% alongside surging rents",
    "summary": "Luxury property prices in Dubai increased by 4% recently. Meanwhile, rental rates experienced a significant jump of 16%.",
    "why": "It provides key market data regarding price and rental trends in the luxury segment.",
-   "age_hours": 10.1,
+   "age_hours": 10.6,
    "topic": "Supply & market reports"
   },
   {
@@ -179,7 +177,7 @@
    "headline": "Dubai investors buy smaller offices amid sales drop",
    "summary": "Buyers in the commercial sector are opting for compact office spaces as overall transaction values decline. This trend highlights a cautious approach to commercial real estate.",
    "why": "It indicates a shift in commercial buyer demand.",
-   "age_hours": 0.7,
+   "age_hours": 1.2,
    "topic": "Developer news"
   },
   {
@@ -198,15 +196,15 @@
    "headline": "Oppenheim Group Expands Into Dubai Luxury Sector",
    "summary": "The renowned brokerage is entering the local high-end property segment despite a broader sales slowdown. This move highlights ongoing international confidence in the emirate's luxury real estate.",
    "why": "It shows international brokerage interest in Dubai luxury property.",
-   "age_hours": 4.8,
+   "age_hours": 5.4,
    "topic": "Developer news"
   }
  ],
  "window_hours": 24,
- "count_relevant": 22,
- "count_fetched": 392,
+ "count_relevant": 25,
+ "count_fetched": 399,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-14T13:02+04:00",
- "saved_at": "2026-10-14T13:02+04:00"
+ "as_of": "2026-10-14T13:34+04:00",
+ "saved_at": "2026-10-14T13:34+04:00"
 }

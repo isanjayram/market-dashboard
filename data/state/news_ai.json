@@ -397,6 +397,24 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Awards do not affect market fundamentals or buyer costs."
+  },
+  "930b29c01784": {
+   "relevant": true,
+   "headline": "New Sharjah bus routes connect passengers to Etihad Rail station",
+   "summary": "SRTA introduced three new bus services, ER1, ER2, and ER3, linking commuters to the Al Dhaid railway station. These routes aim to streamline travel to and from the upcoming rail network.",
+   "why": "New transit links improve accessibility and regional connectivity for property owners and commuters.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Improves regional transport connectivity and accessibility."
+  },
+  "b4679d835a88": {
+   "relevant": true,
+   "headline": "Sharjah property market draws nearly 10,000 new investors",
+   "summary": "Sharjah welcomed 9,891 fresh investors into its property sector during the first nine months of the year.",
+   "why": "Investor registration data reflects ongoing buyer interest and market activity in the emirate.",
+   "category": "Supply & market reports",
+   "impact": "Low",
+   "impact_reason": "Highlights positive investor participation without changing market fundamentals."
   }
  }
 }
