@@ -415,6 +415,24 @@
    "category": "Supply & market reports",
    "impact": "Low",
    "impact_reason": "Highlights positive investor participation without changing market fundamentals."
+  },
+  "4f24b549d080": {
+   "relevant": false,
+   "headline": "NESTROV Expands Into Indian Luxury Brokerage Market",
+   "summary": "NESTROV targets the fifty billion dollar Indian luxury brokerage sector through a strategic expansion.",
+   "why": "This news focuses on the Indian real estate market rather than Dubai property.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "No direct effect on the local Dubai property market."
+  },
+  "17873354533d": {
+   "relevant": true,
+   "headline": "Dubai Luxury Property Prices And Rentals Rise",
+   "summary": "Luxury property prices in Dubai increased by four percent while rental rates surged by sixteen percent.",
+   "why": "This data directly reflects current pricing trends in the Dubai luxury real estate sector.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Highlights shifting luxury property values and rental market trends."
   }
  }
 }
