@@ -13,10 +13,13 @@
    "impact": "High",
    "impact_reason": "Massive future supply pipeline impacts long-term Dubai sentiment.",
    "watch": false,
+   "also": [
+    "Travels Dubai"
+   ],
    "headline": "Dubai unveils massive $572bn infrastructure and housing pipeline",
    "summary": "Dubai announced a vast $572 billion project pipeline featuring 350,000 new homes, metro expansions, and airport updates.",
    "why": "Major local infrastructure and housing supply pipelines directly impact Dubai real estate sentiment.",
-   "age_hours": 11.5,
+   "age_hours": 13.4,
    "topic": "airport"
   },
   {
@@ -35,9 +38,8 @@
    "headline": "Dubai's $55 billion infrastructure push to reshape property demand",
    "summary": "A massive $55 billion investment in infrastructure is underway across Dubai. This funding is expected to alter buyer preferences and reshape residential hotspots.",
    "why": "Major infrastructure spending directly influences neighborhood desirability and long-term property values.",
-   "age_hours": 17.2,
-   "topic": "Infrastructure",
-   "more": 1
+   "age_hours": 19.1,
+   "topic": "Infrastructure"
   },
   {
    "id": "ab58a6f4034d",
@@ -55,31 +57,9 @@
    "headline": "ICP Launches Free Online Tool to Check Golden Visa Eligibility",
    "summary": "Residents can now use a new online tool provided by the ICP to quickly check if they qualify for the UAE Golden Visa. This digital service simplifies the assessment process for applicants.",
    "why": "It directly impacts residency rules and investor eligibility for property buyers.",
-   "age_hours": 20.2,
+   "age_hours": 22.1,
    "topic": "golden visa",
    "more": 1
-  },
-  {
-   "id": "8e85007ae4ee",
-   "title": "Dubai property boom: How AED150b+ mega infrastructure projects are set to drive values up to 25%",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RZEQ3WDdGZEhUT1lpNnRmaVRid0ZOeHNsbm9HbGpXTjA0NlYzVDM2YTBLUWR1T1IzSGt1Y2lqRjdodU1lRVk3UXFBTEF2dlJZWU92WkU5NUlrUTAxMmUzZlNkdDl1MGRVRlNTZENUQ2Z4RmhoY1N4a1NBTTA?oc=5",
-   "source": "Arabian Business",
-   "kind": "search",
-   "published": "2026-10-13T11:01+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Infrastructure",
-   "impact": "High",
-   "impact_reason": "Projected value surges directly influence buyer and investor sentiment.",
-   "watch": false,
-   "also": [
-    "Arabian Business"
-   ],
-   "headline": "Mega infrastructure projects could drive Dubai property values up 25%",
-   "summary": "Over AED 150 billion in mega infrastructure projects are currently planned in Dubai. Experts project these developments could boost property values by up to 25%.",
-   "why": "Significant infrastructure announcements directly affect future capital appreciation expectations.",
-   "age_hours": 23.1,
-   "topic": "Infrastructure"
   },
   {
    "id": "5887d443aa98",
@@ -97,7 +77,7 @@
    "headline": "Dubai Details Four Groups Eligible for Golden Visas",
    "summary": "Authorities have outlined the specific foreign categories that qualify for the 10-year residency program. Clear criteria help prospective investors plan their long-term property purchases.",
    "why": "It clarifies residency eligibility rules for foreign investors.",
-   "age_hours": 19.7,
+   "age_hours": 21.6,
    "topic": "golden visa"
   },
   {
@@ -116,14 +96,14 @@
    "headline": "Sharjah property market reaches $12.7bn with 14% growth",
    "summary": "Sharjah real estate transaction volumes climbed 14 percent, pushing market value to $12.7 billion.",
    "why": "It reports key regional market transaction metrics and overall growth figures.",
-   "age_hours": 8.7,
+   "age_hours": 10.6,
    "topic": "sharjah",
    "more": 2
   },
   {
-   "id": "27f86d3135f3",
+   "id": "e97f04b7695f",
    "title": "Sharjah property market grows 14% as transactions reach Dh46.8 billion in 9 months",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVlc3RXBiZkFVUndVZE5yTmFSUkRDdDh2bEprQ0lBeGtaVVVXZ0thaVE5SW5XSUVRRlJuNml1RlZvaXU5bkE1YlMtRVdKaDZJS3NMeFRYeVlfdEF5Mkd1QVh3NFZIUGxQMXlYclRjVHdOZFZ0R2tFQWF1NWt4R0RMUXpMSFJodmQ4RHI1LVh0SDQtMjJ3cU5oQjdyZDBTdUtoZWVLTWdBU20xVG85VUtjcnRxNFpuRDNmOHN1Sk9tYjBCd9IBwgFBVV95cUxNVlc3RXBiZkFVUndVZE5yTmFSUkRDdDh2bEprQ0lBeGtaVVVXZ0thaVE5SW5XSUVRRlJuNml1RlZvaXU5bkE1YlMtRVdKaDZJS3NMeFRYeVlfdEF5Mkd1QVh3NFZIUGxQMXlYclRjVHdOZFZ0R2tFQWF1NWt4R0RMUXpMSFJodmQ4RHI1LVh0SDQtMjJ3cU5oQjdyZDBTdUtoZWVLTWdBU20xVG85VUtjcnRxNFpuRDNmOHN1Sk9tYjBCdw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT0Q3eXJpcTRndnVfOTdJY3VfaGVmLUU2Yk03b2JQNWZlN0cyc3gyb2tpV1hqUGVyR0R0alFDeUhaeFdINndBTEtaa3hzSTI3SmdNaVZ1M0gwYUNGcG9zOW9Bdy1weDk2bTR4d1NEQnVfaGVnZlV3TmFFSE9VU1hXTzFpY0s5Yk0ySWlUYU1UaUF1TGZQMDJBdUl3andvYTlia0ZMYjItbkt5WEg0azBrMVl2WWFPNnJpMVHSAcIBQVVfeXFMTVZXN0VwYmZBVVJ3VWROck5hUlJEQ3Q4dmxKa0NJQXhrWlVVV2dLYWlROUluV0lFUUZSbjZpdUZWb2l1OW5BNWJTLUVXSmg2SUtzTHhUWHlZX3RBeTJHdUFYdzRWSFBsUDF5WHJUY1R3TmRWdEdrRUFhdTVreEdETFF6TEhSaHZkOERyNS1YdEg0LTIyd3FOaEI3cmQwU3VLaGVlS01nQVNtMVRvOVVLY3J0cTRabkQzZjhzdUpPbWIwQnc?oc=5",
    "source": "Khaleej Times",
    "kind": "search",
    "published": "2026-10-13T16:36+04:00",
@@ -131,38 +111,18 @@
    "teaser": "",
    "category": "Supply & market reports",
    "impact": "Medium",
-   "impact_reason": "Demonstrates strong transactional activity in a neighboring emirate.",
+   "impact_reason": "Reflects strong regional property growth.",
    "watch": true,
    "also": [
     "Gulf News",
     "Gulf News",
-    "Magzter",
-    "MENAFN.com"
+    "Magzter"
    ],
-   "headline": "Sharjah property market surges 14% to Dh46.8 billion",
-   "summary": "Property transactions in Sharjah hit Dh46.8 billion over a nine-month period, driven by a 14 percent increase.",
-   "why": "It provides updated sales volume figures reflecting broader regional market performance.",
-   "age_hours": 17.5,
+   "headline": "Sharjah property market grows 14%",
+   "summary": "Sharjah real estate transactions hit Dh46.8 billion over the first nine months. This indicates a 14 percent growth in the local market.",
+   "why": "Transaction volume reports indicate overall regional property sector health and buyer demand.",
+   "age_hours": 19.4,
    "topic": "sharjah"
-  },
-  {
-   "id": "b1e718596380",
-   "title": "Rents in Dubai fall over 12%: Dubai Marina, Business Bay and JVC lead",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOTY1SlUtMEdSejZvR0Uxb0dCMmwyRl8weXpjWEFGRHBrMzFtXzlIWklVcTVpRVpzekM1QnVldlZoQ0dmbzgxb3lVc3dfVnNKYUVWZGNfT1BWeWtNUklnc0I3cS1EckNzemx1ZjhGQjJxWUNiNzg0RHpvUHpqVXdWQWRBeE5rcE5xN2lyMkVfOHFMT21EVjRXTHBzRFFQUXlQdXgzY2dwMNIBrwFBVV95cUxOVnVtQWRmRWJPWHV0c2lrVFBPYXBmOVZfUVkyY3lrejV4QktXWXpQUmR5WV9aWjVqdHhaTXZnT2hkVkZXa1B3SjZzVFVyVTdOdmV0Z0JCaFJ2QnByWWNrQ2VnREdsd0NKMTZPUndfYWpCRzlyUUluWEFOTW1mb0dVOEdpYXgySXlZcDJwOUo2a29aRHhpTDRZR1BsTkxFS05ZNmQ3REh5MnNISW4yWF9V?oc=5",
-   "source": "Khaleej Times",
-   "kind": "search",
-   "published": "2026-10-13T10:35+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Shifts tenant affordability and landlord rental yield expectations.",
-   "watch": true,
-   "headline": "Dubai rents drop over 12 percent across key communities",
-   "summary": "Rental rates in major areas like Dubai Marina, Business Bay, and JVC have declined by more than 12 percent. This drop reflects changing market dynamics across popular residential neighborhoods.",
-   "why": "It directly impacts landlord yields, tenant affordability, and overall market sentiment in prime locations.",
-   "age_hours": 23.5,
-   "topic": "rents"
   },
   {
    "id": "2e5219c539c1",
@@ -185,9 +145,8 @@
    "headline": "Bloom Holding unveils Alhambra as final Bloom Living phase",
    "summary": "Bloom Holding launched Alhambra, completing the master plan for the AED 9 billion Bloom Living development. The project integrates residential homes with retail, dining, and essential community services.",
    "why": "It highlights new project supply and master community completions relevant to buyers and investors.",
-   "age_hours": 0.6,
-   "topic": "Developer news",
-   "more": 2
+   "age_hours": 2.5,
+   "topic": "Developer news"
   },
   {
    "id": "a759b0eaf458",
@@ -205,16 +164,54 @@
    "headline": "Dubai luxury property prices rise 4% alongside surging rents",
    "summary": "Luxury property prices in Dubai increased by 4% recently. Meanwhile, rental rates experienced a significant jump of 16%.",
    "why": "It provides key market data regarding price and rental trends in the luxury segment.",
-   "age_hours": 7.1,
+   "age_hours": 9.1,
    "topic": "Supply & market reports",
    "more": 1
+  },
+  {
+   "id": "24015f9797e0",
+   "title": "Oppenheim Group bets on Dubai luxury property market amid sales slowdown",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa2IwSHVoN2FDR3VGRHhlWlFRSkFjWTFRTzBHREtKZHJ4Q1VPYWlwVEhUZDdTNC1QZVFpckZoTWRCVHNoMGhfUUgwckJvM1lNVXdNWHU2cmpRN1Zka2Y1NGU3TFo2ZTJpVS0wNlVDZFUtZC16bU1FbF8tNTkzRWpuU2k0MVk2YXYzeks4aWhiSUpRQ1NBaFluam1Mem1idw?oc=5",
+   "source": "Traders Union",
+   "kind": "search",
+   "published": "2026-10-14T08:12+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Highlights international confidence in luxury real estate.",
+   "watch": false,
+   "headline": "Oppenheim Group Expands Into Dubai Luxury Sector",
+   "summary": "The renowned brokerage is entering the local high-end property segment despite a broader sales slowdown. This move highlights ongoing international confidence in the emirate's luxury real estate.",
+   "why": "It shows international brokerage interest in Dubai luxury property.",
+   "age_hours": 3.8,
+   "topic": "Developer news"
+  },
+  {
+   "id": "4534f4916f45",
+   "title": "Dubai Islamic Bank shares slide as property risks worry investors",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRTV1dDBsRDRRd25jUmdqdFhxM3c2bWg3UVQ4cy1iX0tQaXFNazdHRmhzREgtQlh1dnJDelVYYnIxNjV3TW1fVmlTY3RPMEdXVjlQY0JBd0w1NFI4SjVMalg1c2lncjU5VXRwQjNQcjJOUXIyT0ZxR1N1SzhsSjlQbDh3cnVSZWFHUmUwempIZVllbUstRVduQ25lcTQ3YTdkQ185NUJqZTlwY3E0UVVwWkNyTnNHcnBOZUZRMQ?oc=5",
+   "source": "Arabian Gulf Business Insight | AGBI",
+   "kind": "search",
+   "published": "2026-10-14T04:00+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Rates & mortgages",
+   "impact": "Medium",
+   "impact_reason": "Investor anxiety could influence bank lending and mortgage availability.",
+   "watch": false,
+   "headline": "Dubai Islamic Bank shares slide over property risk concerns",
+   "summary": "Shares of Dubai Islamic Bank have dropped due to investor worries surrounding property risks. Market participants are paying closer attention to sector exposure.",
+   "why": "Banking stability and property sector exposure directly impact mortgage lending conditions.",
+   "age_hours": 8.0,
+   "topic": "Rates & mortgages"
   }
  ],
  "window_hours": 24,
- "count_relevant": 24,
- "count_fetched": 367,
+ "count_relevant": 20,
+ "count_fetched": 382,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-14T10:07+04:00",
- "saved_at": "2026-10-14T10:08+04:00"
+ "as_of": "2026-10-14T12:02+04:00",
+ "saved_at": "2026-10-14T12:03+04:00"
 }

@@ -307,6 +307,60 @@
    "category": "Infrastructure",
    "impact": "Medium",
    "impact_reason": "Improves long-term community connectivity and real estate value."
+  },
+  "8bf39507102e": {
+   "relevant": false,
+   "headline": "UAE flight cancellations and delays disrupt travel",
+   "summary": "Travelers at major UAE airports faced various flight disruptions and cancellations. These updates affected numerous regional and international routes.",
+   "why": "This news is about aviation disruptions rather than real estate, mortgages, or the property market.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Unrelated to property market."
+  },
+  "e97f04b7695f": {
+   "relevant": true,
+   "headline": "Sharjah property market grows 14%",
+   "summary": "Sharjah real estate transactions hit Dh46.8 billion over the first nine months. This indicates a 14 percent growth in the local market.",
+   "why": "Transaction volume reports indicate overall regional property sector health and buyer demand.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects strong regional property growth."
+  },
+  "a0f6bc89e1cc": {
+   "relevant": false,
+   "headline": "NESTROV expands into Indian luxury brokerage",
+   "summary": "NESTROV announced a strategic expansion to tap into India's luxury real estate brokerage sector.",
+   "why": "The expansion focuses on the Indian market rather than the UAE property sector.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Focuses on the Indian market."
+  },
+  "54b38211b8a4": {
+   "relevant": true,
+   "headline": "Seed Group partners with VerbaFlo",
+   "summary": "Dubai's Seed Group partnered with VerbaFlo to modernize the Gulf rental market. This collaboration aims to introduce technological advancements to regional leasing.",
+   "why": "Proptech partnerships directly affect local rental market operations and management.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Early-stage proptech partnership."
+  },
+  "32483d7b2ba2": {
+   "relevant": false,
+   "headline": "Adil Faridi discusses building long-term businesses",
+   "summary": "Adil Faridi shared insights on identifying market opportunities and creating complementary businesses across multiple industries.",
+   "why": "This is a general business leadership opinion piece without direct real estate news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "General business opinion piece."
+  },
+  "f990ad663b68": {
+   "relevant": false,
+   "headline": "Suryakumar Yadav purchases Dubai property",
+   "summary": "Suryakumar Yadav announced the acquisition of a new property in Dubai, adding to his portfolio.",
+   "why": "Celebrity property purchases are lifestyle pieces with no direct market impact.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Celebrity lifestyle news."
   }
  }
 }
