@@ -343,5 +343,48 @@
 "impact_reason": "General market context",
 "watch": false,
 "topic": "Macro & geopolitics"
+},
+{
+"id": "b1e718596380",
+"headline": "Dubai rents drop over 12 percent across key communities",
+"summary": "Rental rates in major areas like Dubai Marina, Business Bay, and JVC have declined by more than 12 percent. This drop reflects changing market dynamics across popular residential neighborhoods.",
+"why": "It directly impacts landlord yields, tenant affordability, and overall market sentiment in prime locations.",
+"source": "Khaleej Times",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOTY1SlUtMEdSejZvR0Uxb0dCMmwyRl8weXpjWEFGRHBrMzFtXzlIWklVcTVpRVpzekM1QnVldlZoQ0dmbzgxb3lVc3dfVnNKYUVWZGNfT1BWeWtNUklnc0I3cS1EckNzemx1ZjhGQjJxWUNiNzg0RHpvUHpqVXdWQWRBeE5rcE5xN2lyMkVfOHFMT21EVjRXTHBzRFFQUXlQdXgzY2dwMNIBrwFBVV95cUxOVnVtQWRmRWJPWHV0c2lrVFBPYXBmOVZfUVkyY3lrejV4QktXWXpQUmR5WV9aWjVqdHhaTXZnT2hkVkZXa1B3SjZzVFVyVTdOdmV0Z0JCaFJ2QnByWWNrQ2VnREdsd0NKMTZPUndfYWpCRzlyUUluWEFOTW1mb0dVOEdpYXgySXlZcDJwOUo2a29aRHhpTDRZR1BsTkxFS05ZNmQ3REh5MnNISW4yWF9V?oc=5",
+"published": "2026-10-13T10:35+04:00",
+"category": "Supply & market reports",
+"impact": "Medium",
+"impact_reason": "Shifts tenant affordability and landlord rental yield expectations.",
+"watch": true,
+"topic": "rents"
+},
+{
+"id": "2e5219c539c1",
+"headline": "Bloom Holding unveils Alhambra as final Bloom Living phase",
+"summary": "Bloom Holding launched Alhambra, completing the master plan for the AED 9 billion Bloom Living development. The project integrates residential homes with retail, dining, and essential community services.",
+"why": "It highlights new project supply and master community completions relevant to buyers and investors.",
+"source": "Economy Middle East",
+"link": "https://economymiddleeast.com/news/alhambra-the-vibrant-heart-of-bloom-living/?utm_source=rss&utm_medium=rss&utm_campaign=alhambra-the-vibrant-heart-of-bloom-living",
+"published": "2026-10-14T09:30+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Adds new residential supply to the market.",
+"watch": false,
+"more": 2,
+"topic": "Developer news"
+},
+{
+"id": "405b98ba76fd",
+"headline": "Dubai studies underground transport network for future mobility",
+"summary": "The RTA is exploring an integrated underground transport system to move passengers, goods, and services. This initiative forms part of Dubai's wider strategy to develop three-dimensional urban mobility.",
+"why": "Major infrastructure developments significantly influence long-term property values and community accessibility.",
+"source": "Economy Middle East",
+"link": "https://economymiddleeast.com/news/dubai-explores-underground-transport-network-as-rta-maps-out-three-dimensional-mobility-future/?utm_source=rss&utm_medium=rss&utm_campaign=dubai-explores-underground-transport-network-as-rta-maps-out-three-dimensional-mobility-future",
+"published": "2026-10-14T09:14+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Improves long-term community connectivity and real estate value.",
+"watch": false,
+"topic": "Infrastructure"
 }
 ]

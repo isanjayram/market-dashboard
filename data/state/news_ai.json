@@ -271,6 +271,42 @@
    "category": "Rates & mortgages",
    "impact": "Medium",
    "impact_reason": "Investor anxiety could influence bank lending and mortgage availability."
+  },
+  "b1e718596380": {
+   "relevant": true,
+   "headline": "Dubai rents drop over 12 percent across key communities",
+   "summary": "Rental rates in major areas like Dubai Marina, Business Bay, and JVC have declined by more than 12 percent. This drop reflects changing market dynamics across popular residential neighborhoods.",
+   "why": "It directly impacts landlord yields, tenant affordability, and overall market sentiment in prime locations.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Shifts tenant affordability and landlord rental yield expectations."
+  },
+  "4d8c05253216": {
+   "relevant": false,
+   "headline": "NESTROV expands into Indian luxury brokerage market",
+   "summary": "NESTROV is expanding strategically into India's luxury real estate sector.",
+   "why": "This is an international brokerage expansion unrelated to Dubai property or UAE markets.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Irrelevant to the local Dubai property market."
+  },
+  "2e5219c539c1": {
+   "relevant": true,
+   "headline": "Bloom Holding unveils Alhambra as final Bloom Living phase",
+   "summary": "Bloom Holding launched Alhambra, completing the master plan for the AED 9 billion Bloom Living development. The project integrates residential homes with retail, dining, and essential community services.",
+   "why": "It highlights new project supply and master community completions relevant to buyers and investors.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Adds new residential supply to the market."
+  },
+  "405b98ba76fd": {
+   "relevant": true,
+   "headline": "Dubai studies underground transport network for future mobility",
+   "summary": "The RTA is exploring an integrated underground transport system to move passengers, goods, and services. This initiative forms part of Dubai's wider strategy to develop three-dimensional urban mobility.",
+   "why": "Major infrastructure developments significantly influence long-term property values and community accessibility.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Improves long-term community connectivity and real estate value."
   }
  }
 }
