@@ -361,6 +361,42 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Celebrity lifestyle news."
+  },
+  "7b4c0e48554f": {
+   "relevant": true,
+   "headline": "Gulf investors pivot to UK income assets",
+   "summary": "Regional buyers are moving capital away from ultra-luxury houses into revenue-producing properties abroad. The shift reflects a changing appetite for steady financial returns.",
+   "why": "It shows changing investment preferences among regional buyers.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Shifts regional capital priorities towards income properties."
+  },
+  "2c4a7a3a4154": {
+   "relevant": true,
+   "headline": "Dubai investors buy smaller offices amid sales drop",
+   "summary": "Buyers in the commercial sector are opting for compact office spaces as overall transaction values decline. This trend highlights a cautious approach to commercial real estate.",
+   "why": "It indicates a shift in commercial buyer demand.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Reflects changing commercial demand and falling transaction values."
+  },
+  "1508911df220": {
+   "relevant": true,
+   "headline": "Dubai luxury property sales jump in Q3 2026",
+   "summary": "Transactions for properties valued at ten million dirhams and above grew significantly during the third quarter. High-end real estate continues to see robust buyer activity.",
+   "why": "It highlights strong growth in the luxury property segment.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Demonstrates strong growth in high-end property transactions."
+  },
+  "562b1284e3ba": {
+   "relevant": false,
+   "headline": "Austin Albert wins Dubai real estate award",
+   "summary": "An industry figure has received a recognition award for achievements in the local property sector.",
+   "why": "This is an award piece with no direct market news value.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Awards do not affect market fundamentals or buyer costs."
   }
  }
 }
