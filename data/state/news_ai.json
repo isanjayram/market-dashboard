@@ -676,6 +676,33 @@
    "category": "Developer news",
    "impact": "Low",
    "impact_reason": "Expands luxury supply without shifting broader market policies."
+  },
+  "fbe8a21523f8": {
+   "relevant": true,
+   "headline": "Guide to UAE Golden Visa nomination letters via ICP",
+   "summary": "Understand what a Golden Visa nomination letter is and the application process through the ICP. The details cover requirements for applicants seeking long-term UAE residency.",
+   "why": "Residency rules directly impact investor sentiment and property buying decisions in Dubai.",
+   "category": "Regulation & fees",
+   "impact": "High",
+   "impact_reason": "Affects investor residency eligibility and long-term market sentiment."
+  },
+  "4e09d505559e": {
+   "relevant": true,
+   "headline": "New transport links improve access to Etihad Rail stations",
+   "summary": "A new Dubai footbridge and three Sharjah bus routes now connect commuters to Etihad Rail. These transit improvements facilitate smoother travel between metro and rail networks.",
+   "why": null,
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Improves connectivity and regional accessibility for residents."
+  },
+  "d50957aa9967": {
+   "relevant": true,
+   "headline": "Alef Group unveils Sharjah real estate pipeline at SIF",
+   "summary": "Alef Group provided investors with early access to upcoming Sharjah property projects and future pipelines. The showcase took place during the SIF event.",
+   "why": "Developer project pipelines offer insight into regional supply and investment opportunities.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Provides early project insights without changing immediate market costs."
   }
  }
 }
