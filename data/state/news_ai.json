@@ -649,6 +649,33 @@
    "category": "Infrastructure",
    "impact": "Low",
    "impact_reason": "Focuses on logistics rather than residential real estate."
+  },
+  "d93b0dd5e5ad": {
+   "relevant": true,
+   "headline": "Alef Group Showcases Sharjah Real Estate Pipeline",
+   "summary": "Alef Group presented upcoming Sharjah property opportunities and future projects to investors at an exhibition.",
+   "why": "It highlights upcoming investment opportunities in the regional property market.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Offers early access without altering immediate market fundamentals."
+  },
+  "db3c8e6fad2b": {
+   "relevant": true,
+   "headline": "Aldar Acquires Stake in Sharjah Aljada Project",
+   "summary": "Aldar has completed its inaugural property investment in Sharjah through a substantial Dh1.1 billion transaction.",
+   "why": "Major developer expansion into a neighboring emirate affects market dynamics.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Demonstrates strong capital movement into regional real estate."
+  },
+  "fa8d1ed8e259": {
+   "relevant": true,
+   "headline": "Missoni-Branded Residences Launch on Dubai Islands",
+   "summary": "Tomorrow World Properties partnered with Missoni to introduce a luxury branded residential development on Dubai Islands.",
+   "why": "New branded residential launches expand the luxury segment offering.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Expands luxury supply without shifting broader market policies."
   }
  }
 }

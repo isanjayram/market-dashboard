@@ -636,5 +636,64 @@
 "impact_reason": "General market context",
 "watch": false,
 "topic": "emaar"
+},
+{
+"id": "db3c8e6fad2b",
+"headline": "Aldar Acquires Stake in Sharjah Aljada Project",
+"summary": "Aldar has completed its inaugural property investment in Sharjah through a substantial Dh1.1 billion transaction.",
+"why": "Major developer expansion into a neighboring emirate affects market dynamics.",
+"source": "Gulf News",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRTBkYWJDdnN4X1FSWHRYS2RYR1VSbXZGM3NYbm13dFJDeXI3Vms2b0RSUEJ5TmZCRUxPdjliNzdxay1xQWE0aDc1V3JpSE1SVExBSGlUS0hxTUMwT05QLWdDOHpYdDRJY2hWTXRZQzFnOGFhVG1JaFlxTVNKQkhlLTRJRHdnSkdnOWpCLWRGejlYdF81WHV4LThIRnBlT0tDckc1WnlwcEVOaHRYQ1FiSVVtYThtVjIxbXRlZlJORTJQVFZJYUxrQUI2cE5jQk96SXpTWENtT0J1LXM?oc=5",
+"published": "2026-10-15T11:42+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Demonstrates strong capital movement into regional real estate.",
+"watch": true,
+"topic": "sharjah"
+},
+{
+"id": "d93b0dd5e5ad",
+"headline": "Alef Group Showcases Sharjah Real Estate Pipeline",
+"summary": "Alef Group presented upcoming Sharjah property opportunities and future projects to investors at an exhibition.",
+"why": "It highlights upcoming investment opportunities in the regional property market.",
+"source": "Zawya",
+"link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPX0JTWHRKNlNNbEtmdmprd0Nfbl9BVWV5UEpUUkgtbndZYkdPZVJ5Mk5NTUFudEVtdlpRSncwWmVDUUtocEVJakhpM3VtOXVWR0ZPYTl1UDV3c2tndllMVE80QjRkdHBGQzJzLW0zLW9YeXZVQmJ6WjhlallnOXA2VzRjM3dRTnNYM2RGczFHbHpvcUJ1dlAxVndOcTFBZFZaUGtOYVhFVU1iUlFMUDJYS2QyT1ZwcXAyaVNXakJlNEpuVlFwQzN5bjZjZ09CY0dqa1ZGaVVuZUhEWTVzNkNhbllBWVUxaDdjaTFfeERRWWwwX1NHd09zODE0cExXakE?oc=5",
+"published": "2026-10-15T12:43+04:00",
+"category": "Developer news",
+"impact": "Low",
+"impact_reason": "Offers early access without altering immediate market fundamentals.",
+"watch": true,
+"topic": "sharjah"
+},
+{
+"id": "fa8d1ed8e259",
+"headline": "Missoni-Branded Residences Launch on Dubai Islands",
+"summary": "Tomorrow World Properties partnered with Missoni to introduce a luxury branded residential development on Dubai Islands.",
+"why": "New branded residential launches expand the luxury segment offering.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/gn-focus/company-news/tomorrow-world-properties-and-missoni-announce-the-bay-interiors-by-missoni-on-dubai-islands-1.500711530",
+"published": "2026-10-15T13:03+04:00",
+"category": "Developer news",
+"impact": "Low",
+"impact_reason": "Expands luxury supply without shifting broader market policies.",
+"watch": false,
+"also": [
+"Gulf News"
+],
+"topic": "Developer news"
+},
+{
+"id": "0844122d9f37",
+"headline": "Nigerian entrepreneur makes history with Dubai real estate award",
+"summary": "",
+"why": "can move investor sentiment; expect questions about where the market is heading.",
+"source": "The Nation Newspaper",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVWlQLUpCZXNBWUo2WVhkTV9JSktvS05NUUtWSW02MDJtcWV2V3dYQWpMSVRFMW04Uk1XS3pYT25JRkNVaDNIU0hRVjBSTDhHenFrc2cxSnNodlVKRDRrUkc0bTNWNGlxVzVrNDhOZVp6WDVKOUZyT3UzN1JFY1U4TmZYZ2hzSkRtOV9xdVhGZ2F6UDJIMHBpNk1HMNIBoAFBVV95cUxNM2dWSUVHVEZXV3VObHNVa0NReVBwNHpPMDRmQ1JIVG12RXJfT2NvNnpLV2lsRjQwZURDWndXV0lHUUpKLUlTNHZRcEI0N1NKYkdGdU9FM0JFWWRUQVAxTnM5Ykh4M3RoaFN3VXIybnJxQ1pWenJpQ0FJdVR1b1FFcnRZY3F2eHAxREJtUkZTWDJYMzZFbDZSTWQySDhFM0Ux?oc=5",
+"published": "2026-10-14T20:25+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": false,
+"topic": "Macro & geopolitics"
 }
 ]

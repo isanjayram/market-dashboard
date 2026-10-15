@@ -784,5 +784,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"fa8d1ed8e259": {
+"id": "fa8d1ed8e259",
+"title": "Missoni-Branded Residences Launch on Dubai Islands",
+"link": "https://gulfnews.com/gn-focus/company-news/tomorrow-world-properties-and-missoni-announce-the-bay-interiors-by-missoni-on-dubai-islands-1.500711530",
+"source": "Gulf News",
+"category": "Developer news",
+"published": "2026-10-15T13:03+04:00",
+"first_seen": "2026-10-15",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": "The Bay Interiors by Missoni",
+"developer": "Tomorrow World Properties",
+"location": "Dubai Islands",
+"type": "Branded Residences",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
