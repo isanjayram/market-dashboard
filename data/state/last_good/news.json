@@ -2,24 +2,21 @@
  "top": [
   {
    "id": "4ede9070068d",
-   "title": "Dubai's shared housing rules could push costs up for low-income groups",
+   "title": "Dubai's shared housing rules will lead to better quality of life for those on low incomes, says official",
    "link": "https://www.thenationalnews.com/news/uae/2026/10/15/dubai-shared-housing-rules-affordable-accommodation/",
    "source": "The National",
    "kind": "outlet",
    "published": "2026-10-15T06:00+04:00",
    "tags": [],
-   "teaser": "Dubai's crackdown on overcrowded and illegally subletting apartments may improve living conditions for many residents. However, higher compliance costs for landlords could make affordable shared housing less accessible for workers who need it. Dubai Municipality's shared housing guide sets standards for building design, occupancy, health and safety, shared facilities and approved locations. It giv",
+   "teaser": "Dubai's crackdown on overcrowded and illegally sub-let apartments will result in a better life for residents on low incomes, a senior official from the emirate's municipality has said. The Dubai Municipality's shared housing guide sets standards for building design, occupancy, health and safety, shared amenities and approved locations. It gives landlords until September 1, 2027, to comply with the",
    "category": "Regulation & fees",
    "impact": "High",
    "impact_reason": "Changes compliance costs and affects affordable housing availability.",
    "watch": false,
-   "also": [
-    "The National"
-   ],
    "headline": "Dubai Shared Housing Rules May Increase Low-Income Costs",
    "summary": "Dubai Municipality's crackdown on illegal subletting and overcrowded apartments aims to raise living standards. However, compliance costs for landlords could make affordable shared housing less accessible for workers.",
    "why": "It outlines new regulatory standards impacting rental supply and low-income housing costs.",
-   "age_hours": 1.1,
+   "age_hours": 3.9,
    "topic": "Regulation & fees"
   },
   {
@@ -38,7 +35,7 @@
    "headline": "Complete guide on applying for a UAE Golden Visa",
    "summary": "An updated guide details the steps, documentation, fees, and processing times for obtaining a UAE Golden Visa.",
    "why": "Golden Visas directly influence investor decisions and long-term property commitments in the UAE.",
-   "age_hours": 13.1,
+   "age_hours": 15.9,
    "topic": "golden visa"
   },
   {
@@ -57,7 +54,7 @@
    "headline": "Dubai unveils massive infrastructure and housing project pipeline",
    "summary": "Dubai announced a $572 billion pipeline featuring 350,000 new homes, metro expansions, and major airport investments.",
    "why": "Massive supply additions and infrastructure spending heavily shape future market dynamics and investor sentiment.",
-   "age_hours": 19.6,
+   "age_hours": 22.4,
    "topic": "airport"
   },
   {
@@ -76,7 +73,7 @@
    "headline": "Etihad Rail Sharjah announces new bus routes and schedules",
    "summary": "New connecting bus routes and timetables have been launched for the Al Dhaid Etihad Rail station.",
    "why": "Transport links impact regional accessibility and property attractiveness in surrounding areas.",
-   "age_hours": 17.8,
+   "age_hours": 20.7,
    "topic": "sharjah",
    "more": 2
   },
@@ -96,7 +93,7 @@
    "headline": "Sharjah Real Estate Trading Reaches 46.8 Billion Dirhams",
    "summary": "Trading in Sharjah property recorded a 5.6% growth rate, totaling 46.8 billion dirhams. This figure reflects ongoing activity and expansion in the local market.",
    "why": "It provides official transaction volume figures showing sector growth.",
-   "age_hours": 17.2,
+   "age_hours": 20.0,
    "topic": "sharjah"
   },
   {
@@ -115,7 +112,7 @@
    "headline": "Al Satwa road upgrades reduce peak Dubai traffic queues",
    "summary": "RTA road improvements in Al Satwa have successfully reduced peak-hour traffic delays by up to 60 percent.",
    "why": "Better traffic flow enhances neighbourhood appeal and commuting times for Dubai residents.",
-   "age_hours": 8.7,
+   "age_hours": 11.5,
    "topic": "Infrastructure"
   },
   {
@@ -134,9 +131,9 @@
    "headline": "US Investors Increasingly Target Dubai Property for Global Exposure",
    "summary": "Investors from the United States are showing greater interest in Dubai real estate to diversify their portfolios internationally.",
    "why": "It highlights shifting buyer demographics and rising US capital inflows into Dubai.",
-   "age_hours": 9.3,
+   "age_hours": 12.1,
    "topic": "Macro & geopolitics",
-   "more": 4
+   "more": 6
   },
   {
    "id": "a325a08968e0",
@@ -160,7 +157,7 @@
    "headline": "Aldar plans major villa and townhouse launch in Dubai",
    "summary": "Aldar Development will launch a new residential project near Dubai Silicon Oasis before the end of the year. This forms part of the developer's ongoing expansion strategy across the UAE market.",
    "why": "New large-scale developer projects increase inventory choices for buyers and investors.",
-   "age_hours": 10.5,
+   "age_hours": 13.3,
    "topic": "aldar"
   },
   {
@@ -184,9 +181,9 @@
    "headline": "Dubai Completes 104 Real Estate Projects Valued at $30.2 Billion",
    "summary": "Dubai finished 104 real estate projects worth over AED111 billion in the first half of 2026. The Dubai Land Department noted that investment value surged by 52 percent alongside expanding residential supply.",
    "why": "It reports major project completions and surging investment values during the first half of the year.",
-   "age_hours": 12.2,
+   "age_hours": 15.0,
    "topic": "Supply & market reports",
-   "more": 3
+   "more": 2
   },
   {
    "id": "fe403bf73200",
@@ -204,15 +201,15 @@
    "headline": "Dubai Real Estate Projects Surge 52% to Dh100 Billion",
    "summary": "Dubai's real estate project values surged by 52 percent to reach Dh100 billion during the first half of 2026.",
    "why": "It provides official metrics on the sharp increase in project development values.",
-   "age_hours": 14.2,
+   "age_hours": 17.1,
    "topic": "Supply & market reports"
   }
  ],
  "window_hours": 24,
- "count_relevant": 28,
- "count_fetched": 335,
+ "count_relevant": 29,
+ "count_fetched": 360,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-15T07:05+04:00",
- "saved_at": "2026-10-15T07:05+04:00"
+ "as_of": "2026-10-15T09:54+04:00",
+ "saved_at": "2026-10-15T09:54+04:00"
 }

@@ -505,6 +505,33 @@
    "category": "Supply & market reports",
    "impact": "Medium",
    "impact_reason": "Shows strong developer activity and rising capital allocation."
+  },
+  "ab58a6f4034d": {
+   "relevant": true,
+   "headline": "ICP Launches Free Online Tool for UAE Golden Visa Check",
+   "summary": "The Federal Authority for Identity and Citizenship introduced an online tool allowing residents to check Golden Visa eligibility quickly. This simplifies the process for investors and property owners seeking long-term residency.",
+   "why": "Directly impacts investor residency options and long-term market sentiment.",
+   "category": "Regulation & fees",
+   "impact": "High",
+   "impact_reason": "Simplifies residency access for property investors."
+  },
+  "c7ca09081173": {
+   "relevant": true,
+   "headline": "Shared Housing Regulations May Increase Expenses for Low-Income Earners",
+   "summary": "Recent updates to shared housing policies in Dubai are anticipated to elevate living expenses for lower-income residents. This shift could alter rental demand patterns across certain affordable neighborhoods.",
+   "why": "Shifts rental dynamics in the affordable housing sector.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Affects only a specific low-income rental segment."
+  },
+  "ae3bcf47debc": {
+   "relevant": true,
+   "headline": "Tenant Inquiries Hit Record High Amid Rising Leasing Rates",
+   "summary": "Dubai's rental market sees unprecedented tenant demand alongside climbing lease rates. The surge reflects continued population growth and strong interest in available properties.",
+   "why": "Highlights ongoing high demand and rising costs in the rental market.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects strong rental demand and rising prices."
   }
  }
 }
