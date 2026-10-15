@@ -664,5 +664,125 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"d2d031a7ddff": {
+"id": "d2d031a7ddff",
+"title": "Dubai unveils massive infrastructure and housing project pipeline",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU0pndnJlYjFfbEtnamkxdzF1LWpWR2xVX3VYV2dxeWhGQ1NRZzNITTk5clNLejcybkJNcXdkUVdhcnB6cUZ5UU1fSUU4aUVtX1hmNDE1akhjUEhLNERUX2x3Wm9EQjlSYVMzV0JyaXN0dzZzV1BJbGxfQjNwMDAyNlpyV1VuX09INlN5dHZ3TTV4TnpLNkE4bnVLYTkzWll2YVZKaTFwVGFKckQxUjBLMUFWcS1jaVZfX0tCT1lGLWtKTDRqUGdOd1ZVTnlQUQ?oc=5",
+"source": "Travels Dubai",
+"category": "Infrastructure",
+"published": "2026-10-14T11:32+04:00",
+"first_seen": "2026-10-15",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"fefa31a635e0": {
+"id": "fefa31a635e0",
+"title": "Etihad Rail Sharjah announces new bus routes and schedules",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeGZHSmhEMDNaTWhNeWE5UFNDRTBVQmZKTmhQS3dxLVZ1Y3RlcnlSZ3ZxcVpTcmpsYlJZVndTbVFNMVZsWmNDTEY0ZFN3Qkp6R3pMTDVWSWlDOXJ5UDZWQXBsR3AzZS1IWk1iUldHVUJqOXZCY2YxV1pIVzZsczMyT2xzZDRHYTg1ZEtKeTVNYkFUVHc2dGkzVTFFNndncjVBM2NyTHRmbnpyWFRyQzhjWG04MGdRM3ZZUG9iSQ?oc=5",
+"source": "Gulf News",
+"category": "Infrastructure",
+"published": "2026-10-14T13:15+04:00",
+"first_seen": "2026-10-15",
+"kind": "Infrastructure",
+"region": "Sharjah",
+"catalyst": {
+"name": "Etihad Rail passenger stations",
+"status": "Al Yalayis (Dubai) and Al Dhaid (Sharjah) open 30 Sep 2026",
+"source": "Gulf News",
+"url": "https://gulfnews.com/uae/dubai/etihad-rail-is-coming-to-dubai-what-changes-when-al-yalayis-station-opens-september-30-1.500679227"
+},
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"556dde0011e3": {
+"id": "556dde0011e3",
+"title": "Al Satwa road upgrades reduce peak Dubai traffic queues",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS2NIRzNpOG5FcmI4RVZsdTgyUXdHWmMyZkd3cUQ4MnR3NmtkRk1IWkVubUlaM1piOEFvcnBRaUFuNG9kQng2V00tZ1JCc21ZcGJGZjNSblh3T1FEcTE1YmUzdVRQNHZfbkdQalM4MTV4YllWVmk2eFpySHNTdTJQVg?oc=5",
+"source": "Arabian Business",
+"category": "Infrastructure",
+"published": "2026-10-14T22:26+04:00",
+"first_seen": "2026-10-15",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"a325a08968e0": {
+"id": "a325a08968e0",
+"title": "Aldar plans major villa and townhouse launch in Dubai",
+"link": "https://www.thenationalnews.com/business/property/2026/10/14/aldar-to-launch-major-dubai-villa-and-townhouse-project-by-end-of-year/",
+"source": "The National",
+"category": "Developer news",
+"published": "2026-10-14T20:38+04:00",
+"first_seen": "2026-10-15",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": {
+"name": "Dubai Metro Blue Line",
+"status": "under construction; opens 9 Sep 2029 (14 stations)",
+"source": "Khaleej Times",
+"url": "https://www.khaleejtimes.com/uae/transport/dubai-metro-blue-line-to-be-completed-september-9-2029-rta-announces"
+},
+"fields": {
+"project": null,
+"developer": "Aldar",
+"location": "near Dubai Silicon Oasis",
+"type": "villas and townhouses",
+"launch_date": "by the end of this year",
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"9f82ab2e2fa9": {
+"id": "9f82ab2e2fa9",
+"title": "UAE Business: Emaar chief unveils $16bn Syria property investment plans",
+"link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11R0dPeDc1ckFiRVZZTXZvbUgwN3otNGVZSmlyX1FFWmUzTFdqYWJNeXpkZ0NLYVFiZ0loUDFNSFZEaG5tRHp1UWdSQXIzbDZBNERR?oc=5",
+"source": "Gulf Daily News (Bahrain)",
+"category": "Developer news",
+"published": "2026-10-15T00:06+04:00",
+"first_seen": "2026-10-15",
+"kind": "Off-plan launch",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": "Emaar",
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

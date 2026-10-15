@@ -1,78 +1,4 @@
 {
- "2026-10-13": {
-  "ab58a6f4034d": {
-   "relevant": true,
-   "headline": "ICP Launches Free Online Tool to Check Golden Visa Eligibility",
-   "summary": "Residents can now use a new online tool provided by the ICP to quickly check if they qualify for the UAE Golden Visa. This digital service simplifies the assessment process for applicants.",
-   "why": "It directly impacts residency rules and investor eligibility for property buyers.",
-   "category": "Regulation & fees",
-   "impact": "High",
-   "impact_reason": "Changes residency eligibility and investor retention."
-  },
-  "48ba24e795d2": {
-   "relevant": true,
-   "headline": "Sharjah Real Estate Transactions Reach $12.74 Billion in 9M 2026",
-   "summary": "Sharjah reported strong real estate performance through September 2026, with monetary transaction volumes reaching AED46.8 billion. Both transaction values and volumes showed positive momentum during this period.",
-   "why": "It provides crucial market data reflecting regional property demand.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Highlights regional market performance and demand trends."
-  },
-  "ac6a72a550e6": {
-   "relevant": true,
-   "headline": "Sharjah Property Transactions Hit $12.74 Billion in Nine Months",
-   "summary": "Official figures show Sharjah's property sector generated $12.74 billion across transactions during the first nine months of the year. The market maintained solid growth momentum throughout the period.",
-   "why": "It tracks official transaction volumes in a neighboring emirate's property market.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Demonstrates steady regional market growth."
-  },
-  "cadada16d255": {
-   "relevant": true,
-   "headline": "Sharjah Property Market Grows 14% with Dh46.8 Billion in Transactions",
-   "summary": "Sharjah's real estate sector expanded by 14 percent year-on-year as total transactions reached Dh46.8 billion in the first nine months. Trading volume specifically rose by 5.6 percent between January and September.",
-   "why": "It offers comprehensive figures on Sharjah's property market expansion.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Reflects overall sector growth and investor activity."
-  },
-  "4a1216c17499": {
-   "relevant": true,
-   "headline": "Azizi Hosts Major Sales Event for $8.2 Billion Sharjah Project",
-   "summary": "Developer Azizi has launched its largest sales event to date for an extensive $8.2 billion development in Sharjah. The mega-project aims to draw substantial buyer interest.",
-   "why": "It highlights major developer activity and large-scale project launches.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Signals major new supply and sales activity."
-  },
-  "4b40941d2919": {
-   "relevant": true,
-   "headline": "OPEC Raises 2027 Global Oil Demand Growth Forecast",
-   "summary": "OPEC increased its global oil demand growth projections for 2027 to address inventory depletion caused by the Iran conflict. Meanwhile, the organization lowered its outlook for 2026 for the sixth consecutive month.",
-   "why": "Macroeconomic shifts in oil demand impact the broader UAE economy.",
-   "category": "Macro & geopolitics",
-   "impact": "Medium",
-   "impact_reason": "Influences broader economic sentiment and liquidity."
-  },
-  "54047659ce56": {
-   "relevant": true,
-   "headline": "Dubai Outlines Major Plans for Airport, Metro, and Financial District",
-   "summary": "Dubai officials presented ambitious long-term infrastructure plans at a recent leadership forum, focusing on integrated transport networks and a massive financial district. These projects aim to expand the emirate's travel and trade capabilities.",
-   "why": "New infrastructure developments significantly influence real estate values and demand.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Boosts long-term property values and urban connectivity."
-  },
-  "593d472f0e50": {
-   "relevant": true,
-   "headline": "Dubai Property Market Shifts as Ready-Home Sales Rise",
-   "summary": "Dubai's real estate landscape is evolving as demand shifts toward ready properties and buyers become more selective. This change reflects shifting preferences among active market participants.",
-   "why": "It details changing buyer behavior within the Dubai property sector.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Reflects shifting buyer preferences in the market."
-  }
- },
  "2026-10-14": {
   "966d7303aae6": {
    "relevant": false,
@@ -433,6 +359,152 @@
    "category": "Supply & market reports",
    "impact": "Medium",
    "impact_reason": "Highlights shifting luxury property values and rental market trends."
+  }
+ },
+ "2026-10-15": {
+  "8d4bdd96d17b": {
+   "relevant": false,
+   "headline": "UAE Golden Visa nominations granted to social media creators",
+   "summary": "Several prominent online creators have received UAE Golden Visa nominations alongside new Amazon incentives.",
+   "why": "This news focuses on influencer nominations and lifestyle perks rather than property or mainstream residency rules.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Relates to influencer promotions rather than general property buyers."
+  },
+  "bf111b9b1fed": {
+   "relevant": true,
+   "headline": "Complete guide on applying for a UAE Golden Visa",
+   "summary": "An updated guide details the steps, documentation, fees, and processing times for obtaining a UAE Golden Visa.",
+   "why": "Golden Visas directly influence investor decisions and long-term property commitments in the UAE.",
+   "category": "Regulation & fees",
+   "impact": "High",
+   "impact_reason": "Guides buyers on long-term residency rules and investment thresholds."
+  },
+  "fefa31a635e0": {
+   "relevant": true,
+   "headline": "Etihad Rail Sharjah announces new bus routes and schedules",
+   "summary": "New connecting bus routes and timetables have been launched for the Al Dhaid Etihad Rail station.",
+   "why": "Transport links impact regional accessibility and property attractiveness in surrounding areas.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Improves regional transport connectivity and suburban property appeal."
+  },
+  "556dde0011e3": {
+   "relevant": true,
+   "headline": "Al Satwa road upgrades reduce peak Dubai traffic queues",
+   "summary": "RTA road improvements in Al Satwa have successfully reduced peak-hour traffic delays by up to 60 percent.",
+   "why": "Better traffic flow enhances neighbourhood appeal and commuting times for Dubai residents.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Enhances neighborhood appeal through better traffic flow."
+  },
+  "a325a08968e0": {
+   "relevant": true,
+   "headline": "Aldar plans major villa and townhouse launch in Dubai",
+   "summary": "Aldar Development will launch a new residential project near Dubai Silicon Oasis before the end of the year. This forms part of the developer's ongoing expansion strategy across the UAE market.",
+   "why": "New large-scale developer projects increase inventory choices for buyers and investors.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Expands local housing supply with new inventory."
+  },
+  "c369369b8a61": {
+   "relevant": false,
+   "headline": "Nigerian entrepreneur wins Dubai real estate sales award",
+   "summary": "An entrepreneur from Nigeria has been awarded a top sales honour within the Dubai property market.",
+   "why": "Individual sales awards and agent recognitions do not affect market fundamentals or buyer costs.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Focuses on individual agent awards without market-wide news."
+  },
+  "d2d031a7ddff": {
+   "relevant": true,
+   "headline": "Dubai unveils massive infrastructure and housing project pipeline",
+   "summary": "Dubai announced a $572 billion pipeline featuring 350,000 new homes, metro expansions, and major airport investments.",
+   "why": "Massive supply additions and infrastructure spending heavily shape future market dynamics and investor sentiment.",
+   "category": "Infrastructure",
+   "impact": "High",
+   "impact_reason": "Significantly scales up long-term housing supply and infrastructure."
+  },
+  "d0d52720161e": {
+   "relevant": true,
+   "headline": "Sharjah real estate draws nearly 10,000 new investors",
+   "summary": "Sharjah's property sector welcomed 9,891 new investors from 130 nationalities during the first nine months of the year, recording over 46,000 traded properties.",
+   "why": "Investor registration numbers reflect broader regional market growth and demand trends.",
+   "category": "Supply & market reports",
+   "impact": "Low",
+   "impact_reason": "Provides historical transaction data rather than actionable policy changes."
+  },
+  "3f50d53d7fc3": {
+   "relevant": true,
+   "headline": "Top Sharjah Property Buyers Come From India, Syria, Pakistan",
+   "summary": "Sharjah real estate attracted significant investment from Indian, Syrian, and Pakistani nationals in 2026. These nationalities led the emirate's property acquisition market.",
+   "why": "It identifies the primary foreign investor nationalities driving demand in Sharjah.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Highlights buyer demographics without altering market fundamentals."
+  },
+  "9ae60a8dc517": {
+   "relevant": true,
+   "headline": "Sharjah Real Estate Trading Reaches 46.8 Billion Dirhams",
+   "summary": "Trading in Sharjah property recorded a 5.6% growth rate, totaling 46.8 billion dirhams. This figure reflects ongoing activity and expansion in the local market.",
+   "why": "It provides official transaction volume figures showing sector growth.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Demonstrates positive market liquidity and steady sector growth."
+  },
+  "8f3d4ddde05b": {
+   "relevant": false,
+   "headline": "NESTROV Expands Into India Luxury Real Estate Market",
+   "summary": "NESTROV announced a strategic expansion into India to target the luxury property brokerage sector.",
+   "why": "The news focuses on an international brokerage expanding in India rather than UAE property.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Irrelevant to the local UAE real estate market."
+  },
+  "bc87e55cd288": {
+   "relevant": false,
+   "headline": "RERA at 10 Reviews India Real Estate Regulator Impact",
+   "summary": "An analysis evaluates a decade of India's RERA and identifies areas needing further improvement.",
+   "why": "It discusses the regulatory framework in India rather than the UAE.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Pertains exclusively to the Indian property market."
+  },
+  "4ede9070068d": {
+   "relevant": true,
+   "headline": "Dubai Shared Housing Rules May Increase Low-Income Costs",
+   "summary": "Dubai Municipality's crackdown on illegal subletting and overcrowded apartments aims to raise living standards. However, compliance costs for landlords could make affordable shared housing less accessible for workers.",
+   "why": "It outlines new regulatory standards impacting rental supply and low-income housing costs.",
+   "category": "Regulation & fees",
+   "impact": "High",
+   "impact_reason": "Changes compliance costs and affects affordable housing availability."
+  },
+  "8c1226f1129f": {
+   "relevant": true,
+   "headline": "US Investors Increasingly Target Dubai Property for Global Exposure",
+   "summary": "Investors from the United States are showing greater interest in Dubai real estate to diversify their portfolios internationally.",
+   "why": "It highlights shifting buyer demographics and rising US capital inflows into Dubai.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Indicates broadening international demand for local properties."
+  },
+  "f31764e490fb": {
+   "relevant": true,
+   "headline": "Dubai Completes 104 Real Estate Projects Valued at $30.2 Billion",
+   "summary": "Dubai finished 104 real estate projects worth over AED111 billion in the first half of 2026. The Dubai Land Department noted that investment value surged by 52 percent alongside expanding residential supply.",
+   "why": "It reports major project completions and surging investment values during the first half of the year.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects substantial supply delivery and increased sector investment."
+  },
+  "fe403bf73200": {
+   "relevant": true,
+   "headline": "Dubai Real Estate Projects Surge 52% to Dh100 Billion",
+   "summary": "Dubai's real estate project values surged by 52 percent to reach Dh100 billion during the first half of 2026.",
+   "why": "It provides official metrics on the sharp increase in project development values.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Shows strong developer activity and rising capital allocation."
   }
  }
 }
