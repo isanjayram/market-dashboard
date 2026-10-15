@@ -595,6 +595,60 @@
    "category": "Macro & geopolitics",
    "impact": "High",
    "impact_reason": "Broad economic expansion boosts long-term property sentiment."
+  },
+  "135e5fc0a970": {
+   "relevant": true,
+   "headline": "Aldar enters Sharjah property market with Dh1.1 billion Aljada acquisition.",
+   "summary": "Abu Dhabi's Aldar Properties bought nine residential buildings from Arada in Sharjah. This marks the developer's first major real estate investment outside its home emirate.",
+   "why": "It shows major developers expanding their footprint across different emirates.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Major developer expansion boosts regional investor confidence."
+  },
+  "6b8cf2b303c4": {
+   "relevant": true,
+   "headline": "Aldar expands into Sharjah via a Dh1.1 billion Aljada purchase.",
+   "summary": "Aldar Properties acquired over 1,100 homes in Sharjah's Aljada project through a forward-purchase deal. The move grows the company's income-generating property portfolio.",
+   "why": "Cross-emirate investments by top developers signal strong sector confidence.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Cross-emirate investments strengthen overall market sentiment."
+  },
+  "086d797aa65b": {
+   "relevant": true,
+   "headline": "Aldar makes maiden Sharjah property investment through Dh1.1b Aljada deal.",
+   "summary": "Aldar has entered the Sharjah real estate market by acquiring residential assets from Arada.",
+   "why": "Significant portfolio expansion by a major regional developer.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Indicates strong developer appetite for regional expansion."
+  },
+  "33e6f6cc5b0e": {
+   "relevant": true,
+   "headline": "Alef Group showcases Sharjah real estate projects at SIF 2026.",
+   "summary": "Alef Group presented its latest property opportunities in Sharjah during the investment forum.",
+   "why": "Highlights upcoming developer projects and investment opportunities in the region.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Standard promotional activity with limited immediate market impact."
+  },
+  "0a5aafca20cc": {
+   "relevant": true,
+   "headline": "Aldar enters Sharjah real estate with a $300M Aljada acquisition.",
+   "summary": "Aldar Properties completed its first property investment in Sharjah by purchasing residential units from Arada.",
+   "why": "Demonstrates shifting investment patterns among leading UAE developers.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Signals robust inter-emirate developer activity."
+  },
+  "750daf845dd5": {
+   "relevant": true,
+   "headline": "Gargash Prime and JD Property form JV for Dubai logistics facility.",
+   "summary": "The partners signed an agreement to develop a massive logistics plot in the UAE.",
+   "why": "Commercial real estate development drives industrial sector growth.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Focuses on logistics rather than residential real estate."
   }
  }
 }
