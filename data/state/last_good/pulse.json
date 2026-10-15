@@ -96,10 +96,10 @@
     "value": 128610694.0
    },
    {
-    "area": "Dubai Creek Harbour",
-    "dld_area": "Al Khairan First",
+    "area": "Arjan",
+    "dld_area": "Al Barshaa South Third",
     "deals": 63,
-    "value": 175107878.0
+    "value": 66461881.0
    }
   ],
   "top_value": [
@@ -1590,5 +1590,5 @@
   "fetched_at": "2026-10-15T07:04+04:00",
   "test": false
  },
- "saved_at": "2026-10-15T09:54+04:00"
+ "saved_at": "2026-10-15T11:44+04:00"
 }

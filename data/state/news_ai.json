@@ -532,6 +532,69 @@
    "category": "Supply & market reports",
    "impact": "Medium",
    "impact_reason": "Reflects strong rental demand and rising prices."
+  },
+  "62ece7b0b5c5": {
+   "relevant": true,
+   "headline": "Aldar Enters Sharjah With AED 1.1 Billion Arada Acquisition",
+   "summary": "Aldar has purchased nine residential buildings within the Aljada community in Sharjah for AED 1.1 billion. This transaction marks the developer's inaugural entry into the Sharjah property market.",
+   "why": "It shows major regional expansion by a leading UAE developer.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Expands developer footprint into a new emirate."
+  },
+  "2ad5381992fb": {
+   "relevant": false,
+   "headline": "Aldar acquires nine residential buildings in Sharjah",
+   "summary": "Aldar has acquired nine residential buildings in Sharjah for AED 1.1 billion.",
+   "why": "This is a duplicate of the previous story about Aldar.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Duplicate coverage of a developer acquisition."
+  },
+  "9083cd1a6eeb": {
+   "relevant": false,
+   "headline": "Danube Properties features aircraft livery on Air India Express",
+   "summary": "Danube Properties has introduced an exclusive aircraft livery on an Air India Express plane featuring Shah Rukh Khan.",
+   "why": "This is a marketing and advertising stunt rather than market news.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Purely promotional airline branding campaign."
+  },
+  "e294a1ba96ee": {
+   "relevant": false,
+   "headline": "Nestrov Announces Strategic India Expansion",
+   "summary": "Nestrov is expanding into India to target the luxury real estate brokerage market.",
+   "why": "This focuses on the Indian domestic market rather than UAE property.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Focuses on Indian brokerage market expansion."
+  },
+  "f83e5a60ecdf": {
+   "relevant": true,
+   "headline": "Sharjah Real Estate Attracts Thousands of New Investors",
+   "summary": "Sharjah's property sector welcomed nearly ten thousand new investors during the first nine months of the year. This demonstrates steady buyer interest in the emirate's growing real estate market.",
+   "why": "It highlights investment volume and demographic trends in a neighboring emirate.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Shows strong regional investor growth and demand."
+  },
+  "6375687bbab7": {
+   "relevant": false,
+   "headline": "Emaar Founder Unveils Billions in Syria Investments",
+   "summary": "Emaar's Mohamed Alabbar has announced plans to invest over $16 billion in Syrian real estate and tourism. He believes challenging markets present strong opportunities for long-term development projects.",
+   "why": "The investments are directed at Syria rather than the UAE property market.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Involves capital deployment outside the UAE."
+  },
+  "464caea2a175": {
+   "relevant": true,
+   "headline": "UAE Central Bank Predicts Strong Economic Growth by 2027",
+   "summary": "The UAE Central Bank Governor expects the national economy to grow significantly by 2027. This acceleration will be driven by ongoing economic diversification, major infrastructure spending, and increased oil production.",
+   "why": "Macroeconomic growth forecasts directly influence overall domestic property sentiment.",
+   "category": "Macro & geopolitics",
+   "impact": "High",
+   "impact_reason": "Broad economic expansion boosts long-term property sentiment."
   }
  }
 }

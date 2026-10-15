@@ -1,6 +1,30 @@
 {
  "top": [
   {
+   "id": "464caea2a175",
+   "title": "UAE economy set to grow nearly 10% in 2027, Central Bank Governor says",
+   "link": "https://www.khaleejtimes.com/uae/uae-economy-set-to-grow-nearly-10-in-2027-central-bank-governor-says",
+   "source": "Khaleej Times",
+   "kind": "outlet",
+   "published": "2026-10-15T10:33+04:00",
+   "tags": [
+    "UAE",
+    "Business",
+    "Economy"
+   ],
+   "teaser": "The UAE economy is projected to grow by approximately 10 per cent in 2027, accelerating from an expected 1.6 per cent in 2026, supported by economic diversification, infrastructure investment and increased oil production capacity, according to the Governor of the Central Bank of the UAE. Khaled Mohamed Balama, Governor of the Central Bank of the UAE and the UAE's Governor at the International Mone",
+   "category": "Macro & geopolitics",
+   "impact": "High",
+   "impact_reason": "Broad economic expansion boosts long-term property sentiment.",
+   "watch": false,
+   "headline": "UAE Central Bank Predicts Strong Economic Growth by 2027",
+   "summary": "The UAE Central Bank Governor expects the national economy to grow significantly by 2027. This acceleration will be driven by ongoing economic diversification, major infrastructure spending, and increased oil production.",
+   "why": "Macroeconomic growth forecasts directly influence overall domestic property sentiment.",
+   "age_hours": 1.2,
+   "topic": "Macro & geopolitics",
+   "more": 5
+  },
+  {
    "id": "4ede9070068d",
    "title": "Dubai's shared housing rules will lead to better quality of life for those on low incomes, says official",
    "link": "https://www.thenationalnews.com/news/uae/2026/10/15/dubai-shared-housing-rules-affordable-accommodation/",
@@ -13,10 +37,13 @@
    "impact": "High",
    "impact_reason": "Changes compliance costs and affects affordable housing availability.",
    "watch": false,
+   "also": [
+    "The National"
+   ],
    "headline": "Dubai Shared Housing Rules May Increase Low-Income Costs",
    "summary": "Dubai Municipality's crackdown on illegal subletting and overcrowded apartments aims to raise living standards. However, compliance costs for landlords could make affordable shared housing less accessible for workers.",
    "why": "It outlines new regulatory standards impacting rental supply and low-income housing costs.",
-   "age_hours": 3.9,
+   "age_hours": 5.7,
    "topic": "Regulation & fees"
   },
   {
@@ -35,27 +62,8 @@
    "headline": "Complete guide on applying for a UAE Golden Visa",
    "summary": "An updated guide details the steps, documentation, fees, and processing times for obtaining a UAE Golden Visa.",
    "why": "Golden Visas directly influence investor decisions and long-term property commitments in the UAE.",
-   "age_hours": 15.9,
+   "age_hours": 17.7,
    "topic": "golden visa"
-  },
-  {
-   "id": "d2d031a7ddff",
-   "title": "Dubai unveils $572bn project pipeline with 350,000 homes, Metro expansion and airport investment",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU0pndnJlYjFfbEtnamkxdzF1LWpWR2xVX3VYV2dxeWhGQ1NRZzNITTk5clNLejcybkJNcXdkUVdhcnB6cUZ5UU1fSUU4aUVtX1hmNDE1akhjUEhLNERUX2x3Wm9EQjlSYVMzV0JyaXN0dzZzV1BJbGxfQjNwMDAyNlpyV1VuX09INlN5dHZ3TTV4TnpLNkE4bnVLYTkzWll2YVZKaTFwVGFKckQxUjBLMUFWcS1jaVZfX0tCT1lGLWtKTDRqUGdOd1ZVTnlQUQ?oc=5",
-   "source": "Travels Dubai",
-   "kind": "search",
-   "published": "2026-10-14T11:32+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Infrastructure",
-   "impact": "High",
-   "impact_reason": "Significantly scales up long-term housing supply and infrastructure.",
-   "watch": false,
-   "headline": "Dubai unveils massive infrastructure and housing project pipeline",
-   "summary": "Dubai announced a $572 billion pipeline featuring 350,000 new homes, metro expansions, and major airport investments.",
-   "why": "Massive supply additions and infrastructure spending heavily shape future market dynamics and investor sentiment.",
-   "age_hours": 22.4,
-   "topic": "airport"
   },
   {
    "id": "fefa31a635e0",
@@ -73,27 +81,30 @@
    "headline": "Etihad Rail Sharjah announces new bus routes and schedules",
    "summary": "New connecting bus routes and timetables have been launched for the Al Dhaid Etihad Rail station.",
    "why": "Transport links impact regional accessibility and property attractiveness in surrounding areas.",
-   "age_hours": 20.7,
+   "age_hours": 22.5,
    "topic": "sharjah",
-   "more": 2
+   "more": 3
   },
   {
-   "id": "9ae60a8dc517",
-   "title": "With a growth of 5.6%.. 46.8 billion dirhams in Sharjah real estate trading",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQX1dsX1pTWEE2MU54TDFaem5vdXpMdGhoVTkyam84c1FUYzlVZW1fZUtRVXdCa29qYnVIU2puNUJ2TTBNaDlyWFBmZVlGZTUtdVZGUWlRLURwTWJWUV9ER0N2WkNYLVJZZVNRSGRsZVFOZVdlOTNXNzdJa3lNMzJsYldEdW13UlF3TlpMZ3o0dVpzbzRqU2hvOVVGRmZuSFdoT0VEWnRTZVhhLXJiWW9DZjF0SWFlbVpKS0VISmFSMzlqZU8tbjJJcnk4VzlwZWFZRmNaV0h6bm15YjVkU0E?oc=5",
-   "source": "\u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+   "id": "f83e5a60ecdf",
+   "title": "Sharjah real estate attracts 9,891 new investors in 9 months",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTWVXaHpjWnhIaXpCVU55dlJEbUllek9BcE1aR1h4R2VBYWs1WFZHa2hrOWJpT3dJYmlyZTZfVWdUUzViVFlSaWZJYjBuSGhPN0xPVVB1emlRTnRqTW9FZ294dUlUWGhTWkhxc0c1T252SFlzQTNsd3hNdHQ1elhTOS11UllOZGRFSk42WEF3?oc=5",
+   "source": "www.wam.ae",
    "kind": "search",
-   "published": "2026-10-14T13:56+04:00",
+   "published": "2026-10-14T15:03+04:00",
    "tags": [],
    "teaser": "",
    "category": "Supply & market reports",
    "impact": "Medium",
-   "impact_reason": "Demonstrates positive market liquidity and steady sector growth.",
+   "impact_reason": "Shows strong regional investor growth and demand.",
    "watch": true,
-   "headline": "Sharjah Real Estate Trading Reaches 46.8 Billion Dirhams",
-   "summary": "Trading in Sharjah property recorded a 5.6% growth rate, totaling 46.8 billion dirhams. This figure reflects ongoing activity and expansion in the local market.",
-   "why": "It provides official transaction volume figures showing sector growth.",
-   "age_hours": 20.0,
+   "also": [
+    "Sharjah24"
+   ],
+   "headline": "Sharjah Real Estate Attracts Thousands of New Investors",
+   "summary": "Sharjah's property sector welcomed nearly ten thousand new investors during the first nine months of the year. This demonstrates steady buyer interest in the emirate's growing real estate market.",
+   "why": "It highlights investment volume and demographic trends in a neighboring emirate.",
+   "age_hours": 20.7,
    "topic": "sharjah"
   },
   {
@@ -112,7 +123,7 @@
    "headline": "Al Satwa road upgrades reduce peak Dubai traffic queues",
    "summary": "RTA road improvements in Al Satwa have successfully reduced peak-hour traffic delays by up to 60 percent.",
    "why": "Better traffic flow enhances neighbourhood appeal and commuting times for Dubai residents.",
-   "age_hours": 11.5,
+   "age_hours": 13.3,
    "topic": "Infrastructure"
   },
   {
@@ -131,9 +142,8 @@
    "headline": "US Investors Increasingly Target Dubai Property for Global Exposure",
    "summary": "Investors from the United States are showing greater interest in Dubai real estate to diversify their portfolios internationally.",
    "why": "It highlights shifting buyer demographics and rising US capital inflows into Dubai.",
-   "age_hours": 12.1,
-   "topic": "Macro & geopolitics",
-   "more": 6
+   "age_hours": 13.9,
+   "topic": "Macro & geopolitics"
   },
   {
    "id": "a325a08968e0",
@@ -157,33 +167,8 @@
    "headline": "Aldar plans major villa and townhouse launch in Dubai",
    "summary": "Aldar Development will launch a new residential project near Dubai Silicon Oasis before the end of the year. This forms part of the developer's ongoing expansion strategy across the UAE market.",
    "why": "New large-scale developer projects increase inventory choices for buyers and investors.",
-   "age_hours": 13.3,
+   "age_hours": 15.1,
    "topic": "aldar"
-  },
-  {
-   "id": "f31764e490fb",
-   "title": "Dubai completes 104 real estate projects worth over $30.2 billion in H1 as investment value rises 52 percent",
-   "link": "https://economymiddleeast.com/news/dubai-completes-104-real-estate-projects-worth-over-30-2-billion-in-h1-as-investment-value-rises-52-percent/?utm_source=rss&utm_medium=rss&utm_campaign=dubai-completes-104-real-estate-projects-worth-over-30-2-billion-in-h1-as-investment-value-rises-52-percent",
-   "source": "Economy Middle East",
-   "kind": "outlet",
-   "published": "2026-10-14T18:52+04:00",
-   "tags": [
-    "Dubai",
-    "dubai real estate",
-    "investment",
-    "Property"
-   ],
-   "teaser": "Dubai completed 104 real estate projects with a combined investment value exceeding AED111 billion ($30.2 billion) during the first half of 2026, as the emirate\u2019s property sector continued expanding development activity, residential supply and investment capacity. Dubai Land Department highlighted the figures on Wednesday during its participation as a strategic government partner at RISE 2026 [\u2026] ",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Reflects substantial supply delivery and increased sector investment.",
-   "watch": false,
-   "headline": "Dubai Completes 104 Real Estate Projects Valued at $30.2 Billion",
-   "summary": "Dubai finished 104 real estate projects worth over AED111 billion in the first half of 2026. The Dubai Land Department noted that investment value surged by 52 percent alongside expanding residential supply.",
-   "why": "It reports major project completions and surging investment values during the first half of the year.",
-   "age_hours": 15.0,
-   "topic": "Supply & market reports",
-   "more": 2
   },
   {
    "id": "fe403bf73200",
@@ -201,15 +186,34 @@
    "headline": "Dubai Real Estate Projects Surge 52% to Dh100 Billion",
    "summary": "Dubai's real estate project values surged by 52 percent to reach Dh100 billion during the first half of 2026.",
    "why": "It provides official metrics on the sharp increase in project development values.",
-   "age_hours": 17.1,
+   "age_hours": 18.9,
    "topic": "Supply & market reports"
+  },
+  {
+   "id": "2c4a7a3a4154",
+   "title": "Dubai property investors turn to smaller offices as sales value slumps",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdnZvUEplMkFSaHgyRnFaejUyTnhRS19peEZDeHFwYmdCSTdGaF8xSFlULUM5aGJUaWlzSUdLekpoc0xlaU81SzhXRmhnZVdIaGZZVWFhZXgxZ0pRdm9IcnZXd3VXZTNXbHZJbi1YbG8temtLb2NjY1BFRTk5U1cxQWROQW55RkpKd3JKNE1GSlVPTExoLXBRX0w5ajRzNVB5alVaaHc0LXBoeFJrWGhiQWRBT1JORkU1TjR4V3JvOWw0UEQwWGV0bTVfaXR2VGhPVmFyNjJKMk1DbklfSzYw?oc=5",
+   "source": "TradingView",
+   "kind": "search",
+   "published": "2026-10-14T12:20+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Reflects changing commercial demand and falling transaction values.",
+   "watch": false,
+   "headline": "Dubai investors buy smaller offices amid sales drop",
+   "summary": "Buyers in the commercial sector are opting for compact office spaces as overall transaction values decline. This trend highlights a cautious approach to commercial real estate.",
+   "why": "It indicates a shift in commercial buyer demand.",
+   "age_hours": 23.4,
+   "topic": "Developer news"
   }
  ],
  "window_hours": 24,
- "count_relevant": 29,
- "count_fetched": 360,
+ "count_relevant": 27,
+ "count_fetched": 383,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-15T09:54+04:00",
- "saved_at": "2026-10-15T09:54+04:00"
+ "as_of": "2026-10-15T11:44+04:00",
+ "saved_at": "2026-10-15T11:44+04:00"
 }
