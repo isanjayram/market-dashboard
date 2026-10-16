@@ -577,6 +577,24 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Insufficient teaser details provided."
+  },
+  "ba4c66a6057a": {
+   "relevant": true,
+   "headline": "Etihad Rail Link Connects Commuters to Metro Quickly",
+   "summary": "A new rail connection allows passengers to reach the metro system within five minutes. This addition enhances overall public transportation access in the emirate.",
+   "why": "It improves regional connectivity and accessibility, which can positively influence local real estate values.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Improves local transport connectivity and accessibility."
+  },
+  "42ba8bc69ebe": {
+   "relevant": false,
+   "headline": "Missoni and Tomorrow World Properties Launch Dubai Islands Project",
+   "summary": "Tomorrow World Properties has partnered with Missoni to introduce a new branded residential concept on Dubai Islands.",
+   "why": "This is a developer launch and design partnership that does not significantly shift market dynamics.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Standard branded real estate launch."
   }
  }
 }
