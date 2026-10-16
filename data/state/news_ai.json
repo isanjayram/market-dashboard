@@ -550,6 +550,33 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Technology adoption improves long-term market efficiency."
+  },
+  "25b5036a0a38": {
+   "relevant": true,
+   "headline": "Sharjah hits $12.74 billion in property deals",
+   "summary": "Sharjah achieved AED46.8 billion in real estate transactions over nine months. Strong rental yields of up to 12 percent attracted nearly 10,000 new investors.",
+   "why": "This report highlights strong investor demand and high rental yields in a neighboring emirate.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Shows strong regional investor demand and high yields."
+  },
+  "a7c11c258936": {
+   "relevant": false,
+   "headline": "Emaar's Mohamed Alabbar speaks at Sharjah event",
+   "summary": "Emaar's Mohamed Alabbar spoke at the Sharjah Investment Forum.",
+   "why": "This is an industry commentary piece without specific real estate market data or policy changes.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Lacks specific project or market news."
+  },
+  "b76fddbd4a5a": {
+   "relevant": false,
+   "headline": "Samana plans Dhs4bn project on World Islands",
+   "summary": "Samana is betting on the World Islands with a massive Dhs4bn project.",
+   "why": "The teaser is empty and the title lacks enough specific market data or actionable news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Insufficient teaser details provided."
   }
  }
 }

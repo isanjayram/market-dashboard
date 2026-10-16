@@ -627,5 +627,38 @@
 "impact_reason": "General market context",
 "watch": false,
 "topic": "Macro & geopolitics"
+},
+{
+"id": "25b5036a0a38",
+"headline": "Sharjah hits $12.74 billion in property deals",
+"summary": "Sharjah achieved AED46.8 billion in real estate transactions over nine months. Strong rental yields of up to 12 percent attracted nearly 10,000 new investors.",
+"why": "This report highlights strong investor demand and high rental yields in a neighboring emirate.",
+"source": "Economy Middle East",
+"link": "https://economymiddleeast.com/news/sif-2026-sharjah-records-12-74-billion-in-property-deals-as-rental-yields-boost-investment-appeal/?utm_source=rss&utm_medium=rss&utm_campaign=sif-2026-sharjah-records-12-74-billion-in-property-deals-as-rental-yields-boost-investment-appeal",
+"published": "2026-10-16T12:42+04:00",
+"category": "Supply & market reports",
+"impact": "Medium",
+"impact_reason": "Shows strong regional investor demand and high yields.",
+"watch": true,
+"also": [
+"Emirates 24|7",
+"www.wam.ae"
+],
+"more": 4,
+"topic": "sharjah"
+},
+{
+"id": "42ba8bc69ebe",
+"headline": "Tomorrow World Properties and Missoni announce The Bay Interiors by Missoni on Dubai Islands",
+"summary": "",
+"why": "can move investor sentiment; expect questions about where the market is heading.",
+"source": "Zawya",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc1ZXVENpal95MEpSRVhLcXZoRkpSSW5DUlRtRjRGSk5VOWRVZlphcDlKeXNyRzdnMEVjaVBTRXBNZTBsZ084cTlhUUtNbzNPcUt1SW5HR2M2Q2ptMkN4SktnRHZBYjFBRXpZa1pmVFNpV3d2eEc3dWdlc19NRVpuNDROM0xHNzZleDI4cXVSOGkzb2JNa1ljTWxxdDB3dU56b0t5ZmlOTEVxZ1VXSWZWNU1jS1VMWjJvS0EzQXp6SHAyQS05NERTUTBXTFpsMjRmWmJNWEM0TE4xVXBIN3QybmZjb0l6enkyRWc?oc=5",
+"published": "2026-10-15T13:26+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": false,
+"topic": "Macro & geopolitics"
 }
 ]
