@@ -487,6 +487,42 @@
    "category": "Developer news",
    "impact": "Low",
    "impact_reason": "Focuses on UK residential development rather than UAE."
+  },
+  "db4fe89cb9ce": {
+   "relevant": true,
+   "headline": "Aldar plans major Dubai villa and townhouse launch",
+   "summary": "Aldar intends to introduce a large residential project featuring villas and townhouses before the year concludes. This release will add new inventory to the competitive villa sector.",
+   "why": "New large-scale community launches expand buyer choices and influence local neighborhood pricing.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Adds fresh inventory to the villa market."
+  },
+  "c62e51f0e09f": {
+   "relevant": true,
+   "headline": "Emaar reports decline in property cancellations",
+   "summary": "Cancellations at Emaar peaked at roughly 1,200 monthly amid regional tensions before dropping back below 600. Founder Mohamed Alabbar noted the stabilizing figures at a recent investment forum.",
+   "why": "Cancellation trends offer insight into buyer commitment and immediate market stability.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Reflects stabilizing buyer commitment after regional tensions."
+  },
+  "6ffa7b34f8be": {
+   "relevant": true,
+   "headline": "Samana invests Dhs4bn in World Islands project",
+   "summary": "Samana is committing four billion dirhams to a new development on Dubai's World Islands. This move signals renewed interest in expanding development across the archipelago.",
+   "why": "High-value investments in niche locations can stimulate broader interest in unique island properties.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Highlights niche development activity in the emirate."
+  },
+  "8198a77fcb19": {
+   "relevant": true,
+   "headline": "Alabbar expresses confidence in Dubai property recovery",
+   "summary": "Emaar founder Mohamed Alabbar remains strongly optimistic about the ongoing resilience of the local real estate sector. His comments highlight continued robust demand across the market.",
+   "why": "Public statements from major industry figures shape investor sentiment and confidence.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Boosts overall sentiment regarding market recovery."
   }
  }
 }

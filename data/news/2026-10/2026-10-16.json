@@ -492,5 +492,79 @@
 "impact_reason": "General market context",
 "watch": false,
 "topic": "Regulation & fees"
+},
+{
+"id": "db4fe89cb9ce",
+"headline": "Aldar plans major Dubai villa and townhouse launch",
+"summary": "Aldar intends to introduce a large residential project featuring villas and townhouses before the year concludes. This release will add new inventory to the competitive villa sector.",
+"why": "New large-scale community launches expand buyer choices and influence local neighborhood pricing.",
+"source": "The National",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTmFVai1wQm1vaU9OTmFzU0pxaUt4MkJ1WDhkSU9JRXMxMGlsYS1DUzE3d08wQ0JGRmN0d01kYllhVXJmSndjOE9pTUlhdnJIbm55TF9tblR3TFFLeWN4Y210NHg4SzdDeUlCQjB2ek5LOFpWbkdhSWx3THoyeEdhUy1GLXFVWUxaZlN0eTZCTzkyM0p0MUd6SkRpU1RUWEpmM0tMUWllbzM5ZTgxOG9iMmxEanNvY2lLZGswV2N6THBOTC1iYnBhUEw5dW4?oc=5",
+"published": "2026-10-14T20:43+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Adds fresh inventory to the villa market.",
+"watch": false,
+"also": [
+"The National (property)"
+],
+"topic": "aldar"
+},
+{
+"id": "c62e51f0e09f",
+"headline": "Emaar reports decline in property cancellations",
+"summary": "Cancellations at Emaar peaked at roughly 1,200 monthly amid regional tensions before dropping back below 600. Founder Mohamed Alabbar noted the stabilizing figures at a recent investment forum.",
+"why": "Cancellation trends offer insight into buyer commitment and immediate market stability.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/business/we-are-still-collecting-exactly-like-before-emaar-cancellations-halve-now-says-alabbar",
+"published": "2026-10-15T19:05+04:00",
+"category": "Developer news",
+"impact": "Low",
+"impact_reason": "Reflects stabilizing buyer commitment after regional tensions.",
+"watch": true,
+"topic": "Developer news"
+},
+{
+"id": "6ffa7b34f8be",
+"headline": "Samana invests Dhs4bn in World Islands project",
+"summary": "Samana is committing four billion dirhams to a new development on Dubai's World Islands. This move signals renewed interest in expanding development across the archipelago.",
+"why": "High-value investments in niche locations can stimulate broader interest in unique island properties.",
+"source": "Gulf Business",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVEJaaW5uZEZZdzRpUWlPaUpyd1NZWFN3Wl9Oak1yWC00NGRRVmFoZnJNVlg5U0dKRGF2YnNuaF9PNktrTU9nNEFudTVrWndneEdMSC02WGw3Qk1NYk56dUZ0QlNOQ0FvcWkzTkk4R0MzcnZMeFZMMXBlb0szMnlRZVFFQUtSdkIzM05jcg?oc=5",
+"published": "2026-10-16T10:39+04:00",
+"category": "Developer news",
+"impact": "Low",
+"impact_reason": "Highlights niche development activity in the emirate.",
+"watch": false,
+"topic": "Developer news"
+},
+{
+"id": "8198a77fcb19",
+"headline": "Alabbar expresses confidence in Dubai property recovery",
+"summary": "Emaar founder Mohamed Alabbar remains strongly optimistic about the ongoing resilience of the local real estate sector. His comments highlight continued robust demand across the market.",
+"why": "Public statements from major industry figures shape investor sentiment and confidence.",
+"source": "CNBC",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUNsYzVIMEE4cXZHVmJjUUUwNUpzV1RlMlQ1TTY5VDFHQVA5X3lkTGU2Y2dTM3Z6WVpSQzB2NXZjay1hTmVvbVd6c1JFT2N3MWxzOFB6QVdkUk1Oa2xHanRVSzh1V2ZyMVFFS2xYUmJMWTF3aVBVVHV3Y2ZDcWJialhBREZqekNjcC1mVG1UQkRSNGZZeTloaGRzbF9yRDd1SnVMV1hLaHIxVi1OanJWMw?oc=5",
+"published": "2026-10-16T10:37+04:00",
+"category": "Developer news",
+"impact": "Low",
+"impact_reason": "Boosts overall sentiment regarding market recovery.",
+"watch": false,
+"more": 1,
+"topic": "emaar"
+},
+{
+"id": "220474b0eabd",
+"headline": "Aldar's international unit plans to deliver 9,000 homes in next five years",
+"summary": "",
+"why": "new launches or results change the options and prices you can offer clients.",
+"source": "The National (property)",
+"link": "https://www.thenationalnews.com/business/property/2026/10/14/aldar-international-unit-plans-to-deliver-9000-homes-in-next-five-years/",
+"published": "2026-10-14T14:27+04:00",
+"category": "Developer news",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": false,
+"topic": "aldar"
 }
 ]

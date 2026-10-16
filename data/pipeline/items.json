@@ -855,5 +855,54 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"29223642a0dc": {
+"id": "29223642a0dc",
+"title": "Sharjah RTA Links Bus Routes to Etihad Rail",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdmdudERDOENudVVJcG1GdXJwZjlvN3ZRZE5oZTJ5TVRMSU9yNmx6LU1pZnUwLUZob293NkRBcnhrVDItOFo1alM0SGZscUFQXzAwYkVyS0tSNVVmbllrRDQ3ZzQ2QS1Zbko2X2J5aG5reGxZSktKS0MxNjltY2wzNWxXSERCM3JHRG5zYjNJTmZ5QQ?oc=5",
+"source": "NewzTodays",
+"category": "Infrastructure",
+"published": "2026-10-15T15:00+04:00",
+"first_seen": "2026-10-16",
+"kind": "Infrastructure",
+"region": "Sharjah",
+"catalyst": {
+"name": "Etihad Rail passenger stations",
+"status": "Al Yalayis (Dubai) and Al Dhaid (Sharjah) open 30 Sep 2026",
+"source": "Gulf News",
+"url": "https://gulfnews.com/uae/dubai/etihad-rail-is-coming-to-dubai-what-changes-when-al-yalayis-station-opens-september-30-1.500679227"
+},
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"db4fe89cb9ce": {
+"id": "db4fe89cb9ce",
+"title": "Aldar plans major Dubai villa and townhouse launch",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTmFVai1wQm1vaU9OTmFzU0pxaUt4MkJ1WDhkSU9JRXMxMGlsYS1DUzE3d08wQ0JGRmN0d01kYllhVXJmSndjOE9pTUlhdnJIbm55TF9tblR3TFFLeWN4Y210NHg4SzdDeUlCQjB2ek5LOFpWbkdhSWx3THoyeEdhUy1GLXFVWUxaZlN0eTZCTzkyM0p0MUd6SkRpU1RUWEpmM0tMUWllbzM5ZTgxOG9iMmxEanNvY2lLZGswV2N6THBOTC1iYnBhUEw5dW4?oc=5",
+"source": "The National",
+"category": "Developer news",
+"published": "2026-10-14T20:43+04:00",
+"first_seen": "2026-10-16",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": "Aldar",
+"location": "Dubai",
+"type": "villa and townhouse",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

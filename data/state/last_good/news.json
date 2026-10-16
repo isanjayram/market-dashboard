@@ -16,7 +16,7 @@
    "headline": "Dubai Rent Trends Show Divergence for New and Renewing Tenants",
    "summary": "Data indicates that rental rates are dropping for incoming tenants. Conversely, renewals are experiencing increases.",
    "why": "Rental market shifts directly impact tenant behavior and investor returns.",
-   "age_hours": 6.7,
+   "age_hours": 8.4,
    "topic": "rents"
   },
   {
@@ -35,7 +35,7 @@
    "headline": "Guide to UAE Golden Visa Nomination Letters",
    "summary": "Learn about the ICP nomination letter process for the UAE Golden Visa. This document is essential for specific applicant categories seeking long-term residency.",
    "why": "It directly affects residency rules and long-term investor planning in the UAE.",
-   "age_hours": 22.1,
+   "age_hours": 23.8,
    "topic": "golden visa"
   },
   {
@@ -59,7 +59,7 @@
    "headline": "Aldar Enters Sharjah Market with Major Acquisition",
    "summary": "Aldar has expanded its footprint into Sharjah through a major investment. The company secured multiple residential assets in the emirate.",
    "why": "Major developer expansion signals confidence in the broader UAE property market.",
-   "age_hours": 19.4,
+   "age_hours": 21.1,
    "topic": "sharjah",
    "more": 6
   },
@@ -79,7 +79,7 @@
    "headline": "New transport links improve access to Etihad Rail stations",
    "summary": "A new Dubai footbridge and three Sharjah bus routes now connect commuters to Etihad Rail. These transit improvements facilitate smoother travel between metro and rail networks.",
    "why": "infrastructure can shift which areas buyers favour over time (analysis, not a forecast).",
-   "age_hours": 20.6,
+   "age_hours": 22.3,
    "topic": "sharjah"
   },
   {
@@ -98,9 +98,9 @@
    "headline": "World Islands Welcomes New $1.1B Project with 840 Homes",
    "summary": "A massive $1.1 billion project is coming to the Dubai World Islands. It includes 840 residential properties, floating villas, and dedicated yacht transport.",
    "why": "New mega-projects expand luxury housing inventory in coastal areas.",
-   "age_hours": 11.2,
+   "age_hours": 12.9,
    "topic": "Developer news",
-   "more": 1
+   "more": 3
   },
   {
    "id": "3273d3049b55",
@@ -122,7 +122,7 @@
    "headline": "Dubai Property Transactions Reach Dh2.8 Billion Across 744 Deals",
    "summary": "Daily market activity hit Dh2.8 billion from 744 transactions. A Sobha Hartland land mortgage led the figures at Dh172 million.",
    "why": "Daily transaction data reflects ongoing liquidity and investor confidence.",
-   "age_hours": 12.2,
+   "age_hours": 13.9,
    "topic": "sobha"
   },
   {
@@ -141,7 +141,7 @@
    "headline": "Gargash Prime and JD Property Invest Dh500m in Dubai Logistics",
    "summary": "Gargash Prime and JD Property are teaming up to invest over Dh500m. They are building a new logistics facility in Dubai.",
    "why": "Industrial real estate investments strengthen the city's commercial infrastructure.",
-   "age_hours": 16.8,
+   "age_hours": 18.5,
    "topic": "Infrastructure"
   },
   {
@@ -160,7 +160,7 @@
    "headline": "Gargash and JINGDONG Plan Massive 2.5 Million Sq Ft Logistics Hub",
    "summary": "Gargash Prime and JINGDONG Property have unveiled plans for a sprawling logistics hub. The facility will span 2.5 million square feet in Dubai.",
    "why": "Large-scale commercial developments boost industrial property supply.",
-   "age_hours": 17.6,
+   "age_hours": 19.3,
    "topic": "Infrastructure"
   },
   {
@@ -179,7 +179,7 @@
    "headline": "Dubai Ready-Home Sales Rise by 16 Percent",
    "summary": "Completed property transactions in Dubai grew significantly as purchasers moved away from off-plan purchases. This trend highlights a shifting preference towards immediate occupancy.",
    "why": "It shows a clear shift in buyer demand toward completed real estate.",
-   "age_hours": 19.1,
+   "age_hours": 20.8,
    "topic": "Developer news"
   },
   {
@@ -198,15 +198,15 @@
    "headline": "UAE Announces Eligible Universities for Golden Visas",
    "summary": "Authorities released a list of one hundred approved universities for the Golden Visa program. Notable exclusions and inclusions feature prominently in the announcement.",
    "why": "It impacts student residency eligibility and academic property demand.",
-   "age_hours": 14.6,
+   "age_hours": 16.3,
    "topic": "golden visa"
   }
  ],
  "window_hours": 24,
- "count_relevant": 33,
- "count_fetched": 359,
+ "count_relevant": 36,
+ "count_fetched": 397,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-16T09:50+04:00",
- "saved_at": "2026-10-16T09:50+04:00"
+ "as_of": "2026-10-16T11:32+04:00",
+ "saved_at": "2026-10-16T11:32+04:00"
 }
