@@ -595,6 +595,78 @@
    "category": "Developer news",
    "impact": "Low",
    "impact_reason": "Standard branded real estate launch."
+  },
+  "3fdd97a06e63": {
+   "relevant": true,
+   "headline": "New Etihad Rail Link Connects Directly to Dubai Metro",
+   "summary": "A fresh pedestrian link allows commuters to travel between Etihad Rail and the metro within minutes. This integration improves transit convenience for residents.",
+   "why": "It improves local transit connectivity, making nearby properties more attractive to commuters.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Improves local transport connectivity and accessibility."
+  },
+  "0170f7fd0c38": {
+   "relevant": true,
+   "headline": "Etihad Rail and Metro Pedestrian Bridge Opens in Dubai",
+   "summary": "A newly opened walkway joins Al Yalayis Station directly to Jumeirah Golf Estates Metro Station. Travelers can now complete the transfer in just five minutes.",
+   "why": "Better transit links boost the appeal of surrounding real estate developments.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Enhances neighborhood accessibility and commuter convenience."
+  },
+  "34bafb8a286e": {
+   "relevant": true,
+   "headline": "Abu Dhabi Details Seven Foreigner Categories for Golden Visa",
+   "summary": "Authorities have outlined the specific groups of international applicants who qualify for the ten-year residency permit. This clarifies pathways for long-term residency through property and investment.",
+   "why": "Residency rules directly influence buyer demand and foreign investment in UAE property.",
+   "category": "Regulation & fees",
+   "impact": "High",
+   "impact_reason": "Clarifies residency eligibility, driving investor interest."
+  },
+  "f828c02ad15c": {
+   "relevant": true,
+   "headline": "Aldar Enters Sharjah Market Through $300M Arada Partnership",
+   "summary": "The developer has partnered with Arada to acquire residential units in Sharjah for $300 million. This marks Aldar's official entry into the Sharjah property sector.",
+   "why": "Major developer expansion highlights shifting regional investment patterns.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Signals major developer expansion into new regional markets."
+  },
+  "603ed9938036": {
+   "relevant": true,
+   "headline": "Sharjah Property Sector Attracts Nearly 10,000 New Investors",
+   "summary": "The emirate's real estate market experienced a notable rise in participation, drawing in thousands of fresh buyers. This points to growing confidence in regional property assets.",
+   "why": "Investor growth figures provide crucial context on regional market demand.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects broad investor interest in regional markets."
+  },
+  "17fd3de1675a": {
+   "relevant": true,
+   "headline": "Aldar Finalizes $300M Residential Deal with Arada in Sharjah",
+   "summary": "The developer secured a multi-million dollar agreement to purchase premium homes in Sharjah. The transaction establishes the firm's footprint outside its traditional markets.",
+   "why": "Cross-emirate developer deals impact market dynamics and housing supply perception.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Highlights strategic developer investments across emirates."
+  },
+  "092b9d43b090": {
+   "relevant": true,
+   "headline": "Aldar Expands Into Sharjah With Dh1.1 Billion Aljada Purchase",
+   "summary": "The firm acquired over 1,100 residential properties within the Aljada development. This substantial transaction marks the company's debut in Sharjah real estate.",
+   "why": "Large-scale acquisitions by major developers signal strong confidence in upcoming communities.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Demonstrates major developer confidence in new master communities."
+  },
+  "e37bcf709d1b": {
+   "relevant": false,
+   "headline": "Suryakumar Yadav Buys Luxury Dubai Property",
+   "summary": "A well-known cricketer has purchased a high-end Dubai residence. Celebrity property acquisitions occasionally draw attention to luxury developments.",
+   "why": "Celebrity real estate purchases do not significantly impact broader market trends.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Celebrity lifestyle purchase with no market impact."
   }
  }
 }

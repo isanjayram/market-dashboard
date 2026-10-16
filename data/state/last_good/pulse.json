@@ -1,289 +1,289 @@
 {
  "pulse": {
-  "as_of": "2026-10-13",
+  "as_of": "2026-10-14",
   "partial_day": null,
   "kpi": {
-   "deals": 523,
-   "value": 1444581497.0,
-   "offplan": 371,
-   "ready": 152,
-   "offplan_share": 70.9,
-   "residential": 453,
-   "land": 37,
-   "buildings": 1,
-   "median_psf": 1689,
-   "avg_psf": 1928
+   "deals": 606,
+   "value": 1489260375.0,
+   "offplan": 427,
+   "ready": 179,
+   "offplan_share": 70.5,
+   "residential": 544,
+   "land": 26,
+   "buildings": 2,
+   "median_psf": 1676,
+   "avg_psf": 1794
   },
   "compare": {
-   "weekday": "Tuesday",
+   "weekday": "Wednesday",
    "deals": {
-    "wd": 12.5,
-    "wd_avg": 465,
-    "d7": 4.4,
-    "d30": -1.2,
-    "yoy": -42.8,
-    "avg7": 501,
-    "avg30": 529.2380952380952,
-    "tw_avg": 508.4,
-    "ly_avg": 889.2
+    "wd": 34.9,
+    "wd_avg": 449.25,
+    "d7": 19.7,
+    "d30": 14.7,
+    "yoy": -41.0,
+    "avg7": 506.4,
+    "avg30": 528.4090909090909,
+    "tw_avg": 535.6,
+    "ly_avg": 907.2
    },
    "value": {
-    "wd": 16.6,
-    "d7": -0.8,
-    "d30": 0.9,
-    "yoy": -34.9
+    "wd": 18.9,
+    "d7": 3.8,
+    "d30": 4.1,
+    "yoy": -37.0
    },
    "psf": {
-    "d7": 0.7,
-    "d30": 2.5,
-    "yoy": -0.2
+    "d7": -0.0,
+    "d30": 1.6,
+    "yoy": -1.0
    },
-   "offplan_share_7d": 61.2
+   "offplan_share_7d": 63.5
   },
   "top_volume": [
    {
-    "area": "JVC",
-    "dld_area": "Al Barsha South Fourth",
-    "deals": 192,
-    "value": 243252409.0
-   },
-   {
     "area": "Dubai South (DWC)",
     "dld_area": "Madinat Al Mataar",
-    "deals": 191,
-    "value": 232215686.0
+    "deals": 288,
+    "value": 401505538.0
+   },
+   {
+    "area": "JVC",
+    "dld_area": "Al Barsha South Fourth",
+    "deals": 204,
+    "value": 260142679.0
    },
    {
     "area": "Downtown Jebel Ali",
     "dld_area": "Jabal Ali Industrial Second",
-    "deals": 151,
-    "value": 190183193.0
+    "deals": 150,
+    "value": 191014540.0
    },
    {
     "area": "Majan",
     "dld_area": "Wadi Al Safa 3",
-    "deals": 133,
-    "value": 310441611.0
-   },
-   {
-    "area": "DAMAC Lagoons",
-    "dld_area": "Al Hebiah Fifth",
-    "deals": 114,
-    "value": 212596421.0
+    "deals": 140,
+    "value": 344183239.0
    },
    {
     "area": "Dubai Land Residence",
     "dld_area": "Wadi Al Safa 5",
-    "deals": 101,
-    "value": 177477214.0
+    "deals": 113,
+    "value": 197756753.0
+   },
+   {
+    "area": "DAMAC Lagoons",
+    "dld_area": "Al Hebiah Fifth",
+    "deals": 110,
+    "value": 211073601.0
    },
    {
     "area": "Business Bay",
     "dld_area": "Business Bay",
-    "deals": 90,
-    "value": 348725203.0
+    "deals": 92,
+    "value": 384933453.0
    },
    {
     "area": "Jabal Ali First",
     "dld_area": "Jabal Ali First",
-    "deals": 82,
-    "value": 163564580.0
+    "deals": 89,
+    "value": 183925803.0
    },
    {
     "area": "Motor City",
     "dld_area": "Al Hebiah First",
-    "deals": 79,
-    "value": 128610694.0
+    "deals": 73,
+    "value": 106129649.0
    },
    {
-    "area": "Arjan",
-    "dld_area": "Al Barshaa South Third",
-    "deals": 63,
-    "value": 66461881.0
+    "area": "Dubai Creek Harbour",
+    "dld_area": "Al Khairan First",
+    "deals": 71,
+    "value": 207427041.0
    }
   ],
   "top_value": [
    {
-    "area": "Dubai Hills Estate",
-    "dld_area": "Hadaeq Sheikh Mohammed Bin Rashid",
-    "deals": 35,
-    "value": 473894804.0
+    "area": "Dubai South (DWC)",
+    "dld_area": "Madinat Al Mataar",
+    "deals": 288,
+    "value": 401505538.0
    },
    {
-    "area": "Palm Jabal Ali",
-    "dld_area": "Palm Jabal Ali",
-    "deals": 12,
-    "value": 350594000.0
+    "area": "Business Bay",
+    "dld_area": "Business Bay",
+    "deals": 92,
+    "value": 384933453.0
+   },
+   {
+    "area": "Majan",
+    "dld_area": "Wadi Al Safa 3",
+    "deals": 140,
+    "value": 344183239.0
+   },
+   {
+    "area": "Dubai Hills Estate",
+    "dld_area": "Hadaeq Sheikh Mohammed Bin Rashid",
+    "deals": 29,
+    "value": 317829916.0
+   },
+   {
+    "area": "Production City (IMPZ)",
+    "dld_area": "Me'Aisem First",
+    "deals": 52,
+    "value": 302601309.0
    },
    {
     "area": "Palm Jumeirah",
     "dld_area": "Palm Jumeirah",
     "deals": 24,
-    "value": 349863070.0
-   },
-   {
-    "area": "Business Bay",
-    "dld_area": "Business Bay",
-    "deals": 90,
-    "value": 348725203.0
-   },
-   {
-    "area": "Production City (IMPZ)",
-    "dld_area": "Me'Aisem First",
-    "deals": 61,
-    "value": 320917540.0
-   },
-   {
-    "area": "Majan",
-    "dld_area": "Wadi Al Safa 3",
-    "deals": 133,
-    "value": 310441611.0
-   },
-   {
-    "area": "Al Rowaiyah First",
-    "dld_area": "Al Rowaiyah First",
-    "deals": 54,
-    "value": 254151454.0
+    "value": 291383070.0
    },
    {
     "area": "JVC",
     "dld_area": "Al Barsha South Fourth",
-    "deals": 192,
-    "value": 243252409.0
-   },
-   {
-    "area": "Dubai South (DWC)",
-    "dld_area": "Madinat Al Mataar",
-    "deals": 191,
-    "value": 232215686.0
+    "deals": 204,
+    "value": 260142679.0
    },
    {
     "area": "Dubai Marina",
     "dld_area": "Marsa Dubai",
     "deals": 56,
-    "value": 228907287.0
+    "value": 258464247.0
+   },
+   {
+    "area": "DAMAC Lagoons",
+    "dld_area": "Al Hebiah Fifth",
+    "deals": 110,
+    "value": 211073601.0
+   },
+   {
+    "area": "Dubai Maritime City",
+    "dld_area": "Madinat Dubai Almelaheyah",
+    "deals": 42,
+    "value": 210004494.0
    }
   ],
   "largest": [
    {
-    "worth": 49484953.0,
-    "area": "Majan",
-    "type": "6BR villa",
-    "reg": "off-plan",
-    "project": "Amis & Gpd Presents Fleur De Jardin Villas",
-    "sqft": 9270
+    "worth": 21750000.0,
+    "area": "Dubai Marina",
+    "type": "4BR apartment",
+    "reg": "ready",
+    "project": "Sensoria At Five Luxe",
+    "sqft": 4022
    },
    {
-    "worth": 18864000.0,
-    "area": "Palm Jabal Ali",
-    "type": "5BR apartment",
+    "worth": 19500000.0,
+    "area": "Business Bay",
+    "type": "2BR apartment",
     "reg": "off-plan",
-    "project": "Palm Central Private Residences - Frond N",
-    "sqft": 5041
+    "project": "Bugatti Residences By Binghatti",
+    "sqft": 2002
    },
    {
-    "worth": 18250000.0,
+    "worth": 19300000.0,
+    "area": "Palm Jumeirah",
+    "type": "4BR apartment",
+    "reg": "ready",
+    "project": "Serenia Living",
+    "sqft": 4461
+   },
+   {
+    "worth": 16500000.0,
     "area": "Arabian Ranches - 1",
     "type": "Villa",
     "reg": "ready",
     "project": null,
-    "sqft": 10861
+    "sqft": 10727
    },
    {
-    "worth": 16710000.0,
-    "area": "Dubai Land Residence",
-    "type": "Villa",
-    "reg": "ready",
-    "project": "The Villa",
-    "sqft": 11769
-   },
-   {
-    "worth": 15200000.0,
-    "area": "Site A",
+    "worth": 12100000.0,
+    "area": "Palm Jumeirah",
     "type": "3BR apartment",
-    "reg": "off-plan",
-    "project": "Cavalli Casa Tower",
-    "sqft": 4858
+    "reg": "ready",
+    "project": "Serenia Living",
+    "sqft": 2428
    }
   ],
   "largest_land": {
-   "worth": 96000000.0,
-   "area": "Dubai Maritime City",
+   "worth": 31765000.0,
+   "area": "Palm Jabal Ali",
    "type": "Land"
   },
   "watch": [
    {
     "name": "Downtown Dubai",
     "note": null,
-    "deals30": 180,
-    "value30": 857965243.0,
-    "offplan_share": 17,
-    "median_psf": 2653,
-    "d30": -2.2,
-    "d90": 4.1,
+    "deals30": 172,
+    "value30": 845229470.0,
+    "offplan_share": 18,
+    "median_psf": 2743,
+    "d30": 2.7,
+    "d90": 7.4,
     "sample": {
-     "now": 154,
-     "prev30": 126,
-     "prev90": 152
+     "now": 146,
+     "prev30": 141,
+     "prev90": 155
     }
    },
    {
     "name": "Business Bay",
     "note": null,
-    "deals30": 412,
-    "value30": 1571027817.0,
+    "deals30": 416,
+    "value30": 1556762667.0,
     "offplan_share": 34,
-    "median_psf": 2069,
-    "d30": -6.2,
+    "median_psf": 2030,
+    "d30": -7.9,
     "d90": -7.1,
     "sample": {
-     "now": 301,
-     "prev30": 305,
-     "prev90": 309
+     "now": 307,
+     "prev30": 311,
+     "prev90": 314
     }
    },
    {
     "name": "Dubai Marina",
     "note": null,
-    "deals30": 211,
-    "value30": 831941775.0,
-    "offplan_share": 16,
-    "median_psf": 2152,
-    "d30": -7.1,
-    "d90": -0.7,
+    "deals30": 212,
+    "value30": 857292077.0,
+    "offplan_share": 17,
+    "median_psf": 2170,
+    "d30": -6.3,
+    "d90": -3.1,
     "sample": {
-     "now": 191,
-     "prev30": 176,
-     "prev90": 222
+     "now": 192,
+     "prev30": 188,
+     "prev90": 219
     }
    },
    {
     "name": "JBR",
     "note": null,
-    "deals30": 44,
-    "value30": 146608203.0,
+    "deals30": 46,
+    "value30": 150783203.0,
     "offplan_share": 0,
-    "median_psf": 1677,
-    "d30": 15.7,
-    "d90": 3.9,
+    "median_psf": 1625,
+    "d30": 12.1,
+    "d90": -1.7,
     "sample": {
-     "now": 41,
+     "now": 43,
      "prev30": 33,
-     "prev90": 31
+     "prev90": 30
     }
    },
    {
     "name": "Palm Jumeirah",
     "note": null,
-    "deals30": 79,
-    "value30": 1131158547.0,
+    "deals30": 81,
+    "value30": 1140908547.0,
     "offplan_share": 20,
     "median_psf": 2928,
-    "d30": 19.7,
-    "d90": -16.9,
+    "d30": 19.1,
+    "d90": -17.9,
     "sample": {
-     "now": 68,
-     "prev30": 48,
+     "now": 70,
+     "prev30": 51,
      "prev90": 82
     }
    },
@@ -291,133 +291,132 @@
     "name": "Dubai Hills Estate",
     "note": null,
     "deals30": 144,
-    "value30": 1015329137.0,
+    "value30": 923350933.0,
     "offplan_share": 23,
-    "median_psf": 2222,
-    "d30": -4.0,
-    "d90": 0.2,
+    "median_psf": 2225,
+    "d30": -3.6,
+    "d90": 0.0,
     "sample": {
      "now": 127,
-     "prev30": 168,
-     "prev90": 134
+     "prev30": 170,
+     "prev90": 133
     }
    },
    {
     "name": "JVC",
     "note": null,
-    "deals30": 861,
-    "value30": 1305167342.0,
+    "deals30": 827,
+    "value30": 1275963719.0,
     "offplan_share": 54,
-    "median_psf": 1433,
-    "d30": 1.9,
-    "d90": -0.5,
+    "median_psf": 1427,
+    "d30": 1.5,
+    "d90": -0.9,
     "sample": {
-     "now": 830,
-     "prev30": 678,
-     "prev90": 743
+     "now": 796,
+     "prev30": 745,
+     "prev90": 740
     }
    },
    {
     "name": "Arabian Ranches",
     "note": null,
-    "deals30": 69,
-    "value30": 417726949.0,
-    "offplan_share": 9,
-    "median_psf": 1566,
-    "d30": -1.4,
-    "d90": 3.0,
+    "deals30": 72,
+    "value30": 445876949.0,
+    "offplan_share": 8,
+    "median_psf": 1576,
+    "d30": -0.6,
+    "d90": 3.4,
     "sample": {
-     "now": 61,
-     "prev30": 55,
-     "prev90": 57
+     "now": 62,
+     "prev30": 57,
+     "prev90": 58
     }
    },
    {
     "name": "Dubai South",
     "note": "Includes Expo City and Emaar South",
-    "deals30": 747,
-    "value30": 1045142299.0,
+    "deals30": 789,
+    "value30": 1136845803.0,
     "offplan_share": 90,
     "median_psf": 1610,
     "d30": -5.7,
-    "d90": -5.6,
+    "d90": -5.8,
     "sample": {
-     "now": 735,
-     "prev30": 1511,
-     "prev90": 2643
+     "now": 779,
+     "prev30": 1578,
+     "prev90": 2713
     }
    },
    {
     "name": "Dubai Creek Harbour",
     "note": null,
     "deals30": 287,
-    "value30": 826384935.0,
-    "offplan_share": 67,
-    "median_psf": 2504,
-    "d30": -3.0,
+    "value30": 836136013.0,
+    "offplan_share": 66,
+    "median_psf": 2502,
+    "d30": -3.1,
     "d90": 6.8,
     "sample": {
      "now": 281,
-     "prev30": 334,
-     "prev90": 214
+     "prev30": 355,
+     "prev90": 210
     }
    },
    {
     "name": "MBR City",
     "note": "Meydan One, Sobha Hartland, District One",
-    "deals30": 226,
-    "value30": 453643618.0,
-    "offplan_share": 19,
-    "median_psf": 1972,
-    "d30": 1.3,
-    "d90": -5.8,
+    "deals30": 219,
+    "value30": 441701759.0,
+    "offplan_share": 21,
+    "median_psf": 1979,
+    "d30": 2.2,
+    "d90": -4.5,
     "sample": {
-     "now": 213,
-     "prev30": 167,
-     "prev90": 222
+     "now": 206,
+     "prev30": 181,
+     "prev90": 228
     }
    }
   ],
   "rising": [
    {
+    "area": "Downtown Dubai",
+    "dld_area": "Burj Khalifa",
+    "d90": 11.6,
+    "deals30": 115,
+    "median_psf": 2481
+   },
+   {
     "area": "International City Phase 1",
     "dld_area": "Al Warsan First",
-    "d90": 10.7,
-    "deals30": 113,
-    "median_psf": 681
+    "d90": 9.8,
+    "deals30": 114,
+    "median_psf": 675
    },
    {
     "area": "Palm Jumeirah",
     "dld_area": "Palm Jumeirah",
-    "d90": 10.7,
-    "deals30": 52,
+    "d90": 7.8,
+    "deals30": 54,
     "median_psf": 2680
-   },
-   {
-    "area": "Downtown Dubai",
-    "dld_area": "Burj Khalifa",
-    "d90": 9.9,
-    "deals30": 123,
-    "median_psf": 2445
-   },
-   {
-    "area": "Production City (IMPZ)",
-    "dld_area": "Me'Aisem First",
-    "d90": 5.4,
-    "deals30": 78,
-    "median_psf": 1028
    },
    {
     "area": "Arjan",
     "dld_area": "Al Barshaa South Third",
-    "d90": 4.2,
-    "deals30": 90,
-    "median_psf": 1377
+    "d90": 4.0,
+    "deals30": 89,
+    "median_psf": 1373
+   },
+   {
+    "area": "Dubai South (DWC)",
+    "dld_area": "Madinat Al Mataar",
+    "d90": 2.5,
+    "deals30": 69,
+    "median_psf": 1102
    }
   ],
   "trend": {
    "days": [
-    "2025-10-07",
     "2025-10-08",
     "2025-10-09",
     "2025-10-10",
@@ -676,10 +675,10 @@
     "2026-10-08",
     "2026-10-09",
     "2026-10-12",
-    "2026-10-13"
+    "2026-10-13",
+    "2026-10-14"
    ],
    "deals": [
-    769,
     883,
     812,
     700,
@@ -687,7 +686,7 @@
     847,
     973,
     757,
-    481,
+    480,
     1013,
     863,
     835,
@@ -798,7 +797,7 @@
     559,
     780,
     726,
-    630,
+    629,
     328,
     886,
     920,
@@ -821,7 +820,7 @@
     626,
     439,
     871,
-    551,
+    550,
     525,
     514,
     448,
@@ -927,21 +926,21 @@
     468,
     481,
     369,
-    626,
+    625,
     501,
     496,
     405,
     831,
-    907,
+    906,
     486,
-    461,
+    460,
     473,
     335,
-    750,
-    523
+    747,
+    517,
+    606
    ],
    "value": [
-    2764714999,
     2110944537,
     2168713893,
     1720803320,
@@ -949,7 +948,7 @@
     1967187963,
     2464773237,
     2185691608,
-    1053098030,
+    1052016030,
     3716623636,
     2011231495,
     2342448509,
@@ -1060,7 +1059,7 @@
     1773830145,
     2113421965,
     2314769159,
-    2762312597,
+    2761260947,
     926168422,
     2637601450,
     2245618294,
@@ -1083,7 +1082,7 @@
     2136393667,
     1992764072,
     3932863789,
-    1773736850,
+    1772986175,
     1495723244,
     1978796957,
     1429149949,
@@ -1189,33 +1188,33 @@
     1272484269,
     1225061550,
     998051168,
-    1562553203,
+    1560218203,
     1315332665,
     1143000340,
     1028341467,
     2448340758,
-    2377238690,
+    2374318234,
     1527125242,
-    1471318966,
+    1469520599,
     1324396047,
     920971647,
-    2034055412,
-    1444581497
+    2019818289,
+    1437455503,
+    1489260375
    ],
    "avg": [
-    769,
-    826,
-    821,
-    791,
-    874,
-    869,
-    884,
+    883,
+    848,
+    798,
+    900,
+    889,
+    903,
     882,
     825,
-    854,
+    853,
     877,
     824,
-    806,
+    805,
     745,
     813,
     868,
@@ -1327,7 +1326,7 @@
     591,
     690,
     709,
-    711,
+    710,
     665,
     695,
     750,
@@ -1345,7 +1344,7 @@
     604,
     585,
     608,
-    640,
+    639,
     585,
     584,
     568,
@@ -1456,13 +1455,14 @@
     484,
     478,
     530,
-    591,
+    590,
     607,
     584,
     580,
     557,
-    606,
-    562
+    605,
+    561,
+    518
    ],
    "psf_weeks": [
     "2025-10-06",
@@ -1521,8 +1521,8 @@
     "2026-10-12"
    ],
    "psf": [
-    1694,
-    1665,
+    1703,
+    1664,
     1674,
     1738,
     1759,
@@ -1572,23 +1572,23 @@
     1687,
     1637,
     1641,
-    1623,
+    1622,
     1685,
-    1682
+    1678
    ]
   },
   "business_days_used": {
    "d7": 5,
-   "d30": 21,
+   "d30": 22,
    "this_week": 5,
    "last_year_week": 5
   }
  },
  "meta": {
   "source": "data.dubai bulk export (downloaded on Sanjay's Mac; GitHub's servers are blocked)",
-  "snapshot_time": "2026-10-14 14:58",
-  "fetched_at": "2026-10-15T07:04+04:00",
+  "snapshot_time": "2026-10-15 17:47",
+  "fetched_at": "2026-10-16T15:23+04:00",
   "test": false
  },
- "saved_at": "2026-10-16T13:21+04:00"
+ "saved_at": "2026-10-16T15:23+04:00"
 }
