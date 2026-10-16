@@ -16,27 +16,33 @@
    "headline": "Dubai Rent Trends Show Divergence for New and Renewing Tenants",
    "summary": "Data indicates that rental rates are dropping for incoming tenants. Conversely, renewals are experiencing increases.",
    "why": "Rental market shifts directly impact tenant behavior and investor returns.",
-   "age_hours": 8.4,
+   "age_hours": 9.3,
    "topic": "rents"
   },
   {
-   "id": "e53f04aeda9f",
-   "title": "UAE Golden Visa nomination letter: What it is, who needs one and how to apply via the ICP",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRGY3anNNZ1BONklpQkU3bW82M0tuMGNPYUh1N1RxM0JVMkJ5YjZmY3BoTk45TjkwVzU1Mm9xOWltd0d0U0FOdkhTVUQ2ZnI2QW4zbldrajlYMFc3ZGpvaEZySFlSYldZdldmejJybTBTV0c5cFY2T2ZSUjAtSzRnM3RkN1VBdDRvS05mQmtULWRmRTg4eXlGenpvS3RMS0pBS3UzRWEzcktNWnlyX1VGdWh5VU01SkpMQ0dZZEtUVENvNUQ4d0ZFNG9tRWlIZTZ2cjJZSkhsQnpBRzNPR0hxRFB2RDjSAeQBQVVfeXFMT0RmN2pzTWdQTjZJaUJFN21vNjNLbjBjT2FIdTdUcTNCVTJCeWI2ZmNwaE5OOU45MFc1NTJvcTlpbXdHdFNBTnZIU1VENmZyNkFuM25Xa2o5WDBXN2Rqb2hGckhZUmJXWXZXZnoycm0wU1dHOXBWNk9mUlIwLUs0ZzN0ZDdVQXQ0b0tOZkJrVC1kZkU4OHl5Rnp6b0t0TEtKQUt1M0VhM3JLTVp5cl9VRnVoeVVNNUpKTENHWWRLVFRDbzVEOHdGRTRvbUVpSGU2dnIyWUpIbEJ6QUczT0dIcURQdkQ4?oc=5",
-   "source": "Emirates 24|7",
-   "kind": "search",
-   "published": "2026-10-15T11:42+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Regulation & fees",
-   "impact": "High",
-   "impact_reason": "Directly impacts investor residency eligibility and long-term planning.",
-   "watch": false,
-   "headline": "Guide to UAE Golden Visa Nomination Letters",
-   "summary": "Learn about the ICP nomination letter process for the UAE Golden Visa. This document is essential for specific applicant categories seeking long-term residency.",
-   "why": "It directly affects residency rules and long-term investor planning in the UAE.",
-   "age_hours": 23.8,
-   "topic": "golden visa"
+   "id": "0311c22277fd",
+   "title": "Sharjah launches 3 new bus routes to Etihad Rail station in Al Dhaid",
+   "link": "https://www.khaleejtimes.com/uae/transport/sharjah-3-new-bus-routes-etihad-rail-station-al-dhaid",
+   "source": "Khaleej Times",
+   "kind": "outlet",
+   "published": "2026-10-16T12:04+04:00",
+   "tags": [
+    "Transport"
+   ],
+   "teaser": "Passengers travelling to Etihad Rail's station in Al Dhaid can now use three new public bus routes connecting it with Al Madam, Al Sajaa and Sharjah, the Sharjah Roads and Transport Authority (SRTA) has announced. Al Dhaid joined the UAE's national passenger railway network on September 30, giving Sharjah its first Etihad Rail station and connecting the emirate to Fujairah and Abu Dhabi. The bus s",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Better transport links enhance regional accessibility and property appeal.",
+   "watch": true,
+   "also": [
+    "NewzTodays"
+   ],
+   "headline": "Sharjah adds bus routes connecting to Etihad Rail station",
+   "summary": "Three new public transport routes now link Sharjah, Al Madam, and Al Sajaa to the Al Dhaid railway station. This expansion enhances regional connectivity following the integration of Al Dhaid into the national rail network.",
+   "why": "Improved transportation links boost the accessibility and appeal of outlying areas for residents and investors.",
+   "age_hours": 0.4,
+   "topic": "sharjah",
+   "more": 5
   },
   {
    "id": "79a94399bc88",
@@ -52,34 +58,13 @@
    "impact_reason": "Major developer expansion signals strong regional market confidence.",
    "watch": true,
    "also": [
-    "MEP Middle East",
     "Arabian Business",
     "Travels Dubai"
    ],
    "headline": "Aldar Enters Sharjah Market with Major Acquisition",
    "summary": "Aldar has expanded its footprint into Sharjah through a major investment. The company secured multiple residential assets in the emirate.",
    "why": "Major developer expansion signals confidence in the broader UAE property market.",
-   "age_hours": 21.1,
-   "topic": "sharjah",
-   "more": 6
-  },
-  {
-   "id": "4e09d505559e",
-   "title": "New Dubai footbridge and Sharjah buses to improve access to Etihad Rail stations",
-   "link": "https://www.thenationalnews.com/news/uae/2026/10/15/new-dubai-footbridge-and-sharjah-buses-to-improve-access-to-etihad-rail-stations/",
-   "source": "The National",
-   "kind": "outlet",
-   "published": "2026-10-15T13:16+04:00",
-   "tags": [],
-   "teaser": "New transport links in Dubai and Sharjah are making it easier to reach Etihad Rail stations, with a pedestrian footbridge opening in Dubai on Thursday and three connecting bus routes launching in Sharjah. Passengers can now switch more smoothly between Metro and train services in Dubai using the new footbridge linking Jumeirah Golf Estates station with Etihad Rail\u2019s Al Yalayis Station . Before the",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Improves connectivity and regional accessibility for residents.",
-   "watch": true,
-   "headline": "New transport links improve access to Etihad Rail stations",
-   "summary": "A new Dubai footbridge and three Sharjah bus routes now connect commuters to Etihad Rail. These transit improvements facilitate smoother travel between metro and rail networks.",
-   "why": "infrastructure can shift which areas buyers favour over time (analysis, not a forecast).",
-   "age_hours": 22.3,
+   "age_hours": 22.0,
    "topic": "sharjah"
   },
   {
@@ -98,7 +83,7 @@
    "headline": "World Islands Welcomes New $1.1B Project with 840 Homes",
    "summary": "A massive $1.1 billion project is coming to the Dubai World Islands. It includes 840 residential properties, floating villas, and dedicated yacht transport.",
    "why": "New mega-projects expand luxury housing inventory in coastal areas.",
-   "age_hours": 12.9,
+   "age_hours": 13.8,
    "topic": "Developer news",
    "more": 3
   },
@@ -122,7 +107,7 @@
    "headline": "Dubai Property Transactions Reach Dh2.8 Billion Across 744 Deals",
    "summary": "Daily market activity hit Dh2.8 billion from 744 transactions. A Sobha Hartland land mortgage led the figures at Dh172 million.",
    "why": "Daily transaction data reflects ongoing liquidity and investor confidence.",
-   "age_hours": 13.9,
+   "age_hours": 14.8,
    "topic": "sobha"
   },
   {
@@ -141,7 +126,7 @@
    "headline": "Gargash Prime and JD Property Invest Dh500m in Dubai Logistics",
    "summary": "Gargash Prime and JD Property are teaming up to invest over Dh500m. They are building a new logistics facility in Dubai.",
    "why": "Industrial real estate investments strengthen the city's commercial infrastructure.",
-   "age_hours": 18.5,
+   "age_hours": 19.5,
    "topic": "Infrastructure"
   },
   {
@@ -157,10 +142,13 @@
    "impact": "Medium",
    "impact_reason": "Major industrial development boosting commercial sector supply.",
    "watch": false,
+   "also": [
+    "Gulf Business"
+   ],
    "headline": "Gargash and JINGDONG Plan Massive 2.5 Million Sq Ft Logistics Hub",
    "summary": "Gargash Prime and JINGDONG Property have unveiled plans for a sprawling logistics hub. The facility will span 2.5 million square feet in Dubai.",
    "why": "Large-scale commercial developments boost industrial property supply.",
-   "age_hours": 19.3,
+   "age_hours": 20.3,
    "topic": "Infrastructure"
   },
   {
@@ -179,7 +167,7 @@
    "headline": "Dubai Ready-Home Sales Rise by 16 Percent",
    "summary": "Completed property transactions in Dubai grew significantly as purchasers moved away from off-plan purchases. This trend highlights a shifting preference towards immediate occupancy.",
    "why": "It shows a clear shift in buyer demand toward completed real estate.",
-   "age_hours": 20.8,
+   "age_hours": 21.8,
    "topic": "Developer news"
   },
   {
@@ -198,15 +186,34 @@
    "headline": "UAE Announces Eligible Universities for Golden Visas",
    "summary": "Authorities released a list of one hundred approved universities for the Golden Visa program. Notable exclusions and inclusions feature prominently in the announcement.",
    "why": "It impacts student residency eligibility and academic property demand.",
-   "age_hours": 16.3,
+   "age_hours": 17.3,
    "topic": "golden visa"
+  },
+  {
+   "id": "17dd8da3c7d7",
+   "title": "NRI Buyer Filing a RERA Complaint from Abroad",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RYWtTXzZXNkhWZjJMV1c5NEVlOHBaQlBKbXh2UlRTbVA2VkxDdlp3YXVFdGJmOXdfNlFuRGZRcUw0NzRKMFFMLVNBQklRX0Z2VEVrdFdFWm5nNkZJYkNJWlBjSE5FdUFEU0FaTUI0LVlTQnM3c1BZNTBn?oc=5",
+   "source": "Arpit Marwah",
+   "kind": "search",
+   "published": "2026-10-16T09:49+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Protects investor confidence via accessible dispute resolution channels.",
+   "watch": true,
+   "headline": "NRI Guide on Filing RERA Complaints from Abroad",
+   "summary": "Overseas investors can file formal RERA grievances remotely when facing developer disputes. This mechanism helps protect international capital invested in the local property market.",
+   "why": "Cross-border legal recourse safeguards foreign investor confidence in regional real estate.",
+   "age_hours": 2.7,
+   "topic": "rera"
   }
  ],
  "window_hours": 24,
- "count_relevant": 36,
- "count_fetched": 397,
+ "count_relevant": 38,
+ "count_fetched": 405,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-16T11:32+04:00",
- "saved_at": "2026-10-16T11:32+04:00"
+ "as_of": "2026-10-16T12:30+04:00",
+ "saved_at": "2026-10-16T12:30+04:00"
 }

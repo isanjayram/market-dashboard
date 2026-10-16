@@ -523,6 +523,33 @@
    "category": "Developer news",
    "impact": "Low",
    "impact_reason": "Boosts overall sentiment regarding market recovery."
+  },
+  "0311c22277fd": {
+   "relevant": true,
+   "headline": "Sharjah adds bus routes connecting to Etihad Rail station",
+   "summary": "Three new public transport routes now link Sharjah, Al Madam, and Al Sajaa to the Al Dhaid railway station. This expansion enhances regional connectivity following the integration of Al Dhaid into the national rail network.",
+   "why": "Improved transportation links boost the accessibility and appeal of outlying areas for residents and investors.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Better transport links enhance regional accessibility and property appeal."
+  },
+  "17dd8da3c7d7": {
+   "relevant": true,
+   "headline": "NRI Guide on Filing RERA Complaints from Abroad",
+   "summary": "Overseas investors can file formal RERA grievances remotely when facing developer disputes. This mechanism helps protect international capital invested in the local property market.",
+   "why": "Cross-border legal recourse safeguards foreign investor confidence in regional real estate.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Protects investor confidence via accessible dispute resolution channels."
+  },
+  "c2be12aa94df": {
+   "relevant": true,
+   "headline": "XOTO secures backing for AI-driven UAE property transformation",
+   "summary": "Sawarthia Group has provided strategic investment to XOTO to advance artificial intelligence applications in local real estate. The funding aims to modernize property transactions and operational processes through technology.",
+   "why": "Proptech innovations can streamline property transactions and improve market efficiency.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Technology adoption improves long-term market efficiency."
   }
  }
 }

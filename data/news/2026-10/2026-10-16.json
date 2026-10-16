@@ -566,5 +566,66 @@
 "impact_reason": "General market context",
 "watch": false,
 "topic": "aldar"
+},
+{
+"id": "0311c22277fd",
+"headline": "Sharjah adds bus routes connecting to Etihad Rail station",
+"summary": "Three new public transport routes now link Sharjah, Al Madam, and Al Sajaa to the Al Dhaid railway station. This expansion enhances regional connectivity following the integration of Al Dhaid into the national rail network.",
+"why": "Improved transportation links boost the accessibility and appeal of outlying areas for residents and investors.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/uae/transport/sharjah-3-new-bus-routes-etihad-rail-station-al-dhaid",
+"published": "2026-10-16T12:04+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Better transport links enhance regional accessibility and property appeal.",
+"watch": true,
+"also": [
+"NewzTodays"
+],
+"more": 5,
+"topic": "sharjah"
+},
+{
+"id": "17dd8da3c7d7",
+"headline": "NRI Guide on Filing RERA Complaints from Abroad",
+"summary": "Overseas investors can file formal RERA grievances remotely when facing developer disputes. This mechanism helps protect international capital invested in the local property market.",
+"why": "Cross-border legal recourse safeguards foreign investor confidence in regional real estate.",
+"source": "Arpit Marwah",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RYWtTXzZXNkhWZjJMV1c5NEVlOHBaQlBKbXh2UlRTbVA2VkxDdlp3YXVFdGJmOXdfNlFuRGZRcUw0NzRKMFFMLVNBQklRX0Z2VEVrdFdFWm5nNkZJYkNJWlBjSE5FdUFEU0FaTUI0LVlTQnM3c1BZNTBn?oc=5",
+"published": "2026-10-16T09:49+04:00",
+"category": "Regulation & fees",
+"impact": "Low",
+"impact_reason": "Protects investor confidence via accessible dispute resolution channels.",
+"watch": true,
+"topic": "rera"
+},
+{
+"id": "c2be12aa94df",
+"headline": "XOTO secures backing for AI-driven UAE property transformation",
+"summary": "Sawarthia Group has provided strategic investment to XOTO to advance artificial intelligence applications in local real estate. The funding aims to modernize property transactions and operational processes through technology.",
+"why": "Proptech innovations can streamline property transactions and improve market efficiency.",
+"source": "Zawya",
+"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdThrMGZKREF5ajJTWlp2Q2tmVlhHNnAzSml6OGZkMGZFRWdOZXlRZmN2TjBicUJTV0FRNVJTXzhIOE5tN1lJT0Z3elI0VTVkTDdRdkR4bGI2ZGpoaEhaSkZOWVFPc0p5dk5Oc0JCQlFXWFhuYkl1ZkFlNTRsSWN0TTlMcTlnRlN5OG1ZbUZMOVFNYXF1bmxKR0M3SFZnb0JxbHZTMEkzZ0Z0SzI0MFNtWEh2dDd4bmR5Slk4MGdRbWZxSlZOZ0dGMHdvVlBuX3loQy1yWnRLR2dfQzZOa2o2RWRrbEJ0QUc5M3ZmRjU5WW4xbjg?oc=5",
+"published": "2026-10-15T13:50+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "Technology adoption improves long-term market efficiency.",
+"watch": false,
+"more": 7,
+"topic": "Macro & geopolitics"
+},
+{
+"id": "238c7522c2d4",
+"headline": "Samana Developers unveils $1.1bln branded residential project at The World Islands in Dubai",
+"summary": "",
+"why": "can move investor sentiment; expect questions about where the market is heading.",
+"source": "TradingView",
+"link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQVZiM2taQnhEMUhvUDRydTEyM0dsQWNvUFV3UkRnTTN5NldJcGJ1V3BCUXloSnlKaVZJRmFlZ2c5SkNESHIyTkMtNnItWWpURWVSUzdkdWRJV2hteGNodFB3czdnZ1dRLWFpc045VHVuS0hEU2I5aERuUGtIZkFJSlBzX1B1dVFPakE2VEJZVk9Zd2YzamdyQXdULXFBbGNZbm9KV3NCTUV5QjdhaW90aEFMS3luMzgtNkFOVU5xaEFFLW5KMWNGdG4xQThKdGJrc09kWVlMNGM5R1l4N1NvVDNqMGg5M1ZvVW5GcU1qSDQxZzJseUY4ZzVR?oc=5",
+"published": "2026-10-15T19:55+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": false,
+"topic": "Macro & geopolitics"
 }
 ]
