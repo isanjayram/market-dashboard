@@ -424,6 +424,24 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Celebrity real estate purchase is just a lifestyle story."
+  },
+  "fbe8a21523f8": {
+   "relevant": true,
+   "headline": "Guide to UAE Golden Visa nomination letters and ICP applications",
+   "summary": "The ICP explains the purpose, requirements, and application process for obtaining a UAE Golden Visa nomination letter. This document is essential for eligible residents applying for long-term residency.",
+   "why": "It directly impacts property investors and residents seeking long-term UAE residency.",
+   "category": "Regulation & fees",
+   "impact": "High",
+   "impact_reason": "Affects long-term residency rules and investor eligibility."
+  },
+  "135e5fc0a970": {
+   "relevant": true,
+   "headline": "Aldar expands into Sharjah with Dh1.1 billion residential acquisition",
+   "summary": "Abu Dhabi's Aldar has purchased over 1,100 homes in Sharjah from Arada for Dh1.1 billion. This forward-purchase deal marks Aldar's first real estate investment outside its home emirate.",
+   "why": "It highlights major inter-emirate developer expansion and portfolio growth.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Major developer expansion across emirates."
   }
  }
 }
