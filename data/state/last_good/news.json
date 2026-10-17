@@ -19,7 +19,7 @@
    "headline": "Abu Dhabi Details Seven Foreigner Categories for Golden Visa",
    "summary": "Authorities have outlined the specific groups of international applicants who qualify for the ten-year residency permit. This clarifies pathways for long-term residency through property and investment.",
    "why": "Residency rules directly influence buyer demand and foreign investment in UAE property.",
-   "age_hours": 20.7,
+   "age_hours": 21.3,
    "topic": "abu dhabi",
    "more": 2
   },
@@ -39,7 +39,7 @@
    "headline": "Aldar invests $300M in Sharjah development",
    "summary": "Abu Dhabi's Aldar has expanded into Sharjah through a major partnership project. This move marks a strategic cross-emirates development investment.",
    "why": "Major developer expansion into a neighboring emirate affects regional supply and market dynamics.",
-   "age_hours": 22.7,
+   "age_hours": 23.3,
    "topic": "sharjah",
    "more": 1
   },
@@ -64,7 +64,7 @@
    "headline": "Sharjah hits $12.74 billion in property deals",
    "summary": "Sharjah achieved AED46.8 billion in real estate transactions over nine months. Strong rental yields of up to 12 percent attracted nearly 10,000 new investors.",
    "why": "This report highlights strong investor demand and high rental yields in a neighboring emirate.",
-   "age_hours": 23.3,
+   "age_hours": 23.9,
    "topic": "sharjah"
   },
   {
@@ -86,7 +86,7 @@
    "headline": "Dubai eases villa rules for Emiratis to build family homes",
    "summary": "Dubai Municipality now permits Emirati homeowners to expand villas and construct second family residences on their plots. This policy aims to alleviate housing shortages and enhance domestic stability.",
    "why": "It changes local residential construction policies and housing supply.",
-   "age_hours": 0.8,
+   "age_hours": 1.4,
    "topic": "Regulation & fees"
   },
   {
@@ -108,7 +108,7 @@
    "headline": "Etihad Rail Opens Pedestrian Bridge Linking Dubai Stations",
    "summary": "A new 375-meter pedestrian bridge now connects Dubai Al Yalayis Station directly to Jumeirah Golf Estates Metro Station. The project improves transit access for passengers in the area.",
    "why": "It enhances local connectivity and public transit access for residents near Jumeirah Golf Estates.",
-   "age_hours": 20.1,
+   "age_hours": 20.6,
    "topic": "etihad rail"
   },
   {
@@ -130,7 +130,7 @@
    "headline": "Etihad Rail Link Connects Commuters to Metro Quickly",
    "summary": "A new rail connection allows passengers to reach the metro system within five minutes. This addition enhances overall public transportation access in the emirate.",
    "why": "It improves regional connectivity and accessibility, which can positively influence local real estate values.",
-   "age_hours": 22.8,
+   "age_hours": 23.4,
    "topic": "etihad rail"
   },
   {
@@ -149,7 +149,7 @@
    "headline": "Abu Dhabi Sets Minimum GPA for Golden Visa Graduates",
    "summary": "Abu Dhabi has established specific minimum GPA requirements for foreign graduates applying for the 10-year Golden Visa.",
    "why": "It clarifies residency eligibility rules for skilled foreign talent in the UAE.",
-   "age_hours": 15.6,
+   "age_hours": 16.2,
    "topic": "abu dhabi"
   },
   {
@@ -168,7 +168,7 @@
    "headline": "Samana Launches AED 4 Billion Project on World Islands",
    "summary": "Samana has introduced Samana Collecta, a major AED 4 billion development located on Dubai's World Islands.",
    "why": "It represents a significant new luxury waterfront supply launch in the market.",
-   "age_hours": 21.1,
+   "age_hours": 21.7,
    "topic": "Developer news",
    "more": 1
   },
@@ -188,7 +188,7 @@
    "headline": "New 2.5 Million Sq Ft Dubai Logistics Hub Planned",
    "summary": "Gargash Prime and JINGDONG Property are developing a massive logistics hub in Dubai.",
    "why": "Large commercial developments expand local infrastructure and business capabilities.",
-   "age_hours": 22.9,
+   "age_hours": 23.5,
    "topic": "Infrastructure"
   },
   {
@@ -207,15 +207,15 @@
    "headline": "Dubai introduces new regulations for second homes on villa plots",
    "summary": "Updated municipality guidelines now allow Emirati property owners to develop additional homes and residential annexes on existing plots.",
    "why": "It outlines updated municipality guidelines for residential plot utilization.",
-   "age_hours": 0.8,
+   "age_hours": 1.4,
    "topic": "Regulation & fees"
   }
  ],
  "window_hours": 24,
- "count_relevant": 19,
- "count_fetched": 311,
+ "count_relevant": 18,
+ "count_fetched": 314,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-17T12:02+04:00",
- "saved_at": "2026-10-17T12:02+04:00"
+ "as_of": "2026-10-17T12:37+04:00",
+ "saved_at": "2026-10-17T12:37+04:00"
 }
