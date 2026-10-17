@@ -19,7 +19,7 @@
    "headline": "Abu Dhabi Details Seven Foreigner Categories for Golden Visa",
    "summary": "Authorities have outlined the specific groups of international applicants who qualify for the ten-year residency permit. This clarifies pathways for long-term residency through property and investment.",
    "why": "Residency rules directly influence buyer demand and foreign investment in UAE property.",
-   "age_hours": 18.0,
+   "age_hours": 18.3,
    "topic": "abu dhabi",
    "more": 2
   },
@@ -44,7 +44,7 @@
    "headline": "Sharjah hits $12.74 billion in property deals",
    "summary": "Sharjah achieved AED46.8 billion in real estate transactions over nine months. Strong rental yields of up to 12 percent attracted nearly 10,000 new investors.",
    "why": "This report highlights strong investor demand and high rental yields in a neighboring emirate.",
-   "age_hours": 20.6,
+   "age_hours": 20.9,
    "topic": "sharjah",
    "more": 1
   },
@@ -64,7 +64,7 @@
    "headline": "Aldar Enters Sharjah Market Through $300M Arada Partnership",
    "summary": "The developer has partnered with Arada to acquire residential units in Sharjah for $300 million. This marks Aldar's official entry into the Sharjah property sector.",
    "why": "Major developer expansion highlights shifting regional investment patterns.",
-   "age_hours": 19.6,
+   "age_hours": 19.9,
    "topic": "sharjah"
   },
   {
@@ -80,10 +80,13 @@
    "impact": "Medium",
    "impact_reason": "Improves local transport connectivity and community accessibility.",
    "watch": false,
+   "also": [
+    "TradeArabia"
+   ],
    "headline": "Etihad Rail Opens Pedestrian Bridge Linking Dubai Stations",
    "summary": "A new 375-meter pedestrian bridge now connects Dubai Al Yalayis Station directly to Jumeirah Golf Estates Metro Station. The project improves transit access for passengers in the area.",
    "why": "It enhances local connectivity and public transit access for residents near Jumeirah Golf Estates.",
-   "age_hours": 17.3,
+   "age_hours": 17.6,
    "topic": "etihad rail"
   },
   {
@@ -105,7 +108,7 @@
    "headline": "New Etihad Rail Link Connects Directly to Dubai Metro",
    "summary": "A fresh pedestrian link allows commuters to travel between Etihad Rail and the metro within minutes. This integration improves transit convenience for residents.",
    "why": "It improves local transit connectivity, making nearby properties more attractive to commuters.",
-   "age_hours": 20.1,
+   "age_hours": 20.4,
    "topic": "etihad rail"
   },
   {
@@ -124,7 +127,7 @@
    "headline": "Abu Dhabi Sets Minimum GPA for Golden Visa Graduates",
    "summary": "Abu Dhabi has established specific minimum GPA requirements for foreign graduates applying for the 10-year Golden Visa.",
    "why": "It clarifies residency eligibility rules for skilled foreign talent in the UAE.",
-   "age_hours": 12.9,
+   "age_hours": 13.2,
    "topic": "abu dhabi"
   },
   {
@@ -143,30 +146,30 @@
    "headline": "Samana Launches AED 4 Billion Project on World Islands",
    "summary": "Samana has introduced Samana Collecta, a major AED 4 billion development located on Dubai's World Islands.",
    "why": "It represents a significant new luxury waterfront supply launch in the market.",
-   "age_hours": 18.3,
+   "age_hours": 18.7,
    "topic": "Developer news",
    "more": 2
   },
   {
-   "id": "76c522ba32cd",
-   "title": "Gargash Prime and JINGDONG Property Plan 2.5 Million Sq Ft Dubai Logistics Hub",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYnZEdjZpMkloYUdseU5GZUNhV0lSX0F3TmNhOWxwWVZlMW91dGdkVERKOVBYUjRnNTBGWm92VU00TmtxSTJGNlVac1p2VlZjS21QZXh5Y1JNWkUxb2hGb3NYZVpjUzJVYWJaOUp3M2kySmxkRElOYWZsajdxSkZESU44eHpfRmRWLXFUZWtBNWRSWVZhLU9QeV8xVEwxU0N4UllQa19xOFhZcUtNcTZJaTJKR21hVW8?oc=5",
-   "source": "Construction Business News Middle East",
+   "id": "a1fb4b20b520",
+   "title": "Gargash Prime and JINGDONG Property plan 2.5 million sq ft logistics hub in Dubai",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTTE1LWU4V19UR25La2w3T1MwcjZHU0FzUkF0Y0w0Y2JRekF6RHViN0I0N2RtZHNhbUpKdWdXczVyMS1nZzJ5dEo0YV9PMjAwdzhwQk43OTJySzJFWmVheThTa3dJdERWaTY5OFZHNFVCc21wN3hDeFNQeFBwVHgzU3FFTGRHYVd2UUJfcTB1MHFXdS1ETkNzUTczYUc0UlZ5YlNTRkMwN3dPSkUyLUlGQzZ0OEllOThBRjFmdGdVckVxYlJtekE?oc=5",
+   "source": "Logistics Middle East",
    "kind": "search",
-   "published": "2026-10-16T13:09+04:00",
+   "published": "2026-10-16T11:12+04:00",
    "tags": [],
    "teaser": "",
    "category": "Infrastructure",
    "impact": "Medium",
-   "impact_reason": "Expands commercial infrastructure and industrial capacity.",
+   "impact_reason": "Expands commercial logistics capacity in the local market.",
    "watch": false,
    "also": [
-    "Logistics Middle East"
+    "Construction Business News Middle East"
    ],
-   "headline": "New 2.5 Million Sq Ft Dubai Logistics Hub Planned",
-   "summary": "Gargash Prime and JINGDONG Property are developing a massive logistics hub in Dubai.",
-   "why": "Large commercial developments expand local infrastructure and business capabilities.",
-   "age_hours": 20.1,
+   "headline": "Gargash Prime and JINGDONG plan massive Dubai logistics hub",
+   "summary": "Gargash Prime and JINGDONG Property are developing a 2.5 million square foot logistics facility in Dubai. The project aims to expand advanced warehousing and supply chain infrastructure.",
+   "why": "This industrial development enhances Dubai's commercial real estate infrastructure and market capacity.",
+   "age_hours": 22.4,
    "topic": "Infrastructure"
   },
   {
@@ -185,7 +188,7 @@
    "headline": "NRI Guide on Filing RERA Complaints from Abroad",
    "summary": "Overseas investors can file formal RERA grievances remotely when facing developer disputes. This mechanism helps protect international capital invested in the local property market.",
    "why": "Cross-border legal recourse safeguards foreign investor confidence in regional real estate.",
-   "age_hours": 23.5,
+   "age_hours": 23.8,
    "topic": "rera"
   },
   {
@@ -204,15 +207,15 @@
    "headline": "Samana invests Dhs4bn in World Islands project",
    "summary": "Samana is committing four billion dirhams to a new development on Dubai's World Islands. This move signals renewed interest in expanding development across the archipelago.",
    "why": "High-value investments in niche locations can stimulate broader interest in unique island properties.",
-   "age_hours": 22.6,
+   "age_hours": 22.9,
    "topic": "Developer news"
   }
  ],
  "window_hours": 24,
  "count_relevant": 20,
- "count_fetched": 311,
+ "count_fetched": 308,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-17T09:16+04:00",
- "saved_at": "2026-10-17T09:16+04:00"
+ "as_of": "2026-10-17T09:35+04:00",
+ "saved_at": "2026-10-17T09:35+04:00"
 }
