@@ -451,6 +451,33 @@
    "category": "Infrastructure",
    "impact": "Medium",
    "impact_reason": "Expands commercial logistics capacity in the local market."
+  },
+  "966d7303aae6": {
+   "relevant": false,
+   "headline": "Celebrity residency details lack broader property market impact",
+   "summary": "A famous athlete secured a UAE Golden Visa without investing in real estate. The residency remains valid under specific status conditions.",
+   "why": "This is a celebrity-focused lifestyle piece with no broader relevance to property buyers or investors.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Relates to a celebrity rather than general market rules."
+  },
+  "e3158b2d337c": {
+   "relevant": true,
+   "headline": "Aldar invests $300M in Sharjah development",
+   "summary": "Abu Dhabi's Aldar has expanded into Sharjah through a major partnership project. This move marks a strategic cross-emirates development investment.",
+   "why": "Major developer expansion into a neighboring emirate affects regional supply and market dynamics.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Highlights cross-emirate expansion and significant developer investment capital."
+  },
+  "6c1c72226321": {
+   "relevant": true,
+   "headline": "Dubai introduces new shared housing regulations",
+   "summary": "New legal guidelines outline specific rules, potential fines, and tenant rights for shared housing in Dubai. These regulations aim to organize shared living arrangements effectively.",
+   "why": "Tenant regulations and legal compliance rules directly impact rental market operations and landlord-tenant obligations.",
+   "category": "Regulation & fees",
+   "impact": "High",
+   "impact_reason": "Changes legal obligations and costs for rental properties."
   }
  }
 }

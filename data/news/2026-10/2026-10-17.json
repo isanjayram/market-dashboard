@@ -314,5 +314,51 @@
 "Construction Business News Middle East"
 ],
 "topic": "Infrastructure"
+},
+{
+"id": "6c1c72226321",
+"headline": "Dubai introduces new shared housing regulations",
+"summary": "New legal guidelines outline specific rules, potential fines, and tenant rights for shared housing in Dubai. These regulations aim to organize shared living arrangements effectively.",
+"why": "Tenant regulations and legal compliance rules directly impact rental market operations and landlord-tenant obligations.",
+"source": "Legal Service India",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYjEwR2RDbzd0SzdVd1p6cmxjWUtibTJFNGhMNzY2djN0U0w1a1BmNVE3TzFkNEMzckowSlQ4a2d1ZlY4UTFva09sNFF6NDlac04zZkV5VGhuTUdiZ1VicndybXdiR0U4WXRDZkpFdHpzc25icUV1NENtRjhZeTAyS3Z0UlVMU1ROMXJ2QktHYjFMQWZlVzNDWTB4c2ZJMm5zUlNrRVlVUlQ?oc=5",
+"published": "2026-10-16T11:47+04:00",
+"category": "Regulation & fees",
+"impact": "High",
+"impact_reason": "Changes legal obligations and costs for rental properties.",
+"watch": false,
+"topic": "Regulation & fees"
+},
+{
+"id": "e3158b2d337c",
+"headline": "Aldar invests $300M in Sharjah development",
+"summary": "Abu Dhabi's Aldar has expanded into Sharjah through a major partnership project. This move marks a strategic cross-emirates development investment.",
+"why": "Major developer expansion into a neighboring emirate affects regional supply and market dynamics.",
+"source": "Zawya",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUEZTODgxTFM1R01JNmstb2ZuUWRKV29jWjlzOHB6UjFzeEtVY19lYWM4dHo3WkpYV2pxTHRVU0ZzeUd1QVJKekhjbXR5U0w4Qm1FQW5LTUlhcF9URWR0M0dvc1h2UWo1NkpQU3A3Rm9maEZmclRVaHJhVjVwMWwtV1I2Qy1CcTVGVU9oaUlXaVdRWTRfOGhjbXl3WEx2RTJheWlidDFrRkZ4dWFlbjZLaUFRUXY4S3o1bTdtYXRFaGZfSzhfaGQ4a0xUYjBWZ0xia1VRMnVPdEM2UQ?oc=5",
+"published": "2026-10-16T13:21+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Highlights cross-emirate expansion and significant developer investment capital.",
+"watch": true,
+"more": 1,
+"topic": "sharjah"
+},
+{
+"id": "ba4c66a6057a",
+"headline": "Etihad Rail Link Connects Commuters to Metro Quickly",
+"summary": "A new rail connection allows passengers to reach the metro system within five minutes. This addition enhances overall public transportation access in the emirate.",
+"why": "It improves regional connectivity and accessibility, which can positively influence local real estate values.",
+"source": "Gulf Business",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWTV0LWZxM0dQaHFDaDByeTZwRU90SU9VU2ZwYzg1YlVsSklrdl9fZUNESzJ6YndoMElELWdWckhoaHdxSWN2Q00xNXRpWS12Z2l2SmxZWHNwdzM2VkRxQVpFRGp6eDJfaV9Kc0dTWS1ETUlhYzB0ZThCdWlvV1VraEdfdXNhTTBVNUlyU1Q1Mnl0aFA2a0ZDVmtSenhQTHZvQWx6MEhpelhxVm9wbkVvVnNRTjhQeVB6?oc=5",
+"published": "2026-10-16T13:13+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Improves local transport connectivity and accessibility.",
+"watch": false,
+"also": [
+"Gulf Business"
+],
+"topic": "etihad rail"
 }
 ]
