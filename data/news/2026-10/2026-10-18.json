@@ -305,5 +305,22 @@
 "impact_reason": "Shifts tenant decisions and rental market dynamics.",
 "watch": false,
 "topic": "rents"
+},
+{
+"id": "6473c74e0728",
+"headline": "UAE Golden Visa expands to diverse professions beyond wealthy investors",
+"summary": "The ten-year UAE residency program now includes nurses, teachers, and e-sports professionals. This broader eligibility encourages more long-term residents to invest in local property.",
+"why": "Broadened residency eligibility directly impacts long-term property demand and buyer demographics in the UAE.",
+"source": "Fortune",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYzc0Z210X01nR1V1dWs0LUpjS2xIZURpZ2RDeFg0ajJLenhrZWw4cWpBN0lZV1AwVmlXd1BkbFhxVk9NS09VZVVZQXZkS01Hd21rYnJsNHEtd2ZLUTliUUxWZGtyUFZ6TWVLOFp2ZXlJN1pVMDgtNjB3aUdxeXZvZEZyRGhNU2ZuVjh3Tnl3?oc=5",
+"published": "2026-10-18T12:00+04:00",
+"category": "Regulation & fees",
+"impact": "Medium",
+"impact_reason": "Expands residency access, boosting long-term property buyer demand.",
+"watch": false,
+"also": [
+"Fortune"
+],
+"topic": "golden visa"
 }
 ]
