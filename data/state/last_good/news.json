@@ -16,7 +16,7 @@
    "headline": "Dubai property sector hits $3.7bn in weekly deals",
    "summary": "Dubai registered $3.7 billion in property transactions over the past week. A Palm Jumeirah apartment contributed $14.6 million to the total.",
    "why": "It shows strong weekly transaction volume and high-value luxury sales in Dubai.",
-   "age_hours": 12.5,
+   "age_hours": 12.8,
    "topic": "Supply & market reports"
   },
   {
@@ -41,7 +41,7 @@
    "headline": "Dubai Shared Housing Law 2026 Tenant Checklist",
    "summary": "Tenants seeking shared accommodations must review specific compliance checks to avoid violating the updated 2026 regulations. Understanding these rules ensures renters stay legally compliant.",
    "why": "It outlines essential legal requirements for tenants navigating Dubai's shared housing regulations.",
-   "age_hours": 2.5,
+   "age_hours": 2.8,
    "topic": "Regulation & fees"
   },
   {
@@ -60,7 +60,7 @@
    "headline": "Prime Dubai rents drop while suburban rates climb.",
    "summary": "Rental rates are decreasing in prime districts while outer areas experience growth. Tenants should evaluate location trade-offs carefully.",
    "why": "It shifts rental affordability dynamics across different city sectors.",
-   "age_hours": 6.9,
+   "age_hours": 7.1,
    "topic": "rents"
   },
   {
@@ -79,7 +79,7 @@
    "headline": "Dubai rents drop up to 22 percent",
    "summary": "Weekly roundup highlights a drop in Dubai rental rates by up to 22 percent. Other updates include an airport trial and higher savings rates.",
    "why": "Shifting rental rates directly impact tenant choices and landlord yields.",
-   "age_hours": 11.1,
+   "age_hours": 11.4,
    "topic": "airport"
   },
   {
@@ -101,7 +101,7 @@
    "headline": "UAE Golden Visa expands to diverse professions beyond wealthy investors",
    "summary": "The ten-year UAE residency program now includes nurses, teachers, and e-sports professionals. This broader eligibility encourages more long-term residents to invest in local property.",
    "why": "Broadened residency eligibility directly impacts long-term property demand and buyer demographics in the UAE.",
-   "age_hours": 0.9,
+   "age_hours": 1.2,
    "topic": "golden visa"
   },
   {
@@ -120,7 +120,7 @@
    "headline": "Abu Dhabi outlines perks for property owner visa holders.",
    "summary": "Authorities have highlighted three specific advantages for foreign nationals holding real estate investor visas. These benefits aim to attract more property buyers.",
    "why": "It affects investor incentives and residency appeal.",
-   "age_hours": 22.9,
+   "age_hours": 23.2,
    "topic": "abu dhabi"
   },
   {
@@ -139,7 +139,7 @@
    "headline": "China's JD Property Launches UAE Logistics Joint Venture",
    "summary": "JD Property has established a new logistics joint venture in the United Arab Emirates. This marks the company's expansion into the regional industrial real estate sector.",
    "why": "It introduces a major international player into the local industrial real estate market.",
-   "age_hours": 23.4,
+   "age_hours": 23.7,
    "topic": "Developer news"
   },
   {
@@ -161,7 +161,7 @@
    "headline": "Azizi Launches New Workforce Housing Developments",
    "summary": "Azizi has initiated new residential projects tailored for the workforce across Dubai and Sharjah. These developments aim to address the growing demand for staff accommodation.",
    "why": "Developer project launches indicate active construction pipelines across the Emirates.",
-   "age_hours": 7.4,
+   "age_hours": 7.7,
    "topic": "sharjah"
   },
   {
@@ -180,7 +180,7 @@
    "headline": "Emaar Malls and Dubai Municipality discuss retail projects.",
    "summary": "Both entities are exploring potential new retail and lifestyle destinations within the emirate. Collaborations aim to enhance commercial offerings.",
    "why": "It signals upcoming commercial developments by major players.",
-   "age_hours": 13.0,
+   "age_hours": 13.2,
    "topic": "emaar"
   },
   {
@@ -199,15 +199,15 @@
    "headline": "Upcoming Sobha real estate developments in Dubai.",
    "summary": "The developer is preparing to launch new residential projects across the emirate. Details outline future inventory additions.",
    "why": "It provides insight into incoming residential supply.",
-   "age_hours": 23.3,
+   "age_hours": 23.6,
    "topic": "sobha"
   }
  ],
  "window_hours": 24,
- "count_relevant": 15,
- "count_fetched": 361,
+ "count_relevant": 14,
+ "count_fetched": 358,
  "feed_errors": {},
- "mode": "AI summaries (gemini)",
- "as_of": "2026-10-18T12:53+04:00",
- "saved_at": "2026-10-18T12:53+04:00"
+ "mode": "AI summaries (saved from an earlier run)",
+ "as_of": "2026-10-18T13:10+04:00",
+ "saved_at": "2026-10-18T13:10+04:00"
 }
