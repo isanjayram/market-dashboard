@@ -370,6 +370,33 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Employment advice with no broader market impact."
+  },
+  "c5d399bb1049": {
+   "relevant": true,
+   "headline": "Dubai Shared Housing Law 2026 Tenant Checklist",
+   "summary": "Tenants seeking shared accommodations must review specific compliance checks to avoid violating the updated 2026 regulations. Understanding these rules ensures renters stay legally compliant.",
+   "why": "It outlines essential legal requirements for tenants navigating Dubai's shared housing regulations.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Affects tenant compliance and rental choices."
+  },
+  "1968961df757": {
+   "relevant": false,
+   "headline": "Dubai Police AI Vision 2040",
+   "summary": "Dubai Police outlined its long-term vision for artificial intelligence patrols and advanced crime investigations by the year 2040.",
+   "why": "The article focuses on policing and technology rather than real estate or the economy.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "No direct impact on property markets."
+  },
+  "007f9945445b": {
+   "relevant": true,
+   "headline": "Dubai Rental Trends Shift Across Prime and Outlying Areas",
+   "summary": "Rental rates are dropping in prime locations while simultaneously increasing across outer districts. Tenants need to adapt their search strategies based on these shifting neighborhood dynamics.",
+   "why": "It provides crucial market intelligence regarding price adjustments for Dubai tenants and landlords.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Shifts tenant decisions and rental market dynamics."
   }
  }
 }

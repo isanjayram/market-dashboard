@@ -1,26 +1,6 @@
 {
  "top": [
   {
-   "id": "69ff5094dfc1",
-   "title": "UAE real estate maintains momentum as transactions surge 103% in the H1 of 2026",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80STVaNldLd2ppZ0puQUxSMl9BS1NaRmpsMTB5OEIxVXVMd1AyOTVNVldhaWlHeU5tdE5zY2VMajJtLW5FNEQyWDdBSTZYbVlG?oc=5",
-   "source": "Yemen Online",
-   "kind": "search",
-   "published": "2026-10-17T10:26+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Supply & market reports",
-   "impact": "High",
-   "impact_reason": "Demonstrates massive market growth and heightened investor confidence.",
-   "watch": false,
-   "headline": "UAE real estate transactions surge 103 percent",
-   "summary": "The UAE property market maintained strong momentum with transaction volumes jumping 103 percent in the first half of 2026.",
-   "why": "Massive transaction growth signals exceptional overall market health and investor appetite.",
-   "age_hours": 23.4,
-   "topic": "Supply & market reports",
-   "more": 2
-  },
-  {
    "id": "f724af775aa4",
    "title": "Dubai real estate sector recorded $3.7bn of transactions last week, including $14.6m Palm Jumeirah apartment",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ2VCamxaRTIxd08wN01vamlaQjZnUEczU0lYcVJSankzSnM5bGxBZGtCV3Y5NkI3Q2ZfQm96djZNUXFRVDlhOXJPeW5LdzEzYXpZQ005X1BwZVZZU3pwek9lVzNxS01rb1B2dW1ibC1PSWx5NHZwanBZVXl4ZC1ES0xJLXFtbEt2VDFINWZ0bTJGMGI2WEVvMXNlcm5sSjJDSEdBMFN2YzhLWENmeFRaZmJ5bzBjT2lSN2dZRlA2R1dlTVdYZHY5MGRoVi1lVEVsbk1NTkdKTk5LYnlnSlozNE5QRQ?oc=5",
@@ -36,13 +16,59 @@
    "headline": "Dubai property sector hits $3.7bn in weekly deals",
    "summary": "Dubai registered $3.7 billion in property transactions over the past week. A Palm Jumeirah apartment contributed $14.6 million to the total.",
    "why": "It shows strong weekly transaction volume and high-value luxury sales in Dubai.",
-   "age_hours": 9.5,
+   "age_hours": 11.0,
+   "topic": "Supply & market reports",
+   "more": 1
+  },
+  {
+   "id": "c5d399bb1049",
+   "title": "Dubai shared housing law 2026: 9 checks tenants must make before renting",
+   "link": "https://www.khaleejtimes.com/uae/legal/dubai-shared-housing-law-2026-9-checks-for-tenants",
+   "source": "Khaleej Times",
+   "kind": "outlet",
+   "published": "2026-10-18T10:23+04:00",
+   "tags": [
+    "Legal"
+   ],
+   "teaser": "Question : I understand there is a new law governing shared housing in Dubai . I am currently looking for shared accommodation and would like to know how I can ensure that I am not violating the law. What should I check before renting a place? Answer : Pursuant to your query, the provisions of the Dubai Law No. (4) of 2026 Regulating the Occupation and Management of Shared Housing in the Emirate o",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Affects tenant compliance and rental choices.",
+   "watch": false,
+   "also": [
+    "Menafn"
+   ],
+   "headline": "Dubai Shared Housing Law 2026 Tenant Checklist",
+   "summary": "Tenants seeking shared accommodations must review specific compliance checks to avoid violating the updated 2026 regulations. Understanding these rules ensures renters stay legally compliant.",
+   "why": "It outlines essential legal requirements for tenants navigating Dubai's shared housing regulations.",
+   "age_hours": 1.1,
+   "topic": "Regulation & fees"
+  },
+  {
+   "id": "779fb744bdc0",
+   "title": "Dubai property rental prices fall where they were once the highest",
+   "link": "https://gulfnews.com/business/property/dubai-property-rental-prices-fall-where-they-were-once-the-highest-1.500714361",
+   "source": "Gulf News",
+   "kind": "outlet",
+   "published": "2026-10-18T06:02+04:00",
+   "tags": [
+    "Property"
+   ],
+   "teaser": "Dubai: Tenants are leaving their homes for cheaper ones, while landlords in prime districts are cutting rents to hold on to them. Data shows that new leases have outnumbered renewals by 633 contracts in July and 2,139 in August. And this kind of change hasn\u2019t been noticed since records began in January 2023. Renewals had led the way for 36 months straight. We took a look at two sets of data to und",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Shows a shift in rental market dynamics and pricing.",
+   "watch": false,
+   "headline": "Dubai rental prices fall in prime districts",
+   "summary": "Tenants are moving to cheaper homes while landlords in prime districts cut rents. New leases significantly outnumbered renewals in July and August.",
+   "why": "Rental correction trends directly affect landlord pricing strategies and tenant mobility.",
+   "age_hours": 5.4,
    "topic": "Supply & market reports"
   },
   {
-   "id": "c16d99004998",
+   "id": "007f9945445b",
    "title": "Dubai rents fall in prime areas, rise on the outskirts, what should tenants be looking for?",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN1M1cGJnUlYwX1UyMWVfZzJrck9GM0I3WWNSYVZhRnBjZWo4V1kxWmREMzVWRG5maERoZEVEeGpfcTdYRFZicXFpTF9HMVlGWk4zeEVWRlplQm92UzJLbXlyeVVvSW12NzhNcE56eFVNak96aUZfYmpHUHYzcDFneW5pdG9OTEdGN2k3dklxbWRqNEpQc29GanBvWXQzektkbkZabk1uVEoxMktBekN5Y0M3Mi1YZ3pC?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRmFtLXJnR3hvNmhrSGtuMUNQdkI1aXpCZXRlLWdmWHQ2UGx0VV9yMlkwZnRpZmhMODRNU2VGdnBSZkh6a28wMVZxcjZpRTY0NkRLSWtwWFdWUU41WmZpNXhWN3l3TWNzLXFqWG10cUIwUEp1V1RuaWJPdkk1aDEzZEhlXzduY1BRWDJhRWhsQlVKRGw0QjFHOXhENjZTeHVYd1B6bFBpcEx2SzdLTlk0VE1QSTgyT2F2Sm5LZTRXejQ4b2ZlVFl1TGxnRQ?oc=5",
    "source": "Gulf News",
    "kind": "search",
    "published": "2026-10-18T06:02+04:00",
@@ -50,12 +76,12 @@
    "teaser": "",
    "category": "Supply & market reports",
    "impact": "Medium",
-   "impact_reason": "Changes tenant choices and rental pricing trends.",
+   "impact_reason": "Shifts tenant decisions and rental market dynamics.",
    "watch": false,
-   "headline": "Prime Dubai rents drop while suburban rates climb.",
-   "summary": "Rental rates are decreasing in prime districts while outer areas experience growth. Tenants should evaluate location trade-offs carefully.",
-   "why": "It shifts rental affordability dynamics across different city sectors.",
-   "age_hours": 3.8,
+   "headline": "Dubai Rental Trends Shift Across Prime and Outlying Areas",
+   "summary": "Rental rates are dropping in prime locations while simultaneously increasing across outer districts. Tenants need to adapt their search strategies based on these shifting neighborhood dynamics.",
+   "why": "It provides crucial market intelligence regarding price adjustments for Dubai tenants and landlords.",
+   "age_hours": 5.4,
    "topic": "rents"
   },
   {
@@ -74,30 +100,8 @@
    "headline": "Dubai rents drop up to 22 percent",
    "summary": "Weekly roundup highlights a drop in Dubai rental rates by up to 22 percent. Other updates include an airport trial and higher savings rates.",
    "why": "Shifting rental rates directly impact tenant choices and landlord yields.",
-   "age_hours": 8.1,
+   "age_hours": 9.7,
    "topic": "airport"
-  },
-  {
-   "id": "8dddfbf0a89b",
-   "title": "Dubai's new villa rules: Can you build a second home on your plot?",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWHZPb2l0Mkp2Y1BNNV85cE5SYmU2S1dOOTF4YlBtTW9keWJaeGduWEY1RmJIck5HOXpiVGVVOXVYRGJyOWNtOGVNbGhNcmF3RGpZcHdSY3dSajVfd05NVDJZRU5GRmV1c3Z5Qks0WU1jSHRYbkVzMUpaY043NW1LWkVTbXNkSDB6SExaaHlKbWNGcWc0RTBDa0FkMmdYdmRUU0ZiRVk2RnVLRURpN2tOR0NQTlBLbndRWTVveVh0NklIckE?oc=5",
-   "source": "Gulf News",
-   "kind": "search",
-   "published": "2026-10-17T11:16+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Regulation & fees",
-   "impact": "Medium",
-   "impact_reason": "Affects property modification and development potential.",
-   "watch": false,
-   "also": [
-    "Gulf News"
-   ],
-   "headline": "New Dubai regulations regarding secondary villa construction.",
-   "summary": "Updated guidelines address the feasibility of constructing a second home on existing residential plots. Homeowners must review specific local mandates.",
-   "why": "It directly impacts plot utilization and property expansion rights.",
-   "age_hours": 22.6,
-   "topic": "Regulation & fees"
   },
   {
    "id": "03cd65d99a26",
@@ -115,7 +119,7 @@
    "headline": "Abu Dhabi outlines perks for property owner visa holders.",
    "summary": "Authorities have highlighted three specific advantages for foreign nationals holding real estate investor visas. These benefits aim to attract more property buyers.",
    "why": "It affects investor incentives and residency appeal.",
-   "age_hours": 19.9,
+   "age_hours": 21.4,
    "topic": "abu dhabi"
   },
   {
@@ -137,7 +141,7 @@
    "headline": "Azizi Launches New Workforce Housing Developments",
    "summary": "Azizi has initiated new residential projects tailored for the workforce across Dubai and Sharjah. These developments aim to address the growing demand for staff accommodation.",
    "why": "Developer project launches indicate active construction pipelines across the Emirates.",
-   "age_hours": 4.4,
+   "age_hours": 5.9,
    "topic": "sharjah"
   },
   {
@@ -156,7 +160,7 @@
    "headline": "Emaar Malls and Dubai Municipality discuss retail projects.",
    "summary": "Both entities are exploring potential new retail and lifestyle destinations within the emirate. Collaborations aim to enhance commercial offerings.",
    "why": "It signals upcoming commercial developments by major players.",
-   "age_hours": 9.9,
+   "age_hours": 11.5,
    "topic": "emaar"
   },
   {
@@ -175,7 +179,7 @@
    "headline": "Upcoming Sobha real estate developments in Dubai.",
    "summary": "The developer is preparing to launch new residential projects across the emirate. Details outline future inventory additions.",
    "why": "It provides insight into incoming residential supply.",
-   "age_hours": 20.3,
+   "age_hours": 21.8,
    "topic": "sobha"
   },
   {
@@ -194,15 +198,15 @@
    "headline": "China\u2019s JD Property Debuts UAE Logistics JV and More APAC Real Estate Headlines",
    "summary": "",
    "why": "can move investor sentiment; expect questions about where the market is heading.",
-   "age_hours": 20.4,
+   "age_hours": 21.9,
    "topic": "Macro & geopolitics"
   }
  ],
  "window_hours": 24,
- "count_relevant": 18,
- "count_fetched": 349,
+ "count_relevant": 17,
+ "count_fetched": 364,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-18T09:52+04:00",
- "saved_at": "2026-10-18T09:52+04:00"
+ "as_of": "2026-10-18T11:26+04:00",
+ "saved_at": "2026-10-18T11:26+04:00"
 }
