@@ -334,6 +334,42 @@
    "category": "Developer news",
    "impact": "Medium",
    "impact_reason": "Expands regional industrial real estate and logistics infrastructure."
+  },
+  "25b5036a0a38": {
+   "relevant": true,
+   "headline": "Sharjah Property Transactions Hit $12.74 Billion in Nine Months",
+   "summary": "Sharjah achieved $12.74 billion in real estate transactions over the first three quarters of 2026. High rental yields between 8 and 12 percent continue to attract thousands of international buyers.",
+   "why": "This report highlights strong investor demand and lucrative yields in the regional market.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects strong regional market performance and high rental yields."
+  },
+  "34bafb8a286e": {
+   "relevant": true,
+   "headline": "Abu Dhabi Details Seven Categories for 10-Year Golden Visa",
+   "summary": "Abu Dhabi has published the specific foreigner categories that qualify for its long-term residency program. This initiative aims to draw skilled talent and sustained investment to the emirate.",
+   "why": "Residency rules directly impact long-term buyer sentiment and property investments.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Clear residency pathways encourage long-term property investments."
+  },
+  "456b5caa5b3f": {
+   "relevant": true,
+   "headline": "Azizi Launches New Workforce Housing Developments",
+   "summary": "Azizi has initiated new residential projects tailored for the workforce across Dubai and Sharjah. These developments aim to address the growing demand for staff accommodation.",
+   "why": "Developer project launches indicate active construction pipelines across the Emirates.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Involves workforce housing rather than mainstream residential property sales."
+  },
+  "679908d82046": {
+   "relevant": false,
+   "headline": "UAE Property: Company-Rented Apartment Residency Inquiry",
+   "summary": "An analysis addresses whether employees can remain in company-provided housing after resigning from their jobs.",
+   "why": "This is an employment advisory piece rather than market-moving real estate news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Employment advice with no broader market impact."
   }
  }
 }

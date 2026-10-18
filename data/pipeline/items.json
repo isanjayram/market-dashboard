@@ -975,5 +975,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"456b5caa5b3f": {
+"id": "456b5caa5b3f",
+"title": "Azizi Launches New Workforce Housing Developments",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb1pETzg0cjV2YWFZWEo4ekxiSVV1THBtc1UxS3JNXzhoclFiMzZqRDlfYjZtem9OM2ZzQV82eGRicjFId1BfZTVadTk3bWl2ZUMwSEUtaGx0N3U2WHdWR2ZydUdadFpVaU1TRF9hS1d2WnF3ejU1OUxWVnZTblEtazNySXJjM29RaHQyS3Q4VE8xX1R3VEVSUDhUTTJ2SURP?oc=5",
+"source": "TradeArabia",
+"category": "Developer news",
+"published": "2026-10-18T05:30+04:00",
+"first_seen": "2026-10-18",
+"kind": "Off-plan launch",
+"region": "Sharjah",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": "Azizi",
+"location": null,
+"type": "Workforce Housing",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

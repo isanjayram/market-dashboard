@@ -16,7 +16,7 @@
    "headline": "UAE real estate transactions surge 103 percent",
    "summary": "The UAE property market maintained strong momentum with transaction volumes jumping 103 percent in the first half of 2026.",
    "why": "Massive transaction growth signals exceptional overall market health and investor appetite.",
-   "age_hours": 20.7,
+   "age_hours": 23.4,
    "topic": "Supply & market reports",
    "more": 2
   },
@@ -36,7 +36,7 @@
    "headline": "Dubai property sector hits $3.7bn in weekly deals",
    "summary": "Dubai registered $3.7 billion in property transactions over the past week. A Palm Jumeirah apartment contributed $14.6 million to the total.",
    "why": "It shows strong weekly transaction volume and high-value luxury sales in Dubai.",
-   "age_hours": 6.8,
+   "age_hours": 9.5,
    "topic": "Supply & market reports"
   },
   {
@@ -55,7 +55,7 @@
    "headline": "Prime Dubai rents drop while suburban rates climb.",
    "summary": "Rental rates are decreasing in prime districts while outer areas experience growth. Tenants should evaluate location trade-offs carefully.",
    "why": "It shifts rental affordability dynamics across different city sectors.",
-   "age_hours": 1.1,
+   "age_hours": 3.8,
    "topic": "rents"
   },
   {
@@ -74,7 +74,7 @@
    "headline": "Dubai rents drop up to 22 percent",
    "summary": "Weekly roundup highlights a drop in Dubai rental rates by up to 22 percent. Other updates include an airport trial and higher savings rates.",
    "why": "Shifting rental rates directly impact tenant choices and landlord yields.",
-   "age_hours": 5.4,
+   "age_hours": 8.1,
    "topic": "airport"
   },
   {
@@ -96,7 +96,7 @@
    "headline": "New Dubai regulations regarding secondary villa construction.",
    "summary": "Updated guidelines address the feasibility of constructing a second home on existing residential plots. Homeowners must review specific local mandates.",
    "why": "It directly impacts plot utilization and property expansion rights.",
-   "age_hours": 19.9,
+   "age_hours": 22.6,
    "topic": "Regulation & fees"
   },
   {
@@ -115,27 +115,30 @@
    "headline": "Abu Dhabi outlines perks for property owner visa holders.",
    "summary": "Authorities have highlighted three specific advantages for foreign nationals holding real estate investor visas. These benefits aim to attract more property buyers.",
    "why": "It affects investor incentives and residency appeal.",
-   "age_hours": 17.2,
+   "age_hours": 19.9,
    "topic": "abu dhabi"
   },
   {
-   "id": "83a0f3b4c0ae",
-   "title": "China\u2019s JD Property Debuts UAE Logistics JV and More APAC Real Estate Headlines",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUEFoTnZfXzE4MWxNNTM1LWVfWnpaemlLWmNHRkxnTmU4SWFnZEY0czBNam9zQjlfQ1pDeFBxTDlodW5oLWRyZGUyek4xT2VqRUc2UzlpZkFmRk5ROUNFaWFhUkN0WlJ2YXBsYURWdEpQaHltLUxkbUFVaXF1Qno5VVloalFxanJxWUswaWdPMWtwTTJ4ZHc2cQ?oc=5",
-   "source": "Mingtiandi",
+   "id": "456b5caa5b3f",
+   "title": "Azizi kicks off workforce residential projects in Dubai, Sharjah",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb1pETzg0cjV2YWFZWEo4ekxiSVV1THBtc1UxS3JNXzhoclFiMzZqRDlfYjZtem9OM2ZzQV82eGRicjFId1BfZTVadTk3bWl2ZUMwSEUtaGx0N3U2WHdWR2ZydUdadFpVaU1TRF9hS1d2WnF3ejU1OUxWVnZTblEtazNySXJjM29RaHQyS3Q4VE8xX1R3VEVSUDhUTTJ2SURP?oc=5",
+   "source": "TradeArabia",
    "kind": "search",
-   "published": "2026-10-17T13:31+04:00",
+   "published": "2026-10-18T05:30+04:00",
    "tags": [],
    "teaser": "",
    "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Expands regional industrial real estate and logistics infrastructure.",
-   "watch": false,
-   "headline": "China's JD Property Launches UAE Logistics Joint Venture",
-   "summary": "JD Property has established a new logistics joint venture in the United Arab Emirates. This marks the company's expansion into the regional industrial real estate sector.",
-   "why": "It introduces a major international player into the local industrial real estate market.",
-   "age_hours": 17.7,
-   "topic": "Developer news"
+   "impact": "Low",
+   "impact_reason": "Involves workforce housing rather than mainstream residential property sales.",
+   "watch": true,
+   "also": [
+    "TradeArabia"
+   ],
+   "headline": "Azizi Launches New Workforce Housing Developments",
+   "summary": "Azizi has initiated new residential projects tailored for the workforce across Dubai and Sharjah. These developments aim to address the growing demand for staff accommodation.",
+   "why": "Developer project launches indicate active construction pipelines across the Emirates.",
+   "age_hours": 4.4,
+   "topic": "sharjah"
   },
   {
    "id": "752c94f3b496",
@@ -153,7 +156,7 @@
    "headline": "Emaar Malls and Dubai Municipality discuss retail projects.",
    "summary": "Both entities are exploring potential new retail and lifestyle destinations within the emirate. Collaborations aim to enhance commercial offerings.",
    "why": "It signals upcoming commercial developments by major players.",
-   "age_hours": 7.2,
+   "age_hours": 9.9,
    "topic": "emaar"
   },
   {
@@ -172,34 +175,34 @@
    "headline": "Upcoming Sobha real estate developments in Dubai.",
    "summary": "The developer is preparing to launch new residential projects across the emirate. Details outline future inventory additions.",
    "why": "It provides insight into incoming residential supply.",
-   "age_hours": 17.6,
+   "age_hours": 20.3,
    "topic": "sobha"
   },
   {
-   "id": "144f20a5a261",
-   "title": "UAE Business: Reportage, Sabah unveil four real estate projects in Azerbaijan",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcFR4OEU1cTVHYkJ3Q2xrUHhaR0Nmc29Wd0NvTUYyRlZ1cUx0b2xGZGVudDh2ODQtcExPWUxsS1ZaQUFRdDJpQjRFVjN5ay1DZVNBdEc0Z3podTB1NG9PaWdnRUgxVDlJM2t6Y1c4OE9zcXVERnF3Z2pEVjlNYVNQV1pGODc4dEdQaFhFUnJsd2dYMlBuM0RyZmQtZE9qZXV5RV9TZUhPSS0?oc=5",
-   "source": "Gulf Daily News (Bahrain)",
+   "id": "83a0f3b4c0ae",
+   "title": "China\u2019s JD Property Debuts UAE Logistics JV and More APAC Real Estate Headlines",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUEFoTnZfXzE4MWxNNTM1LWVfWnpaemlLWmNHRkxnTmU4SWFnZEY0czBNam9zQjlfQ1pDeFBxTDlodW5oLWRyZGUyek4xT2VqRUc2UzlpZkFmRk5ROUNFaWFhUkN0WlJ2YXBsYURWdEpQaHltLUxkbUFVaXF1Qno5VVloalFxanJxWUswaWdPMWtwTTJ4ZHc2cQ?oc=5",
+   "source": "Mingtiandi",
    "kind": "search",
-   "published": "2026-10-17T13:08+04:00",
+   "published": "2026-10-17T13:31+04:00",
    "tags": [],
    "teaser": "",
-   "category": "Developer news",
+   "category": "Macro & geopolitics",
    "impact": "Low",
-   "impact_reason": "Involves international projects rather than domestic Dubai real estate.",
+   "impact_reason": "General market context",
    "watch": false,
-   "headline": "Reportage and Sabah launch four projects in Azerbaijan",
-   "summary": "UAE-based developers Reportage and Sabah have unveiled four new real estate developments in Azerbaijan.",
-   "why": "It highlights UAE developer expansion into international property markets.",
-   "age_hours": 18.0,
-   "topic": "Developer news"
+   "headline": "China\u2019s JD Property Debuts UAE Logistics JV and More APAC Real Estate Headlines",
+   "summary": "",
+   "why": "can move investor sentiment; expect questions about where the market is heading.",
+   "age_hours": 20.4,
+   "topic": "Macro & geopolitics"
   }
  ],
  "window_hours": 24,
  "count_relevant": 18,
- "count_fetched": 331,
+ "count_fetched": 349,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-18T07:10+04:00",
- "saved_at": "2026-10-18T07:10+04:00"
+ "as_of": "2026-10-18T09:52+04:00",
+ "saved_at": "2026-10-18T09:52+04:00"
 }
