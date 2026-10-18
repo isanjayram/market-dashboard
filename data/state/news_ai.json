@@ -1,330 +1,4 @@
 {
- "2026-10-16": {
-  "e53f04aeda9f": {
-   "relevant": true,
-   "headline": "Guide to UAE Golden Visa Nomination Letters",
-   "summary": "Learn about the ICP nomination letter process for the UAE Golden Visa. This document is essential for specific applicant categories seeking long-term residency.",
-   "why": "It directly affects residency rules and long-term investor planning in the UAE.",
-   "category": "Regulation & fees",
-   "impact": "High",
-   "impact_reason": "Directly impacts investor residency eligibility and long-term planning."
-  },
-  "29223642a0dc": {
-   "relevant": true,
-   "headline": "Sharjah RTA Links Bus Routes to Etihad Rail",
-   "summary": "New bus connections link Sharjah RTA routes directly to the Al Dhaid Etihad Rail station. This integration improves regional connectivity across the Emirates.",
-   "why": "Better transport links enhance regional accessibility and property appeal.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Improves regional connectivity and accessibility for residents."
-  },
-  "f548db99fc86": {
-   "relevant": true,
-   "headline": "Dubai Ready-Home Sales Rise by 16 Percent",
-   "summary": "Completed property transactions in Dubai grew significantly as purchasers moved away from off-plan purchases. This trend highlights a shifting preference towards immediate occupancy.",
-   "why": "It shows a clear shift in buyer demand toward completed real estate.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Reflects shifting buyer demand towards completed real estate assets."
-  },
-  "3491d40c79be": {
-   "relevant": true,
-   "headline": "UAE Announces Eligible Universities for Golden Visas",
-   "summary": "Authorities released a list of one hundred approved universities for the Golden Visa program. Notable exclusions and inclusions feature prominently in the announcement.",
-   "why": "It impacts student residency eligibility and academic property demand.",
-   "category": "Regulation & fees",
-   "impact": "Medium",
-   "impact_reason": "Affects talent retention and specific residency criteria."
-  },
-  "fab56f19468d": {
-   "relevant": false,
-   "headline": "Belgium Seizes Funds from Drug Trafficker",
-   "summary": "European authorities confiscated funds from an individual linked to real estate investments.",
-   "why": "This is a crime report rather than general real estate or economic news.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Crime reporting with no direct market impact."
-  },
-  "4e22ff3b131d": {
-   "relevant": true,
-   "headline": "Sharjah Reaches AED 46.8 Billion in Transactions",
-   "summary": "Total real estate deals in Sharjah hit nearly forty-seven billion dirhams, according to recent figures. The milestone was announced during a forum event.",
-   "why": "It provides vital data on regional market size and investment volume.",
-   "category": "Supply & market reports",
-   "impact": "Low",
-   "impact_reason": "Provides historical transaction volume data without altering market conditions."
-  },
-  "79a94399bc88": {
-   "relevant": true,
-   "headline": "Aldar Enters Sharjah Market with Major Acquisition",
-   "summary": "Aldar has expanded its footprint into Sharjah through a major investment. The company secured multiple residential assets in the emirate.",
-   "why": "Major developer expansion signals confidence in the broader UAE property market.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Major developer expansion signals strong regional market confidence."
-  },
-  "c2cf915e1aa6": {
-   "relevant": true,
-   "headline": "Aldar Purchases Nine Sharjah Buildings for Dh1.1 Billion",
-   "summary": "The developer spent over one billion dirhams to acquire residential buildings in Sharjah. This move marks the firm's formal entry into the local market.",
-   "why": "Large-scale acquisitions indicate shifting investment trends across emirates.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Significant capital deployment into a new regional sub-market."
-  },
-  "75682d9fe96e": {
-   "relevant": true,
-   "headline": "Brent Crude Oil Dips Below $106 in Asian Markets",
-   "summary": "Asian trading sessions show oil prices dipping slightly. Brent crude maintains a position above the $105 threshold.",
-   "why": "Oil price movements influence broader economic sentiment in the region.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Minor economic indicator shift with no direct property effect."
-  },
-  "c6ff8d26a820": {
-   "relevant": true,
-   "headline": "Dubai Rent Trends Show Divergence for New and Renewing Tenants",
-   "summary": "Data indicates that rental rates are dropping for incoming tenants. Conversely, renewals are experiencing increases.",
-   "why": "Rental market shifts directly impact tenant behavior and investor returns.",
-   "category": "Supply & market reports",
-   "impact": "High",
-   "impact_reason": "Directly impacts tenant costs and rental yields."
-  },
-  "5668e4bd3706": {
-   "relevant": true,
-   "headline": "World Islands Welcomes New $1.1B Project with 840 Homes",
-   "summary": "A massive $1.1 billion project is coming to the Dubai World Islands. It includes 840 residential properties, floating villas, and dedicated yacht transport.",
-   "why": "New mega-projects expand luxury housing inventory in coastal areas.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Significant luxury supply addition on the World Islands."
-  },
-  "3273d3049b55": {
-   "relevant": true,
-   "headline": "Dubai Property Transactions Reach Dh2.8 Billion Across 744 Deals",
-   "summary": "Daily market activity hit Dh2.8 billion from 744 transactions. A Sobha Hartland land mortgage led the figures at Dh172 million.",
-   "why": "Daily transaction data reflects ongoing liquidity and investor confidence.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Highlights robust daily market liquidity and sales volume."
-  },
-  "18420c629648": {
-   "relevant": true,
-   "headline": "Gargash Prime and JD Property Invest Dh500m in Dubai Logistics",
-   "summary": "Gargash Prime and JD Property are teaming up to invest over Dh500m. They are building a new logistics facility in Dubai.",
-   "why": "Industrial real estate investments strengthen the city's commercial infrastructure.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Expands commercial and industrial real estate capacity."
-  },
-  "d1d8aecd25eb": {
-   "relevant": true,
-   "headline": "Gargash and JINGDONG Plan Massive 2.5 Million Sq Ft Logistics Hub",
-   "summary": "Gargash Prime and JINGDONG Property have unveiled plans for a sprawling logistics hub. The facility will span 2.5 million square feet in Dubai.",
-   "why": "Large-scale commercial developments boost industrial property supply.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Major industrial development boosting commercial sector supply."
-  },
-  "ad9134cfce90": {
-   "relevant": true,
-   "headline": "Missoni and Tomorrow World Launch Branded Residences on Dubai Islands",
-   "summary": "Tomorrow World Properties has partnered with Missoni for a new residential launch. The project is named The Bay Interiors by Missoni and is located on Dubai Islands.",
-   "why": "Branded residences add luxury options to emerging island communities.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "New branded luxury residential launch on Dubai Islands."
-  },
-  "220474b0eabd": {
-   "relevant": false,
-   "headline": "Aldar International Unit Plans 9,000 Homes in London",
-   "summary": "Aldar Properties' London Square plans to deliver 9,000 homes in the UK capital. The £5 billion project spans around 30 sites.",
-   "why": "This news concerns international development outside the UAE market.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Focuses on UK residential development rather than UAE."
-  },
-  "db4fe89cb9ce": {
-   "relevant": true,
-   "headline": "Aldar plans major Dubai villa and townhouse launch",
-   "summary": "Aldar intends to introduce a large residential project featuring villas and townhouses before the year concludes. This release will add new inventory to the competitive villa sector.",
-   "why": "New large-scale community launches expand buyer choices and influence local neighborhood pricing.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Adds fresh inventory to the villa market."
-  },
-  "c62e51f0e09f": {
-   "relevant": true,
-   "headline": "Emaar reports decline in property cancellations",
-   "summary": "Cancellations at Emaar peaked at roughly 1,200 monthly amid regional tensions before dropping back below 600. Founder Mohamed Alabbar noted the stabilizing figures at a recent investment forum.",
-   "why": "Cancellation trends offer insight into buyer commitment and immediate market stability.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Reflects stabilizing buyer commitment after regional tensions."
-  },
-  "6ffa7b34f8be": {
-   "relevant": true,
-   "headline": "Samana invests Dhs4bn in World Islands project",
-   "summary": "Samana is committing four billion dirhams to a new development on Dubai's World Islands. This move signals renewed interest in expanding development across the archipelago.",
-   "why": "High-value investments in niche locations can stimulate broader interest in unique island properties.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Highlights niche development activity in the emirate."
-  },
-  "8198a77fcb19": {
-   "relevant": true,
-   "headline": "Alabbar expresses confidence in Dubai property recovery",
-   "summary": "Emaar founder Mohamed Alabbar remains strongly optimistic about the ongoing resilience of the local real estate sector. His comments highlight continued robust demand across the market.",
-   "why": "Public statements from major industry figures shape investor sentiment and confidence.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Boosts overall sentiment regarding market recovery."
-  },
-  "0311c22277fd": {
-   "relevant": true,
-   "headline": "Sharjah adds bus routes connecting to Etihad Rail station",
-   "summary": "Three new public transport routes now link Sharjah, Al Madam, and Al Sajaa to the Al Dhaid railway station. This expansion enhances regional connectivity following the integration of Al Dhaid into the national rail network.",
-   "why": "Improved transportation links boost the accessibility and appeal of outlying areas for residents and investors.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Better transport links enhance regional accessibility and property appeal."
-  },
-  "17dd8da3c7d7": {
-   "relevant": true,
-   "headline": "NRI Guide on Filing RERA Complaints from Abroad",
-   "summary": "Overseas investors can file formal RERA grievances remotely when facing developer disputes. This mechanism helps protect international capital invested in the local property market.",
-   "why": "Cross-border legal recourse safeguards foreign investor confidence in regional real estate.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Protects investor confidence via accessible dispute resolution channels."
-  },
-  "c2be12aa94df": {
-   "relevant": true,
-   "headline": "XOTO secures backing for AI-driven UAE property transformation",
-   "summary": "Sawarthia Group has provided strategic investment to XOTO to advance artificial intelligence applications in local real estate. The funding aims to modernize property transactions and operational processes through technology.",
-   "why": "Proptech innovations can streamline property transactions and improve market efficiency.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Technology adoption improves long-term market efficiency."
-  },
-  "25b5036a0a38": {
-   "relevant": true,
-   "headline": "Sharjah hits $12.74 billion in property deals",
-   "summary": "Sharjah achieved AED46.8 billion in real estate transactions over nine months. Strong rental yields of up to 12 percent attracted nearly 10,000 new investors.",
-   "why": "This report highlights strong investor demand and high rental yields in a neighboring emirate.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Shows strong regional investor demand and high yields."
-  },
-  "a7c11c258936": {
-   "relevant": false,
-   "headline": "Emaar's Mohamed Alabbar speaks at Sharjah event",
-   "summary": "Emaar's Mohamed Alabbar spoke at the Sharjah Investment Forum.",
-   "why": "This is an industry commentary piece without specific real estate market data or policy changes.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Lacks specific project or market news."
-  },
-  "b76fddbd4a5a": {
-   "relevant": false,
-   "headline": "Samana plans Dhs4bn project on World Islands",
-   "summary": "Samana is betting on the World Islands with a massive Dhs4bn project.",
-   "why": "The teaser is empty and the title lacks enough specific market data or actionable news.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Insufficient teaser details provided."
-  },
-  "ba4c66a6057a": {
-   "relevant": true,
-   "headline": "Etihad Rail Link Connects Commuters to Metro Quickly",
-   "summary": "A new rail connection allows passengers to reach the metro system within five minutes. This addition enhances overall public transportation access in the emirate.",
-   "why": "It improves regional connectivity and accessibility, which can positively influence local real estate values.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Improves local transport connectivity and accessibility."
-  },
-  "42ba8bc69ebe": {
-   "relevant": false,
-   "headline": "Missoni and Tomorrow World Properties Launch Dubai Islands Project",
-   "summary": "Tomorrow World Properties has partnered with Missoni to introduce a new branded residential concept on Dubai Islands.",
-   "why": "This is a developer launch and design partnership that does not significantly shift market dynamics.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Standard branded real estate launch."
-  },
-  "3fdd97a06e63": {
-   "relevant": true,
-   "headline": "New Etihad Rail Link Connects Directly to Dubai Metro",
-   "summary": "A fresh pedestrian link allows commuters to travel between Etihad Rail and the metro within minutes. This integration improves transit convenience for residents.",
-   "why": "It improves local transit connectivity, making nearby properties more attractive to commuters.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Improves local transport connectivity and accessibility."
-  },
-  "0170f7fd0c38": {
-   "relevant": true,
-   "headline": "Etihad Rail and Metro Pedestrian Bridge Opens in Dubai",
-   "summary": "A newly opened walkway joins Al Yalayis Station directly to Jumeirah Golf Estates Metro Station. Travelers can now complete the transfer in just five minutes.",
-   "why": "Better transit links boost the appeal of surrounding real estate developments.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Enhances neighborhood accessibility and commuter convenience."
-  },
-  "34bafb8a286e": {
-   "relevant": true,
-   "headline": "Abu Dhabi Details Seven Foreigner Categories for Golden Visa",
-   "summary": "Authorities have outlined the specific groups of international applicants who qualify for the ten-year residency permit. This clarifies pathways for long-term residency through property and investment.",
-   "why": "Residency rules directly influence buyer demand and foreign investment in UAE property.",
-   "category": "Regulation & fees",
-   "impact": "High",
-   "impact_reason": "Clarifies residency eligibility, driving investor interest."
-  },
-  "f828c02ad15c": {
-   "relevant": true,
-   "headline": "Aldar Enters Sharjah Market Through $300M Arada Partnership",
-   "summary": "The developer has partnered with Arada to acquire residential units in Sharjah for $300 million. This marks Aldar's official entry into the Sharjah property sector.",
-   "why": "Major developer expansion highlights shifting regional investment patterns.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Signals major developer expansion into new regional markets."
-  },
-  "603ed9938036": {
-   "relevant": true,
-   "headline": "Sharjah Property Sector Attracts Nearly 10,000 New Investors",
-   "summary": "The emirate's real estate market experienced a notable rise in participation, drawing in thousands of fresh buyers. This points to growing confidence in regional property assets.",
-   "why": "Investor growth figures provide crucial context on regional market demand.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Reflects broad investor interest in regional markets."
-  },
-  "17fd3de1675a": {
-   "relevant": true,
-   "headline": "Aldar Finalizes $300M Residential Deal with Arada in Sharjah",
-   "summary": "The developer secured a multi-million dollar agreement to purchase premium homes in Sharjah. The transaction establishes the firm's footprint outside its traditional markets.",
-   "why": "Cross-emirate developer deals impact market dynamics and housing supply perception.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Highlights strategic developer investments across emirates."
-  },
-  "092b9d43b090": {
-   "relevant": true,
-   "headline": "Aldar Expands Into Sharjah With Dh1.1 Billion Aljada Purchase",
-   "summary": "The firm acquired over 1,100 residential properties within the Aljada development. This substantial transaction marks the company's debut in Sharjah real estate.",
-   "why": "Large-scale acquisitions by major developers signal strong confidence in upcoming communities.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Demonstrates major developer confidence in new master communities."
-  },
-  "e37bcf709d1b": {
-   "relevant": false,
-   "headline": "Suryakumar Yadav Buys Luxury Dubai Property",
-   "summary": "A well-known cricketer has purchased a high-end Dubai residence. Celebrity property acquisitions occasionally draw attention to luxury developments.",
-   "why": "Celebrity real estate purchases do not significantly impact broader market trends.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Celebrity lifestyle purchase with no market impact."
-  }
- },
  "2026-10-17": {
   "417c2c5b5205": {
    "relevant": true,
@@ -505,6 +179,161 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "No effect on property."
+  }
+ },
+ "2026-10-18": {
+  "f724af775aa4": {
+   "relevant": true,
+   "headline": "Dubai property sector hits $3.7bn in weekly deals",
+   "summary": "Dubai registered $3.7 billion in property transactions over the past week. A Palm Jumeirah apartment contributed $14.6 million to the total.",
+   "why": "It shows strong weekly transaction volume and high-value luxury sales in Dubai.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects ongoing strong market activity and liquidity."
+  },
+  "f4b735f5326e": {
+   "relevant": true,
+   "headline": "Dubai rents drop up to 22 percent",
+   "summary": "Weekly roundup highlights a drop in Dubai rental rates by up to 22 percent. Other updates include an airport trial and higher savings rates.",
+   "why": "Shifting rental rates directly impact tenant choices and landlord yields.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Indicates shifting rental trends across the emirate."
+  },
+  "144f20a5a261": {
+   "relevant": true,
+   "headline": "Reportage and Sabah launch four projects in Azerbaijan",
+   "summary": "UAE-based developers Reportage and Sabah have unveiled four new real estate developments in Azerbaijan.",
+   "why": "It highlights UAE developer expansion into international property markets.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Involves international projects rather than domestic Dubai real estate."
+  },
+  "81b56e6b99f2": {
+   "relevant": true,
+   "headline": "Dubai weekly property transactions reach AED 13.47 billion",
+   "summary": "Total Dubai real estate transactions hit AED 13.47 billion during the week, which included AED 8.59 billion in sales.",
+   "why": "It provides a clear picture of total capital flowing into the local property market.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Highlights robust transactional turnover in the local market."
+  },
+  "69ff5094dfc1": {
+   "relevant": true,
+   "headline": "UAE real estate transactions surge 103 percent",
+   "summary": "The UAE property market maintained strong momentum with transaction volumes jumping 103 percent in the first half of 2026.",
+   "why": "Massive transaction growth signals exceptional overall market health and investor appetite.",
+   "category": "Supply & market reports",
+   "impact": "High",
+   "impact_reason": "Demonstrates massive market growth and heightened investor confidence."
+  },
+  "d2bd45a03c79": {
+   "relevant": false,
+   "headline": "Sharjah Deputy Ruler opens orphanage and housing project",
+   "summary": "Sharjah Deputy Ruler opens orphanage, launches housing project in Philippines.",
+   "why": "International humanitarian projects do not impact the Dubai property market.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Not relevant to local property economics."
+  },
+  "ab9faa9c14fa": {
+   "relevant": false,
+   "headline": "Cricketer Suryakumar buys property in Dubai",
+   "summary": "Indian cricketer Suryakumar buys luxury property in Shah Rukh Khan's tower.",
+   "why": "Celebrity real estate purchases are lifestyle news rather than broad market indicators.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Celebrity purchase has no broader market impact."
+  },
+  "779fb744bdc0": {
+   "relevant": true,
+   "headline": "Dubai rental prices fall in prime districts",
+   "summary": "Tenants are moving to cheaper homes while landlords in prime districts cut rents. New leases significantly outnumbered renewals in July and August.",
+   "why": "Rental correction trends directly affect landlord pricing strategies and tenant mobility.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Shows a shift in rental market dynamics and pricing."
+  },
+  "c16d99004998": {
+   "relevant": true,
+   "headline": "Prime Dubai rents drop while suburban rates climb.",
+   "summary": "Rental rates are decreasing in prime districts while outer areas experience growth. Tenants should evaluate location trade-offs carefully.",
+   "why": "It shifts rental affordability dynamics across different city sectors.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Changes tenant choices and rental pricing trends."
+  },
+  "752c94f3b496": {
+   "relevant": true,
+   "headline": "Emaar Malls and Dubai Municipality discuss retail projects.",
+   "summary": "Both entities are exploring potential new retail and lifestyle destinations within the emirate. Collaborations aim to enhance commercial offerings.",
+   "why": "It signals upcoming commercial developments by major players.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Early-stage discussions with no immediate market shifts."
+  },
+  "a6c853283f8f": {
+   "relevant": false,
+   "headline": "Celebrity property investment in luxury Dubai real estate.",
+   "summary": "Public figures have purchased high-end property in the local market.",
+   "why": "It is a celebrity lifestyle and gossip piece without substantive market news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Celebrity purchases do not affect broader market conditions."
+  },
+  "8dddfbf0a89b": {
+   "relevant": true,
+   "headline": "New Dubai regulations regarding secondary villa construction.",
+   "summary": "Updated guidelines address the feasibility of constructing a second home on existing residential plots. Homeowners must review specific local mandates.",
+   "why": "It directly impacts plot utilization and property expansion rights.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Affects property modification and development potential."
+  },
+  "e37eec1802b1": {
+   "relevant": false,
+   "headline": "Expert discussion on UAE luxury real estate forces.",
+   "summary": "Industry executives share perspectives on the drivers transforming the luxury sector.",
+   "why": "It is an opinion piece with no concrete news updates.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Opinion content without direct market-shaping news."
+  },
+  "5f96237fc8fe": {
+   "relevant": false,
+   "headline": "Celebrity villa features revealed in Dubai.",
+   "summary": "Details highlighting luxury amenities inside a known personality's villa.",
+   "why": "It focuses on celebrity lifestyle rather than real estate economics.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Purely celebrity interest content."
+  },
+  "03cd65d99a26": {
+   "relevant": true,
+   "headline": "Abu Dhabi outlines perks for property owner visa holders.",
+   "summary": "Authorities have highlighted three specific advantages for foreign nationals holding real estate investor visas. These benefits aim to attract more property buyers.",
+   "why": "It affects investor incentives and residency appeal.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Influences buyer sentiment and foreign investment incentives."
+  },
+  "795935f9e6ea": {
+   "relevant": true,
+   "headline": "Upcoming Sobha real estate developments in Dubai.",
+   "summary": "The developer is preparing to launch new residential projects across the emirate. Details outline future inventory additions.",
+   "why": "It provides insight into incoming residential supply.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Announcements of future projects have minimal immediate impact."
+  },
+  "83a0f3b4c0ae": {
+   "relevant": true,
+   "headline": "China's JD Property Launches UAE Logistics Joint Venture",
+   "summary": "JD Property has established a new logistics joint venture in the United Arab Emirates. This marks the company's expansion into the regional industrial real estate sector.",
+   "why": "It introduces a major international player into the local industrial real estate market.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Expands regional industrial real estate and logistics infrastructure."
   }
  }
 }

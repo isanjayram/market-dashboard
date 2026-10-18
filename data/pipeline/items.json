@@ -953,5 +953,27 @@
 "starting_price": "AED 4 Billion",
 "payment_plan": null
 }
+},
+"83a0f3b4c0ae": {
+"id": "83a0f3b4c0ae",
+"title": "China's JD Property Launches UAE Logistics Joint Venture",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUEFoTnZfXzE4MWxNNTM1LWVfWnpaemlLWmNHRkxnTmU4SWFnZEY0czBNam9zQjlfQ1pDeFBxTDlodW5oLWRyZGUyek4xT2VqRUc2UzlpZkFmRk5ROUNFaWFhUkN0WlJ2YXBsYURWdEpQaHltLUxkbUFVaXF1Qno5VVloalFxanJxWUswaWdPMWtwTTJ4ZHc2cQ?oc=5",
+"source": "Mingtiandi",
+"category": "Developer news",
+"published": "2026-10-17T13:31+04:00",
+"first_seen": "2026-10-18",
+"kind": "Off-plan launch",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
