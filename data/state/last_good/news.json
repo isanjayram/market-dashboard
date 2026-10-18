@@ -16,7 +16,7 @@
    "headline": "Dubai property sector hits $3.7bn in weekly deals",
    "summary": "Dubai registered $3.7 billion in property transactions over the past week. A Palm Jumeirah apartment contributed $14.6 million to the total.",
    "why": "It shows strong weekly transaction volume and high-value luxury sales in Dubai.",
-   "age_hours": 11.9,
+   "age_hours": 12.5,
    "topic": "Supply & market reports"
   },
   {
@@ -35,12 +35,13 @@
    "impact_reason": "Affects tenant compliance and rental choices.",
    "watch": false,
    "also": [
+    "Khaleej Times",
     "Menafn"
    ],
    "headline": "Dubai Shared Housing Law 2026 Tenant Checklist",
    "summary": "Tenants seeking shared accommodations must review specific compliance checks to avoid violating the updated 2026 regulations. Understanding these rules ensures renters stay legally compliant.",
    "why": "It outlines essential legal requirements for tenants navigating Dubai's shared housing regulations.",
-   "age_hours": 2.0,
+   "age_hours": 2.5,
    "topic": "Regulation & fees"
   },
   {
@@ -59,7 +60,7 @@
    "headline": "Prime Dubai rents drop while suburban rates climb.",
    "summary": "Rental rates are decreasing in prime districts while outer areas experience growth. Tenants should evaluate location trade-offs carefully.",
    "why": "It shifts rental affordability dynamics across different city sectors.",
-   "age_hours": 6.3,
+   "age_hours": 6.9,
    "topic": "rents"
   },
   {
@@ -78,7 +79,7 @@
    "headline": "Dubai rents drop up to 22 percent",
    "summary": "Weekly roundup highlights a drop in Dubai rental rates by up to 22 percent. Other updates include an airport trial and higher savings rates.",
    "why": "Shifting rental rates directly impact tenant choices and landlord yields.",
-   "age_hours": 10.6,
+   "age_hours": 11.1,
    "topic": "airport"
   },
   {
@@ -100,7 +101,7 @@
    "headline": "UAE Golden Visa expands to diverse professions beyond wealthy investors",
    "summary": "The ten-year UAE residency program now includes nurses, teachers, and e-sports professionals. This broader eligibility encourages more long-term residents to invest in local property.",
    "why": "Broadened residency eligibility directly impacts long-term property demand and buyer demographics in the UAE.",
-   "age_hours": 0.3,
+   "age_hours": 0.9,
    "topic": "golden visa"
   },
   {
@@ -119,7 +120,7 @@
    "headline": "Abu Dhabi outlines perks for property owner visa holders.",
    "summary": "Authorities have highlighted three specific advantages for foreign nationals holding real estate investor visas. These benefits aim to attract more property buyers.",
    "why": "It affects investor incentives and residency appeal.",
-   "age_hours": 22.3,
+   "age_hours": 22.9,
    "topic": "abu dhabi"
   },
   {
@@ -138,27 +139,8 @@
    "headline": "China's JD Property Launches UAE Logistics Joint Venture",
    "summary": "JD Property has established a new logistics joint venture in the United Arab Emirates. This marks the company's expansion into the regional industrial real estate sector.",
    "why": "It introduces a major international player into the local industrial real estate market.",
-   "age_hours": 22.8,
+   "age_hours": 23.4,
    "topic": "Developer news"
-  },
-  {
-   "id": "81b56e6b99f2",
-   "title": "Sales worth AED 8.59 billion. Dubai real estate transactions amounted to AED 13.47 billion during the week",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOTTRza2N2LWZxNVhleG92eW9EdW9kWVRyVmVMeHpVVmFtUE51TG9iTjF0N29BUWFZdVJMX2VuNVZldWhWdGlJX2tQdVZuV3Y0VkR0Ty0zUzV4SzFUM3Z5V0ZFclpSNnp1Sk5pQVIyY0lIak5xVzExVXhuM1FRSmV5cGNzSUstUG1rbFZ2Q1NQblB4dE9yY2hQQXhTUVh1eW5xN0xTdjAtRXZjeDkxWC13OThFTmtpenBNRWRZOUhSMGNlQWdYbmFzMm1VSy1YbVBHcnhPbFZDLWx1VWExYTZabzZjWDlOSFc1ZTVRbjBXTEJpOVFBVWpBekRCaGl2bkhRLTU0?oc=5",
-   "source": "\u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
-   "kind": "search",
-   "published": "2026-10-17T12:51+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Highlights robust transactional turnover in the local market.",
-   "watch": false,
-   "headline": "Dubai weekly property transactions reach AED 13.47 billion",
-   "summary": "Total Dubai real estate transactions hit AED 13.47 billion during the week, which included AED 8.59 billion in sales.",
-   "why": "It provides a clear picture of total capital flowing into the local property market.",
-   "age_hours": 23.5,
-   "topic": "Supply & market reports"
   },
   {
    "id": "456b5caa5b3f",
@@ -179,7 +161,7 @@
    "headline": "Azizi Launches New Workforce Housing Developments",
    "summary": "Azizi has initiated new residential projects tailored for the workforce across Dubai and Sharjah. These developments aim to address the growing demand for staff accommodation.",
    "why": "Developer project launches indicate active construction pipelines across the Emirates.",
-   "age_hours": 6.8,
+   "age_hours": 7.4,
    "topic": "sharjah"
   },
   {
@@ -198,15 +180,34 @@
    "headline": "Emaar Malls and Dubai Municipality discuss retail projects.",
    "summary": "Both entities are exploring potential new retail and lifestyle destinations within the emirate. Collaborations aim to enhance commercial offerings.",
    "why": "It signals upcoming commercial developments by major players.",
-   "age_hours": 12.4,
+   "age_hours": 13.0,
    "topic": "emaar"
+  },
+  {
+   "id": "795935f9e6ea",
+   "title": "Upcoming Sobha Projects in Dubai",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UcDJ2QzE1M0NBNGtzNng4ZkVFeGdlRlVuelJVX3Uxck9YUjZScHdyMUtKZk9kZzdRLVoxakx0TFhWaWtlYjJqQ1Jhbw?oc=5",
+   "source": "Arabisk London",
+   "kind": "search",
+   "published": "2026-10-17T13:36+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Announcements of future projects have minimal immediate impact.",
+   "watch": false,
+   "headline": "Upcoming Sobha real estate developments in Dubai.",
+   "summary": "The developer is preparing to launch new residential projects across the emirate. Details outline future inventory additions.",
+   "why": "It provides insight into incoming residential supply.",
+   "age_hours": 23.3,
+   "topic": "sobha"
   }
  ],
  "window_hours": 24,
- "count_relevant": 17,
+ "count_relevant": 15,
  "count_fetched": 361,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-18T12:20+04:00",
- "saved_at": "2026-10-18T12:20+04:00"
+ "as_of": "2026-10-18T12:53+04:00",
+ "saved_at": "2026-10-18T12:53+04:00"
 }
