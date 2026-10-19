@@ -379,6 +379,33 @@
    "category": "Supply & market reports",
    "impact": "High",
    "impact_reason": "Significant rent drops directly impact tenant costs and landlord yields."
+  },
+  "ee172871ce50": {
+   "relevant": true,
+   "headline": "Abu Dhabi secures sixth place globally for branded residences development",
+   "summary": "Abu Dhabi is advancing as a major luxury property hub with 26 branded residence projects currently in development. This expansion highlights the capital's growing status in high-end real estate.",
+   "why": "It highlights significant luxury sector growth and new supply in the capital.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Highlights growing luxury property supply in the capital."
+  },
+  "b95a2203d2be": {
+   "relevant": false,
+   "headline": "Dubai RTA to auction 60 distinctive number plates on October 24",
+   "summary": "Dubai's RTA is hosting an auction for 60 special vehicle number plates.",
+   "why": "This is a transport and automotive event unrelated to real estate.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Not related to property or real estate markets."
+  },
+  "c368a6a39d2e": {
+   "relevant": false,
+   "headline": "Reportage Group showcases Sea Breeze real estate projects in Azerbaijan",
+   "summary": "Reportage Group and Sabah Investment Group presented international residential projects located on the Caspian coast.",
+   "why": "The project is located outside the UAE and has no impact on the local market.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Focuses on international property development outside the UAE."
   }
  }
 }

@@ -18,7 +18,7 @@
    "headline": "Dubai gold rises as US rate hike bets decline",
    "summary": "Gold prices in Dubai ticked upward on Monday. This movement follows diminished trader expectations of a Federal Reserve rate increase.",
    "why": "Interest rate shifts directly influence mortgage pricing and broader real estate financing costs.",
-   "age_hours": 1.0,
+   "age_hours": 2.4,
    "topic": "Rates & mortgages"
   },
   {
@@ -37,7 +37,7 @@
    "headline": "Dubai rents drop in popular zones",
    "summary": "Rental prices in several sought-after neighborhoods across Dubai have declined by up to 22 percent.",
    "why": "It signals a shift in pricing power that affects landlord returns and tenant budgets.",
-   "age_hours": 15.6,
+   "age_hours": 16.9,
    "topic": "rents"
   },
   {
@@ -56,8 +56,30 @@
    "headline": "Azizi Launches Massive Sales Event for Sharjah Florence Project",
    "summary": "Azizi Developments has revealed its largest sales event to date for the Azizi Florence development located in Sharjah.",
    "why": "Major developer sales events influence regional property supply and buyer demand trends.",
-   "age_hours": 3.4,
+   "age_hours": 4.8,
    "topic": "sharjah"
+  },
+  {
+   "id": "ee172871ce50",
+   "title": "Abu Dhabi ranks sixth globally for branded residences as 26 new projects enter pipeline",
+   "link": "https://www.khaleejtimes.com/business/abu-dhabi-ranks-sixth-globally-for-branded-residences-as-26-new-projects-enter-pipeline",
+   "source": "Khaleej Times",
+   "kind": "outlet",
+   "published": "2026-10-19T11:18+04:00",
+   "tags": [
+    "Business",
+    "Property"
+   ],
+   "teaser": "Abu Dhabi has ranks as the world\u2019s sixth largest city market for branded residences, with 26 projects in the development pipeline, as the emirate accelerates its expansion into luxury residential properties, according to a new industry report. The inaugural annual report, The Brand Standard, published by specialist advisory firm Global Branded Residences (GBR), identified 31 branded residential pr",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Highlights growing luxury property supply in the capital.",
+   "watch": false,
+   "headline": "Abu Dhabi secures sixth place globally for branded residences development",
+   "summary": "Abu Dhabi is advancing as a major luxury property hub with 26 branded residence projects currently in development. This expansion highlights the capital's growing status in high-end real estate.",
+   "why": "It highlights significant luxury sector growth and new supply in the capital.",
+   "age_hours": 0.8,
+   "topic": "abu dhabi"
   },
   {
    "id": "b63067719b48",
@@ -75,7 +97,7 @@
    "headline": "Dubai investment values jump significantly",
    "summary": "New property investments in Dubai climbed by 360 percent across a five-year period to reach AED 680 billion.",
    "why": "It shows massive growth in total capital flowing into the local property market.",
-   "age_hours": 21.1,
+   "age_hours": 22.4,
    "topic": "Supply & market reports",
    "more": 1
   },
@@ -98,7 +120,7 @@
    "headline": "Dubai rental contracts exceed one million",
    "summary": "Registered rental contracts in Dubai surpassed one million for the first time, totaling Dh127.4 billion.",
    "why": "It illustrates the sheer scale and growing transaction volume of the rental market.",
-   "age_hours": 21.1,
+   "age_hours": 22.5,
    "topic": "Supply & market reports"
   },
   {
@@ -117,7 +139,7 @@
    "headline": "UAE Developers Reportage and Sabah Launch Four Azerbaijan Projects",
    "summary": "UAE-based Reportage and Sabah have introduced four new real estate ventures in Azerbaijan.",
    "why": "Local developers expanding internationally reflects outward investment trends from the UAE market.",
-   "age_hours": 1.8,
+   "age_hours": 3.1,
    "topic": "Developer news"
   },
   {
@@ -133,36 +155,11 @@
    "impact": "Medium",
    "impact_reason": "Reflects strong transaction volumes and robust investor interest.",
    "watch": false,
-   "also": [
-    "TradeArabia"
-   ],
    "headline": "IREIS 2026 Returns to Abu Dhabi Amid Surging Transactions",
    "summary": "The IREIS exhibition is coming back to Abu Dhabi. This announcement follows strong local property transactions exceeding $48 billion.",
    "why": "High transaction volumes and property expos indicate robust capital inflow and market health.",
-   "age_hours": 3.3,
+   "age_hours": 4.7,
    "topic": "abu dhabi"
-  },
-  {
-   "id": "6473c74e0728",
-   "title": "UAE's 10-year 'golden visa' isn't just for the rich, but includes nurses, teachers, or e-sports pros",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYzc0Z210X01nR1V1dWs0LUpjS2xIZURpZ2RDeFg0ajJLenhrZWw4cWpBN0lZV1AwVmlXd1BkbFhxVk9NS09VZVVZQXZkS01Hd21rYnJsNHEtd2ZLUTliUUxWZGtyUFZ6TWVLOFp2ZXlJN1pVMDgtNjB3aUdxeXZvZEZyRGhNU2ZuVjh3Tnl3?oc=5",
-   "source": "Fortune",
-   "kind": "search",
-   "published": "2026-10-18T12:00+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Regulation & fees",
-   "impact": "Medium",
-   "impact_reason": "Expands residency access, boosting long-term property buyer demand.",
-   "watch": false,
-   "also": [
-    "Fortune"
-   ],
-   "headline": "UAE Golden Visa expands to diverse professions beyond wealthy investors",
-   "summary": "The ten-year UAE residency program now includes nurses, teachers, and e-sports professionals. This broader eligibility encourages more long-term residents to invest in local property.",
-   "why": "Broadened residency eligibility directly impacts long-term property demand and buyer demographics in the UAE.",
-   "age_hours": 22.8,
-   "topic": "golden visa"
   },
   {
    "id": "d7d0f9ed11ed",
@@ -183,7 +180,7 @@
    "headline": "Azizi Starts Workforce Housing Projects in Dubai and Sharjah",
    "summary": "Azizi has initiated new residential developments tailored for the workforce across Dubai and Sharjah.",
    "why": "Worker housing projects impact community infrastructure and labor availability for major construction sites.",
-   "age_hours": 2.0,
+   "age_hours": 3.3,
    "topic": "sharjah"
   },
   {
@@ -208,15 +205,15 @@
    "headline": "New Dubai Shared Housing Law May Increase Rents",
    "summary": "Dubai's new shared housing regulations will likely push rents higher in approved communities rather than lowering them. Stricter rules now apply across more than 44 designated areas.",
    "why": "Changes to housing regulations and rental dynamics directly affect tenant costs and investor yields.",
-   "age_hours": 4.8,
+   "age_hours": 6.1,
    "topic": "rent"
   }
  ],
  "window_hours": 24,
- "count_relevant": 12,
- "count_fetched": 358,
+ "count_relevant": 13,
+ "count_fetched": 370,
  "feed_errors": {},
- "mode": "AI summaries (saved from an earlier run)",
- "as_of": "2026-10-19T10:45+04:00",
- "saved_at": "2026-10-19T10:45+04:00"
+ "mode": "AI summaries (gemini)",
+ "as_of": "2026-10-19T12:06+04:00",
+ "saved_at": "2026-10-19T12:06+04:00"
 }
