@@ -997,5 +997,49 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"9f027a510e5a": {
+"id": "9f027a510e5a",
+"title": "Azizi Launches Massive Sales Event for Sharjah Florence Project",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS0hTWFo4WXpxQkljRXBtV3Z6dkV3M2F3SWhKUndKUWlGU252SG9sU3drbVMtWXpDVUlTeW9XUHNQeHp4Y0xHUk5OR3A3WmRqUGg1bEdsV3A3LVlrSnZuTEdQdnVGY1VQYThBRG9vY2tTbnRZMF9abGlNMG81bzBLWFdhQjZMYndJOUExSDBR?oc=5",
+"source": "Al-Bawaba",
+"category": "Developer news",
+"published": "2026-10-19T07:20+04:00",
+"first_seen": "2026-10-19",
+"kind": "Off-plan launch",
+"region": "Sharjah",
+"catalyst": null,
+"fields": {
+"project": "Sharjah Florence",
+"developer": "Azizi",
+"location": "Sharjah",
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"689f962fa230": {
+"id": "689f962fa230",
+"title": "UAE Developers Reportage and Sabah Launch Four Azerbaijan Projects",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONWx2Vk40WF9FLXdOd3VvZm53OVpIc2FmTFhENWZMT1pST2hSZU8zTDlZRmh3VEdiZmhIVmFSWWtqajNhMXFrTndicFh6WXM5MEF4YXE5aV9ySl8zOFZ0RGdVZ3FLNGdLR09yYUJzVmFNYkNjMnZEODdta3ByODRHd19kRFp2VDRiMHJPZ1V1VWVoQzJOc0Z5YUlodS11cFZBVERqNTNzUkhWdUdGY3VWNTNaU2V1UlRrMnBVUHRabWRMOGRPVU0yQ2FZQnFNZkU1dkQ2WmxONFR2azlXZnBJOVJ4Ukg?oc=5",
+"source": "TradingView",
+"category": "Developer news",
+"published": "2026-10-19T08:58+04:00",
+"first_seen": "2026-10-19",
+"kind": "Off-plan launch",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": "Reportage and Sabah",
+"location": "Azerbaijan",
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
