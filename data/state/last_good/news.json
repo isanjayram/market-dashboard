@@ -1,25 +1,6 @@
 {
  "top": [
   {
-   "id": "69ff5094dfc1",
-   "title": "UAE real estate maintains momentum as transactions surge 103% in the H1 of 2026",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80STVaNldLd2ppZ0puQUxSMl9BS1NaRmpsMTB5OEIxVXVMd1AyOTVNVldhaWlHeU5tdE5zY2VMajJtLW5FNEQyWDdBSTZYbVlG?oc=5",
-   "source": "Yemen Online",
-   "kind": "search",
-   "published": "2026-10-19T04:07+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Supply & market reports",
-   "impact": "High",
-   "impact_reason": "Demonstrates massive market growth and heightened investor confidence.",
-   "watch": false,
-   "headline": "UAE real estate transactions surge 103 percent",
-   "summary": "The UAE property market maintained strong momentum with transaction volumes jumping 103 percent in the first half of 2026.",
-   "why": "Massive transaction growth signals exceptional overall market health and investor appetite.",
-   "age_hours": 9.9,
-   "topic": "Supply & market reports"
-  },
-  {
    "id": "10cecbfec804",
    "title": "Dubai Rents Fall By Up To 22% In Several Popular Areas",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVEhPcGxTVUZOVFJiWndGVnUwWW1ydTY5TTN3VFFpWjcwejd6QWxQeWR1WS1Vb2x0Ml9rZHl6ajZ4bEZRaWVkVWNzS0xuN2k5TGtjRXNLVkdNbVVwTkNSNFlVZ29Yc01qX0dmcUVraWJmNDBRMF9DdldTLUZqSzB3LWx0dVlQc21RTzMyckUtbUlHZw?oc=5",
@@ -35,7 +16,7 @@
    "headline": "Dubai rents drop in popular zones",
    "summary": "Rental prices in several sought-after neighborhoods across Dubai have declined by up to 22 percent.",
    "why": "It signals a shift in pricing power that affects landlord returns and tenant budgets.",
-   "age_hours": 18.8,
+   "age_hours": 19.1,
    "topic": "rents"
   },
   {
@@ -54,7 +35,7 @@
    "headline": "Azizi Launches Massive Sales Event for Sharjah Florence Project",
    "summary": "Azizi Developments has revealed its largest sales event to date for the Azizi Florence development located in Sharjah.",
    "why": "Major developer sales events influence regional property supply and buyer demand trends.",
-   "age_hours": 6.7,
+   "age_hours": 7.0,
    "topic": "sharjah"
   },
   {
@@ -76,8 +57,27 @@
    "headline": "Abu Dhabi secures sixth place globally for branded residences development",
    "summary": "Abu Dhabi is advancing as a major luxury property hub with 26 branded residence projects currently in development. This expansion highlights the capital's growing status in high-end real estate.",
    "why": "It highlights significant luxury sector growth and new supply in the capital.",
-   "age_hours": 2.7,
+   "age_hours": 3.0,
    "topic": "abu dhabi"
+  },
+  {
+   "id": "30f3d9f86feb",
+   "title": "Dubai's new shared housing law: Why your rent could actually go up in 2026",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaG9pbE5RM25TZTJPcTkxVnoxZ3k2ZVhJMC1mTVNYSWpsX3Vqa3BsVUNoV2RpY014elVPRnBtMk5Pd2JhOVhidFZKUEJjbmtPYzdrd2pXM3l3b2V0cFBWVUN3eUxVdFlBRmp1TXphd1ctYmVPLUpFU1RuSVlsT1A2QWtHUkM2NXRIT3dTb3NLZnRhaGdZUXZnZVpLWlRaUDFsVkJiZVpxTTdLRllTY0VB0gG3AUFVX3lxTE15cDFQTzliUFBVR1hSREdIazYxS2tpQ1FrbXdBcHVPZ2FuV3BYQnhIYWlDSkJSQlg1RzF2RzBaZ0cxUHNUMVUzUXR1cWhYR1ExbnhUZUhINF9Ra3FsSlFnNEs4YjNWNWVTS2Jfc1ZfYmVzb3kwV2dlMWNOeUFzTllDYUZ5RHNEZGlVV3JFM2t2R3NwUUtCODFkaWE3X0F2SktwOXFVYU95aGdGbS1xakkxbFBMaEpsaw?oc=5",
+   "source": "Khaleej Times",
+   "kind": "search",
+   "published": "2026-10-19T06:00+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Changes tenant costs and rental market dynamics.",
+   "watch": false,
+   "headline": "Dubai Shared Housing Law May Increase Rents in 2026",
+   "summary": "An upcoming shared housing regulation in Dubai might cause rental prices to rise by 2026. Tenants and landlords should prepare for potential shifts in the rental market.",
+   "why": "New housing regulations directly alter tenant costs and market dynamics.",
+   "age_hours": 8.3,
+   "topic": "rent"
   },
   {
    "id": "689f962fa230",
@@ -95,7 +95,7 @@
    "headline": "UAE Developers Reportage and Sabah Launch Four Azerbaijan Projects",
    "summary": "UAE-based Reportage and Sabah have introduced four new real estate ventures in Azerbaijan.",
    "why": "Local developers expanding internationally reflects outward investment trends from the UAE market.",
-   "age_hours": 5.0,
+   "age_hours": 5.4,
    "topic": "Developer news"
   },
   {
@@ -114,7 +114,7 @@
    "headline": "IREIS 2026 Returns to Abu Dhabi Amid Surging Transactions",
    "summary": "The IREIS exhibition is coming back to Abu Dhabi. This announcement follows strong local property transactions exceeding $48 billion.",
    "why": "High transaction volumes and property expos indicate robust capital inflow and market health.",
-   "age_hours": 6.5,
+   "age_hours": 6.9,
    "topic": "abu dhabi"
   },
   {
@@ -133,7 +133,7 @@
    "headline": "Dubai Property Investments Reached $185 Billion in 2025",
    "summary": "A recent report reveals that real estate investments in Dubai hit $185 billion throughout 2025.",
    "why": "Annual investment figures provide vital context on market size, liquidity, and overall sector performance.",
-   "age_hours": 7.0,
+   "age_hours": 7.3,
    "topic": "Supply & market reports"
   },
   {
@@ -155,33 +155,8 @@
    "headline": "Azizi Starts Workforce Housing Projects in Dubai and Sharjah",
    "summary": "Azizi has initiated new residential developments tailored for the workforce across Dubai and Sharjah.",
    "why": "Worker housing projects impact community infrastructure and labor availability for major construction sites.",
-   "age_hours": 5.2,
+   "age_hours": 5.6,
    "topic": "sharjah"
-  },
-  {
-   "id": "f2300cefab18",
-   "title": "Dubai's new shared housing law: Why your rent could actually go up in 2026",
-   "link": "https://www.khaleejtimes.com/business/dubais-new-shared-housing-law-why-your-rent-could-actually-go-up-in-2026",
-   "source": "Khaleej Times",
-   "kind": "outlet",
-   "published": "2026-10-19T06:00+04:00",
-   "tags": [
-    "Business",
-    "Property"
-   ],
-   "teaser": "Dubai\u2019s approval of shared housing is unlikely to bring rents down, but instead could push the rents higher in those communities, according to property experts. Shared housing in Dubai is being brought under stricter regulations, with more than 44 areas approved for shared accommodation . Dubai Municipality has set minimum space, safety and facility requirements, while landlords must obtain permit",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Affects rental pricing trends in specific shared communities.",
-   "watch": false,
-   "also": [
-    "Khaleej Times"
-   ],
-   "headline": "New Dubai Shared Housing Law May Increase Rents",
-   "summary": "Dubai's new shared housing regulations will likely push rents higher in approved communities rather than lowering them. Stricter rules now apply across more than 44 designated areas.",
-   "why": "Changes to housing regulations and rental dynamics directly affect tenant costs and investor yields.",
-   "age_hours": 8.0,
-   "topic": "rent"
   },
   {
    "id": "4964d9ae8292",
@@ -202,15 +177,15 @@
    "headline": "Dubai Rents Decline Across Most Neighborhoods",
    "summary": "Rental prices in the majority of Dubai areas are dropping. Tenants now benefit from increased choices and stronger bargaining power.",
    "why": "Shifting rental rates impact landlord yields, investment strategies, and tenant affordability across the emirate.",
-   "age_hours": 22.1,
+   "age_hours": 22.5,
    "topic": "rents"
   }
  ],
  "window_hours": 24,
- "count_relevant": 11,
- "count_fetched": 387,
+ "count_relevant": 10,
+ "count_fetched": 391,
  "feed_errors": {},
- "mode": "AI summaries (saved from an earlier run)",
- "as_of": "2026-10-19T13:59+04:00",
- "saved_at": "2026-10-19T13:59+04:00"
+ "mode": "AI summaries (gemini)",
+ "as_of": "2026-10-19T14:20+04:00",
+ "saved_at": "2026-10-19T14:20+04:00"
 }

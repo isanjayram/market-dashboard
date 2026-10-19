@@ -424,6 +424,24 @@
    "category": "Infrastructure",
    "impact": "Low",
    "impact_reason": "No bearing on property values or real estate."
+  },
+  "30f3d9f86feb": {
+   "relevant": true,
+   "headline": "Dubai Shared Housing Law May Increase Rents in 2026",
+   "summary": "An upcoming shared housing regulation in Dubai might cause rental prices to rise by 2026. Tenants and landlords should prepare for potential shifts in the rental market.",
+   "why": "New housing regulations directly alter tenant costs and market dynamics.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Changes tenant costs and rental market dynamics."
+  },
+  "326964eda958": {
+   "relevant": false,
+   "headline": "Dubai Versus Other Global Cities for Wealthy Indian Buyers",
+   "summary": "Wealthy Indian investors are comparing property values between Dubai, London, Gurugram, and Mumbai to find the best investment deals.",
+   "why": "This is an editorial comparison piece without hard news value.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Opinion piece lacking concrete news."
   }
  }
 }
