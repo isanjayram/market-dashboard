@@ -18,7 +18,7 @@
    "headline": "Dubai gold rises as US rate hike bets decline",
    "summary": "Gold prices in Dubai ticked upward on Monday. This movement follows diminished trader expectations of a Federal Reserve rate increase.",
    "why": "Interest rate shifts directly influence mortgage pricing and broader real estate financing costs.",
-   "age_hours": 2.4,
+   "age_hours": 3.6,
    "topic": "Rates & mortgages"
   },
   {
@@ -37,7 +37,7 @@
    "headline": "Dubai rents drop in popular zones",
    "summary": "Rental prices in several sought-after neighborhoods across Dubai have declined by up to 22 percent.",
    "why": "It signals a shift in pricing power that affects landlord returns and tenant budgets.",
-   "age_hours": 16.9,
+   "age_hours": 18.1,
    "topic": "rents"
   },
   {
@@ -56,7 +56,7 @@
    "headline": "Azizi Launches Massive Sales Event for Sharjah Florence Project",
    "summary": "Azizi Developments has revealed its largest sales event to date for the Azizi Florence development located in Sharjah.",
    "why": "Major developer sales events influence regional property supply and buyer demand trends.",
-   "age_hours": 4.8,
+   "age_hours": 6.0,
    "topic": "sharjah"
   },
   {
@@ -78,7 +78,7 @@
    "headline": "Abu Dhabi secures sixth place globally for branded residences development",
    "summary": "Abu Dhabi is advancing as a major luxury property hub with 26 branded residence projects currently in development. This expansion highlights the capital's growing status in high-end real estate.",
    "why": "It highlights significant luxury sector growth and new supply in the capital.",
-   "age_hours": 0.8,
+   "age_hours": 2.0,
    "topic": "abu dhabi"
   },
   {
@@ -97,7 +97,7 @@
    "headline": "Dubai investment values jump significantly",
    "summary": "New property investments in Dubai climbed by 360 percent across a five-year period to reach AED 680 billion.",
    "why": "It shows massive growth in total capital flowing into the local property market.",
-   "age_hours": 22.4,
+   "age_hours": 23.6,
    "topic": "Supply & market reports",
    "more": 1
   },
@@ -120,7 +120,7 @@
    "headline": "Dubai rental contracts exceed one million",
    "summary": "Registered rental contracts in Dubai surpassed one million for the first time, totaling Dh127.4 billion.",
    "why": "It illustrates the sheer scale and growing transaction volume of the rental market.",
-   "age_hours": 22.5,
+   "age_hours": 23.7,
    "topic": "Supply & market reports"
   },
   {
@@ -139,7 +139,7 @@
    "headline": "UAE Developers Reportage and Sabah Launch Four Azerbaijan Projects",
    "summary": "UAE-based Reportage and Sabah have introduced four new real estate ventures in Azerbaijan.",
    "why": "Local developers expanding internationally reflects outward investment trends from the UAE market.",
-   "age_hours": 3.1,
+   "age_hours": 4.3,
    "topic": "Developer news"
   },
   {
@@ -158,7 +158,7 @@
    "headline": "IREIS 2026 Returns to Abu Dhabi Amid Surging Transactions",
    "summary": "The IREIS exhibition is coming back to Abu Dhabi. This announcement follows strong local property transactions exceeding $48 billion.",
    "why": "High transaction volumes and property expos indicate robust capital inflow and market health.",
-   "age_hours": 4.7,
+   "age_hours": 5.9,
    "topic": "abu dhabi"
   },
   {
@@ -180,7 +180,7 @@
    "headline": "Azizi Starts Workforce Housing Projects in Dubai and Sharjah",
    "summary": "Azizi has initiated new residential developments tailored for the workforce across Dubai and Sharjah.",
    "why": "Worker housing projects impact community infrastructure and labor availability for major construction sites.",
-   "age_hours": 3.3,
+   "age_hours": 4.5,
    "topic": "sharjah"
   },
   {
@@ -205,15 +205,15 @@
    "headline": "New Dubai Shared Housing Law May Increase Rents",
    "summary": "Dubai's new shared housing regulations will likely push rents higher in approved communities rather than lowering them. Stricter rules now apply across more than 44 designated areas.",
    "why": "Changes to housing regulations and rental dynamics directly affect tenant costs and investor yields.",
-   "age_hours": 6.1,
+   "age_hours": 7.3,
    "topic": "rent"
   }
  ],
  "window_hours": 24,
  "count_relevant": 13,
- "count_fetched": 370,
+ "count_fetched": 391,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-19T12:06+04:00",
- "saved_at": "2026-10-19T12:06+04:00"
+ "as_of": "2026-10-19T13:18+04:00",
+ "saved_at": "2026-10-19T13:18+04:00"
 }

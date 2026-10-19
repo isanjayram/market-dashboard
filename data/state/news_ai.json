@@ -406,6 +406,24 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Focuses on international property development outside the UAE."
+  },
+  "61498e522097": {
+   "relevant": false,
+   "headline": "Dubai driving test rebooking rules and costs",
+   "summary": "Learners failing the RTA road test must complete extra driving lessons and cover retest fees.",
+   "why": "This news concerns driving tests rather than property, mortgages, or macroeconomic trends.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Relates to driver licensing rather than real estate."
+  },
+  "f1dd5834b088": {
+   "relevant": false,
+   "headline": "Dubai RTA to auction exclusive vehicle plates",
+   "summary": "The RTA is hosting an open auction featuring 60 special vehicle plate numbers.",
+   "why": "This article is about vehicle license plates instead of real estate or housing markets.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "No bearing on property values or real estate."
   }
  }
 }
