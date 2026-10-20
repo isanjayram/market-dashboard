@@ -343,6 +343,42 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Lacks actionable news or market-moving data."
+  },
+  "b72bd0956416": {
+   "relevant": false,
+   "headline": "Morning traffic delay reported on Sheikh Zayed Road",
+   "summary": "A morning accident near Emirates Towers caused significant traffic tailbacks heading towards Sharjah.",
+   "why": "This is a daily traffic incident rather than real estate news.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Temporary traffic disruption has no lasting market impact."
+  },
+  "6473c74e0728": {
+   "relevant": true,
+   "headline": "UAE Golden Visa expands eligibility beyond high-net-worth individuals",
+   "summary": "The ten-year residency scheme now includes professionals like nurses, teachers, and e-sports specialists. This broadening allows more residents to secure long-term stability in the Emirates.",
+   "why": "Visa policy changes directly influence long-term residency and buyer demand.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Expands long-term resident buyer pool significantly."
+  },
+  "f83b232febcc": {
+   "relevant": true,
+   "headline": "Imtiaz Developments collaborates with Technogym for KORE",
+   "summary": "The developer has teamed up with Technogym for its latest wellness-oriented residential project in Dubai. The partnership aims to integrate fitness facilities into the new building.",
+   "why": "Developer partnerships highlight current project amenities and market offerings.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Single project partnership with minimal market-wide effect."
+  },
+  "c26746ed3424": {
+   "relevant": true,
+   "headline": "Oil prices climb toward five-month highs amid regional tensions",
+   "summary": "Brent crude rose as regional security concerns heightened supply worries in the Gulf. Higher energy prices impact broader economic conditions across the region.",
+   "why": "Macroeconomic shifts in oil prices influence regional investor sentiment and liquidity.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "General macro movement with indirect real estate effect."
   }
  }
 }

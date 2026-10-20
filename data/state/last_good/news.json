@@ -20,7 +20,7 @@
    "headline": "Estate planning risks for UAE expats without registered wills.",
    "summary": "Expats dying without a will face severe legal hurdles regarding asset and property distribution. Families are left to navigate complex local court procedures.",
    "why": "It directly impacts property inheritance rights for expatriates in the UAE.",
-   "age_hours": 1.7,
+   "age_hours": 2.5,
    "topic": "Regulation & fees"
   },
   {
@@ -46,7 +46,7 @@
    "headline": "Dubai property investments surge 360 percent over five years.",
    "summary": "Investment values grew from $40.3 billion in 2021 to $185.16 billion by 2025. This massive jump highlights extreme confidence in the local market.",
    "why": "It demonstrates extraordinary historical growth in capital inflows.",
-   "age_hours": 17.3,
+   "age_hours": 18.2,
    "topic": "Supply & market reports",
    "more": 1
   },
@@ -69,7 +69,7 @@
    "headline": "UAE property demand climbs as 2026 market diversifies.",
    "summary": "The UAE real estate sector sees rising demand and fresh investor interest. Investment options continue to expand across the market.",
    "why": "It reflects broader market sentiment and shifting buyer trends.",
-   "age_hours": 3.1,
+   "age_hours": 3.9,
    "topic": "Supply & market reports"
   },
   {
@@ -91,7 +91,7 @@
    "headline": "Dubai holiday home regulations spark shift to shared housing",
    "summary": "New legislation in Dubai is pushing some holiday home owners to transition their properties into shared housing. Industry experts note this movement is strictly one-way with no reverse transition.",
    "why": "It highlights shifts in property utilization resulting from updated local regulations.",
-   "age_hours": 3.1,
+   "age_hours": 4.0,
    "topic": "Regulation & fees"
   },
   {
@@ -110,7 +110,7 @@
    "headline": "Abu Dhabi luxury property sales surge in Q3",
    "summary": "Abu Dhabi real estate transactions reached AED 21.5 billion in the third quarter, driven by a 104 percent increase in luxury sales.",
    "why": "It underscores surging high-end demand across the capital's property market.",
-   "age_hours": 9.7,
+   "age_hours": 10.6,
    "topic": "abu dhabi",
    "more": 2
   },
@@ -130,7 +130,7 @@
    "headline": "Abu Dhabi buyers shift to luxury and off-plan properties",
    "summary": "Despite an overall decline in sales volumes, property buyers in Abu Dhabi are increasingly favoring luxury and off-plan residential options.",
    "why": "It outlines shifting buyer preferences toward premium and uncompleted developments.",
-   "age_hours": 15.0,
+   "age_hours": 15.9,
    "topic": "abu dhabi"
   },
   {
@@ -149,9 +149,9 @@
    "headline": "Gargash Prime and JINGDONG partner for Dubai logistics facility.",
    "summary": "The joint venture will develop a 2.5 million square foot logistics hub in Dubai. This project expands commercial real estate and industrial infrastructure.",
    "why": "It represents a major commercial real estate development in the emirate.",
-   "age_hours": 17.1,
+   "age_hours": 18.0,
    "topic": "Developer news",
-   "more": 1
+   "more": 2
   },
   {
    "id": "9937a25e5e4d",
@@ -169,15 +169,40 @@
    "headline": "Tomorrow World and Missoni launch Dubai Islands branded residences.",
    "summary": "The Bay Interiors by Missoni has been announced for Dubai Islands. This partnership brings branded luxury real estate to the coastal development.",
    "why": "It introduces a new luxury residential project to the market.",
-   "age_hours": 17.7,
+   "age_hours": 18.6,
    "topic": "Developer news"
+  },
+  {
+   "id": "c26746ed3424",
+   "title": "Oil prices rise as Hormuz tensions fuel supply concerns, Brent hovers \u200bnear five-month high at $109.9",
+   "link": "https://economymiddleeast.com/news/oil-prices-rise-as-hormuz-tensions-fuel-supply-concerns-brent-hovers-near-five-month-high-at-109-9/?utm_source=rss&utm_medium=rss&utm_campaign=oil-prices-rise-as-hormuz-tensions-fuel-supply-concerns-brent-hovers-near-five-month-high-at-109-9",
+   "source": "Economy Middle East",
+   "kind": "outlet",
+   "published": "2026-10-20T09:23+04:00",
+   "tags": [
+    "Donald Trump",
+    "Middle East",
+    "Oil prices",
+    "Russia",
+    "United States"
+   ],
+   "teaser": "Oil prices climbed on Tuesday, with Brent crude hovering near a five-month high as renewed Houthi attacks on regional infrastructure and reports of vessel attacks in the Gulf heightened concerns over regional stability and energy supplies. As of 5:03 GMT, Brent crude futures rose 37 cents, or 0.34 percent, to $109.9 a barrel, after reaching [\u2026] The post Oil prices rise as Hormuz tensions fuel supp",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "General macro movement with indirect real estate effect.",
+   "watch": false,
+   "headline": "Oil prices climb toward five-month highs amid regional tensions",
+   "summary": "Brent crude rose as regional security concerns heightened supply worries in the Gulf. Higher energy prices impact broader economic conditions across the region.",
+   "why": "Macroeconomic shifts in oil prices influence regional investor sentiment and liquidity.",
+   "age_hours": 0.6,
+   "topic": "oil"
   }
  ],
  "window_hours": 24,
- "count_relevant": 13,
- "count_fetched": 364,
+ "count_relevant": 15,
+ "count_fetched": 379,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-20T09:08+04:00",
- "saved_at": "2026-10-20T09:08+04:00"
+ "as_of": "2026-10-20T09:59+04:00",
+ "saved_at": "2026-10-20T09:59+04:00"
 }

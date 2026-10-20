@@ -192,5 +192,33 @@
 "impact_reason": "Signals localized developer expansion without broad market disruption.",
 "watch": true,
 "topic": "Developer news"
+},
+{
+"id": "f83b232febcc",
+"headline": "Imtiaz Developments collaborates with Technogym for KORE",
+"summary": "The developer has teamed up with Technogym for its latest wellness-oriented residential project in Dubai. The partnership aims to integrate fitness facilities into the new building.",
+"why": "Developer partnerships highlight current project amenities and market offerings.",
+"source": "Zawya",
+"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTmJQT0FycHFRMVF4MmFHbGdzUHdUVkw0cEo5M3N1VUd3RkZVTGlUZklKclRQM3l2Z2tJVzZpdnZUZ0RrYXoyM1oxNXdEaUkxbkM5RzVuN1hrTFRCby1LZVhsZ1A4WFROaGNBMGtIRmkxMkxablRvWU1RSmlVNGlNdTV2UkNBT3JMVk03VUFYQVVfVVVJQjhzR2RuemJQWXFqQlZZYUpNcEpPLTJ0NjBaalQxemRXUERPX3RBRmtoakpSTFZpYUV3eUVCaUhYMGRMUE9URHk1SFI3cUZCNDROWWxXVVUxRUlD?oc=5",
+"published": "2026-10-20T09:45+04:00",
+"category": "Developer news",
+"impact": "Low",
+"impact_reason": "Single project partnership with minimal market-wide effect.",
+"watch": false,
+"topic": "Developer news"
+},
+{
+"id": "c26746ed3424",
+"headline": "Oil prices climb toward five-month highs amid regional tensions",
+"summary": "Brent crude rose as regional security concerns heightened supply worries in the Gulf. Higher energy prices impact broader economic conditions across the region.",
+"why": "Macroeconomic shifts in oil prices influence regional investor sentiment and liquidity.",
+"source": "Economy Middle East",
+"link": "https://economymiddleeast.com/news/oil-prices-rise-as-hormuz-tensions-fuel-supply-concerns-brent-hovers-near-five-month-high-at-109-9/?utm_source=rss&utm_medium=rss&utm_campaign=oil-prices-rise-as-hormuz-tensions-fuel-supply-concerns-brent-hovers-near-five-month-high-at-109-9",
+"published": "2026-10-20T09:23+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "General macro movement with indirect real estate effect.",
+"watch": false,
+"topic": "oil"
 }
 ]
