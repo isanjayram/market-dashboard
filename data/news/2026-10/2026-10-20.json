@@ -220,5 +220,20 @@
 "impact_reason": "General macro movement with indirect real estate effect.",
 "watch": false,
 "topic": "oil"
+},
+{
+"id": "65c63a987381",
+"headline": "Meraki Developers Expands Into Dubai South",
+"summary": "Meraki Developers is entering the Dubai South market. The firm currently has seven projects in its pipeline.",
+"why": "It highlights new developer activity and expanding project supply in a key growth area.",
+"source": "EIN News",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTUt5V2w2TWVpdnhzd2ZtRXJxRDM3Q1hacUh6Uy1heXhHTnNtdHBEa1ZENlBPblN6bWhTWDJsLWlOUkNnSVdKdVREX0hJN3VZOEdDem9WOXVHbFREVzhsVmJxdllEMDQwTVRramUxYnBQbWc0LVQ0bmF6aWlvMWxhUi11TXRhLUJlX2F3Q1AtN19RVkNCeTUyR2lxaUE2YVJ6MFhNZ0VlX05oRHFiT2Rfa2ktc2dPV21JdVkzd1JRMVFwRUVLQXBzT3hTeHVYM0l5?oc=5",
+"published": "2026-10-20T10:36+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "New project pipeline increases regional housing supply and options.",
+"watch": true,
+"more": 2,
+"topic": "Developer news"
 }
 ]
