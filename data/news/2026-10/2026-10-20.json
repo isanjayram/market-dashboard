@@ -235,5 +235,71 @@
 "watch": true,
 "more": 2,
 "topic": "Developer news"
+},
+{
+"id": "bcc8804a35cb",
+"headline": "Abu Dhabi Prime Office Demand Surges",
+"summary": "Growing financial and technology sectors are driving high demand for prime office space in Abu Dhabi. CBRE reports the capital is cementing its status as a major global hub.",
+"why": "It reflects strong commercial real estate momentum in the UAE capital.",
+"source": "Economy Middle East",
+"link": "https://economymiddleeast.com/news/abu-dhabi-demand-for-prime-office-space-accelerates-as-city-strengthens-its-position-as-global-financial-and-ai-hub/?utm_source=rss&utm_medium=rss&utm_campaign=abu-dhabi-demand-for-prime-office-space-accelerates-as-city-strengthens-its-position-as-global-financial-and-ai-hub",
+"published": "2026-10-20T12:49+04:00",
+"category": "Supply & market reports",
+"impact": "Medium",
+"impact_reason": "Highlights strong commercial real estate growth in the capital.",
+"watch": false,
+"more": 3,
+"topic": "abu dhabi"
+},
+{
+"id": "38fd591c21c8",
+"headline": "New UAE Golden Visa Portal Launched",
+"summary": "Familyvisa has introduced a dedicated UAE Golden Visa portal featuring updated 2026 eligibility criteria and a cost calculator.",
+"why": "It provides clarity on long-term residency requirements for investors.",
+"source": "Menafn",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUFIxOWZWNnNwR1BCTW5sc01mSXdUNUcxT05lbms2SzVkX2NSWFdtTWg0eFg0SmpzdWhqd3ZmZ2xxTjMyX2M4Q29EUjd1SDNOcmtjTW1TT05TT2Q3czJYLXhNLVBSRVJ6a3RISUIzQXNlN2R6eVpvVkVrUEhTQlRjOEE5RW01elB5aFJsd2tWSDR1dFNhb1JXU1R6V2hSczQyRktuMHdOU2dDVTBUQ1l4cF9vdTlGQ0dxajJ4bQ?oc=5",
+"published": "2026-10-20T12:15+04:00",
+"category": "Regulation & fees",
+"impact": "Medium",
+"impact_reason": "Simplifies residency access for investors and property buyers.",
+"watch": false,
+"also": [
+"Zawya"
+],
+"topic": "golden visa"
+},
+{
+"id": "af69fb097fd4",
+"headline": "Ellington Launches $762m Business Bay Tower",
+"summary": "Ellington has announced a massive commercial tower project in Business Bay valued at $762 million.",
+"why": "It introduces significant new commercial inventory to a prime Dubai district.",
+"source": "Gulf Daily News (Bahrain)",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMUtzU3ZpWEFIbUZUYURqS0NRUU9ncnlxZjlfR0RMZUhlcnRzNGx5XzZqdllqcEhRV1l4UE5mc2RQczhxZkNXM3ZnTnY1M3FqT1B2Tl83RUVsTnplTnpIOEJGRFViNWVaeU5mOUZobGptN2Q5X0FnbUcyXzEyUzAxeVFkUW54dC02T1RjQmpXaUpFVmJqWjlsazhqNTJ6NFk?oc=5",
+"published": "2026-10-20T12:03+04:00",
+"category": "Developer news",
+"impact": "Low",
+"impact_reason": "Adds notable commercial supply to the Dubai market.",
+"watch": true,
+"also": [
+"Gulf Daily News (Bahrain)"
+],
+"topic": "Developer news"
+},
+{
+"id": "a476496f78bc",
+"headline": "Dubai Court Enforces Villa Investment Debt",
+"summary": "A Dubai court has mandated a woman to pay AED 1.46 million after she acted as a guarantor for her partner's villa investment.",
+"why": "It highlights legal liabilities associated with property investment guarantees.",
+"source": "Emirates 24|7",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNXgyM1ZDM3MycU1TYTktdDh5VGF1RjBYZmJUNG1OVW5faVlyX1ZBSmJjazRIMlpEYXg5dFZDN3EwQXZfdG5lbUZmWS15d1FWeWkzdFlCZGZrZTdkc2hMd1d4d3I4Y01nWXRaRE9BTzhqRVNPMUw1WXNPUEo5R1hpbWxaNUMwbUdPcEJqM0VNendYMTl4ZzdVQXg5UkZ2Q0NPZXlXbTVELWxfM2E0bVBjaFNUaF84UmYya2tWVE4wVnpZUGpK0gHfAUFVX3lxTE9tZ0o4aTg2OVlNQzBCNmpiVFcyQXJqUEZZeTgtMXF2SmtUYnVhaUFRaTRRYXNHaXlhSHJXbkNuNkk5OHZVXy1EWW4wTGNESVFzVmQxbmFwOThlYWM3MlUyV3lKU185QTZ4a0FQV2syVWlkQlgwV00wVXJIaENhSEo2ZjExVWVqMV9iWExzdFczTUg4blF3LVBORld1WE14bV8zNU9QakNCc2FacVhXSkpkZEl3OXR4QmRQaDg0OFFHRHdMRkUwTlZrVlN6ajdlT0thVnNtZFU0YmhCeU1CLUk?oc=5",
+"published": "2026-10-20T12:28+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "Serves as a legal warning for property investment guarantors.",
+"watch": false,
+"also": [
+"Emirates 24|7"
+],
+"topic": "Macro & geopolitics"
 }
 ]

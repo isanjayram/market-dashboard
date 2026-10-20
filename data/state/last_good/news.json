@@ -20,7 +20,7 @@
    "headline": "Estate planning risks for UAE expats without registered wills.",
    "summary": "Expats dying without a will face severe legal hurdles regarding asset and property distribution. Families are left to navigate complex local court procedures.",
    "why": "It directly impacts property inheritance rights for expatriates in the UAE.",
-   "age_hours": 4.5,
+   "age_hours": 5.4,
    "topic": "Regulation & fees"
   },
   {
@@ -46,7 +46,7 @@
    "headline": "Dubai property investments surge 360 percent over five years.",
    "summary": "Investment values grew from $40.3 billion in 2021 to $185.16 billion by 2025. This massive jump highlights extreme confidence in the local market.",
    "why": "It demonstrates extraordinary historical growth in capital inflows.",
-   "age_hours": 20.1,
+   "age_hours": 21.1,
    "topic": "Supply & market reports",
    "more": 1
   },
@@ -66,9 +66,33 @@
    "headline": "Meraki Developers Expands Into Dubai South",
    "summary": "Meraki Developers is entering the Dubai South market. The firm currently has seven projects in its pipeline.",
    "why": "It highlights new developer activity and expanding project supply in a key growth area.",
-   "age_hours": 1.3,
+   "age_hours": 2.3,
    "topic": "Developer news",
-   "more": 2
+   "more": 3
+  },
+  {
+   "id": "bcc8804a35cb",
+   "title": "Abu Dhabi: Demand for prime office space accelerates as city strengthens its position as global financial and AI hub",
+   "link": "https://economymiddleeast.com/news/abu-dhabi-demand-for-prime-office-space-accelerates-as-city-strengthens-its-position-as-global-financial-and-ai-hub/?utm_source=rss&utm_medium=rss&utm_campaign=abu-dhabi-demand-for-prime-office-space-accelerates-as-city-strengthens-its-position-as-global-financial-and-ai-hub",
+   "source": "Economy Middle East",
+   "kind": "outlet",
+   "published": "2026-10-20T12:49+04:00",
+   "tags": [
+    "Abu Dhabi",
+    "artificial intelligence",
+    "Property"
+   ],
+   "teaser": "Abu Dhabi is witnessing accelerating demand for prime office space as its financial services sector expands and the emirate strengthens its position as a global financial and technology hub, according to CBRE Middle East\u2019s Abu Dhabi Finance Sector Report 2026. The report highlights how growing financial activity, strong investment inflows and rising demand from international [\u2026] The post Abu Dhabi",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Highlights strong commercial real estate growth in the capital.",
+   "watch": false,
+   "headline": "Abu Dhabi Prime Office Demand Surges",
+   "summary": "Growing financial and technology sectors are driving high demand for prime office space in Abu Dhabi. CBRE reports the capital is cementing its status as a major global hub.",
+   "why": "It reflects strong commercial real estate momentum in the UAE capital.",
+   "age_hours": 0.1,
+   "topic": "abu dhabi",
+   "more": 3
   },
   {
    "id": "1ac0481daf49",
@@ -89,7 +113,7 @@
    "headline": "UAE property demand climbs as 2026 market diversifies.",
    "summary": "The UAE real estate sector sees rising demand and fresh investor interest. Investment options continue to expand across the market.",
    "why": "It reflects broader market sentiment and shifting buyer trends.",
-   "age_hours": 5.9,
+   "age_hours": 6.8,
    "topic": "Supply & market reports"
   },
   {
@@ -109,10 +133,13 @@
    "impact": "Medium",
    "impact_reason": "Changes local rental inventory types and management strategies.",
    "watch": false,
+   "also": [
+    "Khaleej Times"
+   ],
    "headline": "Dubai holiday home regulations spark shift to shared housing",
    "summary": "New legislation in Dubai is pushing some holiday home owners to transition their properties into shared housing. Industry experts note this movement is strictly one-way with no reverse transition.",
    "why": "It highlights shifts in property utilization resulting from updated local regulations.",
-   "age_hours": 5.9,
+   "age_hours": 6.9,
    "topic": "Regulation & fees"
   },
   {
@@ -131,28 +158,30 @@
    "headline": "Abu Dhabi luxury property sales surge in Q3",
    "summary": "Abu Dhabi real estate transactions reached AED 21.5 billion in the third quarter, driven by a 104 percent increase in luxury sales.",
    "why": "It underscores surging high-end demand across the capital's property market.",
-   "age_hours": 12.5,
-   "topic": "abu dhabi",
-   "more": 2
+   "age_hours": 13.5,
+   "topic": "abu dhabi"
   },
   {
-   "id": "233917f87143",
-   "title": "Abu Dhabi property buyers shift towards luxury, off-plan homes as sales volumes decline",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSldDZ01VOGV3bXRiSjFRb3llYzdESUVfTWp1QW5jajFJeHFPa3B2ZUxzVGtBZ0ZGbU00cThWOVpQMEp4V29RY0swSk1kemlTdzdCZU5iNkJUdWZjY242N3JtQXJjOE56WXN2X2ZuY2k1YmU0c21BMVZ2Z2pzU3ZfZDIxVUd5aHpQandvbDl2TzVPQzFsa2UwRWhSMUNodG5KMkRDbDVXZ1pfRnNjMnBvRnhFRnVvSm16RkgtVGUyYlVEQdIBygFBVV95cUxQVWNHRVk3X2k1czF6OUhVQlF3THcwMURoZnlvbng0Z1BZM2FXcjhhMVh0RkpNQTJhaW5sdm5QYjFwVDh6X0ZfY3R5aVZQSEJJcWdkWC0zdEIwS0hxVGpYRGlXYTQyOFlRNzZfMGVFOUJLNkdtTm9BeFV0Tk1GekFaR2pQMTM5RVd0WlMtWVIyMzJ0V3ZWRFFUaU5KaXFpS0FuOEx2TEczVjRaXzhiLUdmbVc0SjdTTUlRSFpDanN0OWczczNONmI1N0FB?oc=5",
-   "source": "Khaleej Times",
+   "id": "38fd591c21c8",
+   "title": "Familyvisa Launches UAE Golden Visa Portal With Cost Calculator And 2026 Eligibility Rules",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUFIxOWZWNnNwR1BCTW5sc01mSXdUNUcxT05lbms2SzVkX2NSWFdtTWg0eFg0SmpzdWhqd3ZmZ2xxTjMyX2M4Q29EUjd1SDNOcmtjTW1TT05TT2Q3czJYLXhNLVBSRVJ6a3RISUIzQXNlN2R6eVpvVkVrUEhTQlRjOEE5RW01elB5aFJsd2tWSDR1dFNhb1JXU1R6V2hSczQyRktuMHdOU2dDVTBUQ1l4cF9vdTlGQ0dxajJ4bQ?oc=5",
+   "source": "Menafn",
    "kind": "search",
-   "published": "2026-10-19T18:06+04:00",
+   "published": "2026-10-20T12:15+04:00",
    "tags": [],
    "teaser": "",
-   "category": "Supply & market reports",
+   "category": "Regulation & fees",
    "impact": "Medium",
-   "impact_reason": "Demonstrates changing risk appetite and buyer preferences in the capital.",
+   "impact_reason": "Simplifies residency access for investors and property buyers.",
    "watch": false,
-   "headline": "Abu Dhabi buyers shift to luxury and off-plan properties",
-   "summary": "Despite an overall decline in sales volumes, property buyers in Abu Dhabi are increasingly favoring luxury and off-plan residential options.",
-   "why": "It outlines shifting buyer preferences toward premium and uncompleted developments.",
-   "age_hours": 17.8,
-   "topic": "abu dhabi"
+   "also": [
+    "Zawya"
+   ],
+   "headline": "New UAE Golden Visa Portal Launched",
+   "summary": "Familyvisa has introduced a dedicated UAE Golden Visa portal featuring updated 2026 eligibility criteria and a cost calculator.",
+   "why": "It provides clarity on long-term residency requirements for investors.",
+   "age_hours": 0.6,
+   "topic": "golden visa"
   },
   {
    "id": "0f6eae3c0d8f",
@@ -170,40 +199,37 @@
    "headline": "Gargash Prime and JINGDONG partner for Dubai logistics facility.",
    "summary": "The joint venture will develop a 2.5 million square foot logistics hub in Dubai. This project expands commercial real estate and industrial infrastructure.",
    "why": "It represents a major commercial real estate development in the emirate.",
-   "age_hours": 19.9,
+   "age_hours": 20.9,
    "topic": "Developer news"
   },
   {
-   "id": "c26746ed3424",
-   "title": "Oil prices rise as Hormuz tensions fuel supply concerns, Brent hovers \u200bnear five-month high at $109.9",
-   "link": "https://economymiddleeast.com/news/oil-prices-rise-as-hormuz-tensions-fuel-supply-concerns-brent-hovers-near-five-month-high-at-109-9/?utm_source=rss&utm_medium=rss&utm_campaign=oil-prices-rise-as-hormuz-tensions-fuel-supply-concerns-brent-hovers-near-five-month-high-at-109-9",
-   "source": "Economy Middle East",
-   "kind": "outlet",
-   "published": "2026-10-20T09:23+04:00",
-   "tags": [
-    "Donald Trump",
-    "Middle East",
-    "Oil prices",
-    "Russia",
-    "United States"
-   ],
-   "teaser": "Oil prices climbed on Tuesday, with Brent crude hovering near a five-month high as renewed Houthi attacks on regional infrastructure and reports of vessel attacks in the Gulf heightened concerns over regional stability and energy supplies. As of 5:03 GMT, Brent crude futures rose 37 cents, or 0.34 percent, to $109.9 a barrel, after reaching [\u2026] The post Oil prices rise as Hormuz tensions fuel supp",
+   "id": "a476496f78bc",
+   "title": "Dubai court orders woman to pay AED1.46m after guaranteeing partner\u2019s villa investment debt",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNXgyM1ZDM3MycU1TYTktdDh5VGF1RjBYZmJUNG1OVW5faVlyX1ZBSmJjazRIMlpEYXg5dFZDN3EwQXZfdG5lbUZmWS15d1FWeWkzdFlCZGZrZTdkc2hMd1d4d3I4Y01nWXRaRE9BTzhqRVNPMUw1WXNPUEo5R1hpbWxaNUMwbUdPcEJqM0VNendYMTl4ZzdVQXg5UkZ2Q0NPZXlXbTVELWxfM2E0bVBjaFNUaF84UmYya2tWVE4wVnpZUGpK0gHfAUFVX3lxTE9tZ0o4aTg2OVlNQzBCNmpiVFcyQXJqUEZZeTgtMXF2SmtUYnVhaUFRaTRRYXNHaXlhSHJXbkNuNkk5OHZVXy1EWW4wTGNESVFzVmQxbmFwOThlYWM3MlUyV3lKU185QTZ4a0FQV2syVWlkQlgwV00wVXJIaENhSEo2ZjExVWVqMV9iWExzdFczTUg4blF3LVBORld1WE14bV8zNU9QakNCc2FacVhXSkpkZEl3OXR4QmRQaDg0OFFHRHdMRkUwTlZrVlN6ajdlT0thVnNtZFU0YmhCeU1CLUk?oc=5",
+   "source": "Emirates 24|7",
+   "kind": "search",
+   "published": "2026-10-20T12:28+04:00",
+   "tags": [],
+   "teaser": "",
    "category": "Macro & geopolitics",
    "impact": "Low",
-   "impact_reason": "General macro movement with indirect real estate effect.",
+   "impact_reason": "Serves as a legal warning for property investment guarantors.",
    "watch": false,
-   "headline": "Oil prices climb toward five-month highs amid regional tensions",
-   "summary": "Brent crude rose as regional security concerns heightened supply worries in the Gulf. Higher energy prices impact broader economic conditions across the region.",
-   "why": "Macroeconomic shifts in oil prices influence regional investor sentiment and liquidity.",
-   "age_hours": 2.6,
-   "topic": "oil"
+   "also": [
+    "Emirates 24|7"
+   ],
+   "headline": "Dubai Court Enforces Villa Investment Debt",
+   "summary": "A Dubai court has mandated a woman to pay AED 1.46 million after she acted as a guarantor for her partner's villa investment.",
+   "why": "It highlights legal liabilities associated with property investment guarantees.",
+   "age_hours": 0.4,
+   "topic": "Macro & geopolitics"
   }
  ],
  "window_hours": 24,
- "count_relevant": 15,
- "count_fetched": 392,
+ "count_relevant": 18,
+ "count_fetched": 397,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-20T11:56+04:00",
- "saved_at": "2026-10-20T11:56+04:00"
+ "as_of": "2026-10-20T12:53+04:00",
+ "saved_at": "2026-10-20T12:53+04:00"
 }

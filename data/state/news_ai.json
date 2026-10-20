@@ -388,6 +388,42 @@
    "category": "Developer news",
    "impact": "Medium",
    "impact_reason": "New project pipeline increases regional housing supply and options."
+  },
+  "bcc8804a35cb": {
+   "relevant": true,
+   "headline": "Abu Dhabi Prime Office Demand Surges",
+   "summary": "Growing financial and technology sectors are driving high demand for prime office space in Abu Dhabi. CBRE reports the capital is cementing its status as a major global hub.",
+   "why": "It reflects strong commercial real estate momentum in the UAE capital.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Highlights strong commercial real estate growth in the capital."
+  },
+  "38fd591c21c8": {
+   "relevant": true,
+   "headline": "New UAE Golden Visa Portal Launched",
+   "summary": "Familyvisa has introduced a dedicated UAE Golden Visa portal featuring updated 2026 eligibility criteria and a cost calculator.",
+   "why": "It provides clarity on long-term residency requirements for investors.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Simplifies residency access for investors and property buyers."
+  },
+  "af69fb097fd4": {
+   "relevant": true,
+   "headline": "Ellington Launches $762m Business Bay Tower",
+   "summary": "Ellington has announced a massive commercial tower project in Business Bay valued at $762 million.",
+   "why": "It introduces significant new commercial inventory to a prime Dubai district.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Adds notable commercial supply to the Dubai market."
+  },
+  "a476496f78bc": {
+   "relevant": true,
+   "headline": "Dubai Court Enforces Villa Investment Debt",
+   "summary": "A Dubai court has mandated a woman to pay AED 1.46 million after she acted as a guarantor for her partner's villa investment.",
+   "why": "It highlights legal liabilities associated with property investment guarantees.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Serves as a legal warning for property investment guarantors."
   }
  }
 }
