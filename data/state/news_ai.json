@@ -1,240 +1,4 @@
 {
- "2026-10-18": {
-  "f724af775aa4": {
-   "relevant": true,
-   "headline": "Dubai property sector hits $3.7bn in weekly deals",
-   "summary": "Dubai registered $3.7 billion in property transactions over the past week. A Palm Jumeirah apartment contributed $14.6 million to the total.",
-   "why": "It shows strong weekly transaction volume and high-value luxury sales in Dubai.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Reflects ongoing strong market activity and liquidity."
-  },
-  "f4b735f5326e": {
-   "relevant": true,
-   "headline": "Dubai rents drop up to 22 percent",
-   "summary": "Weekly roundup highlights a drop in Dubai rental rates by up to 22 percent. Other updates include an airport trial and higher savings rates.",
-   "why": "Shifting rental rates directly impact tenant choices and landlord yields.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Indicates shifting rental trends across the emirate."
-  },
-  "144f20a5a261": {
-   "relevant": true,
-   "headline": "Reportage and Sabah launch four projects in Azerbaijan",
-   "summary": "UAE-based developers Reportage and Sabah have unveiled four new real estate developments in Azerbaijan.",
-   "why": "It highlights UAE developer expansion into international property markets.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Involves international projects rather than domestic Dubai real estate."
-  },
-  "81b56e6b99f2": {
-   "relevant": true,
-   "headline": "Dubai weekly property transactions reach AED 13.47 billion",
-   "summary": "Total Dubai real estate transactions hit AED 13.47 billion during the week, which included AED 8.59 billion in sales.",
-   "why": "It provides a clear picture of total capital flowing into the local property market.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Highlights robust transactional turnover in the local market."
-  },
-  "69ff5094dfc1": {
-   "relevant": true,
-   "headline": "UAE real estate transactions surge 103 percent",
-   "summary": "The UAE property market maintained strong momentum with transaction volumes jumping 103 percent in the first half of 2026.",
-   "why": "Massive transaction growth signals exceptional overall market health and investor appetite.",
-   "category": "Supply & market reports",
-   "impact": "High",
-   "impact_reason": "Demonstrates massive market growth and heightened investor confidence."
-  },
-  "d2bd45a03c79": {
-   "relevant": false,
-   "headline": "Sharjah Deputy Ruler opens orphanage and housing project",
-   "summary": "Sharjah Deputy Ruler opens orphanage, launches housing project in Philippines.",
-   "why": "International humanitarian projects do not impact the Dubai property market.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Not relevant to local property economics."
-  },
-  "ab9faa9c14fa": {
-   "relevant": false,
-   "headline": "Cricketer Suryakumar buys property in Dubai",
-   "summary": "Indian cricketer Suryakumar buys luxury property in Shah Rukh Khan's tower.",
-   "why": "Celebrity real estate purchases are lifestyle news rather than broad market indicators.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Celebrity purchase has no broader market impact."
-  },
-  "779fb744bdc0": {
-   "relevant": true,
-   "headline": "Dubai rental prices fall in prime districts",
-   "summary": "Tenants are moving to cheaper homes while landlords in prime districts cut rents. New leases significantly outnumbered renewals in July and August.",
-   "why": "Rental correction trends directly affect landlord pricing strategies and tenant mobility.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Shows a shift in rental market dynamics and pricing."
-  },
-  "c16d99004998": {
-   "relevant": true,
-   "headline": "Prime Dubai rents drop while suburban rates climb.",
-   "summary": "Rental rates are decreasing in prime districts while outer areas experience growth. Tenants should evaluate location trade-offs carefully.",
-   "why": "It shifts rental affordability dynamics across different city sectors.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Changes tenant choices and rental pricing trends."
-  },
-  "752c94f3b496": {
-   "relevant": true,
-   "headline": "Emaar Malls and Dubai Municipality discuss retail projects.",
-   "summary": "Both entities are exploring potential new retail and lifestyle destinations within the emirate. Collaborations aim to enhance commercial offerings.",
-   "why": "It signals upcoming commercial developments by major players.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Early-stage discussions with no immediate market shifts."
-  },
-  "a6c853283f8f": {
-   "relevant": false,
-   "headline": "Celebrity property investment in luxury Dubai real estate.",
-   "summary": "Public figures have purchased high-end property in the local market.",
-   "why": "It is a celebrity lifestyle and gossip piece without substantive market news.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Celebrity purchases do not affect broader market conditions."
-  },
-  "8dddfbf0a89b": {
-   "relevant": true,
-   "headline": "New Dubai regulations regarding secondary villa construction.",
-   "summary": "Updated guidelines address the feasibility of constructing a second home on existing residential plots. Homeowners must review specific local mandates.",
-   "why": "It directly impacts plot utilization and property expansion rights.",
-   "category": "Regulation & fees",
-   "impact": "Medium",
-   "impact_reason": "Affects property modification and development potential."
-  },
-  "e37eec1802b1": {
-   "relevant": false,
-   "headline": "Expert discussion on UAE luxury real estate forces.",
-   "summary": "Industry executives share perspectives on the drivers transforming the luxury sector.",
-   "why": "It is an opinion piece with no concrete news updates.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Opinion content without direct market-shaping news."
-  },
-  "5f96237fc8fe": {
-   "relevant": false,
-   "headline": "Celebrity villa features revealed in Dubai.",
-   "summary": "Details highlighting luxury amenities inside a known personality's villa.",
-   "why": "It focuses on celebrity lifestyle rather than real estate economics.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Purely celebrity interest content."
-  },
-  "03cd65d99a26": {
-   "relevant": true,
-   "headline": "Abu Dhabi outlines perks for property owner visa holders.",
-   "summary": "Authorities have highlighted three specific advantages for foreign nationals holding real estate investor visas. These benefits aim to attract more property buyers.",
-   "why": "It affects investor incentives and residency appeal.",
-   "category": "Regulation & fees",
-   "impact": "Medium",
-   "impact_reason": "Influences buyer sentiment and foreign investment incentives."
-  },
-  "795935f9e6ea": {
-   "relevant": true,
-   "headline": "Upcoming Sobha real estate developments in Dubai.",
-   "summary": "The developer is preparing to launch new residential projects across the emirate. Details outline future inventory additions.",
-   "why": "It provides insight into incoming residential supply.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Announcements of future projects have minimal immediate impact."
-  },
-  "83a0f3b4c0ae": {
-   "relevant": true,
-   "headline": "China's JD Property Launches UAE Logistics Joint Venture",
-   "summary": "JD Property has established a new logistics joint venture in the United Arab Emirates. This marks the company's expansion into the regional industrial real estate sector.",
-   "why": "It introduces a major international player into the local industrial real estate market.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Expands regional industrial real estate and logistics infrastructure."
-  },
-  "25b5036a0a38": {
-   "relevant": true,
-   "headline": "Sharjah Property Transactions Hit $12.74 Billion in Nine Months",
-   "summary": "Sharjah achieved $12.74 billion in real estate transactions over the first three quarters of 2026. High rental yields between 8 and 12 percent continue to attract thousands of international buyers.",
-   "why": "This report highlights strong investor demand and lucrative yields in the regional market.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Reflects strong regional market performance and high rental yields."
-  },
-  "34bafb8a286e": {
-   "relevant": true,
-   "headline": "Abu Dhabi Details Seven Categories for 10-Year Golden Visa",
-   "summary": "Abu Dhabi has published the specific foreigner categories that qualify for its long-term residency program. This initiative aims to draw skilled talent and sustained investment to the emirate.",
-   "why": "Residency rules directly impact long-term buyer sentiment and property investments.",
-   "category": "Regulation & fees",
-   "impact": "Medium",
-   "impact_reason": "Clear residency pathways encourage long-term property investments."
-  },
-  "456b5caa5b3f": {
-   "relevant": true,
-   "headline": "Azizi Launches New Workforce Housing Developments",
-   "summary": "Azizi has initiated new residential projects tailored for the workforce across Dubai and Sharjah. These developments aim to address the growing demand for staff accommodation.",
-   "why": "Developer project launches indicate active construction pipelines across the Emirates.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Involves workforce housing rather than mainstream residential property sales."
-  },
-  "679908d82046": {
-   "relevant": false,
-   "headline": "UAE Property: Company-Rented Apartment Residency Inquiry",
-   "summary": "An analysis addresses whether employees can remain in company-provided housing after resigning from their jobs.",
-   "why": "This is an employment advisory piece rather than market-moving real estate news.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Employment advice with no broader market impact."
-  },
-  "c5d399bb1049": {
-   "relevant": true,
-   "headline": "Dubai Shared Housing Law 2026 Tenant Checklist",
-   "summary": "Tenants seeking shared accommodations must review specific compliance checks to avoid violating the updated 2026 regulations. Understanding these rules ensures renters stay legally compliant.",
-   "why": "It outlines essential legal requirements for tenants navigating Dubai's shared housing regulations.",
-   "category": "Regulation & fees",
-   "impact": "Medium",
-   "impact_reason": "Affects tenant compliance and rental choices."
-  },
-  "1968961df757": {
-   "relevant": false,
-   "headline": "Dubai Police AI Vision 2040",
-   "summary": "Dubai Police outlined its long-term vision for artificial intelligence patrols and advanced crime investigations by the year 2040.",
-   "why": "The article focuses on policing and technology rather than real estate or the economy.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "No direct impact on property markets."
-  },
-  "007f9945445b": {
-   "relevant": true,
-   "headline": "Dubai Rental Trends Shift Across Prime and Outlying Areas",
-   "summary": "Rental rates are dropping in prime locations while simultaneously increasing across outer districts. Tenants need to adapt their search strategies based on these shifting neighborhood dynamics.",
-   "why": "It provides crucial market intelligence regarding price adjustments for Dubai tenants and landlords.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Shifts tenant decisions and rental market dynamics."
-  },
-  "6473c74e0728": {
-   "relevant": true,
-   "headline": "UAE Golden Visa expands to diverse professions beyond wealthy investors",
-   "summary": "The ten-year UAE residency program now includes nurses, teachers, and e-sports professionals. This broader eligibility encourages more long-term residents to invest in local property.",
-   "why": "Broadened residency eligibility directly impacts long-term property demand and buyer demographics in the UAE.",
-   "category": "Regulation & fees",
-   "impact": "Medium",
-   "impact_reason": "Expands residency access, boosting long-term property buyer demand."
-  },
-  "c98475533ede": {
-   "relevant": false,
-   "headline": "Dubai World Islands Samana News",
-   "summary": "Construction news mentions Dubai's World Islands and Samana without additional details.",
-   "why": "The teaser is empty and lacks sufficient property market details.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Insufficient information to affect the property market."
-  }
- },
  "2026-10-19": {
   "0169fcdaa3f6": {
    "relevant": true,
@@ -442,6 +206,143 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Opinion piece lacking concrete news."
+  }
+ },
+ "2026-10-20": {
+  "2bbc84ce8440": {
+   "relevant": true,
+   "headline": "Dubai holiday home regulations spark shift to shared housing",
+   "summary": "New legislation in Dubai is pushing some holiday home owners to transition their properties into shared housing. Industry experts note this movement is strictly one-way with no reverse transition.",
+   "why": "It highlights shifts in property utilization resulting from updated local regulations.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Changes local rental inventory types and management strategies."
+  },
+  "4ddbcfb828b0": {
+   "relevant": true,
+   "headline": "Dubai Islands sales reach $5.1B amid rising residential prices",
+   "summary": "Property sales on Dubai Islands have reached $5.1 billion as residential prices experienced a 17.7 percent increase.",
+   "why": "It provides crucial pricing and sales volume data for a major Dubai waterfront development.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects strong capital appreciation and high demand in specific areas."
+  },
+  "3364b1970ad0": {
+   "relevant": true,
+   "headline": "Abu Dhabi luxury property sales surge in Q3",
+   "summary": "Abu Dhabi real estate transactions reached AED 21.5 billion in the third quarter, driven by a 104 percent increase in luxury sales.",
+   "why": "It underscores surging high-end demand across the capital's property market.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Indicates robust high-end investor activity and rising market values."
+  },
+  "233917f87143": {
+   "relevant": true,
+   "headline": "Abu Dhabi buyers shift to luxury and off-plan properties",
+   "summary": "Despite an overall decline in sales volumes, property buyers in Abu Dhabi are increasingly favoring luxury and off-plan residential options.",
+   "why": "It outlines shifting buyer preferences toward premium and uncompleted developments.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Demonstrates changing risk appetite and buyer preferences in the capital."
+  },
+  "4500b1a630fa": {
+   "relevant": true,
+   "headline": "Savills reports AED 21.5B in Abu Dhabi residential sales",
+   "summary": "Savills reports that Abu Dhabi residential sales hit AED 21.5 billion in Q3 2026, supported by robust demand for luxury homes.",
+   "why": "It validates strong third-quarter transactional performance through institutional data.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Provides reliable market performance metrics for investor sentiment."
+  },
+  "cd149b190d57": {
+   "relevant": true,
+   "headline": "Abu Dhabi outlines salary criteria for 10-year Golden Visa",
+   "summary": "Abu Dhabi has established specific monthly salary thresholds for skilled workers applying for the 10-year Golden Visa residency.",
+   "why": "It details residency requirements that influence long-term expat property investment decisions.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Affects long-term residency eligibility and buyer retention."
+  },
+  "6f0e292042d2": {
+   "relevant": false,
+   "headline": "Arada launches massive expansion into Saudi Arabian market",
+   "summary": "UAE developer Arada is expanding into Saudi Arabia with a $3.8 billion Riyadh project and plans to build 100,000 homes.",
+   "why": "It focuses on foreign expansion outside the UAE market.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Involves regional expansion outside domestic property focus."
+  },
+  "a6033cc971d9": {
+   "relevant": true,
+   "headline": "Meraki Developers enters Dubai South with extensive pipeline",
+   "summary": "Meraki Developers is expanding its footprint by entering Dubai South as part of its growing seven-project portfolio.",
+   "why": "It highlights new developer activity and project expansion within a key Dubai district.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Signals localized developer expansion without broad market disruption."
+  },
+  "865aafa120d2": {
+   "relevant": true,
+   "headline": "Estate planning risks for UAE expats without registered wills.",
+   "summary": "Expats dying without a will face severe legal hurdles regarding asset and property distribution. Families are left to navigate complex local court procedures.",
+   "why": "It directly impacts property inheritance rights for expatriates in the UAE.",
+   "category": "Regulation & fees",
+   "impact": "High",
+   "impact_reason": "Crucial legal implications for property inheritance and family assets."
+  },
+  "1ac0481daf49": {
+   "relevant": true,
+   "headline": "UAE property demand climbs as 2026 market diversifies.",
+   "summary": "The UAE real estate sector sees rising demand and fresh investor interest. Investment options continue to expand across the market.",
+   "why": "It reflects broader market sentiment and shifting buyer trends.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Signals positive ongoing momentum and diversification in buyer interest."
+  },
+  "82bf92153742": {
+   "relevant": true,
+   "headline": "Dubai property investments surge 360 percent over five years.",
+   "summary": "Investment values grew from $40.3 billion in 2021 to $185.16 billion by 2025. This massive jump highlights extreme confidence in the local market.",
+   "why": "It demonstrates extraordinary historical growth in capital inflows.",
+   "category": "Supply & market reports",
+   "impact": "High",
+   "impact_reason": "Massive capital inflows validate strong long-term market sentiment."
+  },
+  "f18ba5f93e3d": {
+   "relevant": false,
+   "headline": "Dubai RTA to Auction 60 Exclusive Vehicle Plate Numbers",
+   "summary": "Dubai RTA to auction 60 exclusive vehicle plate numbers on October 24.",
+   "why": "Vehicle plate auctions do not relate to real estate or economic fundamentals.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Unrelated to property or mortgages."
+  },
+  "0f6eae3c0d8f": {
+   "relevant": true,
+   "headline": "Gargash Prime and JINGDONG partner for Dubai logistics facility.",
+   "summary": "The joint venture will develop a 2.5 million square foot logistics hub in Dubai. This project expands commercial real estate and industrial infrastructure.",
+   "why": "It represents a major commercial real estate development in the emirate.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Expands the emirate's industrial and commercial supply."
+  },
+  "9937a25e5e4d": {
+   "relevant": true,
+   "headline": "Tomorrow World and Missoni launch Dubai Islands branded residences.",
+   "summary": "The Bay Interiors by Missoni has been announced for Dubai Islands. This partnership brings branded luxury real estate to the coastal development.",
+   "why": "It introduces a new luxury residential project to the market.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Adds new branded supply to the residential pipeline."
+  },
+  "373ffa41dcfc": {
+   "relevant": false,
+   "headline": "Comparing luxury property deals between Dubai, London, and Indian cities.",
+   "summary": "A comparison analysis looks at where wealthy Indian buyers find better property values.",
+   "why": "It is an opinion and lifestyle comparison piece with no fresh news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Lacks actionable news or market-moving data."
   }
  }
 }

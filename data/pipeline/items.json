@@ -1041,5 +1041,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"9937a25e5e4d": {
+"id": "9937a25e5e4d",
+"title": "Tomorrow World and Missoni launch Dubai Islands branded residences.",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU2tPemNRa2lvU2s5cEpNMHRxWUtGNEdXVG45OUR1MVVjZ0FzYmhPMDJ0SjlvV2FHeUR3cXk2TzZxNGdnODR4V3k5YnQtYUZaQkhQcjM1TFdmd1ZzeElCakhpLVZOZ1FrSU11ZTNWZUs5V3Bzc0JCb0czX0tod25Ha3ptWFdvTTNhSGNHUWpiWWMzbzVyV1RjWnppUWFPWTVrTlo2Tm1RbEhYZTZWSm9Uak9QNmU0TzhXZHdMRTNZQWpPcTNTOXFXT25Kc0RGNnc?oc=5",
+"source": "EIN News",
+"category": "Developer news",
+"published": "2026-10-19T15:25+04:00",
+"first_seen": "2026-10-20",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": "Tomorrow World",
+"location": "Dubai Islands",
+"type": "branded residences",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
