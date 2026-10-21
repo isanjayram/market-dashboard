@@ -1156,5 +1156,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"2a91e07768ed": {
+"id": "2a91e07768ed",
+"title": "Abu Dhabi schedules 30 residential project launches before year-end",
+"link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQeGZjcFo0amU2RTZibHItZ3RfcVcxVldvWTJYVmxZdHVfaW14SXhZeDZMZ1lKZW5LSktQV2w0Y1RQMXB1TTBMeVdaTUFOQUV4a1BEUEpsWFZKVGNhT19abnR2NkR5Ny1mZWZVaVQxT1V1cWZoclBMdVhkak5PZWlLbi1VYzJIMGxzY2RjeVNiTENfdmVTRDRTcGxza0VEcFhFZG8zb1JJSEFZQ1pWSnl6eGNUYVVFS192TmxpOVh5OXF3QktsOFE1Um5LMUdrdE9xTmpzNVc5WENkeEo0dFR1Z3F1X2thUjJQT2U0T1BTdHpOT3pPTjdTNjNIemdoRzQxVWln?oc=5",
+"source": "Zawya",
+"category": "Developer news",
+"published": "2026-10-21T09:45+04:00",
+"first_seen": "2026-10-21",
+"kind": "Off-plan launch",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": "Abu Dhabi",
+"type": "residential",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

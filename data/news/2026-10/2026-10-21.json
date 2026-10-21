@@ -185,5 +185,48 @@
 "impact_reason": "Single project partnership with minimal market-wide effect.",
 "watch": false,
 "topic": "Developer news"
+},
+{
+"id": "2a91e07768ed",
+"headline": "Abu Dhabi schedules 30 residential project launches before year-end",
+"summary": "Abu Dhabi will introduce a new housing project every three days. These upcoming 30 developments total up to AED 45 billion.",
+"why": "Increases housing supply significantly in the capital.",
+"source": "Zawya",
+"link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQeGZjcFo0amU2RTZibHItZ3RfcVcxVldvWTJYVmxZdHVfaW14SXhZeDZMZ1lKZW5LSktQV2w0Y1RQMXB1TTBMeVdaTUFOQUV4a1BEUEpsWFZKVGNhT19abnR2NkR5Ny1mZWZVaVQxT1V1cWZoclBMdVhkak5PZWlLbi1VYzJIMGxzY2RjeVNiTENfdmVTRDRTcGxza0VEcFhFZG8zb1JJSEFZQ1pWSnl6eGNUYVVFS192TmxpOVh5OXF3QktsOFE1Um5LMUdrdE9xTmpzNVc5WENkeEo0dFR1Z3F1X2thUjJQT2U0T1BTdHpOT3pPTjdTNjNIemdoRzQxVWln?oc=5",
+"published": "2026-10-21T09:45+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Boosts inventory and offers new investment options.",
+"watch": false,
+"more": 1,
+"topic": "abu dhabi"
+},
+{
+"id": "ff5f75fe92fd",
+"headline": "Etihad Rail connects Dubai and Fujairah in 70 minutes",
+"summary": "Train travel between Dubai and Fujairah takes 70 minutes with fares starting at AED 29. Currently, only one daily service runs on this route.",
+"why": "Improves inter-emirate connectivity and regional accessibility.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/living-in-uae/transport/etihad-rail-dubai-to-fujairah-train-ticket-prices-timings-stations-1.500717428",
+"published": "2026-10-21T07:27+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Enhances connectivity between different emirates.",
+"watch": false,
+"topic": "etihad rail"
+},
+{
+"id": "68dcb0146483",
+"headline": "Aldar enters Sharjah market via AED 1.1 billion acquisition",
+"summary": "Aldar has purchased nine residential buildings in Aljada from Arada. This marks the developer's first entry into Sharjah.",
+"why": "Major developer expansion into a new regional market.",
+"source": "Al-Bawaba",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZU53UHBhQXdjWXRSTWZuSXF6aXRvRGh6LV9lRmNjd2VfLWJ5cnQwS2t2aVlOSHJZRDRnQmRyOTFrYm9ldWY4WDZfN0FMckV5WEJjR281LUpfeVRoUWhZV054QjZJZmNKLWFmQnFBcUNvTnd2SUFsOEhHZURhc1dVdFlVU3ZqTGIzbmlj?oc=5",
+"published": "2026-10-21T08:40+04:00",
+"category": "Developer news",
+"impact": "Low",
+"impact_reason": "Corporate acquisition with minimal direct impact on buyers.",
+"watch": true,
+"topic": "sharjah"
 }
 ]

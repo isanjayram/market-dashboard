@@ -352,6 +352,33 @@
    "category": "Developer news",
    "impact": "Medium",
    "impact_reason": "New branded residential supply launch."
+  },
+  "2a91e07768ed": {
+   "relevant": true,
+   "headline": "Abu Dhabi schedules 30 residential project launches before year-end",
+   "summary": "Abu Dhabi will introduce a new housing project every three days. These upcoming 30 developments total up to AED 45 billion.",
+   "why": "Increases housing supply significantly in the capital.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Boosts inventory and offers new investment options."
+  },
+  "ff5f75fe92fd": {
+   "relevant": true,
+   "headline": "Etihad Rail connects Dubai and Fujairah in 70 minutes",
+   "summary": "Train travel between Dubai and Fujairah takes 70 minutes with fares starting at AED 29. Currently, only one daily service runs on this route.",
+   "why": "Improves inter-emirate connectivity and regional accessibility.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Enhances connectivity between different emirates."
+  },
+  "68dcb0146483": {
+   "relevant": true,
+   "headline": "Aldar enters Sharjah market via AED 1.1 billion acquisition",
+   "summary": "Aldar has purchased nine residential buildings in Aljada from Arada. This marks the developer's first entry into Sharjah.",
+   "why": "Major developer expansion into a new regional market.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Corporate acquisition with minimal direct impact on buyers."
   }
  }
 }
