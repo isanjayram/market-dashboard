@@ -379,6 +379,51 @@
    "category": "Developer news",
    "impact": "Low",
    "impact_reason": "Corporate acquisition with minimal direct impact on buyers."
+  },
+  "a3715bd87b83": {
+   "relevant": true,
+   "headline": "Zoya Developments breaks ground on sold-out Dubai South project",
+   "summary": "Construction begins on the Dh104-million Elinor residential development. The project completely sold out within two weeks of its initial launch.",
+   "why": "This demonstrates continued strong buyer demand and active construction milestones in emerging Dubai communities.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Reflects strong investor demand and rapid project execution."
+  },
+  "d4fff63656f2": {
+   "relevant": true,
+   "headline": "Ellington and Al Hamra launch AED 2.8bn Berkeley Tower",
+   "summary": "Ellington Properties and Al Hamra Group have announced the massive Berkeley Tower project in Business Bay.",
+   "why": "A major new multibillion-dirham tower launch significantly impacts the supply and investment landscape in Business Bay.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Adds major high-value supply to a prime business district."
+  },
+  "5dab16ab6361": {
+   "relevant": false,
+   "headline": "Adil Faridi: Turning uncertainty into opportunity in Dubai",
+   "summary": "An executive profile detailing a career journey from telecom sales to addressing affordable housing challenges in Dubai.",
+   "why": "This is an inspirational personal profile rather than a news report with actionable real estate market data.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Personal profile lacking direct market data or policy changes."
+  },
+  "7334d7c87667": {
+   "relevant": true,
+   "headline": "Guide to early rental contract termination rules in Dubai",
+   "summary": "Tenants looking to exit tenancy agreements early face specific legal penalties and notice requirements. Understanding these rules helps avoid financial disputes between landlords and tenants.",
+   "why": "Clarifying tenancy laws is vital for agents advising clients on rental agreement liabilities and tenant rights.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Informs operational rental rules without shifting overall market costs."
+  },
+  "126c3ddf3226": {
+   "relevant": true,
+   "headline": "What tenants need to know about ending Dubai leases early",
+   "summary": "An overview outlining the proper procedures and considerations for tenants wishing to terminate leases before expiration.",
+   "why": "Essential practical knowledge for agents managing rental portfolios and advising tenants on lease exits.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Provides guidance on tenancy rules without altering market trends."
   }
  }
 }
