@@ -433,6 +433,15 @@
    "category": "Regulation & fees",
    "impact": "Low",
    "impact_reason": "Minor legal update with no immediate financial market effect."
+  },
+  "89e831962851": {
+   "relevant": true,
+   "headline": "Dubai tenants urged to check hidden lease clauses",
+   "summary": "Dubai renters are being cautioned to thoroughly review overlooked provisions in their tenancy agreements. Being unaware of these terms can lead to unexpected liabilities.",
+   "why": "Tenants need to be aware of hidden lease conditions to avoid unexpected disputes and costs.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Affects individual tenant awareness without broad market shifts."
   }
  }
 }
