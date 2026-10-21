@@ -285,5 +285,22 @@
 "impact_reason": "Provides guidance on tenancy rules without altering market trends.",
 "watch": false,
 "topic": "Regulation & fees"
+},
+{
+"id": "b8a2b0f1f284",
+"headline": "Sharjah Proposes New Law for Unclaimed Property Management",
+"summary": "Sharjah is reviewing a draft legislation to manage lost and unclaimed assets legally. The framework aims to safeguard the ownership rights of individuals.",
+"why": "It establishes official legal procedures for handling unclaimed assets in the emirate.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/uae/sharjah-reviews-draft-law-handling-lost-unclaimed-property",
+"published": "2026-10-21T12:13+04:00",
+"category": "Regulation & fees",
+"impact": "Low",
+"impact_reason": "Minor legal update with no immediate financial market effect.",
+"watch": true,
+"also": [
+"Menafn"
+],
+"topic": "sharjah"
 }
 ]

@@ -1,25 +1,6 @@
 {
  "top": [
   {
-   "id": "a9e2a1e69dc9",
-   "title": "FamilyVisa.ae launches UAE Golden Visa portal with cost calculator and 2026 eligibility rules",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaXJzTDVJb3VIV0FYaGhvNGM4TFBTZWJNdktkWTZnZ1NER2M5YzFVUFJYaFVBc211eDRKbllOOGxVZWVfOEpxaVBTZE5VRVBzVHFxUVA4d2FFRzEzTEh1WXVjREItVWNWRFBWWmcxelAzLXRLbHB4SVh6TGRXTDQ4R1JMZXlMdnBjWm95M2pqZ2hGZWt5dzBNdXY4YjJSd25UN05ES0lNcDdjLTQtcWdXVEFtWGdQc1hCY1dtYlFKNHJpWVJOeWdVMDZlcWloaEMzalUzMkR2b0h1R1ExS0xYTVQ3Q3pGclg0MDZV?oc=5",
-   "source": "Zawya",
-   "kind": "search",
-   "published": "2026-10-20T12:41+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Regulation & fees",
-   "impact": "High",
-   "impact_reason": "Changes residency eligibility and investor planning.",
-   "watch": false,
-   "headline": "New Portal Launches for UAE Golden Visa Rules and Costs",
-   "summary": "FamilyVisa.ae has introduced a dedicated platform featuring expense estimators and updated criteria for 2026. This tool helps investors easily navigate residency pathways linked to property ownership.",
-   "why": "It directly impacts residency rules and investor eligibility in the UAE.",
-   "age_hours": 23.3,
-   "topic": "golden visa"
-  },
-  {
    "id": "a3715bd87b83",
    "title": "Sold out in two weeks, breaking ground in two months: Zoya advances Elinor in Dubai South",
    "link": "https://gulfnews.com/business/property/sold-out-in-two-weeks-breaking-ground-in-two-months-zoya-advances-elinor-in-dubai-south-1.500718052",
@@ -37,7 +18,7 @@
    "headline": "Zoya Developments breaks ground on sold-out Dubai South project",
    "summary": "Construction begins on the Dh104-million Elinor residential development. The project completely sold out within two weeks of its initial launch.",
    "why": "This demonstrates continued strong buyer demand and active construction milestones in emerging Dubai communities.",
-   "age_hours": 1.2,
+   "age_hours": 2.0,
    "topic": "Developer news",
    "more": 2
   },
@@ -57,7 +38,7 @@
    "headline": "Ellington and Al Hamra launch AED 2.8bn Berkeley Tower",
    "summary": "Ellington Properties and Al Hamra Group have announced the massive Berkeley Tower project in Business Bay.",
    "why": "A major new multibillion-dirham tower launch significantly impacts the supply and investment landscape in Business Bay.",
-   "age_hours": 3.0,
+   "age_hours": 3.9,
    "topic": "Developer news"
   },
   {
@@ -76,7 +57,7 @@
    "headline": "Abu Dhabi Reaches Dh21.5 Billion in Q3 2026 Sales",
    "summary": "The capital logged 6,085 residential property transactions during the third quarter of 2026. This figure highlights strong and sustained market activity across Abu Dhabi neighborhoods.",
    "why": "It provides crucial market performance data for real estate professionals.",
-   "age_hours": 11.6,
+   "age_hours": 12.4,
    "topic": "abu dhabi"
   },
   {
@@ -95,7 +76,7 @@
    "headline": "Dubai Rent Renewals Drop 26.5 Percent for Tenants",
    "summary": "Lease renewal costs have seen a significant decline as renters secure stronger leverage during negotiations. Market conditions are shifting to offer more favorable terms for occupants.",
    "why": "It indicates a shifting leasing sentiment and market correction.",
-   "age_hours": 13.5,
+   "age_hours": 14.4,
    "topic": "rent"
   },
   {
@@ -114,7 +95,7 @@
    "headline": "Dubai tenants negotiate better lease terms upon renewal",
    "summary": "Renters in Dubai are increasingly focusing on negotiating favorable lease conditions rather than simply renewing contracts.",
    "why": "Shifting tenant negotiation power reflects evolving rental market dynamics across the city.",
-   "age_hours": 21.7,
+   "age_hours": 22.6,
    "topic": "Supply & market reports"
   },
   {
@@ -133,8 +114,51 @@
    "headline": "Aldar unveils new Saadiyat island development",
    "summary": "Aldar Properties launches a fresh residential project on Saadiyat Island coinciding with Frieze Abu Dhabi.",
    "why": "New major project launches expand regional inventory and influence investor choices.",
-   "age_hours": 17.1,
+   "age_hours": 17.9,
    "topic": "abu dhabi"
+  },
+  {
+   "id": "b8a2b0f1f284",
+   "title": "Sharjah reviews draft law on handling lost, unclaimed property",
+   "link": "https://www.khaleejtimes.com/uae/sharjah-reviews-draft-law-handling-lost-unclaimed-property",
+   "source": "Khaleej Times",
+   "kind": "outlet",
+   "published": "2026-10-21T12:13+04:00",
+   "tags": [
+    "UAE"
+   ],
+   "teaser": "A draft law under review by Sharjah committee of the Consultative Council seeks to establish a clear legal framework for handling property that is found or left unclaimed in Sharjah while protecting their owners\u2019 rights. The council\u2019s Committee for Islamic Affairs, Endowments, Municipalities, Security Affairs and Public Utilities met at the council\u2019s headquarters, chaired by engineer Jamila Al Fan",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Minor legal update with no immediate financial market effect.",
+   "watch": true,
+   "also": [
+    "Menafn"
+   ],
+   "headline": "Sharjah Proposes New Law for Unclaimed Property Management",
+   "summary": "Sharjah is reviewing a draft legislation to manage lost and unclaimed assets legally. The framework aims to safeguard the ownership rights of individuals.",
+   "why": "It establishes official legal procedures for handling unclaimed assets in the emirate.",
+   "age_hours": 0.7,
+   "topic": "sharjah"
+  },
+  {
+   "id": "68dcb0146483",
+   "title": "Aldar Marks First Entry to Sharjah With Aed 1.1 Billion Acquistion of Nine Residential Buildings From Arada in Aljada",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZU53UHBhQXdjWXRSTWZuSXF6aXRvRGh6LV9lRmNjd2VfLWJ5cnQwS2t2aVlOSHJZRDRnQmRyOTFrYm9ldWY4WDZfN0FMckV5WEJjR281LUpfeVRoUWhZV054QjZJZmNKLWFmQnFBcUNvTnd2SUFsOEhHZURhc1dVdFlVU3ZqTGIzbmlj?oc=5",
+   "source": "Al-Bawaba",
+   "kind": "search",
+   "published": "2026-10-21T08:40+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Corporate acquisition with minimal direct impact on buyers.",
+   "watch": true,
+   "headline": "Aldar enters Sharjah market via AED 1.1 billion acquisition",
+   "summary": "Aldar has purchased nine residential buildings in Aljada from Arada. This marks the developer's first entry into Sharjah.",
+   "why": "Major developer expansion into a new regional market.",
+   "age_hours": 4.2,
+   "topic": "sharjah"
   },
   {
    "id": "1c762311d2e8",
@@ -155,7 +179,7 @@
    "headline": "Arada Mandates Five-Year Sukuk and Launches Tender Offer",
    "summary": "The UAE-based developer has initiated a new USD five-year sukuk alongside a separate tender offer. Such financial maneuvers support the company's ongoing capital management and project pipeline.",
    "why": "It reflects major developer financial strategies and funding activities.",
-   "age_hours": 22.1,
+   "age_hours": 22.9,
    "topic": "arada"
   },
   {
@@ -179,34 +203,15 @@
    "headline": "Guide to early rental contract termination rules in Dubai",
    "summary": "Tenants looking to exit tenancy agreements early face specific legal penalties and notice requirements. Understanding these rules helps avoid financial disputes between landlords and tenants.",
    "why": "Clarifying tenancy laws is vital for agents advising clients on rental agreement liabilities and tenant rights.",
-   "age_hours": 1.6,
-   "topic": "Regulation & fees"
-  },
-  {
-   "id": "126c3ddf3226",
-   "title": "Can you end your Dubai rental contract early? What tenants need to know before moving out",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcS1ZZm5vYlNDeFJlZXd5R0Z3MnkxVGZ4T3hPakNjNVRuSElPelVBWGNqZmYwcEdVci0zYWhrdDlmcWNrdnlZblY1UnhhWFBXLVJZbmhXWE11TFBSVDRWcUNMek4yLUF3RTIzN0NxRS01NjNLc2s4VGxiZmM3N1V2eFQ4elI1YUhtMzVPQmJIVUlxNWNpWUZpcWVJRVVaZ3dxR0ZKUU5PcklpYUF3VXItM2gyQ0lUQWtpRUVMalBqUW15QQ?oc=5",
-   "source": "Gulf News",
-   "kind": "search",
-   "published": "2026-10-21T10:27+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Provides guidance on tenancy rules without altering market trends.",
-   "watch": false,
-   "headline": "What tenants need to know about ending Dubai leases early",
-   "summary": "An overview outlining the proper procedures and considerations for tenants wishing to terminate leases before expiration.",
-   "why": "Essential practical knowledge for agents managing rental portfolios and advising tenants on lease exits.",
-   "age_hours": 1.6,
+   "age_hours": 2.4,
    "topic": "Regulation & fees"
   }
  ],
  "window_hours": 24,
- "count_relevant": 13,
- "count_fetched": 344,
+ "count_relevant": 14,
+ "count_fetched": 375,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-21T12:00+04:00",
- "saved_at": "2026-10-21T12:01+04:00"
+ "as_of": "2026-10-21T12:52+04:00",
+ "saved_at": "2026-10-21T12:53+04:00"
 }
