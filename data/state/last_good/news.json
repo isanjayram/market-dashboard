@@ -18,7 +18,7 @@
    "headline": "Zoya Developments breaks ground on sold-out Dubai South project",
    "summary": "Construction begins on the Dh104-million Elinor residential development. The project completely sold out within two weeks of its initial launch.",
    "why": "This demonstrates continued strong buyer demand and active construction milestones in emerging Dubai communities.",
-   "age_hours": 2.0,
+   "age_hours": 2.6,
    "topic": "Developer news",
    "more": 2
   },
@@ -38,8 +38,27 @@
    "headline": "Ellington and Al Hamra launch AED 2.8bn Berkeley Tower",
    "summary": "Ellington Properties and Al Hamra Group have announced the massive Berkeley Tower project in Business Bay.",
    "why": "A major new multibillion-dirham tower launch significantly impacts the supply and investment landscape in Business Bay.",
-   "age_hours": 3.9,
+   "age_hours": 4.4,
    "topic": "Developer news"
+  },
+  {
+   "id": "0384e7090c53",
+   "title": "Dubai rent renewals down 26.5% as tenants gain negotiating power",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94eHBTX19Ib2RiVjZQSVVLV1gyam41ZHQzMU04SUlXMzFuMkZ6ZEFWOVFTMnpYd1pnM3RRLV9LS2czQnVoMEVkNHhNSTNNMHNDQUVUV2RSN29tUlBHQnE0Vl9VX1FoNGV1Z05ETVg3QWRuS0dtY1FF?oc=5",
+   "source": "Arabian Business",
+   "kind": "search",
+   "published": "2026-10-21T07:00+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Shifts tenant negotiating power and rental yield outlooks.",
+   "watch": false,
+   "headline": "Dubai Rent Renewals Drop 26.5 Percent for Tenants",
+   "summary": "Lease renewal costs have seen a significant decline as renters secure stronger leverage during negotiations. Market conditions are shifting to offer more favorable terms for occupants.",
+   "why": "It indicates a shifting leasing sentiment and market correction.",
+   "age_hours": 6.4,
+   "topic": "rent"
   },
   {
    "id": "25bbe0ab2105",
@@ -57,27 +76,8 @@
    "headline": "Abu Dhabi Reaches Dh21.5 Billion in Q3 2026 Sales",
    "summary": "The capital logged 6,085 residential property transactions during the third quarter of 2026. This figure highlights strong and sustained market activity across Abu Dhabi neighborhoods.",
    "why": "It provides crucial market performance data for real estate professionals.",
-   "age_hours": 12.4,
+   "age_hours": 13.0,
    "topic": "abu dhabi"
-  },
-  {
-   "id": "0384e7090c53",
-   "title": "Dubai rent renewals down 26.5% as tenants gain negotiating power",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94eHBTX19Ib2RiVjZQSVVLV1gyam41ZHQzMU04SUlXMzFuMkZ6ZEFWOVFTMnpYd1pnM3RRLV9LS2czQnVoMEVkNHhNSTNNMHNDQUVUV2RSN29tUlBHQnE0Vl9VX1FoNGV1Z05ETVg3QWRuS0dtY1FF?oc=5",
-   "source": "Arabian Business",
-   "kind": "search",
-   "published": "2026-10-20T22:30+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Shifts tenant negotiating power and rental yield outlooks.",
-   "watch": false,
-   "headline": "Dubai Rent Renewals Drop 26.5 Percent for Tenants",
-   "summary": "Lease renewal costs have seen a significant decline as renters secure stronger leverage during negotiations. Market conditions are shifting to offer more favorable terms for occupants.",
-   "why": "It indicates a shifting leasing sentiment and market correction.",
-   "age_hours": 14.4,
-   "topic": "rent"
   },
   {
    "id": "ca5fdb52377e",
@@ -95,7 +95,7 @@
    "headline": "Dubai tenants negotiate better lease terms upon renewal",
    "summary": "Renters in Dubai are increasingly focusing on negotiating favorable lease conditions rather than simply renewing contracts.",
    "why": "Shifting tenant negotiation power reflects evolving rental market dynamics across the city.",
-   "age_hours": 22.6,
+   "age_hours": 23.1,
    "topic": "Supply & market reports"
   },
   {
@@ -114,7 +114,7 @@
    "headline": "Aldar unveils new Saadiyat island development",
    "summary": "Aldar Properties launches a fresh residential project on Saadiyat Island coinciding with Frieze Abu Dhabi.",
    "why": "New major project launches expand regional inventory and influence investor choices.",
-   "age_hours": 17.9,
+   "age_hours": 18.5,
    "topic": "abu dhabi"
   },
   {
@@ -138,7 +138,7 @@
    "headline": "Sharjah Proposes New Law for Unclaimed Property Management",
    "summary": "Sharjah is reviewing a draft legislation to manage lost and unclaimed assets legally. The framework aims to safeguard the ownership rights of individuals.",
    "why": "It establishes official legal procedures for handling unclaimed assets in the emirate.",
-   "age_hours": 0.7,
+   "age_hours": 1.2,
    "topic": "sharjah"
   },
   {
@@ -157,7 +157,7 @@
    "headline": "Aldar enters Sharjah market via AED 1.1 billion acquisition",
    "summary": "Aldar has purchased nine residential buildings in Aljada from Arada. This marks the developer's first entry into Sharjah.",
    "why": "Major developer expansion into a new regional market.",
-   "age_hours": 4.2,
+   "age_hours": 4.7,
    "topic": "sharjah"
   },
   {
@@ -179,7 +179,7 @@
    "headline": "Arada Mandates Five-Year Sukuk and Launches Tender Offer",
    "summary": "The UAE-based developer has initiated a new USD five-year sukuk alongside a separate tender offer. Such financial maneuvers support the company's ongoing capital management and project pipeline.",
    "why": "It reflects major developer financial strategies and funding activities.",
-   "age_hours": 22.9,
+   "age_hours": 23.5,
    "topic": "arada"
   },
   {
@@ -203,15 +203,15 @@
    "headline": "Guide to early rental contract termination rules in Dubai",
    "summary": "Tenants looking to exit tenancy agreements early face specific legal penalties and notice requirements. Understanding these rules helps avoid financial disputes between landlords and tenants.",
    "why": "Clarifying tenancy laws is vital for agents advising clients on rental agreement liabilities and tenant rights.",
-   "age_hours": 2.4,
+   "age_hours": 3.0,
    "topic": "Regulation & fees"
   }
  ],
  "window_hours": 24,
- "count_relevant": 14,
- "count_fetched": 375,
+ "count_relevant": 15,
+ "count_fetched": 381,
  "feed_errors": {},
- "mode": "AI summaries (gemini)",
- "as_of": "2026-10-21T12:52+04:00",
- "saved_at": "2026-10-21T12:53+04:00"
+ "mode": "AI summaries (saved from an earlier run)",
+ "as_of": "2026-10-21T13:24+04:00",
+ "saved_at": "2026-10-21T13:24+04:00"
 }
