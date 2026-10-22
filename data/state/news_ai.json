@@ -451,6 +451,33 @@
    "category": "Regulation & fees",
    "impact": "Low",
    "impact_reason": "Applies to rare administrative cases rather than general market activity."
+  },
+  "1f58cf6b0de6": {
+   "relevant": false,
+   "headline": "Dollar steadies ahead of major central bank rate announcements",
+   "summary": "The US dollar remained stable while the Japanese yen strengthened in anticipation of upcoming central bank decisions.",
+   "why": "This global currency movement lacks a direct connection to local property markets.",
+   "category": "Rates & mortgages",
+   "impact": "Low",
+   "impact_reason": "No direct local property market connection."
+  },
+  "0d08dff9b197": {
+   "relevant": true,
+   "headline": "Shared housing regulation could reduce tenant rents significantly",
+   "summary": "Industry specialists suggest that officially regulated co-living spaces might decrease rental costs for Dubai residents by fifty percent.",
+   "why": "It affects rental affordability and housing options in the local market.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Potential shift in rental market dynamics."
+  },
+  "c059d7f9230f": {
+   "relevant": true,
+   "headline": "Abu Dhabi property launches rise while Dubai supply slows",
+   "summary": "New real estate project launches have increased in Abu Dhabi as activity simultaneously decreases in Dubai.",
+   "why": "It highlights shifting regional development trends relevant to investors.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Shifts investor focus across UAE emirates."
   }
  }
 }
