@@ -1178,5 +1178,49 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"30ba04540e81": {
+"id": "30ba04540e81",
+"title": "VIBE by Arsenal East launches in Dubai",
+"link": "https://gulfnews.com/business/property/vibe-by-arsenal-east-brings-a-fresh-take-on-urban-living-to-dubai-1.500716811",
+"source": "Gulf News",
+"category": "Developer news",
+"published": "2026-10-22T08:00+04:00",
+"first_seen": "2026-10-22",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": "VIBE by Arsenal East",
+"developer": null,
+"location": "Dubai",
+"type": "residential development",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"85331b035d86": {
+"id": "85331b035d86",
+"title": "Etihad Rail announces free Yas Island shuttle services",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQamIwTHV4VzFXdFBlYUNOSGJuWENMVkVLZ3E4akRqMXRKeWx5ZnEtaXJyaWlkR01nTVE3T3BUVnM4MVJjNjNaSFYtcUlFRHllbDhUdGtSZmJoQWctRnNrWjZrblFpdVZyYjdmMEtGam1DOWFTUzNjVEpqcmZ4OXlGT1luNXRjc2tWSUpiVXpaWEo5WU93YmxMdTMwQUp3UWJhZ3h6eDdQZTBJZzlwaFJqQ3pINHR5akpoTm1GdTF4SzhnMExBdzV6eVoxNThpT3BnSUtHbGRDc2l3MHBpX1RBNVJmM3U?oc=5",
+"source": "Arabian Business",
+"category": "Infrastructure",
+"published": "2026-10-21T22:44+04:00",
+"first_seen": "2026-10-22",
+"kind": "Infrastructure",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
