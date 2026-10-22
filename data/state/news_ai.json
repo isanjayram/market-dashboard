@@ -442,6 +442,15 @@
    "category": "Supply & market reports",
    "impact": "Medium",
    "impact_reason": "Reflects shifting negotiation power in rental market."
+  },
+  "d17482433571": {
+   "relevant": true,
+   "headline": "Sharjah Considers New Legislation for Lost and Unclaimed Assets",
+   "summary": "Sharjah authorities are evaluating a draft law regarding the management of misplaced and unclaimed property. The proposed regulations aim to establish clear protocols for handling such assets.",
+   "why": "It introduces official legal procedures for managing unclaimed property within the emirate.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Applies to rare administrative cases rather than general market activity."
   }
  }
 }
