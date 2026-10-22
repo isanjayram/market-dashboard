@@ -16,7 +16,7 @@
    "headline": "ORA Developers UAE and ADCB partner for off-plan financing",
    "summary": "ORA Developers UAE has teamed up with ADCB to provide structured off-plan mortgages for qualified BAYN buyers. This financing agreement aims to ease the purchasing process for clients.",
    "why": "It directly impacts buyer financing options for off-plan properties.",
-   "age_hours": 4.0,
+   "age_hours": 4.2,
    "topic": "Rates & mortgages"
   },
   {
@@ -38,7 +38,7 @@
    "headline": "Dubai luxury sector records 412 ultra-prime deals",
    "summary": "Transactions over $10 million surged during the first nine months. Palm Jumeirah captured nearly a third of these luxury sales.",
    "why": "It provides crucial market sentiment data for high-end real estate.",
-   "age_hours": 9.3,
+   "age_hours": 9.6,
    "topic": "Supply & market reports",
    "more": 1
   },
@@ -58,7 +58,7 @@
    "headline": "National Properties finishes 399 Hills Park handover",
    "summary": "The AED 1 billion project in Dubai Hills Estate is complete. Handover processes to property buyers have officially started.",
    "why": "It increases completed property supply and completes developer commitments.",
-   "age_hours": 21.7,
+   "age_hours": 21.9,
    "topic": "Developer news",
    "more": 1
   },
@@ -78,7 +78,7 @@
    "headline": "Meraki Developers expands into Dubai South with pipeline of seven projects",
    "summary": "Meraki Developers is branching into Dubai South as part of its wider expansion strategy. The firm currently has seven upcoming projects in its development pipeline.",
    "why": "It highlights new developer activity and upcoming supply in Dubai South.",
-   "age_hours": 21.6,
+   "age_hours": 21.8,
    "topic": "Developer news"
   },
   {
@@ -97,7 +97,7 @@
    "headline": "Shared housing regulation could reduce tenant rents significantly",
    "summary": "Industry specialists suggest that officially regulated co-living spaces might decrease rental costs for Dubai residents by fifty percent.",
    "why": "It affects rental affordability and housing options in the local market.",
-   "age_hours": 5.1,
+   "age_hours": 5.3,
    "topic": "rent"
   },
   {
@@ -116,27 +116,27 @@
    "headline": "Abu Dhabi forecasts 30 new developments valued at $12.3bn by 2026",
    "summary": "Abu Dhabi expects to launch approximately 30 fresh real estate projects valued up to $12.3 billion ahead of late 2026. This pipeline signals strong upcoming investment in the emirate.",
    "why": "It signals major upcoming capital injection and supply growth in Abu Dhabi.",
-   "age_hours": 14.2,
+   "age_hours": 14.4,
    "topic": "abu dhabi",
-   "more": 2
+   "more": 3
   },
   {
-   "id": "7849f2a2ca30",
-   "title": "Shuttle service to connect Yas Island attractions to Etihad Rail station in Abu Dhabi",
-   "link": "https://www.thenationalnews.com/news/uae/2026/10/21/shuttle-service-to-connect-yas-island-attractions-to-etihad-rail-station-in-abu-dhabi/",
-   "source": "The National",
-   "kind": "outlet",
-   "published": "2026-10-21T16:10+04:00",
+   "id": "85331b035d86",
+   "title": "Etihad Rail passengers to get free Yas Island shuttle bus connections under new Abu Dhabi agreement",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQamIwTHV4VzFXdFBlYUNOSGJuWENMVkVLZ3E4akRqMXRKeWx5ZnEtaXJyaWlkR01nTVE3T3BUVnM4MVJjNjNaSFYtcUlFRHllbDhUdGtSZmJoQWctRnNrWjZrblFpdVZyYjdmMEtGam1DOWFTUzNjVEpqcmZ4OXlGT1luNXRjc2tWSUpiVXpaWEo5WU93YmxMdTMwQUp3UWJhZ3h6eDdQZTBJZzlwaFJqQ3pINHR5akpoTm1GdTF4SzhnMExBdzV6eVoxNThpT3BnSUtHbGRDc2l3MHBpX1RBNVJmM3U?oc=5",
+   "source": "Arabian Business",
+   "kind": "search",
+   "published": "2026-10-21T22:44+04:00",
    "tags": [],
-   "teaser": "Miral and Etihad Rail have agreed to partner on first-and-last-mile transport to connect Yas Island , Abu Dhabi's leisure and entertainment hub, with the city's railway station. The service will increase connectivity between Yas Island's theme parks and Etihad Rail's Mohamed bin Zayed City station in Abu Dhabi . Ferrari World, Yas Waterworld, Warner Bros World and SeaWorld are among the attraction",
+   "teaser": "",
    "category": "Infrastructure",
    "impact": "Medium",
-   "impact_reason": "Improves overall connectivity to key developments.",
+   "impact_reason": "Enhances transport links to regional lifestyle hubs.",
    "watch": false,
-   "headline": "New transport links connect Yas Island to Etihad Rail",
-   "summary": "Miral and Etihad Rail have partnered for first-and-last-mile transit solutions. The shuttle will link theme parks to the railway station.",
-   "why": "Infrastructure upgrades improve regional transit connectivity for communities.",
-   "age_hours": 21.3,
+   "headline": "Etihad Rail announces free Yas Island shuttle services",
+   "summary": "Passengers will receive complimentary connections to Yas Island attractions under a new agreement. This deal improves transport links in Abu Dhabi.",
+   "why": "It improves regional infrastructure connectivity impacting property accessibility.",
+   "age_hours": 15.0,
    "topic": "abu dhabi"
   },
   {
@@ -155,7 +155,7 @@
    "headline": "Dubai luxury villa sector records 55 sales above $10 million",
    "summary": "Dubai's high-end property segment experienced a strong wave with 55 luxury villas exceeding $10 million selling within three months. This surge highlights ongoing robust demand for premium real estate.",
    "why": "It reflects strong high-end investor sentiment and luxury market performance.",
-   "age_hours": 21.7,
+   "age_hours": 22.0,
    "topic": "Supply & market reports"
   },
   {
@@ -177,37 +177,15 @@
    "headline": "Dubai tenants must review rental agreements carefully",
    "summary": "Renters in Dubai receive warnings to thoroughly examine their lease terms. Overlooked clauses can create unexpected obligations.",
    "why": "It protects tenants and shapes the local rental market dynamics.",
-   "age_hours": 22.5,
-   "topic": "Regulation & fees"
-  },
-  {
-   "id": "153d31808fb0",
-   "title": "Dubai tenants warned over overlooked rental contract clauses",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOUJBdnpSSW52XzA1OXhHbDJmM0JXZHVhVERQaEZGZ3FIQkU4Wmllc3FHZVJwdXMtamlVWXVTX3ZnM0ZhN2djZ2ZUZmktX2t1NXQwd3JtdlpZMnhHUFc2UXl5MnJyeWhMNjYzSHRFSDBVT05sNzRfR1ZqSGRQUlpwWHZCbUc1ckVVUkdlSnN6LUZ3TWR4VFNtQl9HTXhiREFwdXc?oc=5",
-   "source": "Gulf Business",
-   "kind": "search",
-   "published": "2026-10-21T13:36+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Reminds renters to read agreements closely.",
-   "watch": false,
-   "also": [
-    "Gulf Business"
-   ],
-   "headline": "Renters in Dubai cautioned about hidden lease conditions",
-   "summary": "Experts advise tenants to inspect all clauses before signing rental agreements. Ignoring minor details can lead to future disputes.",
-   "why": "Lease awareness helps renters avoid contractual pitfalls.",
-   "age_hours": 23.9,
+   "age_hours": 22.7,
    "topic": "Regulation & fees"
   }
  ],
  "window_hours": 24,
- "count_relevant": 15,
- "count_fetched": 390,
+ "count_relevant": 16,
+ "count_fetched": 417,
  "feed_errors": {},
  "mode": "AI summaries (saved from an earlier run)",
- "as_of": "2026-10-22T13:27+04:00",
- "saved_at": "2026-10-22T13:27+04:00"
+ "as_of": "2026-10-22T13:41+04:00",
+ "saved_at": "2026-10-22T13:41+04:00"
 }
