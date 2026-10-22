@@ -1222,5 +1222,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"7849f2a2ca30": {
+"id": "7849f2a2ca30",
+"title": "New transport links connect Yas Island to Etihad Rail",
+"link": "https://www.thenationalnews.com/news/uae/2026/10/21/shuttle-service-to-connect-yas-island-attractions-to-etihad-rail-station-in-abu-dhabi/",
+"source": "The National",
+"category": "Infrastructure",
+"published": "2026-10-21T16:10+04:00",
+"first_seen": "2026-10-22",
+"kind": "Infrastructure",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

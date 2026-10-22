@@ -16,7 +16,7 @@
    "headline": "ORA Developers UAE and ADCB partner for off-plan financing",
    "summary": "ORA Developers UAE has teamed up with ADCB to provide structured off-plan mortgages for qualified BAYN buyers. This financing agreement aims to ease the purchasing process for clients.",
    "why": "It directly impacts buyer financing options for off-plan properties.",
-   "age_hours": 0.7,
+   "age_hours": 2.5,
    "topic": "Rates & mortgages"
   },
   {
@@ -37,7 +37,7 @@
    "headline": "FamilyVisa.ae launches new dedicated Golden Visa portal",
    "summary": "The provider has introduced a portal featuring an interactive calculator for applicants. It aims to simplify access to current residency information.",
    "why": "It directly impacts residency eligibility rules for investors and buyers.",
-   "age_hours": 1.6,
+   "age_hours": 3.5,
    "topic": "golden visa"
   },
   {
@@ -59,7 +59,7 @@
    "headline": "Dubai luxury sector records 412 ultra-prime deals",
    "summary": "Transactions over $10 million surged during the first nine months. Palm Jumeirah captured nearly a third of these luxury sales.",
    "why": "It provides crucial market sentiment data for high-end real estate.",
-   "age_hours": 6.0,
+   "age_hours": 7.9,
    "topic": "Supply & market reports",
    "more": 1
   },
@@ -76,13 +76,10 @@
    "impact": "Medium",
    "impact_reason": "Marks completion and handover of new residential stock.",
    "watch": true,
-   "also": [
-    "Menafn"
-   ],
    "headline": "National Properties finishes 399 Hills Park handover",
    "summary": "The AED 1 billion project in Dubai Hills Estate is complete. Handover processes to property buyers have officially started.",
    "why": "It increases completed property supply and completes developer commitments.",
-   "age_hours": 18.3,
+   "age_hours": 20.2,
    "topic": "Developer news",
    "more": 3
   },
@@ -102,7 +99,7 @@
    "headline": "Meraki Developers expands into Dubai South with pipeline of seven projects",
    "summary": "Meraki Developers is branching into Dubai South as part of its wider expansion strategy. The firm currently has seven upcoming projects in its development pipeline.",
    "why": "It highlights new developer activity and upcoming supply in Dubai South.",
-   "age_hours": 18.3,
+   "age_hours": 20.1,
    "topic": "Developer news"
   },
   {
@@ -127,7 +124,7 @@
    "headline": "Regulated shared housing could lower Dubai rental costs significantly",
    "summary": "Industry experts suggest that approved shared housing could cut tenant expenses by nearly half compared to leasing a standalone studio. Dubai Municipality has already marked over 44 zones for these living arrangements.",
    "why": "It addresses affordability and shifting rental demand dynamics in Dubai.",
-   "age_hours": 1.7,
+   "age_hours": 3.6,
    "topic": "rent"
   },
   {
@@ -146,9 +143,9 @@
    "headline": "Abu Dhabi forecasts 30 new developments valued at $12.3bn by 2026",
    "summary": "Abu Dhabi expects to launch approximately 30 fresh real estate projects valued up to $12.3 billion ahead of late 2026. This pipeline signals strong upcoming investment in the emirate.",
    "why": "It signals major upcoming capital injection and supply growth in Abu Dhabi.",
-   "age_hours": 10.8,
+   "age_hours": 12.7,
    "topic": "abu dhabi",
-   "more": 2
+   "more": 3
   },
   {
    "id": "85331b035d86",
@@ -166,31 +163,26 @@
    "headline": "Etihad Rail announces free Yas Island shuttle services",
    "summary": "Passengers will receive complimentary connections to Yas Island attractions under a new agreement. This deal improves transport links in Abu Dhabi.",
    "why": "It improves regional infrastructure connectivity impacting property accessibility.",
-   "age_hours": 11.4,
+   "age_hours": 13.2,
    "topic": "abu dhabi"
   },
   {
-   "id": "da55b78c4159",
-   "title": "Dubai real estate shows resilience as ready-home sales rebound, office values triple in five years",
-   "link": "https://economymiddleeast.com/news/dubai-real-estate-shows-resilience-as-ready-home-sales-rebound-office-values-triple-in-five-years/?utm_source=rss&utm_medium=rss&utm_campaign=dubai-real-estate-shows-resilience-as-ready-home-sales-rebound-office-values-triple-in-five-years",
-   "source": "Economy Middle East",
-   "kind": "outlet",
-   "published": "2026-10-21T16:01+04:00",
-   "tags": [
-    "Dubai",
-    "dubai real estate",
-    "investment",
-    "Property"
-   ],
-   "teaser": "Dubai real estate prices and residential rents remained resilient in Q3 2026, while the office market continued to strengthen and ready-home transactions rebounded. According to ValuStrat\u2018s Dubai Real Estate Review Q3 2026, Dubai\u2019s residential property market showed signs of stabilization in the third quarter of 2026, following an initial adjustment in March amid the conflict, [\u2026] The post Dubai r",
+   "id": "be75a6ceb355",
+   "title": "Dubai\u2019s $10m-plus villa market surges as 55 homes sell in just three months",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeWVUZnQwcktGWXpYY3RFYXdSbk1aYkhsRUVSbzBpWFVsaXAtT3VFYU9PR29kOW1nU0NEUXBsY0x3R1Z0MG00M3pMbjZtbUszcEJONDRJb0NGS3A4bjJQQW00Vk9STGt2amlMckJSMEs3c2xiYllqYlUxM2tEWk9LQVAyVTRmYlFfZktSV096T0ZrZXAwVmRHbVhBSnlEMHhIcXRieDlMOEtDbHVncHFBZDVZUlNQUnhR?oc=5",
+   "source": "Arabian Business",
+   "kind": "search",
+   "published": "2026-10-21T15:43+04:00",
+   "tags": [],
+   "teaser": "",
    "category": "Supply & market reports",
    "impact": "Medium",
-   "impact_reason": "Provides critical macroeconomic data on property trends.",
+   "impact_reason": "Demonstrates strong luxury segment demand and capital inflow.",
    "watch": false,
-   "headline": "Dubai real estate shows steady Q3 performance",
-   "summary": "Ready-home sales rebounded while office values tripled over five years. Prices and rents remained resilient throughout the third quarter.",
-   "why": "It offers essential data on market health and property values.",
-   "age_hours": 18.1,
+   "headline": "Dubai luxury villa sector records 55 sales above $10 million",
+   "summary": "Dubai's high-end property segment experienced a strong wave with 55 luxury villas exceeding $10 million selling within three months. This surge highlights ongoing robust demand for premium real estate.",
+   "why": "It reflects strong high-end investor sentiment and luxury market performance.",
+   "age_hours": 20.3,
    "topic": "Supply & market reports"
   },
   {
@@ -209,15 +201,15 @@
    "headline": "Sharjah examines new legislation concerning unclaimed and lost real estate",
    "summary": "Sharjah authorities are currently reviewing a draft law focused on managing unclaimed property. This regulatory update aims to establish clearer legal procedures.",
    "why": "It introduces new legal frameworks for property management in the UAE.",
-   "age_hours": 21.9,
+   "age_hours": 23.8,
    "topic": "sharjah"
   }
  ],
  "window_hours": 24,
- "count_relevant": 22,
- "count_fetched": 385,
+ "count_relevant": 21,
+ "count_fetched": 415,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-22T10:06+04:00",
- "saved_at": "2026-10-22T10:06+04:00"
+ "as_of": "2026-10-22T11:58+04:00",
+ "saved_at": "2026-10-22T11:58+04:00"
 }

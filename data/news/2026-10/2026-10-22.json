@@ -328,5 +328,19 @@
 "impact_reason": "General market context",
 "watch": false,
 "topic": "Developer news"
+},
+{
+"id": "373b91eb0a89",
+"headline": "Abu Dhabi introduces new regulations for industrial properties",
+"summary": "Abu Dhabi has implemented updated guidelines governing industrial real estate sector operations. Further details on the specific operational changes were not provided.",
+"why": "It introduces new regulatory changes affecting industrial real estate in the capital.",
+"source": "Gulf Business",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM2pnN2w3VGpxelBjM3pubkxhcy1hWGVYMXYybnJ3R0VleEpLVU84d0JBOGlLLUlIak5HcUpIUVJyMndfQlRBNlV6TUNMbTBsRVJHMldqek51Ulhjd0dYZXJDa0tZT0N3NFd3V09mZEV1MEJ3OTVXQzFjQkdaYW1oMm9DbElKQjVXSTdfYVZOcFZtNnNRTnhQTFdPRE5Oc29hS2JDV1VweGh3bXdjSExObzNqSVdOdWY0NEVDeGQ4MA?oc=5",
+"published": "2026-10-22T11:33+04:00",
+"category": "Regulation & fees",
+"impact": "Low",
+"impact_reason": "Changes apply specifically to industrial real estate.",
+"watch": false,
+"topic": "abu dhabi"
 }
 ]
