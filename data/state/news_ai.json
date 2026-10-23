@@ -388,6 +388,24 @@
    "category": "Developer news",
    "impact": "Low",
    "impact_reason": "Corporate contract news without direct real estate impact."
+  },
+  "fabc3bc8d5f3": {
+   "relevant": true,
+   "headline": "Arada Developments announces $180 million tender offer cap",
+   "summary": "Arada Developments has established a maximum acceptance amount of $180 million for its current tender offer.",
+   "why": "It reflects corporate financial maneuvers by a major regional developer.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Standard corporate financial action with minimal direct buyer effect."
+  },
+  "433679250a0b": {
+   "relevant": false,
+   "headline": "Lottery winner discusses life after major UAE win",
+   "summary": "An Indian lottery winner shares thoughts after purchasing properties and gold.",
+   "why": "This is a lifestyle and human interest story rather than property market news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Human interest story with no market impact."
   }
  }
 }
