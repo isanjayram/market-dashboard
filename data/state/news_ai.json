@@ -1,231 +1,4 @@
 {
- "2026-10-21": {
-  "a9e2a1e69dc9": {
-   "relevant": true,
-   "headline": "New Portal Launches for UAE Golden Visa Rules and Costs",
-   "summary": "FamilyVisa.ae has introduced a dedicated platform featuring expense estimators and updated criteria for 2026. This tool helps investors easily navigate residency pathways linked to property ownership.",
-   "why": "It directly impacts residency rules and investor eligibility in the UAE.",
-   "category": "Regulation & fees",
-   "impact": "High",
-   "impact_reason": "Changes residency eligibility and investor planning."
-  },
-  "25bbe0ab2105": {
-   "relevant": true,
-   "headline": "Abu Dhabi Reaches Dh21.5 Billion in Q3 2026 Sales",
-   "summary": "The capital logged 6,085 residential property transactions during the third quarter of 2026. This figure highlights strong and sustained market activity across Abu Dhabi neighborhoods.",
-   "why": "It provides crucial market performance data for real estate professionals.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Reflects overall market health and transaction volumes."
-  },
-  "20add563dfcd": {
-   "relevant": false,
-   "headline": "GCC ESG Issuance to Rise",
-   "summary": "Fitch predicts continued growth in regional sustainable debt.",
-   "why": "It focuses on broader corporate debt rather than direct real estate property trends.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Broad debt market trends lack direct property impact."
-  },
-  "5e615b569677": {
-   "relevant": true,
-   "headline": "Exploring Dubai Communities Near the Etihad Rail Network",
-   "summary": "Al Yalayis communities offer residential living options positioned close to the upcoming Etihad Rail transit infrastructure. Improved connectivity is expected to draw heightened interest from buyers and investors.",
-   "why": "It links upcoming transport infrastructure directly to Dubai community values.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Transport links influence community appeal and property values."
-  },
-  "afa9d51e378b": {
-   "relevant": true,
-   "headline": "Meraki Developers Enters Dubai South With Seven Projects",
-   "summary": "The developer is expanding its footprint into Dubai South by lining up seven new properties. This move introduces fresh housing supply into a rapidly growing urban corridor.",
-   "why": "It highlights new developer activity and expanding residential supply.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "New projects expand regional housing options."
-  },
-  "1c762311d2e8": {
-   "relevant": true,
-   "headline": "Arada Mandates Five-Year Sukuk and Launches Tender Offer",
-   "summary": "The UAE-based developer has initiated a new USD five-year sukuk alongside a separate tender offer. Such financial maneuvers support the company's ongoing capital management and project pipeline.",
-   "why": "It reflects major developer financial strategies and funding activities.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Corporate financing has minimal immediate impact on buyers."
-  },
-  "0384e7090c53": {
-   "relevant": true,
-   "headline": "Dubai Rent Renewals Drop 26.5 Percent for Tenants",
-   "summary": "Lease renewal costs have seen a significant decline as renters secure stronger leverage during negotiations. Market conditions are shifting to offer more favorable terms for occupants.",
-   "why": "It indicates a shifting leasing sentiment and market correction.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Shifts tenant negotiating power and rental yield outlooks."
-  },
-  "c111ff197c91": {
-   "relevant": true,
-   "headline": "Missoni Partners for Branded Residences on Dubai Islands",
-   "summary": "Tomorrow World Properties has collaborated with Missoni to introduce a branded residential project on Dubai Islands. The development brings designer-led living spaces to the waterfront destination.",
-   "why": "It showcases luxury branded project launches in a key waterfront area.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "New branded launches shape luxury segment pricing."
-  },
-  "898f25a4fd9b": {
-   "relevant": false,
-   "headline": "Emaar's The Valley highlighted as a suburban community",
-   "summary": "Emaar showcases the suburban appeal of its residential development called The Valley.",
-   "why": "This is a promotional piece highlighting a master community without concrete market news.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Marketing content lacks direct market impact."
-  },
-  "ca5fdb52377e": {
-   "relevant": true,
-   "headline": "Dubai tenants negotiate better lease terms upon renewal",
-   "summary": "Renters in Dubai are increasingly focusing on negotiating favorable lease conditions rather than simply renewing contracts.",
-   "why": "Shifting tenant negotiation power reflects evolving rental market dynamics across the city.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Reflects shifting rental dynamics and tenant sentiment."
-  },
-  "9dd6d910ac97": {
-   "relevant": false,
-   "headline": "Dubai court orders guarantor to pay investment debt",
-   "summary": "A local court mandates a woman to clear a substantial villa investment debt guaranteed for her partner.",
-   "why": "This is an isolated legal dispute rather than a broad regulatory change for the property market.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Individual legal case with no broader market impact."
-  },
-  "d33a64205b98": {
-   "relevant": false,
-   "headline": "SABIC and Dubai Holding top September contract awards",
-   "summary": "Major construction contracts were led by SABIC and Dubai Holding during the month of September.",
-   "why": "General construction awards data does not directly impact residential sales or buyer costs.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Broader construction data with limited immediate relevance."
-  },
-  "a3fc600e2ae0": {
-   "relevant": true,
-   "headline": "Aldar unveils new Saadiyat island development",
-   "summary": "Aldar Properties launches a fresh residential project on Saadiyat Island coinciding with Frieze Abu Dhabi.",
-   "why": "New major project launches expand regional inventory and influence investor choices.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "New supply launch affects regional capital allocation."
-  },
-  "87a334c44b5a": {
-   "relevant": false,
-   "headline": "Banyan Group brings Phuket residences to Dubai buyers",
-   "summary": "Banyan Group Residences showcases its exclusive Thailand property collection to investors in Dubai.",
-   "why": "The article focuses on marketing international real estate to local buyers rather than local property trends.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Promotes outbound foreign property investment."
-  },
-  "d8e4728b4423": {
-   "relevant": true,
-   "headline": "Danube launches Shahrukhz tower designed by Gauri Khan",
-   "summary": "Danube Properties introduces a branded 56-storey tower featuring interiors designed by Gauri Khan.",
-   "why": "Branded residential project launches impact local supply and capture investor attention.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "New branded residential supply launch."
-  },
-  "2a91e07768ed": {
-   "relevant": true,
-   "headline": "Abu Dhabi schedules 30 residential project launches before year-end",
-   "summary": "Abu Dhabi will introduce a new housing project every three days. These upcoming 30 developments total up to AED 45 billion.",
-   "why": "Increases housing supply significantly in the capital.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Boosts inventory and offers new investment options."
-  },
-  "ff5f75fe92fd": {
-   "relevant": true,
-   "headline": "Etihad Rail connects Dubai and Fujairah in 70 minutes",
-   "summary": "Train travel between Dubai and Fujairah takes 70 minutes with fares starting at AED 29. Currently, only one daily service runs on this route.",
-   "why": "Improves inter-emirate connectivity and regional accessibility.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Enhances connectivity between different emirates."
-  },
-  "68dcb0146483": {
-   "relevant": true,
-   "headline": "Aldar enters Sharjah market via AED 1.1 billion acquisition",
-   "summary": "Aldar has purchased nine residential buildings in Aljada from Arada. This marks the developer's first entry into Sharjah.",
-   "why": "Major developer expansion into a new regional market.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Corporate acquisition with minimal direct impact on buyers."
-  },
-  "a3715bd87b83": {
-   "relevant": true,
-   "headline": "Zoya Developments breaks ground on sold-out Dubai South project",
-   "summary": "Construction begins on the Dh104-million Elinor residential development. The project completely sold out within two weeks of its initial launch.",
-   "why": "This demonstrates continued strong buyer demand and active construction milestones in emerging Dubai communities.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Reflects strong investor demand and rapid project execution."
-  },
-  "d4fff63656f2": {
-   "relevant": true,
-   "headline": "Ellington and Al Hamra launch AED 2.8bn Berkeley Tower",
-   "summary": "Ellington Properties and Al Hamra Group have announced the massive Berkeley Tower project in Business Bay.",
-   "why": "A major new multibillion-dirham tower launch significantly impacts the supply and investment landscape in Business Bay.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Adds major high-value supply to a prime business district."
-  },
-  "5dab16ab6361": {
-   "relevant": false,
-   "headline": "Adil Faridi: Turning uncertainty into opportunity in Dubai",
-   "summary": "An executive profile detailing a career journey from telecom sales to addressing affordable housing challenges in Dubai.",
-   "why": "This is an inspirational personal profile rather than a news report with actionable real estate market data.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Personal profile lacking direct market data or policy changes."
-  },
-  "7334d7c87667": {
-   "relevant": true,
-   "headline": "Guide to early rental contract termination rules in Dubai",
-   "summary": "Tenants looking to exit tenancy agreements early face specific legal penalties and notice requirements. Understanding these rules helps avoid financial disputes between landlords and tenants.",
-   "why": "Clarifying tenancy laws is vital for agents advising clients on rental agreement liabilities and tenant rights.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Informs operational rental rules without shifting overall market costs."
-  },
-  "126c3ddf3226": {
-   "relevant": true,
-   "headline": "What tenants need to know about ending Dubai leases early",
-   "summary": "An overview outlining the proper procedures and considerations for tenants wishing to terminate leases before expiration.",
-   "why": "Essential practical knowledge for agents managing rental portfolios and advising tenants on lease exits.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Provides guidance on tenancy rules without altering market trends."
-  },
-  "b8a2b0f1f284": {
-   "relevant": true,
-   "headline": "Sharjah Proposes New Law for Unclaimed Property Management",
-   "summary": "Sharjah is reviewing a draft legislation to manage lost and unclaimed assets legally. The framework aims to safeguard the ownership rights of individuals.",
-   "why": "It establishes official legal procedures for handling unclaimed assets in the emirate.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Minor legal update with no immediate financial market effect."
-  },
-  "89e831962851": {
-   "relevant": true,
-   "headline": "Dubai tenants urged to check hidden lease clauses",
-   "summary": "Dubai renters are being cautioned to thoroughly review overlooked provisions in their tenancy agreements. Being unaware of these terms can lead to unexpected liabilities.",
-   "why": "Tenants need to be aware of hidden lease conditions to avoid unexpected disputes and costs.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Affects individual tenant awareness without broad market shifts."
-  }
- },
  "2026-10-22": {
   "8c98ac62f383": {
    "relevant": true,
@@ -478,6 +251,107 @@
    "category": "Supply & market reports",
    "impact": "Medium",
    "impact_reason": "Shifts investor focus across UAE emirates."
+  }
+ },
+ "2026-10-23": {
+  "43ab773b47fb": {
+   "relevant": false,
+   "headline": "Turkey lowers benchmark interest rate to 36 percent",
+   "summary": "Turkey reduced borrowing costs by 100 basis points following a drop in inflation below 30 percent. Policymakers resumed monetary easing after keeping rates steady for five consecutive meetings.",
+   "why": "It concerns international monetary policy rather than local real estate or economic rules.",
+   "category": "Rates & mortgages",
+   "impact": "High",
+   "impact_reason": "Changes foreign monetary policy."
+  },
+  "5db99155cf6b": {
+   "relevant": false,
+   "headline": "Dubai gold prices drop for fifth consecutive day",
+   "summary": "Local gold rates fell to a two-month low, trading at Dh482.75 per gram for 24K. The decline stems from higher oil prices and potential US Federal Reserve rate hike worries.",
+   "why": "It reports on precious metals rather than property markets, mortgages, or the UAE economy.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Tracks daily commodity prices."
+  },
+  "78564c704af2": {
+   "relevant": true,
+   "headline": "Top sales leaders launch BRDG House in Dubai",
+   "summary": "Two industry executives with a track record of Dh30 billion in sales have established a new venture in Dubai. The firm aims to make a mark in the local property sector.",
+   "why": "It highlights new real estate developer activity in the local market.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "New market entrant could influence local sales volume."
+  },
+  "848b6c4614c2": {
+   "relevant": true,
+   "headline": "New AI tool evaluates Dubai property pricing accuracy",
+   "summary": "A recently introduced artificial intelligence application assesses whether a Dubai property is overpriced by analyzing actual transaction records. This helps buyers verify market values.",
+   "why": "It introduces a technology tool impacting local property valuation and buyer decisions.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Aids buyers in evaluating local property pricing."
+  },
+  "fc948cedab68": {
+   "relevant": true,
+   "headline": "Dubai office rents average $66 with new supply",
+   "summary": "Commercial rents in Dubai stand at $66 per square foot. The market anticipates an influx of 20.4 million square feet of fresh office space.",
+   "why": "It provides critical data on commercial real estate supply and rental rates in Dubai.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Provides baseline commercial rental data."
+  },
+  "3236a32e263b": {
+   "relevant": true,
+   "headline": "Abu Dhabi residential transactions exceed Dh21.5 billion",
+   "summary": "Residential property deals in Abu Dhabi surpassed Dh21.5 billion during the third quarter. The figures highlight robust buyer activity in the capital's housing sector.",
+   "why": "It details quarterly transaction values for UAE residential real estate.",
+   "category": "Supply & market reports",
+   "impact": "Low",
+   "impact_reason": "Reflects past quarterly market performance."
+  },
+  "8f488d200554": {
+   "relevant": false,
+   "headline": "Investors urged to look beyond rental yields",
+   "summary": "The CEO of Signature Properties advises UAE real estate investors to consider factors other than rental yields alone. Comprehensive investment strategies are recommended for long-term success.",
+   "why": "It is an agent opinion piece lacking hard news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Opinion piece offers no new data or regulations."
+  },
+  "166e1dcecc6d": {
+   "relevant": true,
+   "headline": "Financial returns drive Indian buyers to foreign real estate",
+   "summary": "Indian investors are increasingly purchasing international properties, ranging from Dubai apartments to Greek villas. The primary motivation behind these overseas acquisitions is financial return.",
+   "why": "It discusses cross-border property investments relevant to Dubai real estate demand.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Identifies cross-border buyer trends."
+  },
+  "c123059f1f9d": {
+   "relevant": true,
+   "headline": "Hidden Fit-Out Costs for Dubai Property Buyers Highlighted",
+   "summary": "ANK Constructions points out unexpected interior expenses that buyers often overlook. These extra fit-out costs can impact overall purchasing budgets.",
+   "why": "It alerts buyers to overlooked property expenses.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Affects individual buyer budgeting only."
+  },
+  "33cdf99f37d9": {
+   "relevant": true,
+   "headline": "UAE Developers Expand Overseas as Dubai Market Cools",
+   "summary": "Local real estate developers are venturing into international markets. This shift occurs as local property activity begins to moderate.",
+   "why": "It indicates a strategic shift in developer focus.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects broader shifts in developer strategy."
+  },
+  "63794922941d": {
+   "relevant": false,
+   "headline": "Anti-Corruption Agency Monitors Ex-Prosecutor Over UAE Villa",
+   "summary": "",
+   "why": "Not relevant to property market trends.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Political investigation with no market impact."
   }
  }
 }

@@ -1244,5 +1244,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"78564c704af2": {
+"id": "78564c704af2",
+"title": "Top sales leaders launch BRDG House in Dubai",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSFFMWjJsZFMzQ0tUNWNQZWV5Yk1ZUjN6YThzd2hRNGZDbnpRc3k1dWZvemNhaW1Fc3AxNHB2MWdfZWJXbXBFd2thVlhDdVdsWGRsUXFYQzh2ODF0NFJ0SjJaam9oOG05Nm1tSUhodDk4cnJXQ19yTlJObS1lSzlCZGI0OG5rQ1FwUGR5OVdieHloenVLOHBWWThSTGNxRGxkOUFxcm9xekRheGpGWXpwRG5GNUFoSmZrWWJ5RVRHNWNfSmZSZ09Ib284dGswcjg?oc=5",
+"source": "Gulf News",
+"category": "Developer news",
+"published": "2026-10-22T14:55+04:00",
+"first_seen": "2026-10-23",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": "BRDG House",
+"developer": null,
+"location": "Dubai",
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
