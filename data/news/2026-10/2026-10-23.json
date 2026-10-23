@@ -156,5 +156,19 @@
 "impact_reason": "Affects individual buyer budgeting only.",
 "watch": false,
 "topic": "Developer news"
+},
+{
+"id": "d794265c6ba7",
+"headline": "Dubai office rents average $66 per sq ft amid new supply",
+"summary": "Average commercial rents sit at $66 per square foot in Dubai. The market anticipates an influx of 20.4 million square feet of fresh inventory.",
+"why": "It provides crucial data on upcoming commercial supply and rental values for investors.",
+"source": "Arabian Business",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb192aXExdUt4UVp0cHlEeDVvN3dYanlTaXpweVp3eTJ5aUNqRHk2b3IxbUFhUHMyWW45bE5OLTVKQ2YzN3J3aFF0dkJKT0NGTFBGV3JxdEVwTWxUV2pZbTAzUmRqZ0dFQUtGSlUwOTA0QTVCeElqWDFUVzFqSlpOY1F4bTR4eDJfU1BuWDM2WHdtLUVyTjR3akF3eVJaRm84a05mYk9abWl4TGtzeVdlSHM4bXVJXzB1Vk5CbFRBX2pEWWQzaUE?oc=5",
+"published": "2026-10-23T04:52+04:00",
+"category": "Supply & market reports",
+"impact": "Medium",
+"impact_reason": "Highlights future commercial supply and rental trends.",
+"watch": false,
+"topic": "rents"
 }
 ]

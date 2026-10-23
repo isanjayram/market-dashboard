@@ -352,6 +352,42 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Political investigation with no market impact."
+  },
+  "d794265c6ba7": {
+   "relevant": true,
+   "headline": "Dubai office rents average $66 per sq ft amid new supply",
+   "summary": "Average commercial rents sit at $66 per square foot in Dubai. The market anticipates an influx of 20.4 million square feet of fresh inventory.",
+   "why": "It provides crucial data on upcoming commercial supply and rental values for investors.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Highlights future commercial supply and rental trends."
+  },
+  "73595ad946b8": {
+   "relevant": false,
+   "headline": "Aldar Education signs MoU with Toddle",
+   "summary": "Aldar Education partnered with Toddle to implement a unified AI teaching platform across its schools.",
+   "why": "This is an education sector update unrelated to property transactions or real estate economics.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Irrelevant to real estate market dynamics."
+  },
+  "89e831962851": {
+   "relevant": true,
+   "headline": "Dubai renters advised to check overlooked lease terms",
+   "summary": "Tenants in Dubai are receiving warnings regarding easily missed clauses in their leasing agreements. Reviewing these conditions helps avoid unexpected obligations.",
+   "why": "It highlights important lease agreement details that impact tenant rights and obligations.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Informs tenants about crucial lease contract details."
+  },
+  "d33a64205b98": {
+   "relevant": false,
+   "headline": "SABIC and Dubai Holding lead contract awards",
+   "summary": "Major regional entities secured top positions for contract awards during September.",
+   "why": "Corporate contract awards do not directly impact property buying, financing, or regulations.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Corporate contract news without direct real estate impact."
   }
  }
 }
