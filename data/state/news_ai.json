@@ -406,6 +406,15 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Human interest story with no market impact."
+  },
+  "68a0bdc5dd5e": {
+   "relevant": false,
+   "headline": "Qatar property trading reaches $136.8 million",
+   "summary": "Qatar recorded over $136 million in weekly real estate transactions driven by surging residential sales.",
+   "why": "This news covers the Qatari property market instead of Dubai or UAE real estate.",
+   "category": "Supply & market reports",
+   "impact": "Low",
+   "impact_reason": "Outside the Dubai real estate market scope."
   }
  }
 }
