@@ -253,6 +253,15 @@
    "category": "Supply & market reports",
    "impact": "Medium",
    "impact_reason": "Highlights major completed supply entering the market."
+  },
+  "6618145b49d6": {
+   "relevant": false,
+   "headline": "Abu Dhabi warns farm tenants of rule violations",
+   "summary": "Abu Dhabi's DMT issued strict compliance requirements for agricultural farm rentals. Violators risk facing financial penalties or immediate property repossession.",
+   "why": "Agricultural farm regulations do not directly impact general residential or commercial real estate markets.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Relates only to agricultural lease compliance."
   }
  }
 }
