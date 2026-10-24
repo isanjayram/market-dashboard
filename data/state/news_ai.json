@@ -235,6 +235,24 @@
    "category": "Supply & market reports",
    "impact": "Medium",
    "impact_reason": "Significant land supply offering future development potential."
+  },
+  "e9a2d54cd3e1": {
+   "relevant": true,
+   "headline": "Dubai 2026 tenant move-out and deposit guide",
+   "summary": "Essential checklist covers legal duties, deposit refunds, and landlord charges for departing tenants. It outlines rules for property handovers in Dubai.",
+   "why": "It explains tenant obligations and deposit laws, which directly affect renters and landlords.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Outlines standard tenant and landlord move-out obligations."
+  },
+  "2e443c290df8": {
+   "relevant": true,
+   "headline": "Dubai completes 104 projects worth $29.3 billion in H1 2026",
+   "summary": "The sector saw major handovers totaling billions of dollars during the first half of the year. This reflects strong construction delivery across the emirate.",
+   "why": "It shows significant completed supply entering the market, impacting inventory levels.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Highlights major completed supply entering the market."
   }
  }
 }
