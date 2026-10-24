@@ -1,258 +1,4 @@
 {
- "2026-10-22": {
-  "8c98ac62f383": {
-   "relevant": true,
-   "headline": "FamilyVisa.ae launches new dedicated Golden Visa portal",
-   "summary": "The provider has introduced a portal featuring an interactive calculator for applicants. It aims to simplify access to current residency information.",
-   "why": "It directly impacts residency eligibility rules for investors and buyers.",
-   "category": "Regulation & fees",
-   "impact": "High",
-   "impact_reason": "Changes residency application accessibility for buyers."
-  },
-  "03251dfd54a1": {
-   "relevant": true,
-   "headline": "Dubai luxury sector records 412 ultra-prime deals",
-   "summary": "Transactions over $10 million surged during the first nine months. Palm Jumeirah captured nearly a third of these luxury sales.",
-   "why": "It provides crucial market sentiment data for high-end real estate.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Highlights luxury sales performance and top areas."
-  },
-  "a265117efcca": {
-   "relevant": true,
-   "headline": "National Properties finishes 399 Hills Park handover",
-   "summary": "The AED 1 billion project in Dubai Hills Estate is complete. Handover processes to property buyers have officially started.",
-   "why": "It increases completed property supply and completes developer commitments.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Marks completion and handover of new residential stock."
-  },
-  "30ba04540e81": {
-   "relevant": true,
-   "headline": "VIBE by Arsenal East launches in Dubai",
-   "summary": "A new residential project emphasizing wellness and community has debuted. It targets buyers seeking unconventional architectural designs.",
-   "why": "It introduces new residential supply to the local market.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "New residential project launch expands buyer choices."
-  },
-  "f1f6c2c5379d": {
-   "relevant": false,
-   "headline": "Aldar and ADIB unveil new co-branded cards",
-   "summary": "The partnership offers enhanced reward options across lifestyle destinations in Abu Dhabi.",
-   "why": "It features banking and retail rewards rather than direct property news.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Irrelevant lifestyle banking announcement."
-  },
-  "85331b035d86": {
-   "relevant": true,
-   "headline": "Etihad Rail announces free Yas Island shuttle services",
-   "summary": "Passengers will receive complimentary connections to Yas Island attractions under a new agreement. This deal improves transport links in Abu Dhabi.",
-   "why": "It improves regional infrastructure connectivity impacting property accessibility.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Enhances transport links to regional lifestyle hubs."
-  },
-  "7849f2a2ca30": {
-   "relevant": true,
-   "headline": "New transport links connect Yas Island to Etihad Rail",
-   "summary": "Miral and Etihad Rail have partnered for first-and-last-mile transit solutions. The shuttle will link theme parks to the railway station.",
-   "why": "Infrastructure upgrades improve regional transit connectivity for communities.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Improves overall connectivity to key developments."
-  },
-  "da55b78c4159": {
-   "relevant": true,
-   "headline": "Dubai real estate shows steady Q3 performance",
-   "summary": "Ready-home sales rebounded while office values tripled over five years. Prices and rents remained resilient throughout the third quarter.",
-   "why": "It offers essential data on market health and property values.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Provides critical macroeconomic data on property trends."
-  },
-  "1b7fb962c20f": {
-   "relevant": true,
-   "headline": "Sharjah examines new legislation concerning unclaimed and lost real estate",
-   "summary": "Sharjah authorities are currently reviewing a draft law focused on managing unclaimed property. This regulatory update aims to establish clearer legal procedures.",
-   "why": "It introduces new legal frameworks for property management in the UAE.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Minor regulatory update with little direct buyer impact."
-  },
-  "c80a9ced7645": {
-   "relevant": true,
-   "headline": "Meraki Developers expands into Dubai South with pipeline of seven projects",
-   "summary": "Meraki Developers is branching into Dubai South as part of its wider expansion strategy. The firm currently has seven upcoming projects in its development pipeline.",
-   "why": "It highlights new developer activity and upcoming supply in Dubai South.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "New project launches increase local housing supply options."
-  },
-  "6ceeca50b42e": {
-   "relevant": false,
-   "headline": "Wealthy Indian households split on domestic versus overseas real estate investments",
-   "summary": "Affluent Indian families are debating whether to invest in domestic property or look overseas. Wealth managers note changing preferences in cross-border capital allocation.",
-   "why": "This is a general wealth trend piece without specific Dubai property news.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "General wealth sentiment report with no direct market action."
-  },
-  "040d61b8e84e": {
-   "relevant": true,
-   "headline": "ORA Developers UAE and ADCB partner for off-plan financing",
-   "summary": "ORA Developers UAE has teamed up with ADCB to provide structured off-plan mortgages for qualified BAYN buyers. This financing agreement aims to ease the purchasing process for clients.",
-   "why": "It directly impacts buyer financing options for off-plan properties.",
-   "category": "Rates & mortgages",
-   "impact": "High",
-   "impact_reason": "New mortgage partnerships directly improve buyer financing accessibility."
-  },
-  "8c6a39d9f6a7": {
-   "relevant": true,
-   "headline": "Regulated shared housing could lower Dubai rental costs significantly",
-   "summary": "Industry experts suggest that approved shared housing could cut tenant expenses by nearly half compared to leasing a standalone studio. Dubai Municipality has already marked over 44 zones for these living arrangements.",
-   "why": "It addresses affordability and shifting rental demand dynamics in Dubai.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Shifts rental market dynamics and affordability for tenants."
-  },
-  "90c3f1bff571": {
-   "relevant": true,
-   "headline": "Abu Dhabi forecasts 30 new developments valued at $12.3bn by 2026",
-   "summary": "Abu Dhabi expects to launch approximately 30 fresh real estate projects valued up to $12.3 billion ahead of late 2026. This pipeline signals strong upcoming investment in the emirate.",
-   "why": "It signals major upcoming capital injection and supply growth in Abu Dhabi.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Large future project pipeline points to steady sector growth."
-  },
-  "1f15996971f9": {
-   "relevant": false,
-   "headline": "Dubai Land Department schedules fourth Real Estate Day for Emirati Employment",
-   "summary": "The Dubai Land Department is organizing its fourth employment event targeted at local nationals on October 29. The initiative focuses on boosting Emirati participation in the property sector workforce.",
-   "why": "This is a local employment job fair rather than property market news.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Localized job fair with no direct real estate market impact."
-  },
-  "be75a6ceb355": {
-   "relevant": true,
-   "headline": "Dubai luxury villa sector records 55 sales above $10 million",
-   "summary": "Dubai's high-end property segment experienced a strong wave with 55 luxury villas exceeding $10 million selling within three months. This surge highlights ongoing robust demand for premium real estate.",
-   "why": "It reflects strong high-end investor sentiment and luxury market performance.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Demonstrates strong luxury segment demand and capital inflow."
-  },
-  "511e4fcd9964": {
-   "relevant": true,
-   "headline": "Dubai tenants must review rental agreements carefully",
-   "summary": "Renters in Dubai receive warnings to thoroughly examine their lease terms. Overlooked clauses can create unexpected obligations.",
-   "why": "It protects tenants and shapes the local rental market dynamics.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Affects tenant awareness without changing laws."
-  },
-  "153d31808fb0": {
-   "relevant": true,
-   "headline": "Renters in Dubai cautioned about hidden lease conditions",
-   "summary": "Experts advise tenants to inspect all clauses before signing rental agreements. Ignoring minor details can lead to future disputes.",
-   "why": "Lease awareness helps renters avoid contractual pitfalls.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Reminds renters to read agreements closely."
-  },
-  "f412f558d55b": {
-   "relevant": false,
-   "headline": "Turning market uncertainty into real estate opportunity",
-   "summary": "An opinion piece discusses navigating changing conditions in Dubai property.",
-   "why": "It is an agent opinion piece containing no hard news.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Opinion piece with no direct market news."
-  },
-  "252c9a1986cb": {
-   "relevant": true,
-   "headline": "Danube launches Shah Rukh Khan-inspired Dubai penthouses",
-   "summary": "Gauri Khan designs new waterfront luxury penthouses featuring Italian furniture and upscale kitchens. The branded project targets high-end buyers in Dubai.",
-   "why": "New branded luxury launches influence high-end segment sentiment.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Highlights new luxury developer project launch."
-  },
-  "562b1284e3ba": {
-   "relevant": false,
-   "headline": "Austin Albert wins Dubai real estate award",
-   "summary": "An individual receives recognition for achievements in the local property sector.",
-   "why": "Awards and personal achievements do not impact market fundamentals.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Award announcements do not affect market data or rules."
-  },
-  "373b91eb0a89": {
-   "relevant": true,
-   "headline": "Abu Dhabi introduces new regulations for industrial properties",
-   "summary": "Abu Dhabi has implemented updated guidelines governing industrial real estate sector operations. Further details on the specific operational changes were not provided.",
-   "why": "It introduces new regulatory changes affecting industrial real estate in the capital.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Changes apply specifically to industrial real estate."
-  },
-  "2361fca11a3b": {
-   "relevant": false,
-   "headline": "Investors must look beyond rental yields",
-   "summary": "Buyers need to evaluate long-term prospects rather than just relying on rental yields as prices rise.",
-   "why": "It is an agent opinion piece with no hard market news.",
-   "category": "Supply & market reports",
-   "impact": "Low",
-   "impact_reason": "Opinion piece offering general investment advice."
-  },
-  "0b3408eb48c1": {
-   "relevant": true,
-   "headline": "Dubai tenants focus on lease terms over renewals",
-   "summary": "Dubai renters are increasingly negotiating specific lease terms rather than simply renewing existing contracts.",
-   "why": "It highlights a shift in tenant behavior within the Dubai rental market.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Reflects shifting negotiation power in rental market."
-  },
-  "d17482433571": {
-   "relevant": true,
-   "headline": "Sharjah Considers New Legislation for Lost and Unclaimed Assets",
-   "summary": "Sharjah authorities are evaluating a draft law regarding the management of misplaced and unclaimed property. The proposed regulations aim to establish clear protocols for handling such assets.",
-   "why": "It introduces official legal procedures for managing unclaimed property within the emirate.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Applies to rare administrative cases rather than general market activity."
-  },
-  "1f58cf6b0de6": {
-   "relevant": false,
-   "headline": "Dollar steadies ahead of major central bank rate announcements",
-   "summary": "The US dollar remained stable while the Japanese yen strengthened in anticipation of upcoming central bank decisions.",
-   "why": "This global currency movement lacks a direct connection to local property markets.",
-   "category": "Rates & mortgages",
-   "impact": "Low",
-   "impact_reason": "No direct local property market connection."
-  },
-  "0d08dff9b197": {
-   "relevant": true,
-   "headline": "Shared housing regulation could reduce tenant rents significantly",
-   "summary": "Industry specialists suggest that officially regulated co-living spaces might decrease rental costs for Dubai residents by fifty percent.",
-   "why": "It affects rental affordability and housing options in the local market.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Potential shift in rental market dynamics."
-  },
-  "c059d7f9230f": {
-   "relevant": true,
-   "headline": "Abu Dhabi property launches rise while Dubai supply slows",
-   "summary": "New real estate project launches have increased in Abu Dhabi as activity simultaneously decreases in Dubai.",
-   "why": "It highlights shifting regional development trends relevant to investors.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Shifts investor focus across UAE emirates."
-  }
- },
  "2026-10-23": {
   "43ab773b47fb": {
    "relevant": false,
@@ -415,6 +161,80 @@
    "category": "Supply & market reports",
    "impact": "Low",
    "impact_reason": "Outside the Dubai real estate market scope."
+  }
+ },
+ "2026-10-24": {
+  "a4fb0880ea3b": {
+   "relevant": true,
+   "headline": "Dubai property market becomes selective with buyer focus on value",
+   "summary": "Exclusive Links reports that the local real estate sector is shifting towards a more selective phase. Purchasers are increasingly prioritizing value over broad speculation.",
+   "why": "It reflects changing buyer sentiment and market dynamics.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Shifts buyer sentiment and focus toward value."
+  },
+  "a04be0fa017c": {
+   "relevant": true,
+   "headline": "Residential status crucial for Indians returning from abroad",
+   "summary": "Residency classifications impact financial and tax obligations for individuals moving back to India. Understanding these rules is essential for managing cross-border assets.",
+   "why": "It affects NRI money rules and compliance.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Relates to personal tax status rather than direct property."
+  },
+  "3e8445362069": {
+   "relevant": false,
+   "headline": "Lottery winner discusses post-win life",
+   "summary": "",
+   "why": "It is a lifestyle human interest story.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Human interest story with no market impact."
+  },
+  "9b7a30141958": {
+   "relevant": true,
+   "headline": "Advice on selling off-plan Dubai apartments during uncertain times",
+   "summary": "An investor questions whether to exit an off-plan Emaar purchase at Expo City early. Experts evaluate holding versus selling after paying initial installments.",
+   "why": "It addresses investor strategy regarding off-plan exits.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Individual advisory piece with limited broad market effect."
+  },
+  "7b6abfca9d44": {
+   "relevant": false,
+   "headline": "UAE property operators adopt AI support",
+   "summary": "",
+   "why": "It lacks specific market or regulatory news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "General technology news with minor operational relevance."
+  },
+  "5fce158e8527": {
+   "relevant": false,
+   "headline": "Sobha Realty buyer guide published",
+   "summary": "",
+   "why": "It is a promotional buyer guide.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Promotional content offering no new market insights."
+  },
+  "184f70e5762b": {
+   "relevant": false,
+   "headline": "Suryakumar Yadav buys Dubai home",
+   "summary": "",
+   "why": "It is a celebrity lifestyle purchase.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Celebrity real estate transaction with no broader impact."
+  },
+  "d5501d8f4a9f": {
+   "relevant": true,
+   "headline": "Twelve residential plots listed in Dubai for 963 million dirhams",
+   "summary": "A new batch of residential land has been put up for sale in Dubai. The total valuation for these twelve plots reaches nearly one billion dirhams.",
+   "why": "It highlights major land supply entering the market.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Significant land supply offering future development potential."
   }
  }
 }

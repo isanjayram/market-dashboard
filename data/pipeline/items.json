@@ -1266,5 +1266,32 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"9b7a30141958": {
+"id": "9b7a30141958",
+"title": "Advice on selling off-plan Dubai apartments during uncertain times",
+"link": "https://www.thenationalnews.com/business/property/2026/10/24/uae-property-should-i-sell-my-off-plan-dubai-apartment-amid-uncertainty-or-wait/",
+"source": "The National",
+"category": "Developer news",
+"published": "2026-10-24T08:00+04:00",
+"first_seen": "2026-10-24",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": {
+"name": "Al Maktoum International Airport expansion",
+"status": "AED 128bn terminal approved 28 Apr 2024; first phase due 2032",
+"source": "Dubai Media Office",
+"url": "https://mediaoffice.ae/en/news/2024/april/28-04/al-maktoum-international-airport"
+},
+"fields": {
+"project": "Terra Gardens",
+"developer": "Emaar",
+"location": "Expo City",
+"type": "apartment",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
