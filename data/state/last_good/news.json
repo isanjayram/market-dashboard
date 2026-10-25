@@ -17,10 +17,13 @@
    "impact": "Medium",
    "impact_reason": "Enhances traffic flow around a major area.",
    "watch": false,
+   "also": [
+    "Gulf News"
+   ],
    "headline": "Final World Trade Centre Bridge Opens Friday",
    "summary": "Dubai's RTA is opening the last bridge of the World Trade Centre Roundabout project this Friday. The new kilometer-long bridge will significantly boost local vehicle capacity.",
    "why": "Infrastructure enhancements improve neighborhood accessibility and appeal.",
-   "age_hours": 2.1,
+   "age_hours": 2.4,
    "topic": "Infrastructure"
   },
   {
@@ -42,7 +45,7 @@
    "headline": "Guide to Selling Mortgaged Properties in Dubai",
    "summary": "Property owners facing financial hardship can explore specific legal procedures to sell mortgaged homes and transfer loans. Bank approval and structured legal steps are required for successful transfers.",
    "why": "Helps sellers understand mortgage clearance and property transfer regulations.",
-   "age_hours": 3.0,
+   "age_hours": 3.3,
    "topic": "Rates & mortgages"
   },
   {
@@ -61,15 +64,15 @@
    "headline": "Aldar expands its UK real estate investment footprint",
    "summary": "Abu Dhabi's Aldar Properties continues to grow its real estate investments in the British market.",
    "why": "It shows major regional developers expanding international portfolios.",
-   "age_hours": 23.2,
+   "age_hours": 23.5,
    "topic": "abu dhabi"
   }
  ],
  "window_hours": 24,
  "count_relevant": 6,
- "count_fetched": 341,
+ "count_fetched": 344,
  "feed_errors": {},
  "mode": "AI summaries (saved from an earlier run)",
- "as_of": "2026-10-25T13:12+04:00",
- "saved_at": "2026-10-25T13:12+04:00"
+ "as_of": "2026-10-25T13:27+04:00",
+ "saved_at": "2026-10-25T13:27+04:00"
 }
