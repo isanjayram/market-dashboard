@@ -1,168 +1,4 @@
 {
- "2026-10-23": {
-  "43ab773b47fb": {
-   "relevant": false,
-   "headline": "Turkey lowers benchmark interest rate to 36 percent",
-   "summary": "Turkey reduced borrowing costs by 100 basis points following a drop in inflation below 30 percent. Policymakers resumed monetary easing after keeping rates steady for five consecutive meetings.",
-   "why": "It concerns international monetary policy rather than local real estate or economic rules.",
-   "category": "Rates & mortgages",
-   "impact": "High",
-   "impact_reason": "Changes foreign monetary policy."
-  },
-  "5db99155cf6b": {
-   "relevant": false,
-   "headline": "Dubai gold prices drop for fifth consecutive day",
-   "summary": "Local gold rates fell to a two-month low, trading at Dh482.75 per gram for 24K. The decline stems from higher oil prices and potential US Federal Reserve rate hike worries.",
-   "why": "It reports on precious metals rather than property markets, mortgages, or the UAE economy.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Tracks daily commodity prices."
-  },
-  "78564c704af2": {
-   "relevant": true,
-   "headline": "Top sales leaders launch BRDG House in Dubai",
-   "summary": "Two industry executives with a track record of Dh30 billion in sales have established a new venture in Dubai. The firm aims to make a mark in the local property sector.",
-   "why": "It highlights new real estate developer activity in the local market.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "New market entrant could influence local sales volume."
-  },
-  "848b6c4614c2": {
-   "relevant": true,
-   "headline": "New AI tool evaluates Dubai property pricing accuracy",
-   "summary": "A recently introduced artificial intelligence application assesses whether a Dubai property is overpriced by analyzing actual transaction records. This helps buyers verify market values.",
-   "why": "It introduces a technology tool impacting local property valuation and buyer decisions.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Aids buyers in evaluating local property pricing."
-  },
-  "fc948cedab68": {
-   "relevant": true,
-   "headline": "Dubai office rents average $66 with new supply",
-   "summary": "Commercial rents in Dubai stand at $66 per square foot. The market anticipates an influx of 20.4 million square feet of fresh office space.",
-   "why": "It provides critical data on commercial real estate supply and rental rates in Dubai.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Provides baseline commercial rental data."
-  },
-  "3236a32e263b": {
-   "relevant": true,
-   "headline": "Abu Dhabi residential transactions exceed Dh21.5 billion",
-   "summary": "Residential property deals in Abu Dhabi surpassed Dh21.5 billion during the third quarter. The figures highlight robust buyer activity in the capital's housing sector.",
-   "why": "It details quarterly transaction values for UAE residential real estate.",
-   "category": "Supply & market reports",
-   "impact": "Low",
-   "impact_reason": "Reflects past quarterly market performance."
-  },
-  "8f488d200554": {
-   "relevant": false,
-   "headline": "Investors urged to look beyond rental yields",
-   "summary": "The CEO of Signature Properties advises UAE real estate investors to consider factors other than rental yields alone. Comprehensive investment strategies are recommended for long-term success.",
-   "why": "It is an agent opinion piece lacking hard news.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Opinion piece offers no new data or regulations."
-  },
-  "166e1dcecc6d": {
-   "relevant": true,
-   "headline": "Financial returns drive Indian buyers to foreign real estate",
-   "summary": "Indian investors are increasingly purchasing international properties, ranging from Dubai apartments to Greek villas. The primary motivation behind these overseas acquisitions is financial return.",
-   "why": "It discusses cross-border property investments relevant to Dubai real estate demand.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Identifies cross-border buyer trends."
-  },
-  "c123059f1f9d": {
-   "relevant": true,
-   "headline": "Hidden Fit-Out Costs for Dubai Property Buyers Highlighted",
-   "summary": "ANK Constructions points out unexpected interior expenses that buyers often overlook. These extra fit-out costs can impact overall purchasing budgets.",
-   "why": "It alerts buyers to overlooked property expenses.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Affects individual buyer budgeting only."
-  },
-  "33cdf99f37d9": {
-   "relevant": true,
-   "headline": "UAE Developers Expand Overseas as Dubai Market Cools",
-   "summary": "Local real estate developers are venturing into international markets. This shift occurs as local property activity begins to moderate.",
-   "why": "It indicates a strategic shift in developer focus.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Reflects broader shifts in developer strategy."
-  },
-  "63794922941d": {
-   "relevant": false,
-   "headline": "Anti-Corruption Agency Monitors Ex-Prosecutor Over UAE Villa",
-   "summary": "",
-   "why": "Not relevant to property market trends.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Political investigation with no market impact."
-  },
-  "d794265c6ba7": {
-   "relevant": true,
-   "headline": "Dubai office rents average $66 per sq ft amid new supply",
-   "summary": "Average commercial rents sit at $66 per square foot in Dubai. The market anticipates an influx of 20.4 million square feet of fresh inventory.",
-   "why": "It provides crucial data on upcoming commercial supply and rental values for investors.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Highlights future commercial supply and rental trends."
-  },
-  "73595ad946b8": {
-   "relevant": false,
-   "headline": "Aldar Education signs MoU with Toddle",
-   "summary": "Aldar Education partnered with Toddle to implement a unified AI teaching platform across its schools.",
-   "why": "This is an education sector update unrelated to property transactions or real estate economics.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Irrelevant to real estate market dynamics."
-  },
-  "89e831962851": {
-   "relevant": true,
-   "headline": "Dubai renters advised to check overlooked lease terms",
-   "summary": "Tenants in Dubai are receiving warnings regarding easily missed clauses in their leasing agreements. Reviewing these conditions helps avoid unexpected obligations.",
-   "why": "It highlights important lease agreement details that impact tenant rights and obligations.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Informs tenants about crucial lease contract details."
-  },
-  "d33a64205b98": {
-   "relevant": false,
-   "headline": "SABIC and Dubai Holding lead contract awards",
-   "summary": "Major regional entities secured top positions for contract awards during September.",
-   "why": "Corporate contract awards do not directly impact property buying, financing, or regulations.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Corporate contract news without direct real estate impact."
-  },
-  "fabc3bc8d5f3": {
-   "relevant": true,
-   "headline": "Arada Developments announces $180 million tender offer cap",
-   "summary": "Arada Developments has established a maximum acceptance amount of $180 million for its current tender offer.",
-   "why": "It reflects corporate financial maneuvers by a major regional developer.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Standard corporate financial action with minimal direct buyer effect."
-  },
-  "433679250a0b": {
-   "relevant": false,
-   "headline": "Lottery winner discusses life after major UAE win",
-   "summary": "An Indian lottery winner shares thoughts after purchasing properties and gold.",
-   "why": "This is a lifestyle and human interest story rather than property market news.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Human interest story with no market impact."
-  },
-  "68a0bdc5dd5e": {
-   "relevant": false,
-   "headline": "Qatar property trading reaches $136.8 million",
-   "summary": "Qatar recorded over $136 million in weekly real estate transactions driven by surging residential sales.",
-   "why": "This news covers the Qatari property market instead of Dubai or UAE real estate.",
-   "category": "Supply & market reports",
-   "impact": "Low",
-   "impact_reason": "Outside the Dubai real estate market scope."
-  }
- },
  "2026-10-24": {
   "a4fb0880ea3b": {
    "relevant": true,
@@ -262,6 +98,53 @@
    "category": "Regulation & fees",
    "impact": "Low",
    "impact_reason": "Relates only to agricultural lease compliance."
+  }
+ },
+ "2026-10-25": {
+  "65f07dc29508": {
+   "relevant": false,
+   "headline": "Industry experts launch new real estate venture in Dubai",
+   "summary": "Industry specialists have joined forces to establish a new property company in Dubai.",
+   "why": "This is a general company launch without direct impact on current market conditions.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "General business launch without broader market impact."
+  },
+  "f92afd91d025": {
+   "relevant": false,
+   "headline": "Dubai property acts as a major wealth creation engine",
+   "summary": "W Capital notes that the local property sector continues generating significant wealth and millionaires.",
+   "why": "This is an opinion piece on wealth creation without actionable market news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Opinion piece lacking concrete actionable data."
+  },
+  "f8bcdc038dbf": {
+   "relevant": true,
+   "headline": "Aldar expands its UK real estate investment footprint",
+   "summary": "Abu Dhabi's Aldar Properties continues to grow its real estate investments in the British market.",
+   "why": "It shows major regional developers expanding international portfolios.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "International expansion does not directly affect local Dubai buyers."
+  },
+  "14bf818cb6c8": {
+   "relevant": true,
+   "headline": "Azizi development in Dubai Studio City reaches 62 percent completion",
+   "summary": "Construction on Azizi's mixed-use project located in Dubai Studio City has advanced to 62 percent.",
+   "why": "Construction progress updates help track project delivery timelines for buyers.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Tracks construction progress for specific upcoming supply."
+  },
+  "8eb62e74240f": {
+   "relevant": true,
+   "headline": "Abu Dhabi issues warnings over farm tenancy rule violations",
+   "summary": "Authorities in Abu Dhabi threaten fines and repossession for agricultural tenants breaking rules.",
+   "why": "It highlights strict enforcement of lease regulations in the UAE.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Applies strictly to agricultural leases in Abu Dhabi."
   }
  }
 }

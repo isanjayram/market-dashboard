@@ -154,5 +154,11 @@
   "by_provider": {
    "gemini": 6
   }
+ },
+ "2026-10-25": {
+  "calls": 2,
+  "by_provider": {
+   "gemini": 2
+  }
  }
 }
