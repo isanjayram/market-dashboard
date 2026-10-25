@@ -12,7 +12,7 @@
     "Transport",
     "Dubai"
    ],
-   "teaser": "Dubai: Dubai\u2019s Roads and Transport Authority (RTA) will open the final bridge of the World Trade Centre Roundabout Development Project this Friday, October 30, 2026, marking the completion of the major project. The 1,000-metre (1km), two-lane bridge will accommodate approximately 3,000 vehicles per hour, serving traffic from Al Majlis Street towards 2nd December Street. For drivers, the change sho",
+   "teaser": "Dubai: Dubai\u2019s Roads and Transport Authority (RTA) will open the final bridge of the World Trade Centre Roundabout Development Project this Friday, October 30, 2026, marking the completion of the major project at a cost exceeding Dh696 million. The 1,000-metre (1km), two-lane bridge will accommodate approximately 3,000 vehicles per hour, serving traffic from Al Majlis Street towards 2nd December S",
    "category": "Infrastructure",
    "impact": "Medium",
    "impact_reason": "Enhances traffic flow around a major area.",
@@ -20,27 +20,8 @@
    "headline": "Final World Trade Centre Bridge Opens Friday",
    "summary": "Dubai's RTA is opening the last bridge of the World Trade Centre Roundabout project this Friday. The new kilometer-long bridge will significantly boost local vehicle capacity.",
    "why": "Infrastructure enhancements improve neighborhood accessibility and appeal.",
-   "age_hours": 0.7,
+   "age_hours": 1.6,
    "topic": "Infrastructure"
-  },
-  {
-   "id": "14bf818cb6c8",
-   "title": "Azizi's mixed-use project in Dubai Studio City 62pc completed",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONnhHY1g4QVpabFRmWHY5NTQ1VkV1dTFhNUlVckFWQVAxMC1HQzFCaHIwUG1DVEpjWnVuTkV5YThjSEFCU19TVWNXM2JkMTRNTlhrOThfaVRKUEcxeUVTSUNxUlpLbWVNT194RXJoR195OGZ4dkJlQkRpRV9TSmRzc2NJTzAyMmVWemcyem53cWR5OEdSZmhKb2NaYllrQVZCcjJN?oc=5",
-   "source": "TradeArabia",
-   "kind": "search",
-   "published": "2026-10-24T12:12+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Tracks construction progress for specific upcoming supply.",
-   "watch": false,
-   "headline": "Azizi development in Dubai Studio City reaches 62 percent completion",
-   "summary": "Construction on Azizi's mixed-use project located in Dubai Studio City has advanced to 62 percent.",
-   "why": "Construction progress updates help track project delivery timelines for buyers.",
-   "age_hours": 23.6,
-   "topic": "Developer news"
   },
   {
    "id": "5cd6d79ffbbd",
@@ -61,7 +42,7 @@
    "headline": "Guide to Selling Mortgaged Properties in Dubai",
    "summary": "Property owners facing financial hardship can explore specific legal procedures to sell mortgaged homes and transfer loans. Bank approval and structured legal steps are required for successful transfers.",
    "why": "Helps sellers understand mortgage clearance and property transfer regulations.",
-   "age_hours": 1.7,
+   "age_hours": 2.6,
    "topic": "Rates & mortgages"
   },
   {
@@ -80,37 +61,15 @@
    "headline": "Aldar expands its UK real estate investment footprint",
    "summary": "Abu Dhabi's Aldar Properties continues to grow its real estate investments in the British market.",
    "why": "It shows major regional developers expanding international portfolios.",
-   "age_hours": 21.8,
-   "topic": "abu dhabi"
-  },
-  {
-   "id": "8eb62e74240f",
-   "title": "Abu Dhabi warns farm tenants of fines and repossession over rule violations",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNODRrcVRrV0N6R0tNWTZrYkh3Sm9LSWxYX1RfMTRIM05Rcm5Na0VSYmZ2NEdUYVd3b1dDS1JCYmcxeHB2aS0xQ19IV2hPVUJGR3BXRXRlS2xhaUg2anY0RnNkQy0wWDB2bFhwYUJRd2VRNFhCaS1FTmJyLVZiTHFPNDhFcGhtT1N6Q3o1U3czRDk0LTlMVHUxSUpFWXVIejBQX0MxaWZwUF9taTF0aXBmVHZIcUhpVnNfeXpaeDlJMTh3eDJOWEZFV3oySndnN1JFM0xBSNIB1AFBVV95cUxNODRrcVRrV0N6R0tNWTZrYkh3Sm9LSWxYX1RfMTRIM05Rcm5Na0VSYmZ2NEdUYVd3b1dDS1JCYmcxeHB2aS0xQ19IV2hPVUJGR3BXRXRlS2xhaUg2anY0RnNkQy0wWDB2bFhwYUJRd2VRNFhCaS1FTmJyLVZiTHFPNDhFcGhtT1N6Q3o1U3czRDk0LTlMVHUxSUpFWXVIejBQX0MxaWZwUF9taTF0aXBmVHZIcUhpVnNfeXpaeDlJMTh3eDJOWEZFV3oySndnN1JFM0xBSA?oc=5",
-   "source": "Gulf News",
-   "kind": "search",
-   "published": "2026-10-24T11:54+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Applies strictly to agricultural leases in Abu Dhabi.",
-   "watch": false,
-   "also": [
-    "Gulf News"
-   ],
-   "headline": "Abu Dhabi issues warnings over farm tenancy rule violations",
-   "summary": "Authorities in Abu Dhabi threaten fines and repossession for agricultural tenants breaking rules.",
-   "why": "It highlights strict enforcement of lease regulations in the UAE.",
-   "age_hours": 23.9,
+   "age_hours": 22.7,
    "topic": "abu dhabi"
   }
  ],
  "window_hours": 24,
- "count_relevant": 8,
- "count_fetched": 311,
+ "count_relevant": 4,
+ "count_fetched": 317,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-25T11:49+04:00",
- "saved_at": "2026-10-25T11:49+04:00"
+ "as_of": "2026-10-25T12:43+04:00",
+ "saved_at": "2026-10-25T12:43+04:00"
 }
