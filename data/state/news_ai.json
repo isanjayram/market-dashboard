@@ -145,6 +145,24 @@
    "category": "Regulation & fees",
    "impact": "Low",
    "impact_reason": "Applies strictly to agricultural leases in Abu Dhabi."
+  },
+  "dc649f9818fe": {
+   "relevant": true,
+   "headline": "Final World Trade Centre Bridge Opens Friday",
+   "summary": "Dubai's RTA is opening the last bridge of the World Trade Centre Roundabout project this Friday. The new kilometer-long bridge will significantly boost local vehicle capacity.",
+   "why": "Infrastructure enhancements improve neighborhood accessibility and appeal.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Enhances traffic flow around a major area."
+  },
+  "5cd6d79ffbbd": {
+   "relevant": true,
+   "headline": "Guide to Selling Mortgaged Properties in Dubai",
+   "summary": "Property owners facing financial hardship can explore specific legal procedures to sell mortgaged homes and transfer loans. Bank approval and structured legal steps are required for successful transfers.",
+   "why": "Helps sellers understand mortgage clearance and property transfer regulations.",
+   "category": "Rates & mortgages",
+   "impact": "Low",
+   "impact_reason": "Explains existing standard legal processes for sellers."
   }
  }
 }

@@ -91,5 +91,33 @@
 "The National (property)"
 ],
 "topic": "Developer news"
+},
+{
+"id": "dc649f9818fe",
+"headline": "Final World Trade Centre Bridge Opens Friday",
+"summary": "Dubai's RTA is opening the last bridge of the World Trade Centre Roundabout project this Friday. The new kilometer-long bridge will significantly boost local vehicle capacity.",
+"why": "Infrastructure enhancements improve neighborhood accessibility and appeal.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/uae/dubai-rta-to-open-final-bridge-of-world-trade-centre-roundabout-on-friday-1.500722824",
+"published": "2026-10-25T11:05+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Enhances traffic flow around a major area.",
+"watch": false,
+"topic": "Infrastructure"
+},
+{
+"id": "5cd6d79ffbbd",
+"headline": "Guide to Selling Mortgaged Properties in Dubai",
+"summary": "Property owners facing financial hardship can explore specific legal procedures to sell mortgaged homes and transfer loans. Bank approval and structured legal steps are required for successful transfers.",
+"why": "Helps sellers understand mortgage clearance and property transfer regulations.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/uae/legal/selling-mortgaged-property-dubai-rules-explained",
+"published": "2026-10-25T10:10+04:00",
+"category": "Rates & mortgages",
+"impact": "Low",
+"impact_reason": "Explains existing standard legal processes for sellers.",
+"watch": false,
+"topic": "Rates & mortgages"
 }
 ]

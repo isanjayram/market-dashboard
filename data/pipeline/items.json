@@ -1293,5 +1293,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"dc649f9818fe": {
+"id": "dc649f9818fe",
+"title": "Final World Trade Centre Bridge Opens Friday",
+"link": "https://gulfnews.com/uae/dubai-rta-to-open-final-bridge-of-world-trade-centre-roundabout-on-friday-1.500722824",
+"source": "Gulf News",
+"category": "Infrastructure",
+"published": "2026-10-25T11:05+04:00",
+"first_seen": "2026-10-25",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

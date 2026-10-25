@@ -1,6 +1,29 @@
 {
  "top": [
   {
+   "id": "dc649f9818fe",
+   "title": "Watch: Dubai RTA to open final bridge of World Trade Centre Roundabout on Friday",
+   "link": "https://gulfnews.com/uae/dubai-rta-to-open-final-bridge-of-world-trade-centre-roundabout-on-friday-1.500722824",
+   "source": "Gulf News",
+   "kind": "outlet",
+   "published": "2026-10-25T11:05+04:00",
+   "tags": [
+    "UAE",
+    "Transport",
+    "Dubai"
+   ],
+   "teaser": "Dubai: Dubai\u2019s Roads and Transport Authority (RTA) will open the final bridge of the World Trade Centre Roundabout Development Project this Friday, October 30, 2026, marking the completion of the major project. The 1,000-metre (1km), two-lane bridge will accommodate approximately 3,000 vehicles per hour, serving traffic from Al Majlis Street towards 2nd December Street. For drivers, the change sho",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Enhances traffic flow around a major area.",
+   "watch": false,
+   "headline": "Final World Trade Centre Bridge Opens Friday",
+   "summary": "Dubai's RTA is opening the last bridge of the World Trade Centre Roundabout project this Friday. The new kilometer-long bridge will significantly boost local vehicle capacity.",
+   "why": "Infrastructure enhancements improve neighborhood accessibility and appeal.",
+   "age_hours": 0.7,
+   "topic": "Infrastructure"
+  },
+  {
    "id": "14bf818cb6c8",
    "title": "Azizi's mixed-use project in Dubai Studio City 62pc completed",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONnhHY1g4QVpabFRmWHY5NTQ1VkV1dTFhNUlVckFWQVAxMC1HQzFCaHIwUG1DVEpjWnVuTkV5YThjSEFCU19TVWNXM2JkMTRNTlhrOThfaVRKUEcxeUVTSUNxUlpLbWVNT194RXJoR195OGZ4dkJlQkRpRV9TSmRzc2NJTzAyMmVWemcyem53cWR5OEdSZmhKb2NaYllrQVZCcjJN?oc=5",
@@ -16,30 +39,30 @@
    "headline": "Azizi development in Dubai Studio City reaches 62 percent completion",
    "summary": "Construction on Azizi's mixed-use project located in Dubai Studio City has advanced to 62 percent.",
    "why": "Construction progress updates help track project delivery timelines for buyers.",
-   "age_hours": 21.9,
+   "age_hours": 23.6,
    "topic": "Developer news"
   },
   {
-   "id": "2e443c290df8",
-   "title": "Dubai Real Estate Boom: 104 Projects Worth $29.3 Billion Completed in H1 2026",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQS0FCQkRWWEJZUF81ZGFQSGZpSnFVMHBsdVRzY2xyOGNXaEE0VEdEWTZkWnllUV9aNGNYNndVdS1tV0o5bzZPNzlDNWtVZy1tWlZqamdQTGxrcDlESjV2YlNGT1o3TjI1ek5wTE10YUhIaHBrY1BYVGVkLU96LVJCYUVLV0ExcjYwVlhJbXdmTXRPVm5PR1hqTlZwRFR2SnpGbGNWRkV6WjczTTZFa1NXVE14TDNyQ2E2NTVrTzVXZ3dFRk4zeTBjOHg0M1EteEhFNWQ2dGxtalk3TEpjdmlCb09zWQ?oc=5",
-   "source": "Spherical Insights",
-   "kind": "search",
-   "published": "2026-10-24T10:12+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Highlights major completed supply entering the market.",
-   "watch": false,
-   "also": [
-    "Spherical Insights"
+   "id": "5cd6d79ffbbd",
+   "title": "Selling a mortgaged property in Dubai? Rules, transfer options explained",
+   "link": "https://www.khaleejtimes.com/uae/legal/selling-mortgaged-property-dubai-rules-explained",
+   "source": "Khaleej Times",
+   "kind": "outlet",
+   "published": "2026-10-25T10:10+04:00",
+   "tags": [
+    "Legal",
+    "UAE"
    ],
-   "headline": "Dubai completes 104 projects worth $29.3 billion in H1 2026",
-   "summary": "The sector saw major handovers totaling billions of dollars during the first half of the year. This reflects strong construction delivery across the emirate.",
-   "why": "It shows significant completed supply entering the market, impacting inventory levels.",
-   "age_hours": 23.9,
-   "topic": "Supply & market reports"
+   "teaser": "Question: I own a home in Dubai with an outstanding mortgage. I have recently lost my job and plan to return to my home country. Can I sell the property and have the buyer take over the remaining mortgage? Would I need the bank's approval, and what is the legal process for transferring the property and settling or transferring the outstanding loan? Response: Pursuant to your query, as the property",
+   "category": "Rates & mortgages",
+   "impact": "Low",
+   "impact_reason": "Explains existing standard legal processes for sellers.",
+   "watch": false,
+   "headline": "Guide to Selling Mortgaged Properties in Dubai",
+   "summary": "Property owners facing financial hardship can explore specific legal procedures to sell mortgaged homes and transfer loans. Bank approval and structured legal steps are required for successful transfers.",
+   "why": "Helps sellers understand mortgage clearance and property transfer regulations.",
+   "age_hours": 1.7,
+   "topic": "Rates & mortgages"
   },
   {
    "id": "f8bcdc038dbf",
@@ -57,7 +80,7 @@
    "headline": "Aldar expands its UK real estate investment footprint",
    "summary": "Abu Dhabi's Aldar Properties continues to grow its real estate investments in the British market.",
    "why": "It shows major regional developers expanding international portfolios.",
-   "age_hours": 20.1,
+   "age_hours": 21.8,
    "topic": "abu dhabi"
   },
   {
@@ -79,15 +102,15 @@
    "headline": "Abu Dhabi issues warnings over farm tenancy rule violations",
    "summary": "Authorities in Abu Dhabi threaten fines and repossession for agricultural tenants breaking rules.",
    "why": "It highlights strict enforcement of lease regulations in the UAE.",
-   "age_hours": 22.2,
+   "age_hours": 23.9,
    "topic": "abu dhabi"
   }
  ],
  "window_hours": 24,
- "count_relevant": 6,
- "count_fetched": 326,
+ "count_relevant": 8,
+ "count_fetched": 311,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-25T10:06+04:00",
- "saved_at": "2026-10-25T10:06+04:00"
+ "as_of": "2026-10-25T11:49+04:00",
+ "saved_at": "2026-10-25T11:49+04:00"
 }
