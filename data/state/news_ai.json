@@ -235,6 +235,24 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Outbound agency expansion is not local market news."
+  },
+  "634008ed037a": {
+   "relevant": true,
+   "headline": "Ellington and Al Hamra launch Business Bay commercial tower",
+   "summary": "Ellington Properties and Al Hamra Group launched Berkeley Tower in Business Bay. This Dh2.8 billion 60-floor project is Ellington's largest commercial development.",
+   "why": "It introduces a major new commercial real estate project to the Dubai market.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Expands commercial property supply in Business Bay."
+  },
+  "80c02b459cd1": {
+   "relevant": true,
+   "headline": "Dar Global Capital Partners targets Dubai luxury property sector",
+   "summary": "Dar Global Capital Partners is focusing on high-value real estate opportunities in Dubai as part of its global investment mandate.",
+   "why": "It highlights incoming international capital targeting the Dubai luxury real estate market.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Boosts luxury market sentiment and foreign investment."
   }
  }
 }
