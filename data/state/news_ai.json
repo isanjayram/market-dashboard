@@ -253,6 +253,24 @@
    "category": "Macro & geopolitics",
    "impact": "Medium",
    "impact_reason": "Boosts luxury market sentiment and foreign investment."
+  },
+  "cdbdb6593aa3": {
+   "relevant": true,
+   "headline": "Dubai South sales surge past 2025 totals in eight months",
+   "summary": "Residential transactions in Dubai South hit 12,428 units during the first eight months of 2026. This marks a 27 percent increase over the entire previous year due to high demand for off-plan and smaller apartments.",
+   "why": "This report highlights surging off-plan demand and shifting investor preferences in a major Dubai master community.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects strong off-plan demand and shifting investor trends."
+  },
+  "5f4c33408f55": {
+   "relevant": true,
+   "headline": "Dubai announces temporary road closures for autonomous taxi tests",
+   "summary": "Motorists encounter daytime disruptions on Emirates Road and the Al Maktoum International Airport Tunnel for six days. The RTA implemented these diversions to facilitate ongoing driverless taxi trials.",
+   "why": "Infrastructure upgrades and autonomous vehicle testing directly impact commuter routes and local accessibility.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Temporary traffic disruptions affect daily commutes and accessibility."
   }
  }
 }

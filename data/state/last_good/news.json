@@ -16,8 +16,30 @@
    "headline": "HSBC remains confident in Gulf real estate despite regional conflicts.",
    "summary": "The British bank's CEO stated there are no major concerns regarding regional property exposure or corporate loan books. Provisions of nearly $400 million have been set aside for potential loan losses.",
    "why": "It shows major banking confidence in regional real estate stability amidst geopolitical tensions.",
-   "age_hours": 6.4,
+   "age_hours": 7.2,
    "topic": "Macro & geopolitics"
+  },
+  {
+   "id": "cdbdb6593aa3",
+   "title": "Dubai South home sales surpass full-year 2025 by 27%, reaching 12,428 transactions in just eight months",
+   "link": "https://www.khaleejtimes.com/business/dubai-south-home-sales-surpass-full-year-2025-by-27-reaching-12428-transactions-in-just-eight-months",
+   "source": "Khaleej Times",
+   "kind": "outlet",
+   "published": "2026-10-26T13:51+04:00",
+   "tags": [
+    "Business",
+    "Property"
+   ],
+   "teaser": "Dubai South recorded 12,428 residential property transactions in the first eight months of 2026, surpassing the 9,788 transactions registered throughout 2025 by 27 per cent, as demand for smaller apartments and off-plan properties continues to drive activity in the area. According to the Anarock Dubai South Residential Micro-Market Report, residential sales value reached Dh15.9 billion between Jan",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects strong off-plan demand and shifting investor trends.",
+   "watch": true,
+   "headline": "Dubai South sales surge past 2025 totals in eight months",
+   "summary": "Residential transactions in Dubai South hit 12,428 units during the first eight months of 2026. This marks a 27 percent increase over the entire previous year due to high demand for off-plan and smaller apartments.",
+   "why": "This report highlights surging off-plan demand and shifting investor preferences in a major Dubai master community.",
+   "age_hours": 0.4,
+   "topic": "Supply & market reports"
   },
   {
    "id": "634008ed037a",
@@ -37,7 +59,7 @@
    "headline": "Ellington and Al Hamra launch Business Bay commercial tower",
    "summary": "Ellington Properties and Al Hamra Group launched Berkeley Tower in Business Bay. This Dh2.8 billion 60-floor project is Ellington's largest commercial development.",
    "why": "It introduces a major new commercial real estate project to the Dubai market.",
-   "age_hours": 0.5,
+   "age_hours": 1.3,
    "topic": "Developer news"
   },
   {
@@ -56,8 +78,30 @@
    "headline": "Sharjah introduces three new bus routes linking to Etihad Rail",
    "summary": "Sharjah has rolled out three fresh transit routes connecting important districts to the upcoming Etihad Rail station. This expansion aims to improve commuter connectivity across the emirate.",
    "why": "Better transit links improve regional accessibility and boost surrounding property appeal.",
-   "age_hours": 6.3,
+   "age_hours": 7.2,
    "topic": "sharjah"
+  },
+  {
+   "id": "5f4c33408f55",
+   "title": "Dubai road closures this week for driverless taxi tests: Diversions, timings and travel tips",
+   "link": "https://gulfnews.com/uae/dubai/dubai-road-closures-this-week-for-driverless-taxi-tests-diversions-timings-and-travel-tips-1.500723848",
+   "source": "Gulf News",
+   "kind": "outlet",
+   "published": "2026-10-26T13:12+04:00",
+   "tags": [
+    "Dubai",
+    "Transport"
+   ],
+   "teaser": "Dubai motorists face daytime traffic disruption this week as three lanes on Emirates Road (E611) and the Al Maktoum International Airport Tunnel close for six days. The Roads and Transport Authority (RTA) says the restrictions will run from Monday, October 26, to Saturday, October 31, to allow autonomous taxi companies to conduct highway tests. The closures will be in place daily from 9am to 4pm, ",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Temporary traffic disruptions affect daily commutes and accessibility.",
+   "watch": false,
+   "headline": "Dubai announces temporary road closures for autonomous taxi tests",
+   "summary": "Motorists encounter daytime disruptions on Emirates Road and the Al Maktoum International Airport Tunnel for six days. The RTA implemented these diversions to facilitate ongoing driverless taxi trials.",
+   "why": "Infrastructure upgrades and autonomous vehicle testing directly impact commuter routes and local accessibility.",
+   "age_hours": 1.0,
+   "topic": "Infrastructure"
   },
   {
    "id": "565ede04f078",
@@ -81,7 +125,7 @@
    "headline": "Abu Dhabi anticipates a new property launch every three days",
    "summary": "Around 30 residential projects valued up to Dh45 billion are slated to launch in Abu Dhabi over a 90-day period. Strong buyer demand for off-plan and resale homes continues to drive this development pace.",
    "why": "High volume of new launches indicates robust market activity and expanding supply.",
-   "age_hours": 2.7,
+   "age_hours": 3.6,
    "topic": "abu dhabi"
   },
   {
@@ -100,7 +144,7 @@
    "headline": "Etihad Rail expansion progresses with Fujairah route review.",
    "summary": "Planning for the Etihad Rail extension into Fujairah moves forward as officials review finalized route details.",
    "why": "National rail network expansion impacts regional connectivity and long-term property valuations.",
-   "age_hours": 15.9,
+   "age_hours": 16.8,
    "topic": "etihad rail"
   },
   {
@@ -117,12 +161,13 @@
    "impact_reason": "Boosts luxury market sentiment and foreign investment.",
    "watch": false,
    "also": [
-    "The Globe and Mail"
+    "The Globe and Mail",
+    "businessnewsthisweek.com"
    ],
    "headline": "Dar Global Capital Partners targets Dubai luxury property sector",
    "summary": "Dar Global Capital Partners is focusing on high-value real estate opportunities in Dubai as part of its global investment mandate.",
    "why": "It highlights incoming international capital targeting the Dubai luxury real estate market.",
-   "age_hours": 0.7,
+   "age_hours": 1.6,
    "topic": "Macro & geopolitics"
   },
   {
@@ -141,7 +186,7 @@
    "headline": "Experts Launch New Dubai Real Estate Venture",
    "summary": "Industry leaders have joined forces to establish a fresh real estate business operating within Dubai. Details on the venture's specific focus remain scarce.",
    "why": "It signals new commercial activity and potential competition in the local market.",
-   "age_hours": 5.4,
+   "age_hours": 6.3,
    "topic": "Developer news"
   },
   {
@@ -160,38 +205,15 @@
    "headline": "Dubai Court Mandates Developer Refund to Buyer",
    "summary": "A local court ordered a property developer to return Dhs1.8 million to a purchaser following a cancelled deal. This ruling reinforces legal protections for property investors.",
    "why": "It highlights judicial enforcement of buyer rights in property disputes.",
-   "age_hours": 12.6,
+   "age_hours": 13.4,
    "topic": "Regulation & fees"
-  },
-  {
-   "id": "c392904584ef",
-   "title": "Dubai, Ras Al Khaimah real estate growth diverges as market evolves",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT3c3SnZGRjFEZ0lpRm5lRG42YlJzMzdxbzVMX1dPNmpRbEI0bTNELUJ3RjlxSGUtZ250cE9xZXZ2R0RhZkhqZzU3blBGTU1yNnNFaG82eDVOSWlqLXMwdXNSTVZZMnVmRTRMNjVaeVNqdTVKRXFXR1Q0MDU0OTU4N1FzQ3dyay0zLTZVek9SdlZQWURGLVo4aHFfQXVwWDlYQTlDM3NjWdIBrwFBVV95cUxNbHNkUEJ5aXlzemd6WlRESFB4VWZ0ckpVZHN4UGkwSUkySkJmU2NUcElKU0JxYjFybHgxWFpZVTB4QV9IVV90VnJWZ0g3RFNTOTlTUzNqOEFjb1FzU19GX2NIT004N3o0Z0ZMOGhfZ2pMaXdlX3MySnNURjk3eXhfVFdkdkhNSjVDSGo4djJvb0NWalhsZ1JlQURwVHptS040bE05UzlTaEgtYnNvd29F?oc=5",
-   "source": "Khaleej Times",
-   "kind": "search",
-   "published": "2026-10-25T16:37+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Supply & market reports",
-   "impact": "Low",
-   "impact_reason": "General market observation with no immediate direct action required.",
-   "watch": false,
-   "also": [
-    "Khaleej Times",
-    "Khaleej Times"
-   ],
-   "headline": "Dubai and Ras Al Khaimah Property Markets Diverge",
-   "summary": "Property sector growth patterns are separating across Dubai and Ras Al Khaimah as the local market matures. This evolution highlights shifting regional investment dynamics.",
-   "why": "It provides valuable market intelligence on regional property performance differences.",
-   "age_hours": 20.7,
-   "topic": "Supply & market reports"
   }
  ],
  "window_hours": 24,
- "count_relevant": 9,
- "count_fetched": 374,
+ "count_relevant": 12,
+ "count_fetched": 378,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-26T13:21+04:00",
- "saved_at": "2026-10-26T13:21+04:00"
+ "as_of": "2026-10-26T14:13+04:00",
+ "saved_at": "2026-10-26T14:13+04:00"
 }

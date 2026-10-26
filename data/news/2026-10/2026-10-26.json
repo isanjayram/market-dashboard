@@ -222,5 +222,33 @@
 "The Globe and Mail"
 ],
 "topic": "Macro & geopolitics"
+},
+{
+"id": "cdbdb6593aa3",
+"headline": "Dubai South sales surge past 2025 totals in eight months",
+"summary": "Residential transactions in Dubai South hit 12,428 units during the first eight months of 2026. This marks a 27 percent increase over the entire previous year due to high demand for off-plan and smaller apartments.",
+"why": "This report highlights surging off-plan demand and shifting investor preferences in a major Dubai master community.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/business/dubai-south-home-sales-surpass-full-year-2025-by-27-reaching-12428-transactions-in-just-eight-months",
+"published": "2026-10-26T13:51+04:00",
+"category": "Supply & market reports",
+"impact": "Medium",
+"impact_reason": "Reflects strong off-plan demand and shifting investor trends.",
+"watch": true,
+"topic": "Supply & market reports"
+},
+{
+"id": "5f4c33408f55",
+"headline": "Dubai announces temporary road closures for autonomous taxi tests",
+"summary": "Motorists encounter daytime disruptions on Emirates Road and the Al Maktoum International Airport Tunnel for six days. The RTA implemented these diversions to facilitate ongoing driverless taxi trials.",
+"why": "Infrastructure upgrades and autonomous vehicle testing directly impact commuter routes and local accessibility.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/uae/dubai/dubai-road-closures-this-week-for-driverless-taxi-tests-diversions-timings-and-travel-tips-1.500723848",
+"published": "2026-10-26T13:12+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Temporary traffic disruptions affect daily commutes and accessibility.",
+"watch": false,
+"topic": "Infrastructure"
 }
 ]
