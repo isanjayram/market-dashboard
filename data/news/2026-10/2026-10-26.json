@@ -146,5 +146,50 @@
 "Khaleej Times"
 ],
 "topic": "Supply & market reports"
+},
+{
+"id": "201200b71dda",
+"headline": "Sharjah introduces three new bus routes linking to Etihad Rail",
+"summary": "Sharjah has rolled out three fresh transit routes connecting important districts to the upcoming Etihad Rail station. This expansion aims to improve commuter connectivity across the emirate.",
+"why": "Better transit links improve regional accessibility and boost surrounding property appeal.",
+"source": "Gulf News",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQc1ZIZkNrTktVNmhMcGV4UVlyTW1Dd2xBSDQtOEkxdkEteWVGbnY1ZmRTck5jTGQ4NTMtNEI1Y1pJRE1yTHh6TE03QWdzSlFlNXphOEJ4TnFKYXVxY213YnlwS1drdzhoU1RqNTFjWTNCZXc0d29jQ0tpSXdHNW1FOHhEelRxT1Z4bGlWSTNvSW9tb0hjNHVkWkdwWjF6dmVIWVdzYW9UVzNfQmN6UFdFUkhMZ0h6b294MWg2OE5zbUV3UDljNDNEMlBCNmRISXlUU3FmNGhkMG9Wd9IB2gFBVV95cUxQc1ZIZkNrTktVNmhMcGV4UVlyTW1Dd2xBSDQtOEkxdkEteWVGbnY1ZmRTck5jTGQ4NTMtNEI1Y1pJRE1yTHh6TE03QWdzSlFlNXphOEJ4TnFKYXVxY213YnlwS1drdzhoU1RqNTFjWTNCZXc0d29jQ0tpSXdHNW1FOHhEelRxT1Z4bGlWSTNvSW9tb0hjNHVkWkdwWjF6dmVIWVdzYW9UVzNfQmN6UFdFUkhMZ0h6b294MWg2OE5zbUV3UDljNDNEMlBCNmRISXlUU3FmNGhkMG9Wdw?oc=5",
+"published": "2026-10-26T07:02+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Enhances regional connectivity and boosts local property appeal.",
+"watch": true,
+"topic": "sharjah"
+},
+{
+"id": "565ede04f078",
+"headline": "Abu Dhabi anticipates a new property launch every three days",
+"summary": "Around 30 residential projects valued up to Dh45 billion are slated to launch in Abu Dhabi over a 90-day period. Strong buyer demand for off-plan and resale homes continues to drive this development pace.",
+"why": "High volume of new launches indicates robust market activity and expanding supply.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/business/abu-dhabi-to-see-new-property-project-launch-every-3-days-as-demand-stays-strong",
+"published": "2026-10-26T10:39+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Substantial new supply entering the local market.",
+"watch": false,
+"also": [
+"Khaleej Times"
+],
+"topic": "abu dhabi"
+},
+{
+"id": "0264017add08",
+"headline": "Nakheel awards $259 million contract for Bay Grove Residences",
+"summary": "Developer Nakheel has finalized a major construction contract worth $259 million for its Bay Grove Residences project.",
+"why": "Major construction contracts signal progress on prominent residential developments.",
+"source": "Gulf Daily News (Bahrain)",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN053b3FYWndiVWtLNTkyZjUxbm9BOVo2b0U3MUN2YW1wTTd5WnBlSVNmdVJzOHFWVlpsSm1qbWkzZWVqbnBlcWF0eXBOX0ZoaVdfLXhEdEp2QUlieFFTRHB5bHV4NC16d2lZeDQ0Yl9QcXhXbkFkMlppdEV5Y25NOGQ0R051MGhldElwcTRDOEpOUEhiaVBXYThUZ1U?oc=5",
+"published": "2026-10-26T11:28+04:00",
+"category": "Developer news",
+"impact": "Low",
+"impact_reason": "Single project construction update.",
+"watch": false,
+"topic": "nakheel"
 }
 ]

@@ -172,6 +172,69 @@
    "category": "Regulation & fees",
    "impact": "Medium",
    "impact_reason": "Strengthens investor confidence through legal protection precedents."
+  },
+  "201200b71dda": {
+   "relevant": true,
+   "headline": "Sharjah introduces three new bus routes linking to Etihad Rail",
+   "summary": "Sharjah has rolled out three fresh transit routes connecting important districts to the upcoming Etihad Rail station. This expansion aims to improve commuter connectivity across the emirate.",
+   "why": "Better transit links improve regional accessibility and boost surrounding property appeal.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Enhances regional connectivity and boosts local property appeal."
+  },
+  "bf8031ddb32d": {
+   "relevant": false,
+   "headline": "Asian markets dip amid AI spending and rate decision worries",
+   "summary": "Asian stock markets declined as anxiety over artificial intelligence investments weighed on semiconductor shares ahead of upcoming central bank decisions.",
+   "why": "Global equities do not directly impact local real estate fundamentals.",
+   "category": "Rates & mortgages",
+   "impact": "Medium",
+   "impact_reason": "Irrelevant global stock market movement."
+  },
+  "f367873e1f7d": {
+   "relevant": false,
+   "headline": "Dubai Run and new Etihad Rail stations highlighted for November",
+   "summary": "Residents can anticipate cooler weather, outdoor attractions, upcoming events, and new rail stations as autumn begins in the UAE.",
+   "why": "General lifestyle and events content lacks direct real estate market news.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "General lifestyle news without property focus."
+  },
+  "565ede04f078": {
+   "relevant": true,
+   "headline": "Abu Dhabi anticipates a new property launch every three days",
+   "summary": "Around 30 residential projects valued up to Dh45 billion are slated to launch in Abu Dhabi over a 90-day period. Strong buyer demand for off-plan and resale homes continues to drive this development pace.",
+   "why": "High volume of new launches indicates robust market activity and expanding supply.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Substantial new supply entering the local market."
+  },
+  "02043d540669": {
+   "relevant": false,
+   "headline": "Dubai opens winter camping season with expanded caravan plots",
+   "summary": "Dubai Municipality has launched registration for the upcoming winter camping season at Al Ruwayyah, expanding capacity significantly to accommodate more sites.",
+   "why": "Seasonal camping rules are unrelated to real estate investment or housing supply.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Seasonal recreational activity is irrelevant to property."
+  },
+  "0264017add08": {
+   "relevant": true,
+   "headline": "Nakheel awards $259 million contract for Bay Grove Residences",
+   "summary": "Developer Nakheel has finalized a major construction contract worth $259 million for its Bay Grove Residences project.",
+   "why": "Major construction contracts signal progress on prominent residential developments.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Single project construction update."
+  },
+  "f952c17f4f81": {
+   "relevant": false,
+   "headline": "Dubai agency Strada expands operations into the UK market",
+   "summary": "Dubai-based real estate firm Strada has established a new business operation targeting the United Kingdom property sector.",
+   "why": "Expansion of a local agency overseas does not affect the domestic real estate market.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Outbound agency expansion is not local market news."
   }
  }
 }

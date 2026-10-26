@@ -2,7 +2,7 @@
  "top": [
   {
    "id": "a624d2f81c6c",
-   "title": "HSBC not worried about Gulf property sector exposure despite war volatility, CEO says",
+   "title": "HSBC confident about Gulf property sector exposure despite war volatility",
    "link": "https://www.thenationalnews.com/business/banking/2026/10/26/hsbc-not-worried-about-gulf-property-sector-exposure-despite-war-volatility-ceo-says/",
    "source": "The National",
    "kind": "outlet",
@@ -16,33 +16,52 @@
    "headline": "HSBC remains confident in Gulf real estate despite regional conflicts.",
    "summary": "The British bank's CEO stated there are no major concerns regarding regional property exposure or corporate loan books. Provisions of nearly $400 million have been set aside for potential loan losses.",
    "why": "It shows major banking confidence in regional real estate stability amidst geopolitical tensions.",
-   "age_hours": 3.2,
+   "age_hours": 5.1,
    "topic": "Macro & geopolitics"
   },
   {
-   "id": "cbd39adf7b49",
+   "id": "201200b71dda",
    "title": "Sharjah launches three new bus routes connecting key areas to Etihad Rail station",
-   "link": "https://gulfnews.com/uae/transport/sharjah-launches-three-new-bus-routes-connecting-key-areas-to-etihad-rail-station-1.500723344",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQc1ZIZkNrTktVNmhMcGV4UVlyTW1Dd2xBSDQtOEkxdkEteWVGbnY1ZmRTck5jTGQ4NTMtNEI1Y1pJRE1yTHh6TE03QWdzSlFlNXphOEJ4TnFKYXVxY213YnlwS1drdzhoU1RqNTFjWTNCZXc0d29jQ0tpSXdHNW1FOHhEelRxT1Z4bGlWSTNvSW9tb0hjNHVkWkdwWjF6dmVIWVdzYW9UVzNfQmN6UFdFUkhMZ0h6b294MWg2OE5zbUV3UDljNDNEMlBCNmRISXlUU3FmNGhkMG9Wd9IB2gFBVV95cUxQc1ZIZkNrTktVNmhMcGV4UVlyTW1Dd2xBSDQtOEkxdkEteWVGbnY1ZmRTck5jTGQ4NTMtNEI1Y1pJRE1yTHh6TE03QWdzSlFlNXphOEJ4TnFKYXVxY213YnlwS1drdzhoU1RqNTFjWTNCZXc0d29jQ0tpSXdHNW1FOHhEelRxT1Z4bGlWSTNvSW9tb0hjNHVkWkdwWjF6dmVIWVdzYW9UVzNfQmN6UFdFUkhMZ0h6b294MWg2OE5zbUV3UDljNDNEMlBCNmRISXlUU3FmNGhkMG9Wdw?oc=5",
    "source": "Gulf News",
-   "kind": "outlet",
+   "kind": "search",
    "published": "2026-10-26T07:02+04:00",
-   "tags": [
-    "Transport"
-   ],
-   "teaser": "Dubai: The Sharjah Roads and Transport Authority (SRTA) has announced the launch of three new public bus routes connecting several areas of the emirate to Al Dhaid Etihad Rail Station, as part of efforts to strengthen integration between different modes of public transport. The new services aim to improve connectivity and facilitate passenger access to the railway station, supporting the emirate's",
+   "tags": [],
+   "teaser": "",
    "category": "Infrastructure",
    "impact": "Medium",
-   "impact_reason": "Better transport links enhance regional property accessibility and appeal.",
+   "impact_reason": "Enhances regional connectivity and boosts local property appeal.",
    "watch": true,
-   "also": [
-    "Gulf News",
-    "Gulf News"
-   ],
-   "headline": "Sharjah introduces three bus routes linking to Etihad Rail.",
-   "summary": "The Sharjah Roads and Transport Authority launched new services connecting various residential areas to the Al Dhaid Etihad Rail Station. This initiative enhances integration across different public transit networks.",
-   "why": "Improved regional connectivity positively influences property demand and accessibility in connected areas.",
-   "age_hours": 3.2,
+   "headline": "Sharjah introduces three new bus routes linking to Etihad Rail",
+   "summary": "Sharjah has rolled out three fresh transit routes connecting important districts to the upcoming Etihad Rail station. This expansion aims to improve commuter connectivity across the emirate.",
+   "why": "Better transit links improve regional accessibility and boost surrounding property appeal.",
+   "age_hours": 5.1,
    "topic": "sharjah"
+  },
+  {
+   "id": "565ede04f078",
+   "title": "Abu Dhabi to see new property project launch every 3 days as demand stays strong",
+   "link": "https://www.khaleejtimes.com/business/abu-dhabi-to-see-new-property-project-launch-every-3-days-as-demand-stays-strong",
+   "source": "Khaleej Times",
+   "kind": "outlet",
+   "published": "2026-10-26T10:39+04:00",
+   "tags": [
+    "Business",
+    "Property"
+   ],
+   "teaser": "Abu Dhabi is expected to see a new residential property project launch every three days over a 90-day period, with around 30 developments worth up to Dh45 billion preparing to enter the market, as demand for off-plan homes and resale properties remains strong. According to Metropolitan Capital Real Estate, the upcoming launches could bring between Dh33 billion and Dh45 billion worth of new residen",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Substantial new supply entering the local market.",
+   "watch": false,
+   "also": [
+    "Khaleej Times"
+   ],
+   "headline": "Abu Dhabi anticipates a new property launch every three days",
+   "summary": "Around 30 residential projects valued up to Dh45 billion are slated to launch in Abu Dhabi over a 90-day period. Strong buyer demand for off-plan and resale homes continues to drive this development pace.",
+   "why": "High volume of new launches indicates robust market activity and expanding supply.",
+   "age_hours": 1.5,
+   "topic": "abu dhabi"
   },
   {
    "id": "12b5bf68d9a5",
@@ -50,7 +69,7 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQzVPMlUxaVlrLU8zcEF0VFdHV3FWd0RFd3lZUnFoM2tOaHMwazNwU05ZanU2Z0RuS0NFZ3JBdXl0TVIzNENESUgwWlV1WEVXMXhCcERCNTY4Nmx5M1JfRnpDZEhuRzB2YmpwTUN2NERxc3lvb1E5SXZpeWdvU2daRzQ0cFVPNkQ1TVhJejVJRmM1MXA3MEhXcThkUFhQVHZCTVBuQUxLNkg4Z2JTMzlvTkd2ejZ0S2pNaW1zWHpFbG5kVHVL?oc=5",
    "source": "Arabian Business",
    "kind": "search",
-   "published": "2026-10-25T22:31+04:00",
+   "published": "2026-10-26T10:05+04:00",
    "tags": [],
    "teaser": "",
    "category": "Infrastructure",
@@ -60,7 +79,7 @@
    "headline": "Timeline released for Dubai's Al Maktoum International Airport expansion.",
    "summary": "Key milestones and timelines have been outlined for the massive Dubai aviation project.",
    "why": "Mega aviation projects heavily influence long-term surrounding real estate demand and master planning.",
-   "age_hours": 11.7,
+   "age_hours": 2.1,
    "topic": "airport"
   },
   {
@@ -79,27 +98,8 @@
    "headline": "Etihad Rail expansion progresses with Fujairah route review.",
    "summary": "Planning for the Etihad Rail extension into Fujairah moves forward as officials review finalized route details.",
    "why": "National rail network expansion impacts regional connectivity and long-term property valuations.",
-   "age_hours": 12.7,
+   "age_hours": 14.7,
    "topic": "etihad rail"
-  },
-  {
-   "id": "184eee8aa6b3",
-   "title": "Dubai RTA to open final bridge of World Trade Centre Roundabout on Friday",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ2loZ3hNaUJUM3VGZVNwSjB1X0N0QVVPeHZJc2xQUU5PNEhEZTV2Z0k4WHI5VlNaRERKYnFORWxnTkkybUNramY1aE1neHpRa1NCNjJPNUZaM0hkT2ZDeWtqVHRXWHBRMG1zRXFNdXVRZE1JN2Z6cmxtek4zVUZZTzhUdVJzQV9fQW1NU2xqY2Y3bDRMSEpVSUVYcklpUkFnWkVHRGdrQXItMjVQQmhhUlhwMGdPSkNGX2tnbngza9IBvwFBVV95cUxPQ2loZ3hNaUJUM3VGZVNwSjB1X0N0QVVPeHZJc2xQUU5PNEhEZTV2Z0k4WHI5VlNaRERKYnFORWxnTkkybUNramY1aE1neHpRa1NCNjJPNUZaM0hkT2ZDeWtqVHRXWHBRMG1zRXFNdXVRZE1JN2Z6cmxtek4zVUZZTzhUdVJzQV9fQW1NU2xqY2Y3bDRMSEpVSUVYcklpUkFnWkVHRGdrQXItMjVQQmhhUlhwMGdPSkNGX2tnbngzaw?oc=5",
-   "source": "Gulf News",
-   "kind": "search",
-   "published": "2026-10-25T11:05+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Local road upgrades improve accessibility around key Dubai districts.",
-   "watch": false,
-   "headline": "Dubai RTA to open final World Trade Centre bridge.",
-   "summary": "The Roads and Transport Authority will open the last remaining bridge at the World Trade Centre Roundabout.",
-   "why": "Local road infrastructure improvements ease traffic congestion and benefit nearby commercial and residential hubs.",
-   "age_hours": 23.1,
-   "topic": "Infrastructure"
   },
   {
    "id": "5825c1fcd873",
@@ -117,7 +117,7 @@
    "headline": "Experts Launch New Dubai Real Estate Venture",
    "summary": "Industry leaders have joined forces to establish a fresh real estate business operating within Dubai. Details on the venture's specific focus remain scarce.",
    "why": "It signals new commercial activity and potential competition in the local market.",
-   "age_hours": 2.2,
+   "age_hours": 4.2,
    "topic": "Developer news"
   },
   {
@@ -136,7 +136,7 @@
    "headline": "Dubai Court Mandates Developer Refund to Buyer",
    "summary": "A local court ordered a property developer to return Dhs1.8 million to a purchaser following a cancelled deal. This ruling reinforces legal protections for property investors.",
    "why": "It highlights judicial enforcement of buyer rights in property disputes.",
-   "age_hours": 9.4,
+   "age_hours": 11.4,
    "topic": "Regulation & fees"
   },
   {
@@ -157,7 +157,7 @@
    "headline": "Global oil prices slip while UAE Murban crude climbs.",
    "summary": "Most international crude benchmarks dropped following market attacks, but the UAE's Murban crude increased by 3 percent to reach $118 a barrel.",
    "why": "Local crude price strength directly supports broader UAE economic liquidity and investor sentiment.",
-   "age_hours": 2.5,
+   "age_hours": 4.5,
    "topic": "oil"
   },
   {
@@ -180,15 +180,34 @@
    "headline": "Dubai and Ras Al Khaimah Property Markets Diverge",
    "summary": "Property sector growth patterns are separating across Dubai and Ras Al Khaimah as the local market matures. This evolution highlights shifting regional investment dynamics.",
    "why": "It provides valuable market intelligence on regional property performance differences.",
-   "age_hours": 17.6,
+   "age_hours": 19.5,
    "topic": "Supply & market reports"
+  },
+  {
+   "id": "0264017add08",
+   "title": "UAE Business: Nakheel awards $259m contract for Bay Grove Residences",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN053b3FYWndiVWtLNTkyZjUxbm9BOVo2b0U3MUN2YW1wTTd5WnBlSVNmdVJzOHFWVlpsSm1qbWkzZWVqbnBlcWF0eXBOX0ZoaVdfLXhEdEp2QUlieFFTRHB5bHV4NC16d2lZeDQ0Yl9QcXhXbkFkMlppdEV5Y25NOGQ0R051MGhldElwcTRDOEpOUEhiaVBXYThUZ1U?oc=5",
+   "source": "Gulf Daily News (Bahrain)",
+   "kind": "search",
+   "published": "2026-10-26T11:28+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Single project construction update.",
+   "watch": false,
+   "headline": "Nakheel awards $259 million contract for Bay Grove Residences",
+   "summary": "Developer Nakheel has finalized a major construction contract worth $259 million for its Bay Grove Residences project.",
+   "why": "Major construction contracts signal progress on prominent residential developments.",
+   "age_hours": 0.7,
+   "topic": "nakheel"
   }
  ],
  "window_hours": 24,
  "count_relevant": 10,
- "count_fetched": 352,
+ "count_fetched": 378,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-26T10:11+04:00",
- "saved_at": "2026-10-26T10:11+04:00"
+ "as_of": "2026-10-26T12:08+04:00",
+ "saved_at": "2026-10-26T12:08+04:00"
 }
