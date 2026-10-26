@@ -1,105 +1,4 @@
 {
- "2026-10-24": {
-  "a4fb0880ea3b": {
-   "relevant": true,
-   "headline": "Dubai property market becomes selective with buyer focus on value",
-   "summary": "Exclusive Links reports that the local real estate sector is shifting towards a more selective phase. Purchasers are increasingly prioritizing value over broad speculation.",
-   "why": "It reflects changing buyer sentiment and market dynamics.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Shifts buyer sentiment and focus toward value."
-  },
-  "a04be0fa017c": {
-   "relevant": true,
-   "headline": "Residential status crucial for Indians returning from abroad",
-   "summary": "Residency classifications impact financial and tax obligations for individuals moving back to India. Understanding these rules is essential for managing cross-border assets.",
-   "why": "It affects NRI money rules and compliance.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Relates to personal tax status rather than direct property."
-  },
-  "3e8445362069": {
-   "relevant": false,
-   "headline": "Lottery winner discusses post-win life",
-   "summary": "",
-   "why": "It is a lifestyle human interest story.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Human interest story with no market impact."
-  },
-  "9b7a30141958": {
-   "relevant": true,
-   "headline": "Advice on selling off-plan Dubai apartments during uncertain times",
-   "summary": "An investor questions whether to exit an off-plan Emaar purchase at Expo City early. Experts evaluate holding versus selling after paying initial installments.",
-   "why": "It addresses investor strategy regarding off-plan exits.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Individual advisory piece with limited broad market effect."
-  },
-  "7b6abfca9d44": {
-   "relevant": false,
-   "headline": "UAE property operators adopt AI support",
-   "summary": "",
-   "why": "It lacks specific market or regulatory news.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "General technology news with minor operational relevance."
-  },
-  "5fce158e8527": {
-   "relevant": false,
-   "headline": "Sobha Realty buyer guide published",
-   "summary": "",
-   "why": "It is a promotional buyer guide.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Promotional content offering no new market insights."
-  },
-  "184f70e5762b": {
-   "relevant": false,
-   "headline": "Suryakumar Yadav buys Dubai home",
-   "summary": "",
-   "why": "It is a celebrity lifestyle purchase.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Celebrity real estate transaction with no broader impact."
-  },
-  "d5501d8f4a9f": {
-   "relevant": true,
-   "headline": "Twelve residential plots listed in Dubai for 963 million dirhams",
-   "summary": "A new batch of residential land has been put up for sale in Dubai. The total valuation for these twelve plots reaches nearly one billion dirhams.",
-   "why": "It highlights major land supply entering the market.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Significant land supply offering future development potential."
-  },
-  "e9a2d54cd3e1": {
-   "relevant": true,
-   "headline": "Dubai 2026 tenant move-out and deposit guide",
-   "summary": "Essential checklist covers legal duties, deposit refunds, and landlord charges for departing tenants. It outlines rules for property handovers in Dubai.",
-   "why": "It explains tenant obligations and deposit laws, which directly affect renters and landlords.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Outlines standard tenant and landlord move-out obligations."
-  },
-  "2e443c290df8": {
-   "relevant": true,
-   "headline": "Dubai completes 104 projects worth $29.3 billion in H1 2026",
-   "summary": "The sector saw major handovers totaling billions of dollars during the first half of the year. This reflects strong construction delivery across the emirate.",
-   "why": "It shows significant completed supply entering the market, impacting inventory levels.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Highlights major completed supply entering the market."
-  },
-  "6618145b49d6": {
-   "relevant": false,
-   "headline": "Abu Dhabi warns farm tenants of rule violations",
-   "summary": "Abu Dhabi's DMT issued strict compliance requirements for agricultural farm rentals. Violators risk facing financial penalties or immediate property repossession.",
-   "why": "Agricultural farm regulations do not directly impact general residential or commercial real estate markets.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Relates only to agricultural lease compliance."
-  }
- },
  "2026-10-25": {
   "65f07dc29508": {
    "relevant": false,
@@ -172,6 +71,107 @@
    "category": "Regulation & fees",
    "impact": "Low",
    "impact_reason": "Limited relevance to Dubai real estate market dynamics."
+  }
+ },
+ "2026-10-26": {
+  "a624d2f81c6c": {
+   "relevant": true,
+   "headline": "HSBC remains confident in Gulf real estate despite regional conflicts.",
+   "summary": "The British bank's CEO stated there are no major concerns regarding regional property exposure or corporate loan books. Provisions of nearly $400 million have been set aside for potential loan losses.",
+   "why": "It shows major banking confidence in regional real estate stability amidst geopolitical tensions.",
+   "category": "Macro & geopolitics",
+   "impact": "High",
+   "impact_reason": "Signals strong banking sector confidence during regional market volatility."
+  },
+  "cbd39adf7b49": {
+   "relevant": true,
+   "headline": "Sharjah introduces three bus routes linking to Etihad Rail.",
+   "summary": "The Sharjah Roads and Transport Authority launched new services connecting various residential areas to the Al Dhaid Etihad Rail Station. This initiative enhances integration across different public transit networks.",
+   "why": "Improved regional connectivity positively influences property demand and accessibility in connected areas.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Better transport links enhance regional property accessibility and appeal."
+  },
+  "1f47632b03cf": {
+   "relevant": false,
+   "headline": "Milano by Danube reports 250% surge in global sales.",
+   "summary": "The building materials brand achieved significant international growth driven by global expansion and direct shipping from China. They are now targeting $25 million in quarterly sales.",
+   "why": "This is corporate manufacturing news rather than direct real estate property market intelligence.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Reflects supplier growth rather than direct property market changes."
+  },
+  "12b5bf68d9a5": {
+   "relevant": true,
+   "headline": "Timeline released for Dubai's Al Maktoum International Airport expansion.",
+   "summary": "Key milestones and timelines have been outlined for the massive Dubai aviation project.",
+   "why": "Mega aviation projects heavily influence long-term surrounding real estate demand and master planning.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Major airport developments drive long-term surrounding real estate value."
+  },
+  "eb1cb5e13239": {
+   "relevant": true,
+   "headline": "Etihad Rail expansion progresses with Fujairah route review.",
+   "summary": "Planning for the Etihad Rail extension into Fujairah moves forward as officials review finalized route details.",
+   "why": "National rail network expansion impacts regional connectivity and long-term property valuations.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Transport expansion boosts regional connectivity and potential property demand."
+  },
+  "184eee8aa6b3": {
+   "relevant": true,
+   "headline": "Dubai RTA to open final World Trade Centre bridge.",
+   "summary": "The Roads and Transport Authority will open the last remaining bridge at the World Trade Centre Roundabout.",
+   "why": "Local road infrastructure improvements ease traffic congestion and benefit nearby commercial and residential hubs.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Local road upgrades improve accessibility around key Dubai districts."
+  },
+  "0bf1ed1bca47": {
+   "relevant": true,
+   "headline": "Global oil prices slip while UAE Murban crude climbs.",
+   "summary": "Most international crude benchmarks dropped following market attacks, but the UAE's Murban crude increased by 3 percent to reach $118 a barrel.",
+   "why": "Local crude price strength directly supports broader UAE economic liquidity and investor sentiment.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Fluctuations in oil prices indirectly shape broader economic sentiment."
+  },
+  "7edf93ca3b0e": {
+   "relevant": false,
+   "headline": "AI transforms access to project information for Dubai brokers.",
+   "summary": "Artificial intelligence is changing how real estate agents in Dubai access and utilize project data.",
+   "why": "This is a general technology workflow piece rather than hard economic or property news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Discusses broker technology rather than direct market fundamentals."
+  },
+  "c392904584ef": {
+   "relevant": true,
+   "headline": "Dubai and Ras Al Khaimah Property Markets Diverge",
+   "summary": "Property sector growth patterns are separating across Dubai and Ras Al Khaimah as the local market matures. This evolution highlights shifting regional investment dynamics.",
+   "why": "It provides valuable market intelligence on regional property performance differences.",
+   "category": "Supply & market reports",
+   "impact": "Low",
+   "impact_reason": "General market observation with no immediate direct action required."
+  },
+  "5825c1fcd873": {
+   "relevant": true,
+   "headline": "Experts Launch New Dubai Real Estate Venture",
+   "summary": "Industry leaders have joined forces to establish a fresh real estate business operating within Dubai. Details on the venture's specific focus remain scarce.",
+   "why": "It signals new commercial activity and potential competition in the local market.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "New market entrant could influence competitive dynamics."
+  },
+  "5a8244e3ddce": {
+   "relevant": true,
+   "headline": "Dubai Court Mandates Developer Refund to Buyer",
+   "summary": "A local court ordered a property developer to return Dhs1.8 million to a purchaser following a cancelled deal. This ruling reinforces legal protections for property investors.",
+   "why": "It highlights judicial enforcement of buyer rights in property disputes.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Strengthens investor confidence through legal protection precedents."
   }
  }
 }
