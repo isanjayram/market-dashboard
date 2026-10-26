@@ -271,6 +271,24 @@
    "category": "Infrastructure",
    "impact": "Medium",
    "impact_reason": "Temporary traffic disruptions affect daily commutes and accessibility."
+  },
+  "8bceb5253c0d": {
+   "relevant": true,
+   "headline": "Dubai South housing surge presents opportunities and supply challenges",
+   "summary": "Rapid development in Dubai South attracts Indian investors. However, an upcoming influx of units creates potential market saturation risks.",
+   "why": "This report highlights emerging investment prospects and inventory trends in a key Dubai district.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Highlights growing buyer opportunities and potential future supply pressures."
+  },
+  "6fe800c37ade": {
+   "relevant": true,
+   "headline": "Nakheel awards major construction contract for Bay Grove Residences",
+   "summary": "Nakheel has finalized a significant deal worth $259 million for its new residential project. This highlights ongoing activity within the emirate's premier development sector.",
+   "why": "Major construction contracts signal active progress on upcoming residential project deliveries.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Indicates steady development progress without altering broader market dynamics."
   }
  }
 }

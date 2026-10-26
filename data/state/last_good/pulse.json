@@ -60,28 +60,28 @@
     "value": 369972159.0
    },
    {
-    "area": "Downtown Jebel Ali",
-    "dld_area": "Jabal Ali Industrial Second",
-    "deals": 123,
-    "value": 158486291.0
-   },
-   {
     "area": "DAMAC Lagoons",
     "dld_area": "Al Hebiah Fifth",
     "deals": 123,
     "value": 217031574.0
    },
    {
-    "area": "Dubai Land Residence",
-    "dld_area": "Wadi Al Safa 5",
-    "deals": 120,
-    "value": 189469297.0
+    "area": "Downtown Jebel Ali",
+    "dld_area": "Jabal Ali Industrial Second",
+    "deals": 123,
+    "value": 158486291.0
    },
    {
     "area": "Jabal Ali First",
     "dld_area": "Jabal Ali First",
     "deals": 120,
     "value": 264878204.0
+   },
+   {
+    "area": "Dubai Land Residence",
+    "dld_area": "Wadi Al Safa 5",
+    "deals": 120,
+    "value": 189469297.0
    },
    {
     "area": "Business Bay",
@@ -1590,5 +1590,5 @@
   "fetched_at": "2026-10-22T12:15+04:00",
   "test": false
  },
- "saved_at": "2026-10-26T14:13+04:00"
+ "saved_at": "2026-10-26T14:34+04:00"
 }
