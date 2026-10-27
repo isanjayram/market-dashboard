@@ -474,3 +474,4 @@ table.kpi td.hit { color: var(--green); font-weight: 700; }
   .topbar { background: var(--bg); -webkit-backdrop-filter: none; backdrop-filter: none; }
   .sheet-wrap { background: rgba(0, 0, 0, .45); -webkit-backdrop-filter: none; backdrop-filter: none; }
 }
+.modebar { position: sticky; top: 0; z-index: 80; background: var(--amber); color: #111; font: 600 28px/1.35 var(--font); padding: 18px 24px; text-align: center; }
