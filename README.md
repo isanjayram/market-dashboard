@@ -146,6 +146,8 @@ Your sales system as an app: the CRM tab in the bottom bar, behind the same pass
 
 **Setup (once):** the Cloudflare API token needs **Account → D1 → Edit** on top of its Pages and Workers permissions (SETUP-KIT step 6). The deploy step then creates the database, applies `migrations/crm/*.sql`, and binds it as `CRM`. Without that permission the brief still publishes, and the CRM tab says the database isn't connected.
 
+**Commission:** agency commission is set per developer (5–8%) under Settings → Commission by developer, and per project in the Launch Filter. A new deal takes the project's rate, then the developer's, then the fallback rate. Lyka's 50% split is one setting. You can override any single deal.
+
 **Backup:** Settings → Full backup (JSON), or a CSV per table. D1 on the free plan also keeps 7 days of point-in-time restore. Lead data stays out of git on purpose.
 
 **Schema changes:** add `migrations/crm/000N_name.sql`. The next deploy applies it.
