@@ -554,3 +554,9 @@ table.kpi td.hit { color: var(--green); font-weight: 700; }
   .crm #app, .crm .sheet-b, .crm .chips, .crm .seg { scrollbar-width: none; }
   .crm #app::-webkit-scrollbar, .crm .sheet-b::-webkit-scrollbar, .crm .chips::-webkit-scrollbar, .crm .seg::-webkit-scrollbar { display: none; width: 0; height: 0; }
 }
+/* iPhone draws its own scroll indicator and ignores the rules above, so the scroller runs 14px past
+   the right edge (padding keeps the content in place) and the frame clips the indicator off-screen. */
+@media (max-width: 1023px) {
+  body.crm #app { right: -14px; padding-right: 14px; }
+}
+::-webkit-scrollbar { display: none; -webkit-appearance: none; width: 0; height: 0; background: transparent; }
