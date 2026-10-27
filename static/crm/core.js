@@ -615,6 +615,11 @@
   }
   C.softRender = softRender;
 
+  // The phone's status bar and browser chrome take the page colour (dark or light), so the edges blend in.
+  C.paintChrome = () => {
+    const bg = getComputedStyle(document.documentElement).getPropertyValue("--bg").trim() || "#0b0b0c";
+    document.querySelectorAll('meta[name="theme-color"]').forEach((m) => m.setAttribute("content", bg));
+  };
   C.start = () => {
     addEventListener("hashchange", () => { C._navCount++; render(); });
     document.getElementById("fab")?.addEventListener("click", () => C.leadSheet());
@@ -640,6 +645,7 @@
     matchMedia("(min-width: 1024px)").addEventListener("change", () => render());
     if ("serviceWorker" in navigator && location.protocol === "https:") navigator.serviceWorker.register("/sw.js").catch(() => {});
     paintSync();
+    C.paintChrome();
     // No pinch-zoom: a home-screen app on iPhone can stay zoomed out and never bounce back.
     // (Safari's own gesture events; the viewport tag and touch-action cover the rest.)
     for (const ev of ["gesturestart", "gesturechange", "gestureend"]) document.addEventListener(ev, (e) => e.preventDefault(), { passive: false });
