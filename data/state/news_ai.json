@@ -496,6 +496,114 @@
    "category": "Developer news",
    "impact": "Low",
    "impact_reason": "Marketing sponsorship lacks direct market impact."
+  },
+  "2505b3f01607": {
+   "relevant": true,
+   "headline": "Golden Visa holders can obtain emergency return permits quickly",
+   "summary": "UAE Golden Visa holders who lose their passports overseas can secure a return permit in just thirty minutes. This fast-track service ensures resident mobility is maintained.",
+   "why": "It affects residency documentation rules for Golden Visa holders.",
+   "category": "Regulation & fees",
+   "impact": "High",
+   "impact_reason": "Directly impacts resident travel eligibility and documentation processes."
+  },
+  "93603580c4ad": {
+   "relevant": true,
+   "headline": "Regional conflict worries push UAE stock markets downward",
+   "summary": "Local stock markets declined as concerns over regional tensions impacted banking and real estate equities. Investor sentiment cooled due to geopolitical uncertainties.",
+   "why": "Market sentiment and property sector stocks are directly affected by geopolitical fears.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Influences broader investor sentiment and real estate share prices."
+  },
+  "aec5b615b4a0": {
+   "relevant": true,
+   "headline": "New urban development policy aims to raise property values",
+   "summary": "Dubai approved a strategy to transform 48 urban centres by 2040. The initiative aims to elevate local real estate values by Dh20 billion.",
+   "why": "Infrastructure planning directly impacts future property values across targeted zones.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Boosts long-term property values and urban development."
+  },
+  "9c3ac00063db": {
+   "relevant": true,
+   "headline": "Dubai greenlights Dh2bn plan to lift property values",
+   "summary": "Dubai approved a Dh2 billion urban plan to develop integrated communities. Officials expect this initiative to increase property values across the emirate by Dh20 billion.",
+   "why": "Major urban investments shape community infrastructure and real estate appreciation.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Enhances neighborhood appeal and long-term asset values."
+  },
+  "d834b4e862a3": {
+   "relevant": true,
+   "headline": "AHS Properties to redevelop Shangri-La Dubai site",
+   "summary": "AHS Properties plans to convert the Shangri-La Dubai location into the new AHS Twin Towers. This project marks another high-end addition to the developer's portfolio.",
+   "why": "Developer project announcements affect luxury supply pipelines.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Represents a single new luxury development project."
+  },
+  "f85beabddac3": {
+   "relevant": true,
+   "headline": "New Grade A business park announced for Dubai Studio City",
+   "summary": "Vista Real Estate and Engineering Construction Company joined forces to build a major business park in Dubai Studio City. The project will deliver premium commercial space to the area.",
+   "why": "Commercial real estate supply is expanding with this partnership.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Adds commercial space to a specific business district."
+  },
+  "7b018d99ae96": {
+   "relevant": false,
+   "headline": "Dubai forum to explore future UAE wealth trends",
+   "summary": "An upcoming Dubai forum will examine where UAE wealth will be directed by 2027.",
+   "why": "It is a business event and conference teaser without direct property news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "General discussion event with no direct market impact."
+  },
+  "c030b7830633": {
+   "relevant": true,
+   "headline": "New residential project launched in Dubai Production City",
+   "summary": "A fresh Dh185 million residential development has been introduced, offering views of the golf course in Dubai Production City.",
+   "why": "New residential supply directly impacts the local property market.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Introduces a new residential project to the market."
+  },
+  "a20af6ad3ca1": {
+   "relevant": true,
+   "headline": "Nakheel issues major construction contract for Dubai Islands project",
+   "summary": "Nakheel has signed a significant construction agreement valued at $258 million. The deal focuses on the Bay Grove development located within Dubai Islands.",
+   "why": "This signals progress in prominent master-planned communities that affect local inventory.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Advances major island residential construction timelines."
+  },
+  "c60c1b98f48b": {
+   "relevant": false,
+   "headline": "Global Edge plans UAE Property Grand Expo in Hyderabad",
+   "summary": "An upcoming property exhibition highlighting UAE real estate is scheduled to take place in Hyderabad.",
+   "why": "Exhibition announcements function primarily as promotional events rather than core market news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Promotional event with no direct market impact."
+  },
+  "68c38de01012": {
+   "relevant": true,
+   "headline": "Zimaya Properties rolls out Lawncrest residential project",
+   "summary": "Zimaya Properties has introduced its fifth venture, named Lawncrest, carrying a price tag of Dh185 million. The new development expands residential options available in Dubai.",
+   "why": "New project launches directly contribute to the expanding local real estate supply.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Expands available inventory in the property sector."
+  },
+  "4c9e6b8a4d4e": {
+   "relevant": true,
+   "headline": "Zimaya introduces new residential tower in Dubai Production City",
+   "summary": "Zimaya has officially revealed a 183-unit apartment building situated in Dubai Production City. This addition brings more housing units to the local market.",
+   "why": "Increases housing availability within a specific district of the emirate.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Adds fresh housing units to local supply."
   }
  }
 }
