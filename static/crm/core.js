@@ -281,12 +281,20 @@
     const b = e.target.closest(".sheet-f .btn, .savebar .btn");
     if (b && !b.disabled) { b.classList.add("working"); setTimeout(() => b.classList.remove("working"), 1500); }
   }, true);
+  // Each open sheet adds a history entry, so a back swipe (or Android back) closes the sheet
+  // instead of leaving the page.
   C.sheet = (title, body, footer, opts = {}) => {
-    const close = () => {
+    let closed = false;
+    const tag = Math.random().toString(36).slice(2);
+    const close = (fromHistory = false) => {
+      if (closed) return; closed = true;
       wrap.classList.add("closing");
       setTimeout(() => wrap.remove(), 160);
       const i = sheetStack.indexOf(close); if (i >= 0) sheetStack.splice(i, 1);
       if (!sheetStack.length) { document.body.classList.remove("sheet-open"); if (pendingRender) softRender(); }
+      // Closed by a button: drop the sheet's history entry, unless the code navigated somewhere right after.
+      // (Only this sheet's own entry: if the next sheet already opened, leave it alone.)
+      if (fromHistory !== true) setTimeout(() => { if (history.state?.crmSheet === tag) history.back(); }, 0);
     };
     const wrap = h("div", { class: `sheet-wrap${opts.wide ? " wide" : ""}`, onclick: (e) => { if (e.target === wrap) close(); } },
       h("div", { class: "sheet", role: "dialog", "aria-modal": "true", "aria-label": title },
@@ -297,12 +305,61 @@
     document.body.append(wrap);
     document.body.classList.add("sheet-open");
     sheetStack.push(close);
+    history.pushState({ crmSheet: tag }, "");
+    dragToClose(wrap.querySelector(".sheet"), close);
     if (!opts.noFocus && matchMedia("(min-width: 1024px)").matches) {
       setTimeout(() => { if (!wrap.contains(document.activeElement)) wrap.querySelector("input:not([type=hidden]):not([type=checkbox]):not([type=date]):not([type=time]), textarea")?.focus({ preventScroll: true }); }, 60);
     }
     return close;
   };
   addEventListener("keydown", (e) => { if (e.key === "Escape" && sheetStack.length) sheetStack[sheetStack.length - 1](); });
+  addEventListener("popstate", (e) => {
+    if (sheetStack.length) { sheetStack[sheetStack.length - 1](true); return; }
+    if (e.state?.crmSheet) history.back(); // a leftover sheet entry: skip straight past it
+  });
+  // Drag a sheet down to dismiss it: by its top, or anywhere once its content is scrolled to the top.
+  function dragToClose(sheetEl, close) {
+    const body = sheetEl.querySelector(".sheet-b");
+    let y0 = null, dy = 0, fromBody = false, active = false;
+    sheetEl.addEventListener("touchstart", (e) => {
+      const inHead = !body.contains(e.target);
+      fromBody = !inHead;
+      if (fromBody && body.scrollTop > 0) { y0 = null; return; }
+      if (e.target.closest("input, textarea, select")) { y0 = null; return; }
+      y0 = e.touches[0].clientY; dy = 0; active = false;
+    }, { passive: true });
+    sheetEl.addEventListener("touchmove", (e) => {
+      if (y0 === null) return;
+      dy = e.touches[0].clientY - y0;
+      if (!active && dy > 8) active = true;
+      if (!active) return;
+      if (dy < 0) { dy = 0; }
+      if (fromBody) e.preventDefault(); // stop the content bouncing while the sheet follows the finger
+      sheetEl.style.transition = "none";
+      sheetEl.style.transform = `translateY(${dy}px)`;
+    }, { passive: false });
+    sheetEl.addEventListener("touchend", () => {
+      if (y0 === null) return;
+      sheetEl.style.transition = "transform .2s ease-out";
+      if (active && dy > 110) { sheetEl.style.transform = "translateY(100%)"; close(); }
+      else sheetEl.style.transform = "";
+      y0 = null; active = false;
+    });
+  }
+  // iPhone home-screen apps have no system back swipe: swipe right from the left edge to go back.
+  (() => {
+    let x0 = null, y0 = 0;
+    addEventListener("touchstart", (e) => { const t = e.touches[0]; x0 = t.clientX < 24 && !sheetStack.length ? t.clientX : null; y0 = t.clientY; }, { passive: true });
+    addEventListener("touchend", (e) => {
+      if (x0 === null) return;
+      const t = e.changedTouches[0];
+      if (t.clientX - x0 > 80 && Math.abs(t.clientY - y0) < 60) {
+        const back = document.querySelector(".tb-back:not([hidden])");
+        if (C._navCount > 0) history.back(); else if (back) location.hash = back.getAttribute("href").slice(1);
+      }
+      x0 = null;
+    }, { passive: true });
+  })();
   // A sheet instead of confirm()/prompt(): resolves to true / the text, or null when cancelled.
   C.ask = (title, { text, input, value, ok = "OK", danger = false, placeholder } = {}) => new Promise((resolve) => {
     let done = false;

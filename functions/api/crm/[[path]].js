@@ -339,6 +339,10 @@ async function patchLead(db, id, body, s) {
   }
   delete row.next_action; delete row.next_action_at;
   if (row.status === "lost" || row.status === "dnc") stmts.push(closeAllTasks(db, id));
+  if (row.inbound === 0 && before.inbound) {
+    row.inbound_at = null;
+    stmts.push(db.prepare("DELETE FROM tasks WHERE lead_id = ? AND done_at IS NULL AND title = 'Call within 5 minutes'").bind(id));
+  }
   const changed = Object.keys(row).filter((k) => String(row[k] ?? "") !== String(before[k] ?? ""));
   const lead = await update(db, "leads", id, row);
   if (changed.length) stmts.push(logAct(db, id, "lead", id, row.status && row.status !== before.status ? "stage" : "updated",
