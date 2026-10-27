@@ -515,3 +515,29 @@ table.kpi td.hit { color: var(--green); font-weight: 700; }
 @media (prefers-reduced-transparency: reduce) {
   .crm .tabbar, .topbar, .topbar.scrolled { background: var(--bg); }
 }
+
+/* ---------- phone: full-height frame + floating capsule tab bar (Instagram-style) ----------
+   iPhone home-screen apps report 100dvh one status bar short, which left a dark strip at the bottom.
+   Pinning the frame to the screen edges (inset: 0) reaches the very bottom; the feed runs under a
+   frosted capsule that floats above the home indicator. */
+@media (max-width: 1023px) {
+  body.crm { --cap-h: 62px; --cap-b: max(10px, calc(env(safe-area-inset-bottom) - 4px)); --cap-top: calc(var(--cap-h) + var(--cap-b));
+    position: fixed; inset: 0; height: auto; }
+  body.crm #app { padding-bottom: calc(var(--cap-top) + 28px); }
+  .crm .tabbar { left: 14px; right: 14px; bottom: var(--cap-b); height: var(--cap-h); padding: 0 6px; border-radius: calc(var(--cap-h) / 2);
+    align-items: center; gap: 2px;
+    background: color-mix(in srgb, var(--surface) 62%, transparent);
+    -webkit-backdrop-filter: saturate(180%) blur(22px); backdrop-filter: saturate(180%) blur(22px);
+    border: 0; box-shadow: 0 10px 30px rgba(0, 0, 0, .35), inset 0 0 0 .5px rgba(255, 255, 255, .14); }
+  :root[data-theme="light"] .crm .tabbar { background: color-mix(in srgb, #ffffff 70%, transparent); box-shadow: 0 8px 26px rgba(0, 0, 0, .14), inset 0 0 0 .5px rgba(0, 0, 0, .08); }
+  .crm .tabbar::before { content: none; display: none; }
+  .crm .tabbar a { height: calc(var(--cap-h) - 12px); border-radius: calc((var(--cap-h) - 12px) / 2); padding: 0; gap: 2px; font-size: 10px; color: var(--text-2); transition: background .15s, color .15s; }
+  .crm .tabbar a svg { width: 23px; height: 23px; }
+  .crm .tabbar a[aria-current="page"] { background: color-mix(in srgb, var(--text) 13%, transparent); color: var(--text); }
+  .fab { bottom: calc(var(--cap-top) + 14px); }
+  #toast { bottom: calc(var(--cap-top) + 80px); }
+  .savebar { bottom: calc(var(--cap-top) + 10px); }
+  .bulkbar { left: 14px; right: 14px; bottom: calc(var(--cap-top) + 8px); border-radius: 18px; border: 0;
+    box-shadow: 0 8px 26px rgba(0, 0, 0, .3), inset 0 0 0 .5px var(--line-2); }
+  @media (prefers-reduced-transparency: reduce) { .crm .tabbar { background: var(--surface); } }
+}
