@@ -204,3 +204,29 @@ table.kpi td.hit { color: var(--up); font-weight: 700; }
 .card .cmp + .cmp { margin-top: 8px; }
 .devrow { display: grid; grid-template-columns: 1fr 72px 16px; gap: 8px; align-items: center; margin-bottom: 8px; font-size: 14px; color: var(--muted); }
 .devrow input[type="text"] { padding: 9px 11px; font-size: 15px; }
+
+/* ---------- speed and smoothness ---------- */
+/* No smooth scrolling between screens (it made pages slide when switching). */
+html:has(body.crm) { scroll-behavior: auto; }
+/* Taps react at once: no double-tap zoom delay, no grey flash, a quick press state. */
+.crm a, .crm button, .crm select, .crm label { touch-action: manipulation; -webkit-tap-highlight-color: transparent; }
+.crm .btn:active, .crm .ab:active, .crm .out:active, .crm .tpl:active, .crm .chips-f button:active, .crm .lrow.link-row:active,
+.crm .lmain:active, .crm .dmain:active, .crm .tabbar a:active, .crm .fab:active { opacity: .6; transition: none; }
+.crm .fab:active { transform: scale(.94); }
+.btn.working { opacity: .55; pointer-events: none; }
+/* Lighter shadows: big blurred shadows on every card made scrolling stutter on iPhone. */
+body.crm { --shadow: 0 0 0 1px var(--glass-edge, rgba(255, 255, 255, .08)); }
+:root[data-theme="light"] body.crm { --shadow: 0 0 0 1px rgba(11, 11, 11, .07), 0 1px 2px rgba(11, 11, 11, .05); }
+.crm main { min-height: 70vh; }
+/* Thin bar at the top while something loads, instead of a frozen screen. */
+#busy { position: fixed; top: 0; left: 0; right: 0; height: 2px; z-index: 40; pointer-events: none; opacity: 0; transition: opacity .2s;
+  background: linear-gradient(90deg, transparent, var(--series), transparent); background-size: 50% 100%; background-repeat: no-repeat; }
+#busy.on { opacity: 1; animation: busy 1s linear infinite; }
+@keyframes busy { from { background-position: -50% 0; } to { background-position: 150% 0; } }
+/* Placeholder shown only when a screen has never been loaded on this device. */
+.skel { padding: max(18px, env(safe-area-inset-top)) 0 0; }
+.sk { background: var(--card); border-radius: 20px; margin: 0 12px 12px; animation: pulse 1.2s ease-in-out infinite; }
+.sk-h { height: 30px; width: 40%; margin: 8px 16px 18px; border-radius: 10px; }
+.sk-card { height: 150px; } .sk-card.short { height: 90px; }
+@keyframes pulse { 50% { opacity: .55; } }
+@media (prefers-reduced-motion: reduce) { #busy.on, .sk { animation: none; } .sheet, .sheet-wrap { animation: none; } }
