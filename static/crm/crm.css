@@ -548,3 +548,9 @@ table.kpi td.hit { color: var(--green); font-weight: 700; }
   html.fullh body.crm { top: 0; bottom: auto; height: max(var(--full-h), 100lvh); min-height: max(var(--full-h), 100lvh); }
   html.fullh body.crm #app { bottom: auto; height: max(var(--full-h), 100lvh); }
 }
+
+/* Phone: no scroll bar on the right, like a native app. */
+@media (max-width: 1023px) {
+  .crm #app, .crm .sheet-b, .crm .chips, .crm .seg { scrollbar-width: none; }
+  .crm #app::-webkit-scrollbar, .crm .sheet-b::-webkit-scrollbar, .crm .chips::-webkit-scrollbar, .crm .seg::-webkit-scrollbar { display: none; width: 0; height: 0; }
+}
