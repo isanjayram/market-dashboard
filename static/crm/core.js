@@ -531,6 +531,12 @@
     matchMedia("(min-width: 1024px)").addEventListener("change", () => render());
     if ("serviceWorker" in navigator && location.protocol === "https:") navigator.serviceWorker.register("/sw.js").catch(() => {});
     paintSync();
+    // iPhone/iPad in "Request Desktop Website" mode lays the page out ~980 px wide and shrinks it to fit
+    // (tiny, centred, tab bar off-screen). Say how to switch back instead of looking broken.
+    if (navigator.maxTouchPoints > 0 && screen.width < 900 && innerWidth > screen.width * 1.4) {
+      document.body.prepend(h("div", { class: "modebar", role: "alert" }, "This page is in desktop mode, so it's shrunk. In Safari tap ",
+        h("b", null, "aA"), " → ", h("b", null, "Request Mobile Website"), "."));
+    }
     render().then(() => {
       flush();
       // Warm the other main screens so switching is instant.
