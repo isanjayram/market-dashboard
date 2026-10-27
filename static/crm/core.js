@@ -495,8 +495,14 @@
         h("div", { class: "ph-t" }, h("h1", null, pg.title), pg.sub ? h("p", { class: "sub" }, pg.sub) : null),
         pg.actions?.length ? h("div", { class: "ph-a" }, pg.actions) : null));
   }
+  // Phone: the page scrolls inside #app (an app frame), not the window. iPhone home-screen apps misplace
+  // anything fixed to the window after the keyboard closes; a frame that never scrolls can't drift.
+  const frame = () => (C.isDesktop() ? null : document.getElementById("app"));
+  const getY = () => { const f = frame(); return f ? f.scrollTop : scrollY; };
+  const setY = (y) => { const f = frame(); if (f) f.scrollTop = y; else scrollTo(0, y); };
+  C.getY = getY; C.setY = setY;
   function mountPage(container, pg, keepScroll, scroller) {
-    const y = keepScroll ? (scroller ? scroller.scrollTop : scrollY) : 0;
+    const y = keepScroll ? (scroller ? scroller.scrollTop : getY()) : 0;
     const node = h("div", { class: `page${pg.wide ? " wide" : ""}${pg.className ? ` ${pg.className}` : ""}` }, header(pg), h("div", { class: "page-b" }, pg.body));
     container.replaceChildren(node);
     // Compact title in the top bar (phone) once the big one scrolls away.
@@ -510,17 +516,18 @@
         const c = a.cloneNode(true); c.addEventListener("click", (e) => { e.preventDefault(); a.click(); }); return c; }));
       onScroll();
     }
-    if (keepScroll) { if (scroller) scroller.scrollTop = y; else scrollTo(0, Math.min(y, document.documentElement.scrollHeight - innerHeight)); }
+    if (keepScroll) { if (scroller) scroller.scrollTop = y; else setY(y); }
     return node;
   }
   function onScroll() {
     const tb = document.getElementById("topbar");
     if (!tb) return;
     const h1 = view().querySelector(".page-h h1");
-    const past = h1 ? h1.getBoundingClientRect().bottom < tb.getBoundingClientRect().bottom + 4 : scrollY > 40;
+    const past = h1 ? h1.getBoundingClientRect().bottom < tb.getBoundingClientRect().bottom + 4 : getY() > 40;
     tb.classList.toggle("scrolled", past);
   }
   addEventListener("scroll", onScroll, { passive: true });
+  document.addEventListener("DOMContentLoaded", () => document.getElementById("app")?.addEventListener("scroll", onScroll, { passive: true }));
 
   C._navCount = 0;
   async function render(keepScroll = false) {
@@ -534,7 +541,7 @@
     const seq = ++renderSeq;
     pendingRender = false;
     const split = r.split && C.isDesktop();
-    if (!keepScroll && !split) scrollTo(0, 0);
+    if (!keepScroll && !split) setY(0);
     const slow = keepScroll ? null : setTimeout(() => { if (seq === renderSeq && !split) view().replaceChildren(skeleton()); }, 140);
     try {
       if (!C.settings) await C.loadSettings();
