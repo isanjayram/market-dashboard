@@ -397,6 +397,42 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "A promotional event aimed at overseas investors."
+  },
+  "ddecc9a1be55": {
+   "relevant": true,
+   "headline": "Dubai office property values triple since 2021",
+   "summary": "Commercial real estate values in Dubai reached record levels in Q3 2026. The office sector continues to outperform the residential market.",
+   "why": "This report highlights strong commercial sector growth and changing asset valuations.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Highlights strong commercial market growth and asset values."
+  },
+  "2a9ff2ed7633": {
+   "relevant": true,
+   "headline": "Aldar reports higher revenue despite slowing UAE sales",
+   "summary": "Aldar's total revenue increased despite a broader slowdown in property sales across the United Arab Emirates.",
+   "why": "It provides insight into major developer financial health amid market shifts.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Reflects major developer performance despite market shifts."
+  },
+  "60393e0b7175": {
+   "relevant": false,
+   "headline": "Nakheel Palm Run returns to Palm Jumeirah in November",
+   "summary": "The community running event offers various race distances along the Palm Jumeirah Crescent.",
+   "why": "This is a sports and community lifestyle event with no real estate news.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Community sporting event unrelated to real estate market."
+  },
+  "3ff73c950622": {
+   "relevant": true,
+   "headline": "Abu Dhabi and Partners Group sign infrastructure agreement",
+   "summary": "A new partnership aims to boost private sector involvement in Abu Dhabi infrastructure and real estate.",
+   "why": "This agreement encourages private investment in regional property and infrastructure.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Involves future private sector investment framework."
   }
  }
 }

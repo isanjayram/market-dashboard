@@ -276,5 +276,47 @@
 "ANI News"
 ],
 "topic": "Macro & geopolitics"
+},
+{
+"id": "ddecc9a1be55",
+"headline": "Dubai office property values triple since 2021",
+"summary": "Commercial real estate values in Dubai reached record levels in Q3 2026. The office sector continues to outperform the residential market.",
+"why": "This report highlights strong commercial sector growth and changing asset valuations.",
+"source": "Economy Middle East",
+"link": "https://economymiddleeast.com/news/dubais-office-property-values-triple-since-2021-rise-9-7-percent-annually/?utm_source=rss&utm_medium=rss&utm_campaign=dubais-office-property-values-triple-since-2021-rise-9-7-percent-annually",
+"published": "2026-10-27T12:58+04:00",
+"category": "Supply & market reports",
+"impact": "Medium",
+"impact_reason": "Highlights strong commercial market growth and asset values.",
+"watch": false,
+"topic": "Supply & market reports"
+},
+{
+"id": "2a9ff2ed7633",
+"headline": "Aldar reports higher revenue despite slowing UAE sales",
+"summary": "Aldar's total revenue increased despite a broader slowdown in property sales across the United Arab Emirates.",
+"why": "It provides insight into major developer financial health amid market shifts.",
+"source": "Arabian Gulf Business Insight | AGBI",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTEdXOXhXR3ZOU19ZV0x4RTM4a3RiRnZtNlFidEpFVVAwcGFOdjRkcGFGTEdpLXNZellhNG82V21UcjJiWXVKUVBGaEsxUE9rOHktZVJCOElZbXFTSUI1Wnc4bGswRUlSMzlXY2xxVjVsSnZzWnQ3d0h1NE5xdW5BSUlkSU52TlpVbWhRVVRNc2RuRDJPMGc?oc=5",
+"published": "2026-10-27T12:39+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Reflects major developer performance despite market shifts.",
+"watch": false,
+"topic": "aldar"
+},
+{
+"id": "3ff73c950622",
+"headline": "Abu Dhabi and Partners Group sign infrastructure agreement",
+"summary": "A new partnership aims to boost private sector involvement in Abu Dhabi infrastructure and real estate.",
+"why": "This agreement encourages private investment in regional property and infrastructure.",
+"source": "ASSETPHYSICS",
+"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNejBBUE5pc3U2ME5hTTlSUmluV1FDLUpDODhkMWhBaDcweC0yN0x2NmJKdmpuNlZ4YnNYbnNzYmoxckRnQTlqSmNteVB4blpMOUMtX2JHQktLb1dsdkxzbGVDYlFsblc0c0lvY21hQ0pxV2IyVk4tbHJkck9EYld1a1VLRUowaVRXX25VWXJOemNNeFQ0ZkdpQkpacUUySGM0bDRhWlBrSlhGellCbkRjWHdYUHN4NXQtSWx6ekFLYnpDYl9fMGVPbVlpUTBKc2JIWXFPREszWGhaaHVRZWN1RmFudEw5OWhSa3I2QWxhTGw?oc=5",
+"published": "2026-10-27T11:35+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "Involves future private sector investment framework.",
+"watch": false,
+"topic": "abu dhabi"
 }
 ]
