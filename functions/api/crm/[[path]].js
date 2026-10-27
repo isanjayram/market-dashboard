@@ -148,20 +148,29 @@ async function update(db, table, id, row, touch = true) {
   return db.prepare(`UPDATE ${table} SET ${sets.join(", ")} WHERE id = ? RETURNING *`).bind(...vals, id).first();
 }
 
-async function getSettings(db) {
+// Settings change rarely: keep them in memory for a minute instead of reading them on every request.
+let settingsCache = null, settingsAt = 0;
+async function getSettings(db, fresh = false) {
+  if (!fresh && settingsCache && Date.now() - settingsAt < 60e3) return structuredClone(settingsCache);
   const rows = (await db.prepare("SELECT key, value FROM settings").all()).results;
   const s = structuredClone(DEFAULTS);
   for (const r of rows) { try { s[r.key] = JSON.parse(r.value); } catch (e) { /* keep default */ } }
-  return s;
+  settingsCache = s; settingsAt = Date.now();
+  return structuredClone(s);
 }
 
 // Move a lead forward along the funnel; never backwards (a no-show doesn't undo a booked meeting).
+function nextStatus(current, status) {
+  if (status === "lost" || status === "dnc") return status;
+  if ((STATUS_RANK[status] ?? -1) > (STATUS_RANK[current] ?? -1) || current === "lost") return status;
+  return null;
+}
 async function advance(db, leadId, status, extra = {}) {
   const lead = await db.prepare("SELECT status FROM leads WHERE id = ?").bind(leadId).first();
   if (!lead) return;
   const row = { ...extra };
-  if (status === "lost" || status === "dnc") row.status = status;
-  else if ((STATUS_RANK[status] ?? -1) > (STATUS_RANK[lead.status] ?? -1) || lead.status === "lost") row.status = status;
+  const st = nextStatus(lead.status, status);
+  if (st) row.status = st;
   if (Object.keys(row).length) await update(db, "leads", leadId, row);
 }
 
@@ -231,15 +240,16 @@ async function listLeads(db, url) {
 }
 
 async function leadDetail(db, id) {
-  const lead = await db.prepare(`${LEAD_LIST_SQL} WHERE l.id = ?`).bind(id).first();
-  if (!lead) return null;
-  const [touches, meetings, deals, referrals, referrer] = await db.batch([
+  const [leadRes, touches, meetings, deals, referrals, referrer] = await db.batch([
+    db.prepare(`${LEAD_LIST_SQL} WHERE l.id = ?`).bind(id),
     db.prepare("SELECT * FROM touches WHERE lead_id = ? ORDER BY at DESC").bind(id),
     db.prepare("SELECT * FROM meetings WHERE lead_id = ? ORDER BY scheduled_at DESC").bind(id),
     db.prepare("SELECT * FROM deals WHERE lead_id = ? ORDER BY created_at DESC").bind(id),
     db.prepare("SELECT id, name, status FROM leads WHERE referred_by = ?").bind(id),
-    db.prepare("SELECT id, name FROM leads WHERE id = ?").bind(lead.referred_by || 0),
+    db.prepare("SELECT id, name FROM leads WHERE id = (SELECT referred_by FROM leads WHERE id = ?)").bind(id),
   ]);
+  const lead = leadRes.results[0];
+  if (!lead) return null;
   return { lead, touches: touches.results, meetings: meetings.results, deals: deals.results,
     referrals: referrals.results, referrer: referrer.results[0] || null };
 }
@@ -275,7 +285,6 @@ async function logTouch(db, body) {
   t.lead_id = leadId;
   t.at = body.at ? new Date(body.at).toISOString() : nowIso();
   if (!t.outcome) return bad("Outcome is required");
-  const touch = await insert(db, "touches", t);
 
   const row = {};
   if (t.direction === "out" && !lead.first_contact_at) row.first_contact_at = t.at;
@@ -291,8 +300,16 @@ async function logTouch(db, body) {
   if ((status === "lost" || status === "dnc") && (STATUS_RANK[lead.status] ?? 0) >= STATUS_RANK.meeting_booked && t.outcome !== "dnc_request") {
     status = "conversation"; row.temperature = "cold"; // don't bury a lead that already met you; mark it cold instead
   }
-  await advance(db, leadId, status, row);
-  return json({ touch, lead: await db.prepare(`${LEAD_LIST_SQL} WHERE l.id = ?`).bind(leadId).first() }, 201);
+  const st = nextStatus(lead.status, status);
+  if (st) row.status = st;
+  row.updated_at = nowIso();
+  const tk = Object.keys(t), rk = Object.keys(row);
+  const [ins, , after] = await db.batch([
+    db.prepare(`INSERT INTO touches (${tk.join(",")}) VALUES (${tk.map(() => "?").join(",")}) RETURNING *`).bind(...tk.map((k) => t[k])),
+    db.prepare(`UPDATE leads SET ${rk.map((k) => `${k} = ?`).join(", ")} WHERE id = ?`).bind(...rk.map((k) => row[k]), leadId),
+    db.prepare(`${LEAD_LIST_SQL} WHERE l.id = ?`).bind(leadId),
+  ]);
+  return json({ touch: ins.results[0], lead: after.results[0] }, 201);
 }
 
 async function saveMeeting(db, body, id) {
@@ -378,7 +395,8 @@ async function stats(db, url) {
   const to = url.searchParams.get("to") || d;
   const a = dayStart(from), b = dayStart(addDays(to, 1));
   const q = (sql, ...bind) => db.prepare(sql).bind(...bind);
-  const [funnel, meetingsHeld, deals, sources, weeks, speed, allDeals, statusRows, tempRows, stalled] = await db.batch([
+  // One round trip for everything on the Numbers screen.
+  const [funnel, meetingsHeld, deals, sources, weeks, speed, allDeals, statusRows, tempRows, stalled, ...wk] = await db.batch([
     q(`SELECT COUNT(*) AS touches, COALESCE(SUM(outcome IN (${REACHED_SQL})),0) AS conversations,
         COALESCE(SUM(outcome='referral'),0) AS referrals_asked,
         (SELECT COUNT(*) FROM meetings WHERE booked_at >= ?1 AND booked_at < ?2) AS booked,
@@ -408,10 +426,7 @@ async function stats(db, url) {
     q(`SELECT temperature, COUNT(*) AS n FROM leads WHERE ${OPEN} GROUP BY temperature`),
     q(`SELECT d.id, d.project, d.unit, d.stage, d.updated_at, l.name FROM deals d JOIN leads l ON l.id = d.lead_id
         WHERE d.stage NOT IN ('paid','fell_through') AND d.updated_at < ? ORDER BY d.updated_at`, new Date(Date.now() - 14 * 864e5).toISOString()),
-  ]);
-  const f = funnel.results[0];
-  // Weekly table: meetings and deals per week too.
-  const wk = await db.batch([
+    // Weekly table: meetings and deals per week too.
     q(`SELECT date(booked_at, '+4 hours', 'weekday 0', '-6 days') AS week, COUNT(*) AS n FROM meetings GROUP BY week`),
     q(`SELECT date(scheduled_at, '+4 hours', 'weekday 0', '-6 days') AS week, COUNT(*) AS held,
         SUM(g1_pass=1 AND g2_pass=1 AND g3_pass=1) AS qualified FROM meetings WHERE status='held' GROUP BY week`),
@@ -420,6 +435,7 @@ async function stats(db, url) {
         SUM(price_aed * commission_pct / 100.0 * split_pct / 100.0) AS net FROM deals
         WHERE booking_at IS NOT NULL AND stage != 'fell_through' GROUP BY week`),
   ]);
+  const f = funnel.results[0];
   const byWeek = new Map();
   const W = (w) => { if (!byWeek.has(w)) byWeek.set(w, { week: w, touches: 0, conversations: 0, booked: 0, held: 0, qualified: 0, eoi: 0, closed: 0, net_aed: 0 }); return byWeek.get(w); };
   for (let w = mondayOf(s.start_date < from ? s.start_date : from); w <= mondayOf(d); w = addDays(w, 7)) W(w);
@@ -610,7 +626,7 @@ export async function onRequest({ request, env, params }) {
         const stmts = Object.entries(body).filter(([k]) => k in DEFAULTS)
           .map(([k, v]) => db.prepare("INSERT INTO settings (key, value) VALUES (?, ?) ON CONFLICT(key) DO UPDATE SET value = excluded.value").bind(k, JSON.stringify(v)));
         if (stmts.length) await db.batch(stmts);
-        return json({ settings: await getSettings(db) });
+        return json({ settings: await getSettings(db, true) });
       }
     }
     if (res === "test-telegram" && method === "POST") return json({ sent: await telegram(env, "✅ CRM alerts are working.") });

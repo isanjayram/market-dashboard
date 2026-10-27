@@ -137,18 +137,57 @@
   };
 
   // ---------- API ----------
+  const busyEl = document.getElementById("busy");
+  let busy = 0;
+  const setBusy = (d) => { busy += d; busyEl?.classList.toggle("on", busy > 0); };
   async function api(path, opts = {}) {
-    const res = await fetch(`/api/crm/${path}`, {
-      method: opts.method || "GET", credentials: "same-origin",
-      headers: opts.body ? { "content-type": "application/json" } : {},
-      body: opts.body ? JSON.stringify(opts.body) : undefined,
-    });
-    if (res.status === 401) { location.reload(); throw new Error("Signed out"); }
-    const data = await res.json().catch(() => ({}));
-    if (!res.ok) { const e = new Error(data.error || `Error ${res.status}`); e.status = res.status; e.data = data; throw e; }
-    return data;
+    setBusy(1);
+    try {
+      const res = await fetch(`/api/crm/${path}`, {
+        method: opts.method || "GET", credentials: "same-origin",
+        headers: opts.body ? { "content-type": "application/json" } : {},
+        body: opts.body ? JSON.stringify(opts.body) : undefined,
+      });
+      if (res.status === 401) { location.reload(); throw new Error("Signed out"); }
+      const data = await res.json().catch(() => ({}));
+      if (!res.ok) { const e = new Error(data.error || `Error ${res.status}`); e.status = res.status; e.data = data; throw e; }
+      if (opts.method && opts.method !== "GET") invalidate();
+      return data;
+    } finally { setBusy(-1); }
   }
-  const loadSettings = async () => (settings = (await api("settings")).settings);
+
+  // Reads are cache-first: a screen draws at once from the last copy, then refreshes quietly
+  // and redraws only if something changed. The copy survives closing the app (this device only).
+  const STORE = "crm-cache-v1";
+  const memo = new Map();
+  try { for (const [k, v] of Object.entries(JSON.parse(localStorage.getItem(STORE) || "{}"))) memo.set(k, { data: v, at: 0 }); } catch (e) { /* private mode */ }
+  let saveTimer;
+  const persist = () => { clearTimeout(saveTimer); saveTimer = setTimeout(() => {
+    try { localStorage.setItem(STORE, JSON.stringify(Object.fromEntries([...memo].slice(-40).map(([k, v]) => [k, v.data])))); } catch (e) { /* full or private */ }
+  }, 400); };
+  const sig = (d) => JSON.stringify(d, (k, v) => (k === "now" ? undefined : v));
+  const inflight = new Map();
+  function fetchFresh(path) {
+    if (inflight.has(path)) return inflight.get(path);
+    const pr = api(path).then((data) => {
+      const old = memo.get(path);
+      const changed = !old || sig(old.data) !== sig(data);
+      memo.delete(path); memo.set(path, { data, at: Date.now() }); persist();
+      return { data, changed };
+    }).finally(() => inflight.delete(path));
+    inflight.set(path, pr);
+    return pr;
+  }
+  async function get(path) {
+    const hit = memo.get(path);
+    if (hit) {
+      if (Date.now() - hit.at > 4000) fetchFresh(path).then((r) => { if (r.changed) softRender(); }).catch(() => {});
+      return hit.data;
+    }
+    return (await fetchFresh(path)).data;
+  }
+  function invalidate() { for (const v of memo.values()) v.at = 0; }
+  const loadSettings = async () => (settings = (await get("settings")).settings);
 
   // ---------- toast & sheets ----------
   const toastEl = document.getElementById("toast");
@@ -162,8 +201,16 @@
   const fail = (e) => toast(e.message || "Something went wrong");
 
   let sheetStack = [];
+  // Any button inside a sheet footer shows "Saving…" while its handler runs.
+  document.addEventListener("click", (e) => {
+    const b = e.target.closest(".sheet-f .btn, .savebar .btn");
+    if (b && !b.disabled) { b.classList.add("working"); setTimeout(() => b.classList.remove("working"), 1500); }
+  }, true);
   function sheet(title, body, footer) {
-    const close = () => { wrap.remove(); sheetStack = sheetStack.filter((s) => s !== close); if (!sheetStack.length) document.body.classList.remove("sheet-open"); };
+    const close = () => {
+      wrap.remove(); sheetStack = sheetStack.filter((s) => s !== close);
+      if (!sheetStack.length) { document.body.classList.remove("sheet-open"); if (pendingRender) softRender(); }
+    };
     const wrap = h("div", { class: "sheet-wrap", onclick: (e) => { if (e.target === wrap) close(); } },
       h("div", { class: "sheet", role: "dialog", "aria-modal": "true", "aria-label": title },
         h("div", { class: "sheet-h" }, h("h2", null, title), h("button", { class: "x", type: "button", "aria-label": "Close", onclick: close }, "✕")),
@@ -310,7 +357,7 @@
     let p;
     try { p = JSON.parse(sessionStorage.getItem(PENDING) || "null"); sessionStorage.removeItem(PENDING); } catch (e) { p = null; }
     if (!p || Date.now() - p.at > 3 * 3600e3) return;
-    api(`leads/${p.id}`).then((d) => logSheet(d.lead, p.channel)).catch(() => {});
+    get(`leads/${p.id}`).then((d) => logSheet(d.lead, p.channel)).catch(() => {});
   }
   document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") setTimeout(resumeLog, 300); });
 
@@ -367,17 +414,18 @@
     }
     const saveBtn = h("button", { class: "btn", type: "button", disabled: true, onclick: async () => {
       if (!outcome) return;
-      saveBtn.disabled = true;
-      try {
-        const res = await api("touches", { method: "POST", body: { lead_id: lead.id, channel, outcome, nos, note: note.value.trim() || null,
-          next_action_at: nextBox.hidden ? null : nextIso, next_action: nextBox.hidden || !nextIso ? null : (outcome === "callback" ? "Call back" : "Follow up"),
-          lost_reason: lostReason.value.trim() || null, nurture_reason: nurtureReason.value.trim() || null } });
-        close();
-        toast(`${OUTCOME[outcome]} logged`, { label: "Undo", fn: async () => { await api(`touches/${res.touch.id}`, { method: "DELETE" }); toast("Removed"); refresh(); } });
-        if (outcome === "booked") bookSheet(res.lead);
-        else if (outcome === "referral") leadSheet({ source: "referral", referred_by: lead.id, source_detail: `Referred by ${lead.name}` });
+      const body = { lead_id: lead.id, channel, outcome, nos, note: note.value.trim() || null,
+        next_action_at: nextBox.hidden ? null : nextIso, next_action: nextBox.hidden || !nextIso ? null : (outcome === "callback" ? "Call back" : "Follow up"),
+        lost_reason: lostReason.value.trim() || null, nurture_reason: nurtureReason.value.trim() || null };
+      const done = outcome;
+      close();   // don't make you wait on the network between calls
+      if (done === "booked") bookSheet(lead);
+      else if (done === "referral") leadSheet({ source: "referral", referred_by: lead.id, source_detail: `Referred by ${lead.name}` });
+      const send = () => api("touches", { method: "POST", body }).then((res) => {
+        toast(`${OUTCOME[done]} logged`, { label: "Undo", fn: async () => { await api(`touches/${res.touch.id}`, { method: "DELETE" }); toast("Removed"); refresh(); } });
         refresh();
-      } catch (e) { saveBtn.disabled = false; fail(e); }
+      }).catch((e) => toast(`Not saved: ${e.message}`, { label: "Retry", fn: send }));
+      send();
     } }, "Save");
     paintOutcomes();
     const close = sheet(`Log: ${lead.name}`, h("div", null,
@@ -509,7 +557,7 @@
 
   // ---------- deals ----------
   async function dealSheet(lead, deal = null, meetingId = null) {
-    const inv = (await api("inventory").catch(() => ({ inventory: [] }))).inventory.filter((i) => i.status === "active");
+    const inv = (await get("inventory").catch(() => ({ inventory: [] }))).inventory.filter((i) => i.status === "active");
     const d = deal || { stage: "eoi", commission_pct: settings.commission_pct, split_pct: settings.split_pct, lane: lead.lane, eoi_refundable: 1 };
     let commTouched = !!deal;
     const netEl = h("p", { class: "netcalc" });
@@ -622,7 +670,7 @@
 
   // ---------- views ----------
   async function vToday() {
-    const t = await api("today");
+    const t = await get("today");
     settings = t.settings;
     const s = t.settings;
     const touches = t.counts.touches || 0;
@@ -689,7 +737,7 @@
     };
     const load = async (append) => {
       if (!append) offset = 0;
-      const res = await api(`leads?${params()}`);
+      const res = await get(`leads?${params()}`);
       if (!append) list.replaceChildren();
       list.querySelector(".loadmore")?.remove();
       if (!res.leads.length && !append) list.append(empty(leadQuery.q ? "No lead matches." : "No leads here yet."));
@@ -715,7 +763,7 @@
   }
 
   async function vLead(id) {
-    const d = await api(`leads/${id}`);
+    const d = await get(`leads/${id}`);
     const l = d.lead;
     const lt = localTime(l);
     const out = [h("div", { class: "crumb" }, back("#leads", "Leads"))];
@@ -774,9 +822,9 @@
   const gatesText = (m) => (m.status !== "held" ? null : `gates ${["g1_pass", "g2_pass", "g3_pass"].map((g) => (m[g] === 1 ? "✓" : m[g] === 0 ? "✗" : "·")).join("")}`);
 
   async function vMeeting(id) {
-    const { meeting: m } = await api(`meetings/${id}`);
+    const { meeting: m } = await get(`meetings/${id}`);
     const lead = { id: m.lead_id, name: m.name, phone: m.phone, whatsapp: m.whatsapp, country: m.country, lane: m.lane };
-    const inv = (await api("inventory").catch(() => ({ inventory: [] }))).inventory.filter((i) => i.status === "active" && i.f_delivery && i.f_growth && i.f_payment);
+    const inv = (await get("inventory").catch(() => ({ inventory: [] }))).inventory.filter((i) => i.status === "active" && i.f_delivery && i.f_growth && i.f_payment);
     const objHints = h("div", { class: "objhints" });
     const paintObj = (keys) => objHints.replaceChildren(...(keys || []).map((k) => OBJ[k] ? h("div", { class: "why" }, h("b", null, OBJ[k].why), h("p", null, OBJ[k].move)) : null));
     const f = form([
@@ -824,7 +872,7 @@
       try {
         await api(`meetings/${id}`, { method: "PATCH", body });
         toast("Meeting saved");
-        if (body.outcome === "eoi") { const ld = await api(`leads/${m.lead_id}`); dealSheet(ld.lead, null, Number(id)); }
+        if (body.outcome === "eoi") { const ld = await get(`leads/${m.lead_id}`); dealSheet(ld.lead, null, Number(id)); }
         else if (next) location.hash = `lead/${m.lead_id}`;
       } catch (e) { fail(e); }
     };
@@ -840,7 +888,7 @@
   }
 
   async function vPipeline() {
-    const [dl, ms, st] = await Promise.all([api("deals"), api(`meetings?from=${gulfToday()}`), api(`stats?from=${settings?.start_date || "2026-11-02"}&to=${gulfToday()}`)]);
+    const [dl, ms, st] = await Promise.all([get("deals"), get(`meetings?from=${gulfToday()}`), get(`stats?from=${settings?.start_date || "2026-11-02"}&to=${gulfToday()}`)]);
     const out = [header("Pipeline", "Meetings → EOI → booking → commission paid")];
     const s = st.status;
     const funnel = [["new", "Not called"], ["attempting", "Attempting"], ["conversation", "Spoke"], ["meeting_booked", "Meeting booked"], ["meeting_held", "Met"], ["qualified", "Qualified"], ["eoi", "EOI"], ["won", "Won"]];
@@ -855,7 +903,7 @@
       const total = ds.reduce((t, d) => t + netOf(d), 0);
       return h("div", { class: "col" }, h("h3", null, l, h("small", null, `${ds.length}${ds.length ? ` · ${usd(total)}` : ""}`)),
         ds.map((d) => h("div", { class: "dcard" },
-          h("button", { class: "dmain", type: "button", onclick: async () => { const ld = await api(`leads/${d.lead_id}`); dealSheet(ld.lead, d); } },
+          h("button", { class: "dmain", type: "button", onclick: async () => { const ld = await get(`leads/${d.lead_id}`); dealSheet(ld.lead, d); } },
             h("b", null, d.name), h("small", null, [d.project, d.unit].filter(Boolean).join(" · ") || "—"),
             h("span", null, `${aed(d.price_aed)} · net ${both(netOf(d))}`),
             d.commission_expected_at && k !== "paid" ? h("small", null, `Commission expected ${fmtDay(d.commission_expected_at)}`) : null),
@@ -874,7 +922,7 @@
     const ranges = { week: ["This week", mondayOf(today), today], last: ["Last week", addDays(mondayOf(today), -7), addDays(mondayOf(today), -1)],
       month: ["This month", `${today.slice(0, 7)}-01`, today], all: ["Since start", settings?.start_date || "2026-11-02", today] };
     const [, from, to] = ranges[numRange];
-    const st = await api(`stats?from=${from < to ? from : to}&to=${to}`);
+    const st = await get(`stats?from=${from < to ? from : to}&to=${to}`);
     settings = st.settings;
     const s = st.settings, f = st.funnel, r = st.rates, g = st.goal;
     const out = [header("Numbers", `${fmtDay(fromGulf(from))} – ${fmtDay(fromGulf(to))}`)];
@@ -965,7 +1013,7 @@
   async function vReview() {
     const today = gulfToday();
     const wk = mondayOf(today);
-    const [st, hot, nur] = await Promise.all([api(`stats?from=${wk}&to=${today}`), api("leads?temperature=hot&view=open&sort=next&limit=50"), api("leads?temperature=nurture&view=open&sort=next&limit=50")]);
+    const [st, hot, nur] = await Promise.all([get(`stats?from=${wk}&to=${today}`), get("leads?temperature=hot&view=open&sort=next&limit=50"), get("leads?temperature=nurture&view=open&sort=next&limit=50")]);
     const s = st.settings, r = st.rates;
     const key = `crm-review-${wk}`;
     let done = {};
@@ -986,7 +1034,7 @@
   }
 
   async function vInventory() {
-    const { inventory } = await api("inventory");
+    const { inventory } = await get("inventory");
     const out = [h("div", { class: "crumb" }, back("#more", "More")), header("Launch Filter", "Every unit passes 3 filters before a client sees it",
       h("button", { class: "icon-btn", type: "button", "aria-label": "Add a project", onclick: () => invSheet() }, "+"))];
     out.push(h("div", { class: "card" }, h("p", { class: "fhint" }, "Max 3 areas and 1–2 developers per area. Start with 2 lanes in November; add the third once you can pitch both without notes.")));
@@ -1132,7 +1180,7 @@
   }
 
   async function vSettings() {
-    const r = await api("settings");
+    const r = await get("settings");
     const s = r.settings;
     const f = form([
       { type: "heading", label: "Goal" },
@@ -1170,7 +1218,7 @@
         developer_commissions: devEls.map((r) => ({ developer: r.dev.value.trim(), pct: Number(r.pct.value) })).filter((r) => r.developer && r.pct > 0),
         templates: tplEls.map((t) => ({ name: t.name.value.trim(), text: t.text.value.trim() })).filter((t) => t.name && t.text),
       };
-      try { await api("settings", { method: "PUT", body }); await loadSettings(); toast("Settings saved"); } catch (e) { fail(e); }
+      try { settings = (await api("settings", { method: "PUT", body })).settings; toast("Settings saved"); } catch (e) { fail(e); }
     };
     return [h("div", { class: "crumb" }, back("#more", "More")), header("Settings"),
       h("div", { class: "card" }, f.el),
@@ -1215,30 +1263,47 @@
   const ROUTES = { today: vToday, leads: vLeads, lead: vLead, meeting: vMeeting, pipeline: vPipeline, numbers: vNumbers, review: vReview,
     more: vMore, inventory: vInventory, scripts: vScripts, import: vImport, settings: vSettings };
   const NAV = { lead: "leads", meeting: "pipeline", review: "numbers", inventory: "more", scripts: "more", import: "more", settings: "more" };
-  let renderSeq = 0;
-  async function render() {
+  let renderSeq = 0, pendingRender = false;
+  const skeleton = () => h("div", { class: "skel" }, h("div", { class: "sk sk-h" }), h("div", { class: "sk sk-card" }), h("div", { class: "sk sk-card" }), h("div", { class: "sk sk-card short" }));
+  async function render(keepScroll = false) {
     const [name, arg] = (location.hash.slice(1) || "today").split("/");
     const fn = ROUTES[name] || vToday;
     const tab = NAV[name] || (ROUTES[name] ? name : "today");
     document.querySelectorAll("[data-nav]").forEach((a) => (a.dataset.nav === tab ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current")));
     const seq = ++renderSeq;
-    const y = refreshing ? scrollY : 0;
+    pendingRender = false;
+    const y = keepScroll ? scrollY : 0;
+    if (!keepScroll) scrollTo(0, 0);
+    // Only if the data isn't on the phone yet: show a placeholder instead of leaving the old page up.
+    const slow = keepScroll ? null : setTimeout(() => { if (seq === renderSeq) view.replaceChildren(skeleton()); }, 120);
     try {
       if (!settings) await loadSettings();
       const out = await fn(arg);
+      clearTimeout(slow);
       if (seq !== renderSeq) return;
       view.replaceChildren(...[].concat(out).filter(Boolean));
-      scrollTo(0, y);
+      if (keepScroll) scrollTo(0, Math.min(y, document.documentElement.scrollHeight - innerHeight));
     } catch (e) {
+      clearTimeout(slow);
       if (seq !== renderSeq) return;
       view.replaceChildren(header("CRM"), h("div", { class: "card" }, h("p", { class: "warnbox" }, e.message || "Couldn't load."),
         e.status === 503 ? h("p", { class: "fhint" }, "The database binding is set up by the deploy workflow. See README → CRM.") : null,
         h("button", { class: "btn ghost", type: "button", onclick: render }, "Try again")));
     }
   }
-  let refreshing = false;
-  function refresh() { refreshing = true; render().finally(() => { refreshing = false; }); }
+  function refresh() { invalidate(); render(true); }
+  // Fresh data arrived for the screen on show: redraw in place, but never under an open sheet or while you type.
+  function softRender() {
+    const typing = /^(INPUT|TEXTAREA|SELECT)$/.test(document.activeElement?.tagName) && view.contains(document.activeElement);
+    if (sheetStack.length || typing) { pendingRender = true; return; }
+    render(true);
+  }
   addEventListener("hashchange", () => render());
+  // Warm the other tabs in the background so switching is instant.
+  const prefetch = () => ["leads", "pipeline", "numbers"].forEach((r) => ROUTES[r]().catch(() => {}));
+  (window.requestIdleCallback || ((f) => setTimeout(f, 1200)))(() => setTimeout(prefetch, 600));
+  // Signing out also forgets the copy of your leads kept on this device.
+  document.addEventListener("click", (e) => { if (e.target.closest('a[href="/__logout"]')) { try { localStorage.removeItem(STORE); } catch (er) { /* ignore */ } } });
   document.getElementById("fab").addEventListener("click", () => leadSheet());
   // Live timers on inbound leads (red after 5 minutes).
   setInterval(() => document.querySelectorAll(".timer[data-since]").forEach(paintTimer), 10000);
