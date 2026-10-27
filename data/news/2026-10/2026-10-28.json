@@ -298,5 +298,19 @@
 "impact_reason": "A promotional event aimed at overseas investors.",
 "watch": false,
 "topic": "Macro & geopolitics"
+},
+{
+"id": "3a1982e83c03",
+"headline": "UAE Interest Rates Expected to Remain Unchanged Today",
+"summary": "Analyst predictions suggest the US Federal Reserve will maintain current rates without reductions. Borrowers in Dubai must wait longer for potential mortgage relief.",
+"why": "Interest rate stability directly dictates borrowing costs and mortgage affordability for real estate buyers.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/business/banking/uae-interest-rates-no-cut-expected-today-as-central-banks-seen-holding-steady-1.500725573",
+"published": "2026-10-28T00:01+04:00",
+"category": "Rates & mortgages",
+"impact": "High",
+"impact_reason": "Affects mortgage affordability and buyer borrowing costs.",
+"watch": false,
+"topic": "Rates & mortgages"
 }
 ]
