@@ -455,3 +455,22 @@ table.kpi td.hit { color: var(--green); font-weight: 700; }
   .lead-tabs { top: 0; }
 }
 @media (min-width: 1440px) { .twopane { grid-template-columns: 440px minmax(0, 1fr); } }
+
+/* ---------- iOS frosted glass: tab bar, top bar and the dim behind sheets only ----------
+   Cards stay solid for readability and smooth scrolling. Solid again when the phone has
+   Reduce Transparency on, or the browser can't blur. */
+@supports ((-webkit-backdrop-filter: blur(1px)) or (backdrop-filter: blur(1px))) {
+  .crm .tabbar { background: color-mix(in srgb, var(--surface) 72%, transparent); border-top-color: var(--line);
+    -webkit-backdrop-filter: saturate(180%) blur(20px); backdrop-filter: saturate(180%) blur(20px); }
+  .topbar { background: color-mix(in srgb, var(--bg) 82%, transparent); }
+  .topbar, .topbar.scrolled { -webkit-backdrop-filter: saturate(180%) blur(20px); backdrop-filter: saturate(180%) blur(20px); }
+  .topbar.scrolled { background: color-mix(in srgb, var(--surface) 72%, transparent); }
+  .bulkbar { background: color-mix(in srgb, var(--surface) 78%, transparent); -webkit-backdrop-filter: saturate(180%) blur(20px); backdrop-filter: saturate(180%) blur(20px); }
+  .sheet-wrap { background: rgba(0, 0, 0, .32); -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px); }
+  :root[data-theme="light"] .crm .tabbar, :root[data-theme="light"] .topbar.scrolled { background: color-mix(in srgb, var(--surface) 76%, transparent); }
+}
+@media (prefers-reduced-transparency: reduce) {
+  .crm .tabbar, .topbar.scrolled, .bulkbar { background: var(--surface); -webkit-backdrop-filter: none; backdrop-filter: none; }
+  .topbar { background: var(--bg); -webkit-backdrop-filter: none; backdrop-filter: none; }
+  .sheet-wrap { background: rgba(0, 0, 0, .45); -webkit-backdrop-filter: none; backdrop-filter: none; }
+}
