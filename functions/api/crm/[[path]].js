@@ -74,6 +74,13 @@ const OPEN = "status NOT IN ('lost','dnc')";
 const json = (data, status = 200) => new Response(JSON.stringify(data), {
   status, headers: { "content-type": "application/json; charset=utf-8", "cache-control": "no-store" } });
 const bad = (msg, status = 400) => json({ error: msg }, status);
+// A YYYY-MM-DD query parameter, or the fallback when it's missing or malformed (a bad link shouldn't crash a screen).
+const dateParam = (url, key, fallback) => {
+  const v = url.searchParams.get(key);
+  return v && /^\d{4}-\d{2}-\d{2}$/.test(v) && Number.isFinite(Date.parse(v)) ? v : fallback;
+};
+const STATUSES = new Set([...Object.keys(STATUS_RANK), "lost", "dnc"]);
+const CHANNELS = new Set(["call", "whatsapp", "email", "sms", "meeting", "other"]);
 const nowIso = () => new Date().toISOString();
 const gulfDate = (d = new Date()) => new Date(d.getTime() + GST).toISOString().slice(0, 10);
 const dayStart = (iso) => new Date(Date.parse(`${iso}T00:00:00Z`) - GST).toISOString();
@@ -327,6 +334,7 @@ async function patchLead(db, id, body, s) {
   const before = await db.prepare("SELECT * FROM leads WHERE id = ?").bind(id).first();
   if (!before) return bad("Lead not found", 404);
   const row = prepLead(body, s);
+  if (row.status && !STATUSES.has(row.status)) return bad(`Unknown status "${row.status}"`);
   if (row.phone) {
     const dup = await db.prepare("SELECT id, name FROM leads WHERE (phone = ? OR whatsapp = ?) AND id != ?").bind(row.phone, row.phone, id).first();
     if (dup && !body.force) return json({ error: `That number belongs to ${dup.name}`, duplicate: dup }, 409);
@@ -358,8 +366,9 @@ async function logTouch(db, body) {
   const t = clean(body, ["channel", "outcome", "note", "nos"]);
   t.direction = body.direction === "in" ? "in" : "out";
   t.lead_id = leadId;
-  t.at = body.at ? new Date(body.at).toISOString() : nowIso();
+  t.at = body.at && Number.isFinite(Date.parse(body.at)) ? new Date(body.at).toISOString() : nowIso();
   if (!t.outcome) return bad("Outcome is required");
+  if (t.channel && !CHANNELS.has(t.channel)) return bad(`Unknown channel "${t.channel}"`);
 
   const row = {};
   if (t.direction === "out" && !lead.first_contact_at) row.first_contact_at = t.at;
@@ -550,8 +559,8 @@ async function savePlan(db, dealId, body) {
 
 // ---------- calendar ----------
 async function agenda(db, url) {
-  const from = url.searchParams.get("from") || gulfDate();
-  const to = url.searchParams.get("to") || addDays(from, 13);
+  const from = dateParam(url, "from", gulfDate());
+  const to = dateParam(url, "to", addDays(from, 13));
   const a = dayStart(from), b = dayStart(addDays(to, 1));
   const [meetings, tasks, payments] = await db.batch([
     db.prepare(`SELECT m.*, l.name, l.phone, l.whatsapp, l.country FROM meetings m JOIN leads l ON l.id = m.lead_id
@@ -643,8 +652,8 @@ async function bulkLeads(db, body) {
 async function stats(db, url) {
   const s = await getSettings(db);
   const d = gulfDate();
-  const from = url.searchParams.get("from") || mondayOf(d);
-  const to = url.searchParams.get("to") || d;
+  const from = dateParam(url, "from", mondayOf(d));
+  const to = dateParam(url, "to", d);
   const a = dayStart(from), b = dayStart(addDays(to, 1));
   const q = (sql, ...bind) => db.prepare(sql).bind(...bind);
   // One round trip for everything on the Numbers screen.
@@ -879,6 +888,11 @@ export async function onRequest({ request, env, params }) {
       if (method === "GET") return json({ settings: s, has_telegram: !!(env.TELEGRAM_BOT_TOKEN && env.TELEGRAM_CHAT_ID),
         inbound_url: env.DASHBOARD_PASSWORD ? `${url.origin}/api/crm/inbound?key=${await hmac(env.DASHBOARD_PASSWORD, "crm-inbound-v1")}` : null });
       if (method === "PUT") {
+        // A number setting (goal, targets, commission %) must stay a number or Numbers breaks.
+        for (const [k, v] of Object.entries(body)) {
+          if (typeof DEFAULTS[k] === "number" && !Number.isFinite(Number(v))) return bad(`${k.replace(/_/g, " ")} must be a number`);
+          if (typeof DEFAULTS[k] === "number") body[k] = Number(v);
+        }
         const stmts = Object.entries(body).filter(([k]) => k in DEFAULTS)
           .map(([k, v]) => db.prepare("INSERT INTO settings (key, value) VALUES (?, ?) ON CONFLICT(key) DO UPDATE SET value = excluded.value").bind(k, JSON.stringify(v)));
         if (stmts.length) await db.batch(stmts);
@@ -902,7 +916,7 @@ export async function onRequest({ request, env, params }) {
     }
     if (res === "meetings") {
       if (!id && method === "GET") {
-        const from = url.searchParams.get("from") || gulfDate();
+        const from = dateParam(url, "from", gulfDate());
         const rows = (await db.prepare(`SELECT m.*, l.name, l.phone, l.whatsapp FROM meetings m JOIN leads l ON l.id = m.lead_id
           WHERE m.scheduled_at >= ? ORDER BY m.scheduled_at LIMIT 200`).bind(dayStart(from)).all()).results;
         return json({ meetings: rows });

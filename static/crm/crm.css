@@ -560,3 +560,26 @@ table.kpi td.hit { color: var(--green); font-weight: 700; }
   body.crm #app { right: -14px; padding-right: 14px; }
 }
 ::-webkit-scrollbar { display: none; -webkit-appearance: none; width: 0; height: 0; background: transparent; }
+
+/* ---------- audit fixes ---------- */
+/* Back label stays on one line (long names shorten with …). */
+.tb-back span { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 34vw; }
+/* The + (new lead) only where adding a lead fits the screen; elsewhere it covered rows and buttons. */
+body[data-route="numbers"] .fab, body[data-route="review"] .fab, body[data-route="inventory"] .fab, body[data-route="scripts"] .fab,
+body[data-route="import"] .fab, body[data-route="duplicates"] .fab, body[data-route="more"] .fab { display: none; }
+/* Where it does show, the last row can scroll clear of it. */
+@media (max-width: 1023px) {
+  body:is([data-route="today"], [data-route="tasks"], [data-route="leads"], [data-route="pipeline"], [data-route="calendar"], [data-route="payments"]).crm #app {
+    padding-bottom: calc(var(--cap-top) + 92px); }
+}
+/* Task tick: same look, bigger finger target. */
+.tick { position: relative; }
+.tick::after { content: ""; position: absolute; inset: -10px; border-radius: 50%; }
+/* File picker matches the app's buttons. */
+input[type="file"] { color: var(--muted); font: 14px var(--font); max-width: 100%; }
+input[type="file"]::file-selector-button { font: 600 14px var(--font); color: var(--text); background: var(--surface-2); border: 0; border-radius: 12px;
+  padding: 10px 14px; margin-right: 10px; cursor: pointer; }
+/* Payment plan rows: room for the whole date. */
+.prow { grid-template-columns: minmax(0, 1fr) minmax(0, 1.5fr) 52px 28px; }
+.prow { grid-template-columns: minmax(0, 1fr) minmax(0, 1.25fr) 46px 24px; }
+.prow input { padding-left: 10px; padding-right: 8px; font-size: 15px; }

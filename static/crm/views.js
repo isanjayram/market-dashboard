@@ -54,7 +54,7 @@
       h("div", { class: "stack row" }, h("a", { class: "btn", href: "#import" }, "Import a CSV"), h("button", { class: "btn ghost", type: "button", onclick: () => C.leadSheet() }, "Add a lead")))) : null;
     const payments = t.payments.length ? C.card("Client payments due", "next 7 days", t.payments.map((p) => payRow(p))) : null;
     const briefCard = brief && (brief.bullets?.length || brief.talking_points?.length) ? C.card("Morning brief", h("a", { class: "more-link", href: "#market/brief" }, "Market →"),
-      brief.stale ? h("p", { class: "warnbox soft" }, `Stale: ${brief.stale_short || "old data"}`) : null,
+      brief.stale ? h("p", { class: "warnbox soft" }, "Showing older DLD data (newer files didn't download). Details in Market.") : null,
       h("ul", { class: "brief" }, (brief.bullets || []).slice(0, 3).map((b) => h("li", null, b))),
       (brief.talking_points || []).length ? h("div", null, h("small", { class: "glabel" }, "Say this on calls · tap to copy"),
         brief.talking_points.slice(0, 3).map((p) => h("button", { class: "say", type: "button", onclick: async (e) => { try { await navigator.clipboard.writeText(p); e.currentTarget.classList.add("copied"); C.toast("Copied"); } catch (er) { /* ignore */ } } },
