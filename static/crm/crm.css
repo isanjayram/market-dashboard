@@ -593,9 +593,13 @@ input[type="file"]::file-selector-button { font: 600 14px var(--font); color: va
 .crm .wrow > div { min-width: 0; }
 .crm .wrow .mono { display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; word-break: normal; }
 
-/* Phone top bar: solid, same colour as the status bar above it, so the two read as one surface (no blurred
-   colour patch or seam when content scrolls under). The soft fade below the bar stays. */
+/* Phone top bar, status-bar strip included (it's the bar's own top padding): one frosted surface, content
+   shows through blurred like iOS, then a soft fade into the page. */
 @media (max-width: 1023px) {
+  .topbar, .topbar.scrolled { background: color-mix(in srgb, var(--bg) 68%, transparent);
+    -webkit-backdrop-filter: saturate(160%) blur(24px); backdrop-filter: saturate(160%) blur(24px); }
+  .topbar::after { background: linear-gradient(to bottom, color-mix(in srgb, var(--bg) 55%, transparent), transparent); }
+}
+@media (max-width: 1023px) and (prefers-reduced-transparency: reduce) {
   .topbar, .topbar.scrolled { background: var(--bg); -webkit-backdrop-filter: none; backdrop-filter: none; }
 }
-@media (max-width: 1023px) { .topbar::after { background: linear-gradient(to bottom, var(--bg), transparent); } }
