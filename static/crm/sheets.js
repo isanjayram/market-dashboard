@@ -247,7 +247,8 @@
       { k: "icp", label: "Buyer type", type: "chips", options: C.opts(C.ICP) },
       { k: "source", label: "Source", type: "chips", options: C.opts(C.SOURCE) },
       { k: "source_detail", label: "Source detail", placeholder: "Which list, post, launch campaign or portal" },
-      editing ? null : { k: "inbound", label: "They contacted me (inbound)", type: "chips", options: [["1", "Yes: start the 5-minute timer"], ["0", "No, I'm reaching out"]], num: true },
+      editing ? null : { k: "inbound", label: "New enquiry right now?", type: "chips", options: [["0", "No"], ["1", "Yes: they just contacted me"]], num: true, required: true,
+        hint: "Yes starts the 5-minute timer. Old leads, Lyka CRM records and lists you call are No." },
       { k: "temperature", label: "Temperature", type: "chips", options: C.opts(C.TEMP) },
       editing ? null : { k: "next_action_at", label: "First follow-up", type: "datetime", defaultTime: "10:00", quick: C.quickDays() },
       { k: "email", label: "Email", type: "email", half: true },
@@ -258,6 +259,8 @@
     ], { icp: "nri", source: "other", temperature: "warm", inbound: 0, ...lead });
     const extra = editing ? C.form([
       { type: "heading", label: "Qualification" },
+      { k: "inbound", label: "Fresh inbound enquiry (5-minute rule)", type: "chips", options: [["1", "Yes"], ["0", "No"]], num: true, required: true,
+        hint: "No removes the 5-minute timer and its task." },
       { k: "status", label: "Stage", type: "select", options: C.opts(C.STATUS), half: true },
       { k: "dncr", label: "DNCR (UAE numbers)", type: "select", options: [["unknown", "Not checked"], ["clear", "Checked: clear"], ["listed", "On the registry"]], half: true },
       { k: "lane", label: "Lane", type: "chips", options: C.opts(C.LANE) },
