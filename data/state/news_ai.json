@@ -478,6 +478,24 @@
    "category": "Developer news",
    "impact": "Medium",
    "impact_reason": "Advances major residential supply on Dubai Islands."
+  },
+  "d1610bd04508": {
+   "relevant": false,
+   "headline": "Kuwait starts demolishing hundreds of violating properties",
+   "summary": "Authorities in Kuwait are tearing down numerous buildings due to construction violations. More structures face the same fate soon.",
+   "why": "This news focuses on foreign municipal enforcement rather than Dubai real estate.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "No relevance to the Dubai property market."
+  },
+  "ffbf689ad105": {
+   "relevant": false,
+   "headline": "Sobha Realty renews IIFA partnership alongside Abu Dhabi growth",
+   "summary": "The developer has extended its event partnership while focusing on expanding its presence in Abu Dhabi.",
+   "why": "Sponsorships and brand partnerships do not directly impact property buying or market economics.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Marketing sponsorship lacks direct market impact."
   }
  }
 }
