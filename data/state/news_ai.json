@@ -622,6 +622,24 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Event announcement with no immediate effect on local pricing."
+  },
+  "9e9334549025": {
+   "relevant": true,
+   "headline": "Dubai approves urban plan to raise property values by AED20 billion",
+   "summary": "The emirate has greenlit an AED2 billion development strategy. This initiative aims to significantly enhance local real estate values.",
+   "why": "This major government investment directly targets property valuation growth.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Boosts property values and investor sentiment."
+  },
+  "c223d680fa1d": {
+   "relevant": true,
+   "headline": "AED2 billion urban plan aims to lift Dubai property values",
+   "summary": "Authorities have endorsed a new urban development framework. The project is designed to generate AED20 billion in property value gains.",
+   "why": "Large-scale urban development directly impacts market values and buyer confidence.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Drives substantial appreciation in real estate values."
   }
  }
 }
