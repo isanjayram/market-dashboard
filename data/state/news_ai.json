@@ -433,6 +433,51 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Involves future private sector investment framework."
+  },
+  "6de53457a5c2": {
+   "relevant": true,
+   "headline": "Zimaya Properties unveils fifth Dubai residential project with golf views",
+   "summary": "Zimaya Properties has expanded its portfolio with a new residential development overlooking a golf course. This marks the developer's fifth project in Dubai.",
+   "why": "It highlights new residential inventory entering the Dubai real estate market.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Adds new residential supply to the market."
+  },
+  "d6b50413c5a5": {
+   "relevant": true,
+   "headline": "Dubai rental trends show 2026 demand for 1-beds and dropping villa prices",
+   "summary": "Projections for Dubai's 2026 rental market indicate that one-bedroom apartments will drive demand. Meanwhile, villa rental rates are expected to decline by 11 percent, with new leases outpacing renewals.",
+   "why": "It provides crucial leasing trend forecasts for landlords and tenants.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Shifts in rental demand and pricing affect investor yields."
+  },
+  "7f017f691eb8": {
+   "relevant": true,
+   "headline": "Zimaya Properties launches Dh185 million Lawncrest project in Dubai",
+   "summary": "Zimaya Properties has officially introduced its fifth venture, the Dh185 million Lawncrest development. The project adds fresh off-plan options to the local property market.",
+   "why": "It introduces a new property launch and investment opportunity.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Expands off-plan investment options for buyers."
+  },
+  "92df8e6b468f": {
+   "relevant": true,
+   "headline": "New Dubai off-plan property launches focus on innovative architecture",
+   "summary": "Recent off-plan property developments in Dubai are focusing heavily on unique architectural designs. These new projects aim to attract buyers through distinct visual aesthetics.",
+   "why": "It reflects current design trends among new off-plan property offerings.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Reflects design trends without altering market fundamentals."
+  },
+  "3cfb027bec10": {
+   "relevant": true,
+   "headline": "Nakheel awards AED950m contract for Bay Grove Residences on Dubai Islands",
+   "summary": "Nakheel has granted a major construction contract exceeding AED950 million for 617 homes at Bay Grove Residences. The development is situated on Dubai Islands.",
+   "why": "It demonstrates construction progress on a significant residential waterfront project.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Advances major residential supply on Dubai Islands."
   }
  }
 }

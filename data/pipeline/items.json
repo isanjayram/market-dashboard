@@ -1562,5 +1562,27 @@
 "starting_price": "Dh350 million",
 "payment_plan": null
 }
+},
+"3cfb027bec10": {
+"id": "3cfb027bec10",
+"title": "Nakheel awards AED950m contract for Bay Grove Residences on Dubai Islands",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcVNua1duUk5abzJYVjdxZTNCU0tJbU95ck43UWRZZTl3dUU0bVVJVnhmcmJrODVrNzB4WWh1YWhVVm9DQXJON1Y1ZXp2elpBaDRpdC10N0Z2MzBLWlVRN1FhajNYOUYwOHo5b0dtWktDejg1emVYdk02eWRmc3FlT3NuSQ?oc=5",
+"source": "www.wam.ae",
+"category": "Developer news",
+"published": "2026-10-26T23:30+04:00",
+"first_seen": "2026-10-27",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": "Bay Grove Residences",
+"developer": "Nakheel",
+"location": "Dubai Islands",
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
