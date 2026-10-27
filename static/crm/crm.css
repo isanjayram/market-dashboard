@@ -592,3 +592,9 @@ input[type="file"]::file-selector-button { font: 600 14px var(--font); color: va
 .crm .portal .say .t { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; word-break: normal; }
 .crm .wrow > div { min-width: 0; }
 .crm .wrow .mono { display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; word-break: normal; }
+
+/* Phone top bar: solid, same colour as the status bar above it, so the two read as one surface (no blurred
+   colour patch or seam when content scrolls under). The soft fade below the bar stays. */
+@media (max-width: 1023px) {
+  .topbar, .topbar.scrolled { background: var(--bg); -webkit-backdrop-filter: none; backdrop-filter: none; }
+}
