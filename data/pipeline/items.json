@@ -1474,5 +1474,71 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"e6ae5a0da9fe": {
+"id": "e6ae5a0da9fe",
+"title": "Aldar reports 25 percent net profit surge on new launches",
+"link": "https://www.thenationalnews.com/business/property/2026/10/27/aldar-reports-25-jump-in-q3-net-profit-amid-launch-of-new-projects/",
+"source": "The National",
+"category": "Developer news",
+"published": "2026-10-27T09:04+04:00",
+"first_seen": "2026-10-27",
+"kind": "Off-plan launch",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"68ee0c529177": {
+"id": "68ee0c529177",
+"title": "Etihad Rail connects transport network to usher in era",
+"link": "https://www.khaleejtimes.com/business-technology-review/uae-completes-a-missing-link-in-its-transport-network-etihad-rail-ushers-in-a-new-era-of-connectivity",
+"source": "Khaleej Times",
+"category": "Infrastructure",
+"published": "2026-10-27T07:30+04:00",
+"first_seen": "2026-10-27",
+"kind": "Infrastructure",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"353d8214477a": {
+"id": "353d8214477a",
+"title": "Abu Dhabi anticipates property launch every three days",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYktBRXRVSjVxQkV1bjBFaDc3RHV4anl2MVhNamF6VDByZFI2YWxEaGozdUt2bjZ6eTduUUt3SnNtaDNTVmU5Um1LTHZKX1hsWEhXUDZ0dTVuWXZKelNiQnZtekVLS1NELVk3Wk1iaXRuT2V3SkxHT0l6VEJLMXZLODhZZlVNSXhsbVh6ZzIzVVdxdHlZRERhS3Jta1JMaTNJa0tLZ2oyeUI1SlhJRThEa08zQUlrVFJ0MU13UFBBLVQ5UdIBwgFBVV95cUxNYktBRXRVSjVxQkV1bjBFaDc3RHV4anl2MVhNamF6VDByZFI2YWxEaGozdUt2bjZ6eTduUUt3SnNtaDNTVmU5Um1LTHZKX1hsWEhXUDZ0dTVuWXZKelNiQnZtekVLS1NELVk3Wk1iaXRuT2V3SkxHT0l6VEJLMXZLODhZZlVNSXhsbVh6ZzIzVVdxdHlZRERhS3Jta1JMaTNJa0tLZ2oyeUI1SlhJRThEa08zQUlrVFJ0MU13UFBBLVQ5UQ?oc=5",
+"source": "Khaleej Times",
+"category": "Developer news",
+"published": "2026-10-26T10:39+04:00",
+"first_seen": "2026-10-27",
+"kind": "Off-plan launch",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

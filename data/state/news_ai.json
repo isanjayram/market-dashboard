@@ -1,78 +1,4 @@
 {
- "2026-10-25": {
-  "65f07dc29508": {
-   "relevant": false,
-   "headline": "Industry experts launch new real estate venture in Dubai",
-   "summary": "Industry specialists have joined forces to establish a new property company in Dubai.",
-   "why": "This is a general company launch without direct impact on current market conditions.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "General business launch without broader market impact."
-  },
-  "f92afd91d025": {
-   "relevant": false,
-   "headline": "Dubai property acts as a major wealth creation engine",
-   "summary": "W Capital notes that the local property sector continues generating significant wealth and millionaires.",
-   "why": "This is an opinion piece on wealth creation without actionable market news.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Opinion piece lacking concrete actionable data."
-  },
-  "f8bcdc038dbf": {
-   "relevant": true,
-   "headline": "Aldar expands its UK real estate investment footprint",
-   "summary": "Abu Dhabi's Aldar Properties continues to grow its real estate investments in the British market.",
-   "why": "It shows major regional developers expanding international portfolios.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "International expansion does not directly affect local Dubai buyers."
-  },
-  "14bf818cb6c8": {
-   "relevant": true,
-   "headline": "Azizi development in Dubai Studio City reaches 62 percent completion",
-   "summary": "Construction on Azizi's mixed-use project located in Dubai Studio City has advanced to 62 percent.",
-   "why": "Construction progress updates help track project delivery timelines for buyers.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Tracks construction progress for specific upcoming supply."
-  },
-  "8eb62e74240f": {
-   "relevant": true,
-   "headline": "Abu Dhabi issues warnings over farm tenancy rule violations",
-   "summary": "Authorities in Abu Dhabi threaten fines and repossession for agricultural tenants breaking rules.",
-   "why": "It highlights strict enforcement of lease regulations in the UAE.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Applies strictly to agricultural leases in Abu Dhabi."
-  },
-  "dc649f9818fe": {
-   "relevant": true,
-   "headline": "Final World Trade Centre Bridge Opens Friday",
-   "summary": "Dubai's RTA is opening the last bridge of the World Trade Centre Roundabout project this Friday. The new kilometer-long bridge will significantly boost local vehicle capacity.",
-   "why": "Infrastructure enhancements improve neighborhood accessibility and appeal.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Enhances traffic flow around a major area."
-  },
-  "5cd6d79ffbbd": {
-   "relevant": true,
-   "headline": "Guide to Selling Mortgaged Properties in Dubai",
-   "summary": "Property owners facing financial hardship can explore specific legal procedures to sell mortgaged homes and transfer loans. Bank approval and structured legal steps are required for successful transfers.",
-   "why": "Helps sellers understand mortgage clearance and property transfer regulations.",
-   "category": "Rates & mortgages",
-   "impact": "Low",
-   "impact_reason": "Explains existing standard legal processes for sellers."
-  },
-  "ac4f69a35f5e": {
-   "relevant": false,
-   "headline": "Builder-bank fraud investigations remain active in India",
-   "summary": "Numerous chargesheets and ongoing cases highlight systemic failures within Indian regulatory bodies to halt builder-bank fraud.",
-   "why": "This item focuses on Indian regulatory investigations rather than Dubai real estate, UAE economy, or cross-border NRI property rules.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Limited relevance to Dubai real estate market dynamics."
-  }
- },
  "2026-10-26": {
   "a624d2f81c6c": {
    "relevant": true,
@@ -289,6 +215,125 @@
    "category": "Developer news",
    "impact": "Low",
    "impact_reason": "Indicates steady development progress without altering broader market dynamics."
+  }
+ },
+ "2026-10-27": {
+  "30a81d56561d": {
+   "relevant": true,
+   "headline": "Dubai South sales soar amidst questions on unit size value",
+   "summary": "Sales transactions are increasing rapidly within the Dubai South area. Investors are questioning if property sizes are shrinking relative to pricing.",
+   "why": "It highlights shifting buyer value trends in a major Dubai district.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Reflects changing pricing and sizing dynamics for buyers."
+  },
+  "ab3045a73682": {
+   "relevant": false,
+   "headline": "Long-term UAE Indian resident wins major lottery prize",
+   "summary": "An Indian expatriate living in Sharjah for decades won a massive lottery. The windfall provides a potential pathway to obtain a Golden Visa.",
+   "why": "This is an individual human-interest lottery story rather than broad property news.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Individual win with no direct market-wide regulatory impact."
+  },
+  "fff2b3ec87d7": {
+   "relevant": false,
+   "headline": "Long-term UAE Indian resident wins major lottery prize",
+   "summary": "An Indian national living in the UAE for decades won a large cash prize. The winner plans to use the funds to apply for residency.",
+   "why": "This is a duplicate lifestyle lottery story lacking broader economic relevance.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Duplicate individual story with no macro market effect."
+  },
+  "e6ae5a0da9fe": {
+   "relevant": true,
+   "headline": "Aldar reports 25 percent net profit surge on new launches",
+   "summary": "Aldar Properties saw third-quarter net profits rise by a quarter alongside higher revenues. Growth was driven by new project rollouts.",
+   "why": "It demonstrates strong financial health and ongoing expansion by a major regional developer.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Indicates robust developer performance and active project pipelines."
+  },
+  "68ee0c529177": {
+   "relevant": true,
+   "headline": "Etihad Rail connects transport network to usher in era",
+   "summary": "The UAE has finished a critical missing link in its transit infrastructure. Etihad Rail significantly improves national connectivity.",
+   "why": "Improved transport infrastructure often enhances accessibility and boosts surrounding property values.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Infrastructure upgrades can influence regional accessibility and real estate demand."
+  },
+  "762729cbd1fb": {
+   "relevant": true,
+   "headline": "UAE updates transport and rules heading into winter season",
+   "summary": "November brings several new regulations, transport options, and road changes across the country. These updates coincide with the start of cooler weather activities.",
+   "why": "Regulatory and infrastructure updates directly impact daily operations and community access.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "New rules and transport options affect community access and routines."
+  },
+  "353d8214477a": {
+   "relevant": true,
+   "headline": "Abu Dhabi anticipates property launch every three days",
+   "summary": "Strong market demand is prompting a rapid pace of new real estate project launches in Abu Dhabi. A fresh development is expected to debut roughly every 72 hours.",
+   "why": "High supply velocity signals strong developer confidence and robust buyer demand in the capital.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Shows high supply growth and sustained market demand."
+  },
+  "de9d5a84b265": {
+   "relevant": true,
+   "headline": "Standard Asset Company opens ADGM office for strategy",
+   "summary": "Standard Asset Company has established its headquarters within the Abu Dhabi Global Market. The office will spearhead a large-scale asset strategy combining Bitcoin reserves and real estate.",
+   "why": "Inflows of institutional capital into local asset management affect the broader financial ecosystem.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "New corporate office opening with indirect market influence."
+  },
+  "0ab1c1ef8110": {
+   "relevant": true,
+   "headline": "Dar Global considers launching dedicated Dubai real estate fund",
+   "summary": "The developer is evaluating a new investment vehicle focused on local property assets. This plan supports its broader strategy for international acquisitions.",
+   "why": "New institutional capital funds entering the market affect liquidity and investor sentiment.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "New property fund targets local acquisitions and investments."
+  },
+  "f3cdd34e6131": {
+   "relevant": true,
+   "headline": "Dar Global Capital Partners targets Dubai luxury real estate",
+   "summary": "The firm is aiming for high-value properties within its global investment mandate. This initiative highlights continued institutional interest in the luxury segment.",
+   "why": "Targeting high-end properties influences luxury segment demand and pricing.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Focuses on high-value property investment opportunities."
+  },
+  "cc53e845556a": {
+   "relevant": true,
+   "headline": "Dubai Islands residential land mortgaged for Dhs618 million",
+   "summary": "A large plot of residential land on Dubai Islands has been heavily mortgaged. Such high-value financial transactions usually indicate upcoming project development funding.",
+   "why": "Large land mortgages signal upcoming project financing and development activity.",
+   "category": "Supply & market reports",
+   "impact": "Low",
+   "impact_reason": "Highlights substantial financing secured for island land plots."
+  },
+  "aaf3e1f6ebc0": {
+   "relevant": true,
+   "headline": "Hyderabad to host UAE Property Grand Expo in 2026",
+   "summary": "The convention center in Hyderabad will host the property showcase in late 2026. This event aims to attract international buyers from India to the UAE market.",
+   "why": "Overseas expos directly target international buyers and drive inbound investment.",
+   "category": "Supply & market reports",
+   "impact": "Low",
+   "impact_reason": "Promotes UAE property to international buyers abroad."
+  },
+  "5f838d353d37": {
+   "relevant": true,
+   "headline": "Dar Global explores investment fund for Dubai real estate",
+   "summary": "The company is looking into creating a specialized fund for local property investments. Such moves expand the availability of institutional capital in the sector.",
+   "why": "New investment vehicles expand funding options for local real estate projects.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Explores new funding options for local real estate."
   }
  }
 }
