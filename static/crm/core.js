@@ -694,8 +694,9 @@
         const portrait = matchMedia("(orientation: portrait)").matches;
         const full = portrait ? Math.max(screen.width, screen.height) : Math.min(screen.width, screen.height);
         const root = document.documentElement;
+        // Always applied: some iPhones report the right innerHeight yet still draw the frame short.
         root.style.setProperty("--full-h", `${Math.max(innerHeight, full)}px`);
-        root.classList.toggle("fullh", full > innerHeight + 1);
+        root.classList.add("fullh");
       };
       fit();
       addEventListener("resize", fit);
