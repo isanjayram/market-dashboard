@@ -2,7 +2,7 @@
 
 A private phone app (home-screen web app) that rebuilds itself every morning at no cost, so the day's market numbers are ready by 9:30 AM Gulf time. Nothing runs on your laptop.
 
-**Tabs:** Brief (5 bullets + 3 talking points + top news) · Market (DLD sales) · Rent (Ejari) · News (top 8 + 30-day archive) · More (Project pipeline, Developers, Landmarks).
+**Tabs:** Brief (5 bullets + 3 talking points + top news) · Market (DLD sales) · Rent (Ejari) · News (top 8 + 30-day archive) · **CRM** (your sales pipeline, see below) · More (Project pipeline, Developers, Landmarks).
 
 **Live:** https://sanjay-market-brief.pages.dev (password). On iPhone: open in Safari → Share → Add to Home Screen.
 
@@ -127,3 +127,25 @@ of the repo in `~/Library/Application Support/MorningBrief`.
 
 Log: `~/Library/Logs/MorningBrief/refresh.log`. If the Mac is off for 5+ days the
 Market tab shows STALE until it runs again.
+
+## CRM (/crm/)
+
+Your sales system as an app: the CRM tab in the bottom bar, behind the same password. Data lives in a free Cloudflare D1 database (`sanjay-crm`), not in this repo, so the morning rebuild never touches it.
+
+| Screen | What it does |
+|---|---|
+| **Today** | Touches vs 60, whether UAE calling hours are open, which block of your day you're in. Lists, in order: inbound leads (5-minute timer), today's meetings, overdue follow-ups, due today, hot leads not touched this week, fresh numbers. |
+| **Call → log** | Tap call, and when you come back to the app the log opens. One tap for the outcome (no answer · booked · stay in touch · referral · not interested · don't contact), the nos count, and a follow-up date. Booked opens the meeting booking; referral opens a new lead already linked to the person who referred them. |
+| **Compliance guard** | Blocks calls to UAE numbers outside 9 AM–6 PM, numbers on the DNCR, people who asked not to be called, and same-day callbacks after a no. Warns when the DNCR isn't checked yet, or when it's late in the lead's own time zone (India/US). |
+| **Meeting** | The 30-minute run of show: context script, Gate 1 need, Gate 2 decision-maker and timeline, Gate 3 budget (each marked pass or not), belief-break, units, the 1–10 close, objections (with your answer to each), outcome. Saving updates the lead: lane, budget, hot or nurture. |
+| **Pipeline** | Leads by stage, upcoming meetings, and a deal board: EOI → allocation → booking → SPA → Oqood → commission paid. Your net is shown in AED and $. |
+| **Numbers** | $100K goal (booked vs paid vs in EOI), a funnel against your assumed rates with the leak highlighted, weekly targets, speed to lead, gate failures and objections, the weekly KPI table, monthly targets, and lead sources. |
+| **More** | Friday review, Launch Filter inventory, scripts and objections, CSV import, settings (targets, commission %, WhatsApp templates), the inbound webhook, backup and export. |
+
+**Telegram:** the morning call plan at 07:41 and the Friday review at 13:13, both Gulf time (`.github/workflows/crm.yml`). Every inbound lead posted to the webhook (Settings → Inbound) also pings you straight away. Telegram needs the `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID` secrets.
+
+**Setup (once):** the Cloudflare API token needs **Account → D1 → Edit** on top of its Pages and Workers permissions (SETUP-KIT step 6). The deploy step then creates the database, applies `migrations/crm/*.sql`, and binds it as `CRM`. Without that permission the brief still publishes, and the CRM tab says the database isn't connected.
+
+**Backup:** Settings → Full backup (JSON), or a CSV per table. D1 on the free plan also keeps 7 days of point-in-time restore. Lead data stays out of git on purpose.
+
+**Schema changes:** add `migrations/crm/000N_name.sql`. The next deploy applies it.

@@ -9,3 +9,5 @@ design/options/*.png
 design/options/_*
 node_modules/
 .wrangler/
+wrangler.toml
+.dev.vars

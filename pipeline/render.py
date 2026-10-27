@@ -136,3 +136,8 @@ def build(pulse: dict[str, Any] | None, pulse_meta: dict[str, Any], run: dict[st
     for extra in (STATIC_DIR / "app").iterdir():  # home-screen app: manifest, icons, offline worker
         if extra.is_file():
             shutil.copy(extra, SITE_DIR / extra.name)
+    # CRM: a static shell at /crm/ that talks to functions/api/crm (data lives in Cloudflare D1, not in the build).
+    crm = SITE_DIR / "crm"
+    shutil.rmtree(crm, ignore_errors=True)
+    shutil.copytree(STATIC_DIR / "crm", crm)
+    shutil.copy(STATIC_DIR / "app.css", crm / "base.css")

@@ -1,0 +1,32 @@
+name: CRM digest
+
+# Telegram nudges from the CRM: the morning call plan and the Friday review.
+# The CRM builds the message itself (functions/api/crm); this only knocks on its door.
+on:
+  schedule:
+    - cron: "41 3 * * *"    # 07:41 Gulf time, every day: meetings, overdue follow-ups, inbound waiting
+    - cron: "13 9 * * 5"    # 13:13 Gulf time, Friday: weekly review (leak to fix, lists, stalled deals)
+  workflow_dispatch:
+    inputs:
+      kind:
+        description: "morning or friday"
+        default: morning
+
+permissions:
+  contents: read
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Ask the CRM to send it
+        env:
+          DASHBOARD_PASSWORD: ${{ secrets.DASHBOARD_PASSWORD }}
+          KIND: ${{ inputs.kind || (github.event.schedule == '13 9 * * 5' && 'friday' || 'morning') }}
+          URL: https://sanjay-market-brief.pages.dev
+        run: |
+          [ -n "$DASHBOARD_PASSWORD" ] || { echo "No DASHBOARD_PASSWORD secret"; exit 1; }
+          # Same key the CRM derives from the dashboard password (HMAC-SHA256 of "crm-cron-v1").
+          TOKEN=$(printf 'crm-cron-v1' | openssl dgst -sha256 -hmac "$DASHBOARD_PASSWORD" -hex | sed 's/^.* //')
+          curl -sS --fail-with-body -X POST "$URL/api/crm/digest?kind=$KIND" -H "Authorization: Bearer $TOKEN" | python3 -c "import json,sys; d=json.load(sys.stdin); print('sent' if d.get('sent') else 'not sent (Telegram secrets missing?)')"
