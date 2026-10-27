@@ -583,3 +583,12 @@ input[type="file"]::file-selector-button { font: 600 14px var(--font); color: va
 .prow { grid-template-columns: minmax(0, 1fr) minmax(0, 1.5fr) 52px 28px; }
 .prow { grid-template-columns: minmax(0, 1fr) minmax(0, 1.25fr) 46px 24px; }
 .prow input { padding-left: 10px; padding-right: 8px; font-size: 15px; }
+
+/* Save bars rest just above the tab capsule (#app's bottom padding already clears it), not over the content. */
+.savebar[hidden] { display: none; }
+@media (max-width: 1023px) { .savebar { bottom: -16px; } }
+/* Inbound addresses: one line each, shortened with … (Copy still copies the whole address). */
+.crm .portal .say { align-items: center; }
+.crm .portal .say .t { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; word-break: normal; }
+.crm .wrow > div { min-width: 0; }
+.crm .wrow .mono { display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; word-break: normal; }
