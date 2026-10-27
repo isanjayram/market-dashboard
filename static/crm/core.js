@@ -531,6 +531,9 @@
     matchMedia("(min-width: 1024px)").addEventListener("change", () => render());
     if ("serviceWorker" in navigator && location.protocol === "https:") navigator.serviceWorker.register("/sw.js").catch(() => {});
     paintSync();
+    // No pinch-zoom: a home-screen app on iPhone can stay zoomed out and never bounce back.
+    // (Safari's own gesture events; the viewport tag and touch-action cover the rest.)
+    for (const ev of ["gesturestart", "gesturechange", "gestureend"]) document.addEventListener(ev, (e) => e.preventDefault(), { passive: false });
     // iPhone/iPad in "Request Desktop Website" mode lays the page out ~980 px wide and shrinks it to fit
     // (tiny, centred, tab bar off-screen). Say how to switch back instead of looking broken.
     if (navigator.maxTouchPoints > 0 && screen.width < 900 && innerWidth > screen.width * 1.4) {
