@@ -7,6 +7,8 @@ const MAX_AGE = 60 * 60 * 24 * 90; // 90 days, so the home-screen app rarely ask
 const enc = new TextEncoder();
 const PUBLIC = new Set(["/health.json", "/manifest.webmanifest", "/apple-touch-icon.png", "/icon-192.png",
   "/icon-512.png", "/sw.js", "/robots.txt"]);
+// CRM routes that check their own key (a lead form posting in, the scheduled Telegram digest).
+const OWN_KEY = new Set(["/api/crm/inbound", "/api/crm/digest"]);
 
 async function tokenFor(password) {
   const key = await crypto.subtle.importKey("raw", enc.encode(password), { name: "HMAC", hash: "SHA-256" }, false, ["sign"]);
@@ -29,7 +31,10 @@ function readCookie(request, name) {
   return null;
 }
 
-function loginPage(message, status = 401) {
+// After signing in, go back to the page that asked (e.g. /crm/), never to another site.
+const safeNext = (p) => (typeof p === "string" && /^\/(?!\/)[\w\-./]*$/.test(p) ? p : "/");
+
+function loginPage(message, status = 401, next = "/") {
   const note = message ? `<p class="err" role="alert">${message}</p>` : "";
   const html = `<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex, nofollow">
@@ -57,6 +62,7 @@ function loginPage(message, status = 401) {
   <label for="pw">Password</label>
   <input id="pw" name="password" type="password" autocomplete="current-password" required autofocus>
   <input type="hidden" name="username" autocomplete="username" value="sanjay">
+  <input type="hidden" name="next" value="${safeNext(next)}">
   <button type="submit">Open dashboard</button>${note}
 </form></body></html>`;
   return new Response(html, {
@@ -69,7 +75,7 @@ export async function onRequest({ request, env, next }) {
   const url = new URL(request.url);
   // No market data in these: freshness for an outside check, and the home-screen app's
   // manifest, icons and offline worker (iOS fetches the icon before you sign in).
-  if (PUBLIC.has(url.pathname)) return next();
+  if (PUBLIC.has(url.pathname) || OWN_KEY.has(url.pathname)) return next();
 
   const password = env.DASHBOARD_PASSWORD;
   if (!password) return new Response("Dashboard password is not set yet.", { status: 503 });
@@ -80,11 +86,11 @@ export async function onRequest({ request, env, next }) {
     if (sameString(await tokenFor(String(form.get("password") || "")), token)) {
       return new Response(null, {
         status: 303,
-        headers: { Location: "/", "Set-Cookie": `${COOKIE}=${token}; Max-Age=${MAX_AGE}; Path=/; HttpOnly; Secure; SameSite=Lax` },
+        headers: { Location: safeNext(String(form.get("next") || "/")), "Set-Cookie": `${COOKIE}=${token}; Max-Age=${MAX_AGE}; Path=/; HttpOnly; Secure; SameSite=Lax` },
       });
     }
     await new Promise((r) => setTimeout(r, 1000)); // slow down guessing
-    return loginPage("That password didn't match.");
+    return loginPage("That password didn't match.", 401, String(form.get("next") || "/"));
   }
   if (url.pathname === "/__logout") {
     return new Response(null, {
@@ -101,5 +107,8 @@ export async function onRequest({ request, env, next }) {
     out.headers.set("cache-control", "private, no-store");
     return out;
   }
-  return loginPage("");
+  if (url.pathname.startsWith("/api/")) {
+    return new Response(JSON.stringify({ error: "Signed out" }), { status: 401, headers: { "content-type": "application/json" } });
+  }
+  return loginPage("", 401, url.pathname);
 }

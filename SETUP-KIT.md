@@ -73,7 +73,7 @@ The dashboard doesn't need this. Only do it if you later want the 9:30 brief and
 3. Create an API token:
    1. Open **My Profile → API Tokens → Create Token → Create Custom Token**.
    2. Name: `market-dashboard-deploy`.
-   3. Add two permissions: **Account → Cloudflare Pages → Edit** and **Account → Workers Scripts → Edit**.
+   3. Add three permissions: **Account → Cloudflare Pages → Edit**, **Account → Workers Scripts → Edit** and **Account → D1 → Edit** (the CRM's database). Already made the token? Edit it and add D1; the token value stays the same.
    4. Click **Continue → Create Token** and copy it. Save it as `CLOUDFLARE_API_TOKEN`.
 4. Optional test: click **Zero Trust** in the left menu and choose the Free plan.
    - If it asks for a payment method, close it. We'll use the password gate instead.

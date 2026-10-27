@@ -17,7 +17,8 @@ on:
         default: true
   push:
     branches: [main]
-    paths: ["data/state/dld_source.json", "data/state/mac_tick.json"]   # the Mac pushed fresh DLD data or its daily wake-up
+    paths: ["data/state/dld_source.json", "data/state/mac_tick.json",   # the Mac pushed fresh DLD data or its daily wake-up
+            "functions/**", "static/**", "templates/**", "migrations/**"]  # app or CRM code changed: redeploy
 
 permissions:
   contents: write
@@ -67,15 +68,49 @@ jobs:
           git pull --rebase origin main
           git push
 
+      # CRM data lives in a Cloudflare D1 database (free). This finds or creates it, writes the binding
+      # into wrangler.toml for the deploy below, and applies new tables from migrations/crm.
+      # If it fails (e.g. the API token lacks D1 permission), the brief still publishes; the CRM tab says so.
+      - name: Connect the CRM database
+        if: steps.gate.outputs.skip != 'true'
+        continue-on-error: true
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          find_id() { npx --yes wrangler@4 d1 list --json | python3 -c "import json,sys; print(next((d.get('uuid') or d.get('id') for d in json.load(sys.stdin) if d.get('name') == 'sanjay-crm'), ''))"; }
+          ID=$(find_id)
+          if [ -z "$ID" ]; then npx --yes wrangler@4 d1 create sanjay-crm > /dev/null && ID=$(find_id); fi
+          [ -n "$ID" ] || { echo "::warning::CRM database not available (does the Cloudflare token have D1 Edit?)"; exit 1; }
+          cat > wrangler.toml <<EOF
+          name = "$PAGES_PROJECT"
+          pages_build_output_dir = "site"
+          compatibility_date = "2026-10-01"
+
+          [[d1_databases]]
+          binding = "CRM"
+          database_name = "sanjay-crm"
+          database_id = "$ID"
+          migrations_dir = "migrations/crm"
+          EOF
+          npx --yes wrangler@4 d1 migrations apply sanjay-crm --remote
+
       - name: Publish to Cloudflare Pages
         if: steps.gate.outputs.skip != 'true'
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           DASHBOARD_PASSWORD: ${{ secrets.DASHBOARD_PASSWORD }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           npx --yes wrangler@4 pages project create "$PAGES_PROJECT" --production-branch main > /dev/null 2>&1 || true
           printf '%s' "$DASHBOARD_PASSWORD" | npx --yes wrangler@4 pages secret put DASHBOARD_PASSWORD --project-name "$PAGES_PROJECT"
+          # The CRM pings Telegram itself when an inbound lead arrives (call within 5 minutes).
+          if [ -n "$TELEGRAM_BOT_TOKEN" ] && [ -n "$TELEGRAM_CHAT_ID" ]; then
+            printf '%s' "$TELEGRAM_BOT_TOKEN" | npx --yes wrangler@4 pages secret put TELEGRAM_BOT_TOKEN --project-name "$PAGES_PROJECT"
+            printf '%s' "$TELEGRAM_CHAT_ID" | npx --yes wrangler@4 pages secret put TELEGRAM_CHAT_ID --project-name "$PAGES_PROJECT"
+          fi
           npx --yes wrangler@4 pages deploy site --project-name "$PAGES_PROJECT" --branch main --commit-dirty=true
 
       - name: Send the morning summary on Telegram
