@@ -19,7 +19,7 @@
    "headline": "UAE Interest Rates Expected to Remain Unchanged Today",
    "summary": "Analyst predictions suggest the US Federal Reserve will maintain current rates without reductions. Borrowers in Dubai must wait longer for potential mortgage relief.",
    "why": "Interest rate stability directly dictates borrowing costs and mortgage affordability for real estate buyers.",
-   "age_hours": 0.5,
+   "age_hours": 0.6,
    "topic": "Rates & mortgages"
   },
   {
@@ -59,7 +59,7 @@
    "why": "It highlights shifting buyer value trends in a major Dubai district.",
    "age_hours": 21.5,
    "topic": "Developer news",
-   "more": 6
+   "more": 5
   },
   {
    "id": "aec5b615b4a0",
@@ -101,7 +101,7 @@
    "why": "This major government investment directly targets property valuation growth.",
    "age_hours": 5.7,
    "topic": "Macro & geopolitics",
-   "more": 1
+   "more": 4
   },
   {
    "id": "c223d680fa1d",
@@ -122,7 +122,7 @@
    "headline": "AED2 billion urban plan aims to lift Dubai property values",
    "summary": "Authorities have endorsed a new urban development framework. The project is designed to generate AED20 billion in property value gains.",
    "why": "Large-scale urban development directly impacts market values and buyer confidence.",
-   "age_hours": 6.7,
+   "age_hours": 6.8,
    "topic": "Macro & geopolitics"
   },
   {
@@ -166,7 +166,7 @@
    "headline": "Nakheel issues major construction contract for Dubai Islands project",
    "summary": "Nakheel has signed a significant construction agreement valued at $258 million. The deal focuses on the Bay Grove development located within Dubai Islands.",
    "why": "This signals progress in prominent master-planned communities that affect local inventory.",
-   "age_hours": 9.1,
+   "age_hours": 9.2,
    "topic": "nakheel"
   },
   {
@@ -212,10 +212,10 @@
   }
  ],
  "window_hours": 24,
- "count_relevant": 18,
- "count_fetched": 276,
+ "count_relevant": 20,
+ "count_fetched": 303,
  "feed_errors": {},
- "mode": "AI summaries (gemini)",
- "as_of": "2026-10-28T00:32+04:00",
- "saved_at": "2026-10-28T00:32+04:00"
+ "mode": "AI summaries (saved from an earlier run)",
+ "as_of": "2026-10-28T00:35+04:00",
+ "saved_at": "2026-10-28T00:35+04:00"
 }
