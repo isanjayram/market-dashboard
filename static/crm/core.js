@@ -385,19 +385,58 @@
       busyRefresh = false; reset();
     });
   })();
-  // iPhone home-screen apps have no system back swipe: swipe right from the left edge to go back.
+  // Swipe between pages (phone). On the five main tabs: left = next tab, right = previous tab.
+  // Anywhere else (a lead, meeting prep, settings…): right = back. The page follows the finger.
+  const TABS = ["today", "leads", "pipeline", "market", "more"];
   (() => {
-    let x0 = null, y0 = 0;
-    addEventListener("touchstart", (e) => { const t = e.touches[0]; x0 = t.clientX < 24 && !sheetStack.length ? t.clientX : null; y0 = t.clientY; }, { passive: true });
-    addEventListener("touchend", (e) => {
-      if (x0 === null) return;
-      const t = e.changedTouches[0];
-      if (t.clientX - x0 > 80 && Math.abs(t.clientY - y0) < 60) {
-        const back = document.querySelector(".tb-back:not([hidden])");
-        if (C._navCount > 0) history.back(); else if (back) location.hash = back.getAttribute("href").slice(1);
-      }
-      x0 = null;
+    let x0 = null, y0 = 0, dx = 0, mode = null, t0 = 0;
+    const view = () => document.getElementById("view");
+    const NO = "input, textarea, select, .board, .chips.scroll, .tscroll, .seg.scroll, svg.chart, .kpi, .sheet-wrap, .picklist";
+    // A main-tab screen is one with no back link whose section is a tab (Calendar counts as Pipeline).
+    const where = () => {
+      const r = C.routes[(location.hash.slice(1) || "today").split("/")[0]] || C.routes.today;
+      const backHidden = document.querySelector(".tb-back")?.hidden !== false;
+      const i = TABS.indexOf(r.nav);
+      return { onTab: backHidden && i >= 0, i, nav: r.nav };
+    };
+    addEventListener("touchstart", (e) => {
+      if (C.isDesktop() || sheetStack.length || e.touches.length > 1 || e.target.closest(NO)) { x0 = null; return; }
+      x0 = e.touches[0].clientX; y0 = e.touches[0].clientY; dx = 0; mode = null; t0 = Date.now();
     }, { passive: true });
+    addEventListener("touchmove", (e) => {
+      if (x0 === null) return;
+      const t = e.touches[0]; const ddx = t.clientX - x0, ddy = t.clientY - y0;
+      if (mode === null && (Math.abs(ddx) > 10 || Math.abs(ddy) > 10)) mode = Math.abs(ddx) > Math.abs(ddy) * 1.3 ? "x" : "y";
+      if (mode !== "x") return;
+      e.preventDefault();
+      const w = where();
+      const blocked = w.onTab ? (ddx > 0 && w.i <= 0) || (ddx < 0 && w.i >= TABS.length - 1) : ddx < 0;
+      dx = blocked ? ddx * 0.18 : ddx; // rubber-band at the first/last tab
+      const v = view(); v.style.transition = "none"; v.style.transform = `translateX(${dx}px)`; v.style.opacity = String(1 - Math.min(0.35, Math.abs(dx) / 900));
+    }, { passive: false });
+    addEventListener("touchend", () => {
+      if (x0 === null || mode !== "x") { x0 = null; return; }
+      x0 = null;
+      const v = view(), w = where();
+      const fast = Math.abs(dx) > 60 && Date.now() - t0 < 250; // a quick flick counts too
+      const go = Math.abs(dx) > 90 || fast;
+      let target = null;
+      if (go && w.onTab) { const n = w.i + (dx < 0 ? 1 : -1); if (n >= 0 && n < TABS.length) target = TABS[n]; }
+      if (go && !w.onTab && dx > 0) target = "back";
+      if (!target) { v.style.transition = "transform .22s ease-out, opacity .22s"; v.style.transform = ""; v.style.opacity = ""; return; }
+      const dir = dx < 0 ? -1 : 1;
+      v.style.transition = "transform .16s ease-in, opacity .16s"; v.style.transform = `translateX(${dir * innerWidth * 0.6}px)`; v.style.opacity = "0";
+      setTimeout(() => {
+        v.style.transition = "none"; v.style.transform = `translateX(${-dir * innerWidth * 0.35}px)`;
+        if (target === "back") {
+          const back = document.querySelector(".tb-back:not([hidden])");
+          if (C._navCount > 0) history.back(); else location.hash = back ? back.getAttribute("href").slice(1) : TABS.includes(w.nav) ? "today" : "more";
+        } else location.hash = target;
+        requestAnimationFrame(() => requestAnimationFrame(() => {
+          v.style.transition = "transform .24s cubic-bezier(.2,.8,.2,1), opacity .24s"; v.style.transform = ""; v.style.opacity = "";
+        }));
+      }, 160);
+    });
   })();
   // A sheet instead of confirm()/prompt(): resolves to true / the text, or null when cancelled.
   C.ask = (title, { text, input, value, ok = "OK", danger = false, placeholder } = {}) => new Promise((resolve) => {
@@ -493,7 +532,9 @@
   C.isDesktop = () => matchMedia("(min-width: 1024px)").matches;
 
   // Swipe a row on the phone: right = call, left = log. Vertical scrolling is left alone.
-  C.swipeable = (row, { right, left, rightLabel = "Call", leftLabel = "Log" }) => {
+  // Rows used to swipe for call/log; the page swipe now owns sideways gestures, so rows stay still.
+  C.swipeable = (row) => row;
+  C._rowSwipe = (row, { right, left, rightLabel = "Call", leftLabel = "Log" }) => {
     if (!("ontouchstart" in window)) return row;
     const wrap = h("div", { class: "swipe" }, h("div", { class: "swipe-bg" }, h("span", { class: "l" }, C.icon("call", 18), rightLabel), h("span", { class: "r" }, leftLabel, C.icon("log", 18))), row);
     let x0, y0, dx = 0, lock = null;
