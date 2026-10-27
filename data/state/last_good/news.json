@@ -38,7 +38,7 @@
    "headline": "Golden Visa holders can obtain emergency return permits quickly",
    "summary": "UAE Golden Visa holders who lose their passports overseas can secure a return permit in just thirty minutes. This fast-track service ensures resident mobility is maintained.",
    "why": "It affects residency documentation rules for Golden Visa holders.",
-   "age_hours": 8.9,
+   "age_hours": 9.0,
    "topic": "golden visa"
   },
   {
@@ -57,9 +57,9 @@
    "headline": "Dubai South sales soar amidst questions on unit size value",
    "summary": "Sales transactions are increasing rapidly within the Dubai South area. Investors are questioning if property sizes are shrinking relative to pricing.",
    "why": "It highlights shifting buyer value trends in a major Dubai district.",
-   "age_hours": 21.4,
+   "age_hours": 21.5,
    "topic": "Developer news",
-   "more": 5
+   "more": 6
   },
   {
    "id": "aec5b615b4a0",
@@ -80,7 +80,7 @@
    "headline": "New urban development policy aims to raise property values",
    "summary": "Dubai approved a strategy to transform 48 urban centres by 2040. The initiative aims to elevate local real estate values by Dh20 billion.",
    "why": "Infrastructure planning directly impacts future property values across targeted zones.",
-   "age_hours": 4.0,
+   "age_hours": 4.1,
    "topic": "Infrastructure"
   },
   {
@@ -99,9 +99,9 @@
    "headline": "Dubai approves urban plan to raise property values by AED20 billion",
    "summary": "The emirate has greenlit an AED2 billion development strategy. This initiative aims to significantly enhance local real estate values.",
    "why": "This major government investment directly targets property valuation growth.",
-   "age_hours": 5.6,
+   "age_hours": 5.7,
    "topic": "Macro & geopolitics",
-   "more": 3
+   "more": 1
   },
   {
    "id": "c223d680fa1d",
@@ -144,7 +144,7 @@
    "headline": "Aldar reports 25 percent net profit surge on new launches",
    "summary": "Aldar Properties saw third-quarter net profits rise by a quarter alongside higher revenues. Growth was driven by new project rollouts.",
    "why": "It demonstrates strong financial health and ongoing expansion by a major regional developer.",
-   "age_hours": 15.4,
+   "age_hours": 15.5,
    "topic": "aldar"
   },
   {
@@ -185,7 +185,7 @@
    "headline": "Zimaya Properties rolls out Lawncrest residential project",
    "summary": "Zimaya Properties has introduced its fifth venture, named Lawncrest, carrying a price tag of Dh185 million. The new development expands residential options available in Dubai.",
    "why": "New project launches directly contribute to the expanding local real estate supply.",
-   "age_hours": 9.8,
+   "age_hours": 9.9,
    "topic": "Developer news"
   },
   {
@@ -207,15 +207,15 @@
    "headline": "Aldar reports higher revenue despite slowing UAE sales",
    "summary": "Aldar's total revenue increased despite a broader slowdown in property sales across the United Arab Emirates.",
    "why": "It provides insight into major developer financial health amid market shifts.",
-   "age_hours": 11.8,
+   "age_hours": 11.9,
    "topic": "aldar"
   }
  ],
  "window_hours": 24,
- "count_relevant": 19,
- "count_fetched": 285,
+ "count_relevant": 18,
+ "count_fetched": 276,
  "feed_errors": {},
- "mode": "AI summaries (saved from an earlier run)",
- "as_of": "2026-10-28T00:28+04:00",
- "saved_at": "2026-10-28T00:28+04:00"
+ "mode": "AI summaries (gemini)",
+ "as_of": "2026-10-28T00:32+04:00",
+ "saved_at": "2026-10-28T00:32+04:00"
 }
