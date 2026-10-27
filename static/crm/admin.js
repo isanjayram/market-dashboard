@@ -328,24 +328,27 @@
         monthly: monthEls.map(({ m, low, high, focus }) => ({ month: m.month, focus: focus.value, low: Number(low.value) || 0, high: Number(high.value) || 0 })),
         developer_commissions: devEls.map((x) => ({ developer: x.dev.value.trim(), pct: Number(x.pct.value) })).filter((x) => x.developer && x.pct > 0),
         templates: tplEls.map((t) => ({ name: t.name.value.trim(), text: t.text.value.trim() })).filter((t) => t.name && t.text) };
-      try { C.settings = (await C.api("settings", { method: "PUT", body })).settings; C.toast("Settings saved"); } catch (e) { C.fail(e); }
+      try { C.settings = (await C.api("settings", { method: "PUT", body })).settings; C.toast("Settings saved"); bar.hidden = true; } catch (e) { C.fail(e); }
     };
-    return { title: "Settings", back: moreBack, wide: true, body: [h("div", { class: "grid2" },
+    const bar = h("div", { class: "savebar" }, h("button", { class: "btn", type: "button", onclick: save }, "Save settings"));
+    bar.hidden = true;
+    const dirty = () => { bar.hidden = false; };
+    return { title: "Settings", back: moreBack, wide: true, body: [h("div", { class: "grid2", oninput: dirty, onchange: dirty },
       await pushCard(),
       C.card("Inbound leads → 5-minute alert", null, h("p", { class: "fhint" }, "Point each source at its own address. Every POST (JSON or form: name, phone, email, project, message) adds a hot lead, a “call within 5 minutes” task and a notification."),
         r.inbound_url ? PORTALS.map(([src, label, portal]) => h("div", { class: "portal" }, h("small", { class: "glabel" }, label), copyRow(`${r.inbound_url}&source=${src}&portal=${encodeURIComponent(portal)}`, true)))
           : h("p", { class: "muted" }, "Needs DASHBOARD_PASSWORD on the server.")),
       C.card("Commission", "agency % per developer, then Lyka's split", comm.el, devWrap,
-        h("button", { class: "btn ghost sm", type: "button", onclick: () => { const x = devRow(); devEls.push(x); devWrap.append(h("div", { class: "devrow" }, x.dev, x.pct, h("span", null, "%"))); x.dev.focus(); } }, C.icon("plus", 16), "Add developer")),
+        h("button", { class: "btn ghost sm", type: "button", onclick: () => { dirty(); const x = devRow(); devEls.push(x); devWrap.append(h("div", { class: "devrow" }, x.dev, x.pct, h("span", null, "%"))); x.dev.focus(); } }, C.icon("plus", 16), "Add developer")),
       h("section", { class: "card" }, f.el),
       C.card("Monthly deal targets", null, monthEls.map(({ m, low, high, focus }) => h("div", { class: "mrow" }, h("b", null, m.month), low, h("span", null, "–"), high, focus))),
       C.card("WhatsApp templates", "{first} = first name, {time} = meeting time", tplWrap,
-        h("button", { class: "btn ghost sm", type: "button", onclick: () => { const t = { name: h("input", { type: "text", placeholder: "Name" }), text: h("textarea", { rows: 3 }) }; tplEls.push(t); tplWrap.append(h("div", { class: "tplrow" }, t.name, t.text)); } }, C.icon("plus", 16), "Add template")),
+        h("button", { class: "btn ghost sm", type: "button", onclick: () => { dirty(); const t = { name: h("input", { type: "text", placeholder: "Name" }), text: h("textarea", { rows: 3 }) }; tplEls.push(t); tplWrap.append(h("div", { class: "tplrow" }, t.name, t.text)); } }, C.icon("plus", 16), "Add template")),
       C.card("Smart lists", "saved filters on Leads", (s.smart_lists || []).length ? smartWrap : C.empty("Make one from Leads → Filter → Save as a smart list.")),
       C.card("Backup", null, h("p", { class: "fhint" }, "Your data lives in Cloudflare D1 (7 days of point-in-time restore on the free plan). Download a copy every Friday."),
         h("div", { class: "stack row" }, h("a", { class: "btn ghost", href: "/api/crm/export?table=all" }, "Full backup (JSON)"),
           ["leads", "touches", "meetings", "deals", "tasks", "installments"].map((t) => h("a", { class: "btn ghost sm", href: `/api/crm/export?table=${t}` }, `${t[0].toUpperCase()}${t.slice(1)} CSV`))))),
-      h("div", { class: "savebar" }, h("button", { class: "btn", type: "button", onclick: save }, "Save settings"))] };
+      bar] };
   }, { nav: "more" });
 
   // ---------- Market (the Morning Brief inside the CRM) ----------
