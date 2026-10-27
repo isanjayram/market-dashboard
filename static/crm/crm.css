@@ -544,6 +544,7 @@ table.kpi td.hit { color: var(--green); font-weight: 700; }
 
 /* iPhone home-screen app: the frame takes the measured screen height (set in core.js), not the short layout viewport. */
 @media (max-width: 1023px) {
-  html.fullh:has(body.crm) { height: var(--full-h); }
-  html.fullh body.crm { bottom: auto; height: var(--full-h); }
+  html.fullh:has(body.crm) { height: max(var(--full-h), 100lvh); }
+  html.fullh body.crm { top: 0; bottom: auto; height: max(var(--full-h), 100lvh); min-height: max(var(--full-h), 100lvh); }
+  html.fullh body.crm #app { bottom: auto; height: max(var(--full-h), 100lvh); }
 }

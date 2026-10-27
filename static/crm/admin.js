@@ -388,7 +388,8 @@
           try { localStorage.setItem("theme", light ? "light" : "dark"); } catch (e) { /* ignore */ }
           C.paintChrome();
         } }, h("span", { class: "mi" }, C.icon("edit", 19)), h("div", { class: "lmain" }, h("b", null, "Light / dark"), h("small", null, "Switch the look on this device"))),
-        h("a", { class: "lrow link-row menu", href: "/__logout" }, h("span", { class: "mi" }, C.icon("x", 19)), h("div", { class: "lmain" }, h("b", null, "Sign out"), h("small", null, "On this device"))))] };
+        h("a", { class: "lrow link-row menu", href: "/__logout" }, h("span", { class: "mi" }, C.icon("x", 19)), h("div", { class: "lmain" }, h("b", null, "Sign out"), h("small", null, "On this device")))),
+      h("p", { class: "muted", style: "font-size:11px;text-align:center;margin:18px 0 0" }, `Screen ${screen.height} · page ${innerHeight} · frame ${Math.round(document.body.getBoundingClientRect().height)}`)] };
   });
 
   C.start();
