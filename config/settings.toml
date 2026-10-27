@@ -5,7 +5,7 @@
 [run]
 timezone = "Asia/Dubai"
 ready_by = "09:30"
-dashboard_url = "https://sanjay-market-brief.pages.dev"
+dashboard_url = "https://crm.propertywithsanjay.com"
 
 [dld]
 # data.dubai dataset ids (Dubai Land Department open data)

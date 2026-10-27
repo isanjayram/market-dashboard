@@ -7,6 +7,10 @@ const MAX_AGE = 60 * 60 * 24 * 90; // 90 days, so the home-screen app rarely ask
 const enc = new TextEncoder();
 const PUBLIC = new Set(["/health.json", "/manifest.webmanifest", "/apple-touch-icon.png", "/icon-192.png",
   "/icon-512.png", "/sw.js", "/robots.txt"]);
+// The CRM's address is crm.propertywithsanjay.com. Pages opened on the old pages.dev address move there;
+// API calls (inbound webhooks already set up on the old address) and the PUBLIC files keep working on both.
+const PRIMARY_HOST = "crm.propertywithsanjay.com";
+const OLD_HOST = "sanjay-market-brief.pages.dev";
 // CRM routes that check their own key (a lead form posting in, the scheduled Telegram digest).
 const OWN_KEY = new Set(["/api/crm/inbound", "/api/crm/digest"]);
 
@@ -76,6 +80,9 @@ export async function onRequest({ request, env, next }) {
   // No market data in these: freshness for an outside check, and the home-screen app's
   // manifest, icons and offline worker (iOS fetches the icon before you sign in).
   if (PUBLIC.has(url.pathname) || OWN_KEY.has(url.pathname)) return next();
+  if (url.hostname === OLD_HOST && !url.pathname.startsWith("/api/") && (request.method === "GET" || request.method === "HEAD")) {
+    return Response.redirect(`https://${PRIMARY_HOST}${url.pathname}${url.search}`, 301);
+  }
 
   const password = env.DASHBOARD_PASSWORD;
   if (!password) return new Response("Dashboard password is not set yet.", { status: 503 });

@@ -4,7 +4,7 @@ A private phone app (home-screen web app) that rebuilds itself every morning at 
 
 **The app is a CRM** (see "The CRM" below). The Morning Brief lives in its **Market** tab: Brief (5 bullets + 3 talking points + top news) · Sales (DLD) · Rent (Ejari) · News (top 8 + 30-day archive) · Projects (pipeline, developers, landmarks). The standalone brief page is still at `/brief/`.
 
-**Live:** https://sanjay-market-brief.pages.dev (password). On iPhone: open in Safari → Share → Add to Home Screen.
+**Live:** https://crm.propertywithsanjay.com (password). The old https://sanjay-market-brief.pages.dev forwards there. On iPhone: open in Safari → Share → Add to Home Screen.
 
 ## How it works
 
