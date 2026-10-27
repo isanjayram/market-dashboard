@@ -751,7 +751,7 @@ async function telegram(env, text) {
   return r.ok;
 }
 async function pingInbound(env, lead) {
-  const base = env.CRM_URL || "https://sanjay-market-brief.pages.dev";
+  const base = env.CRM_URL || "https://crm.propertywithsanjay.com";
   return telegram(env, [`🔥 <b>New inbound lead: call within 5 minutes</b>`, `${esc(lead.name)}${lead.phone ? ` · ${esc(lead.phone)}` : ""}`,
     lead.source_detail ? esc(lead.source_detail) : null, lead.notes ? `“${esc(lead.notes.slice(0, 200))}”` : null,
     `${base}/crm/#lead/${lead.id}`].filter(Boolean).join("\n"));
@@ -762,7 +762,7 @@ const usd = (aed) => `$${Math.round(aed / AED_PER_USD).toLocaleString("en-US")}`
 const pct = (x) => (x == null ? "n/a" : `${Math.round(x * 100)}%`);
 
 async function digest(db, env, kind) {
-  const base = env.CRM_URL || "https://sanjay-market-brief.pages.dev";
+  const base = env.CRM_URL || "https://crm.propertywithsanjay.com";
   if (kind === "friday") {
     const d = gulfDate();
     const st = await stats(db, new URL(`https://x/?from=${mondayOf(d)}&to=${d}`));

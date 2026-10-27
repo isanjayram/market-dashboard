@@ -24,7 +24,7 @@ jobs:
         env:
           DASHBOARD_PASSWORD: ${{ secrets.DASHBOARD_PASSWORD }}
           KIND: ${{ inputs.kind || (github.event.schedule == '13 9 * * 5' && 'friday' || 'morning') }}
-          URL: https://sanjay-market-brief.pages.dev
+          URL: https://crm.propertywithsanjay.com
         run: |
           [ -n "$DASHBOARD_PASSWORD" ] || { echo "No DASHBOARD_PASSWORD secret"; exit 1; }
           # Same key the CRM derives from the dashboard password (HMAC-SHA256 of "crm-cron-v1").
