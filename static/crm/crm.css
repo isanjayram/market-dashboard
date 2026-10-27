@@ -492,3 +492,11 @@ table.kpi td.hit { color: var(--green); font-weight: 700; }
     padding-bottom: calc(var(--tab-h) + env(safe-area-inset-bottom) + 24px); min-height: 0; }
   .crm .tabbar, .fab, .bulkbar, #toast { position: absolute; }
 }
+#ptr { position: absolute; left: 50%; top: calc(var(--top-h) + env(safe-area-inset-top) + 6px); z-index: 45; width: 36px; height: 36px; border-radius: 50%;
+  display: grid; place-items: center; background: var(--surface); color: var(--muted); box-shadow: 0 4px 14px rgba(0, 0, 0, .3); border: 1px solid var(--line);
+  transform: translate(-50%, -50px); opacity: 0; pointer-events: none; }
+#ptr.ready { color: var(--accent); }
+#ptr.spinning .ptr-spin { animation: spin .8s linear infinite; color: var(--accent); }
+.ptr-spin { display: grid; place-items: center; }
+@keyframes spin { to { transform: rotate(360deg); } }
+@media (min-width: 1024px) { #ptr { display: none; } }

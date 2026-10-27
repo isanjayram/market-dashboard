@@ -251,9 +251,10 @@
     return pr;
   }
   // get("today") → /api/crm/today ; get("/market/brief.json") → a static file
+  let forceNet = false; // pull-to-refresh: this render waits for the network instead of the saved copy
   async function get(path) {
     const hit = memo.get(path);
-    if (hit) {
+    if (hit && !forceNet) {
       if (Date.now() - hit.at > 4000) fetchFresh(path).then((r) => { if (r.changed) softRender(); }).catch(() => {});
       return hit.data;
     }
@@ -346,6 +347,44 @@
       y0 = null; active = false;
     });
   }
+  // Pull to refresh (phone): drag down from the top of any screen.
+  (() => {
+    let y0 = null, x0 = 0, dy = 0, mode = null, busyRefresh = false, ind = null;
+    const app = () => document.getElementById("app");
+    const indicator = () => ind || (ind = (() => { const el = h("div", { id: "ptr", "aria-hidden": "true" }, h("span", { class: "ptr-spin" }, C.icon("sync", 18))); document.body.append(el); return el; })());
+    const paint = (d) => {
+      const el = indicator(); const p = Math.min(1, d / 70);
+      el.style.transform = `translate(-50%, ${Math.min(d, 90) - 50}px) rotate(${d * 3}deg)`;
+      el.style.opacity = String(Math.min(1, d / 40));
+      el.classList.toggle("ready", p >= 1);
+    };
+    const reset = () => { if (!ind) return; ind.style.transition = "transform .2s, opacity .2s"; ind.style.transform = "translate(-50%, -50px)"; ind.style.opacity = "0";
+      setTimeout(() => { if (ind) ind.style.transition = ""; }, 220); ind.classList.remove("ready", "spinning"); };
+    addEventListener("touchstart", (e) => {
+      const a = app();
+      if (C.isDesktop() || sheetStack.length || busyRefresh || !a || a.scrollTop > 0 || e.target.closest("input, textarea, select, .board, .tscroll, .chips.scroll")) { y0 = null; return; }
+      y0 = e.touches[0].clientY; x0 = e.touches[0].clientX; dy = 0; mode = null;
+    }, { passive: true });
+    addEventListener("touchmove", (e) => {
+      if (y0 === null) return;
+      const t = e.touches[0]; const ddy = t.clientY - y0, ddx = t.clientX - x0;
+      if (mode === null && (Math.abs(ddy) > 8 || Math.abs(ddx) > 8)) mode = ddy > 0 && Math.abs(ddy) > Math.abs(ddx) ? "pull" : "no";
+      if (mode !== "pull") return;
+      if (app().scrollTop > 0) { y0 = null; reset(); return; }
+      dy = ddy * 0.55; // resistance, like iOS
+      e.preventDefault();
+      paint(dy);
+    }, { passive: false });
+    addEventListener("touchend", async () => {
+      if (y0 === null || mode !== "pull") { y0 = null; return; }
+      y0 = null;
+      if (dy < 70) { reset(); return; }
+      busyRefresh = true;
+      const el = indicator(); el.style.transition = "transform .15s"; el.style.transform = "translate(-50%, 24px)"; el.classList.add("spinning");
+      try { await C.hardRefresh(); } catch (er) { C.fail(er); }
+      busyRefresh = false; reset();
+    });
+  })();
   // iPhone home-screen apps have no system back swipe: swipe right from the left edge to go back.
   (() => {
     let x0 = null, y0 = 0;
@@ -561,7 +600,13 @@
   }
   C.mountPage = mountPage;
   C.render = render;
-  C.refresh = () => { invalidate(); render(true); };
+  C.refresh = () => { invalidate(); return render(true); };
+  // Pull down: send anything waiting offline, then redraw this screen from the server (not the saved copy).
+  C.hardRefresh = async () => {
+    await flush().catch(() => {});
+    invalidate(); forceNet = true;
+    try { await render(true); } finally { forceNet = false; }
+  };
   // Fresh data arrived for the screen on show: redraw in place, but never under an open sheet or while you type.
   function softRender() {
     const typing = /^(INPUT|TEXTAREA|SELECT)$/.test(document.activeElement?.tagName) && document.getElementById("app").contains(document.activeElement);
