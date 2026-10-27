@@ -25,8 +25,9 @@ const DEFAULTS = {
     { month: "2027-02", focus: "Peak closing", low: 2, high: 3 },
     { month: "2027-03", focus: "Close remaining pipeline", low: 2, high: 2 },
   ],
-  commission_pct: 5,
-  split_pct: 50,
+  commission_pct: 5,                // used only when the developer isn't in the list below
+  split_pct: 50,                    // Lyka's split: constant
+  developer_commissions: [],        // [{ developer: "Emaar", pct: 5 }, …]: agency commission per developer
   calling_hours: [9, 18],
   templates: [
     { name: "Meeting reminder", text: "Hi {first}, it's Sanjay from Lyka Realty. Quick reminder of our call today at {time}. I've shortlisted 3 options that fit what you told me. Speak soon!" },
@@ -46,7 +47,7 @@ const MEETING_FIELDS = ["scheduled_at", "kind", "status", "decision_maker_joinin
 const DEAL_FIELDS = ["meeting_id", "inventory_id", "project", "developer", "unit", "lane", "price_aed", "commission_pct", "split_pct",
   "stage", "eoi_at", "eoi_amount", "eoi_refundable", "allocation_at", "booking_at", "spa_at", "oqood_at", "commission_expected_at",
   "commission_paid_at", "commission_paid_aed", "fell_through_at", "fell_through_reason", "notes"];
-const INVENTORY_FIELDS = ["project", "developer", "area", "lane", "unit_types", "price_from_aed", "down_payment_pct", "payment_plan",
+const INVENTORY_FIELDS = ["project", "developer", "area", "lane", "unit_types", "price_from_aed", "down_payment_pct", "commission_pct", "payment_plan",
   "handover", "f_delivery", "f_growth", "f_payment", "filter_notes", "eoi_deadline", "link", "status"];
 const NUMERIC = new Set(["referred_by", "inbound", "budget_min", "budget_max", "decision_maker_joining", "g1_pass", "g2_dm_present",
   "g2_pass", "g3_budget_min", "g3_budget_max", "g3_down_payment", "g3_pass", "close_score", "meeting_id", "inventory_id", "price_aed",
@@ -333,6 +334,18 @@ async function saveMeeting(db, body, id) {
   return json({ meeting }, id ? 200 : 201);
 }
 
+// Commission rate for a new deal: the project's own rate, else the developer's, else the fallback.
+async function commissionFor(db, s, d) {
+  if (d.inventory_id) {
+    const inv = await db.prepare("SELECT commission_pct, developer FROM inventory WHERE id = ?").bind(d.inventory_id).first();
+    if (!d.developer && inv?.developer) d.developer = inv.developer;
+    if (inv?.commission_pct != null) return inv.commission_pct;
+  }
+  const dev = String(d.developer || "").trim().toLowerCase();
+  const hit = dev && (s.developer_commissions || []).find((x) => String(x.developer || "").trim().toLowerCase() === dev);
+  return hit ? Number(hit.pct) : s.commission_pct;
+}
+
 async function saveDeal(db, body, id, s) {
   const d = clean(body, DEAL_FIELDS);
   if (d.stage && STAGE_DATE[d.stage] && !d[STAGE_DATE[d.stage]]) {
@@ -347,7 +360,7 @@ async function saveDeal(db, body, id, s) {
     if (!body.lead_id) return bad("Lead is required");
     d.stage = d.stage || "eoi";
     if (d.stage === "eoi" && !d.eoi_at) d.eoi_at = nowIso();
-    if (d.commission_pct == null) d.commission_pct = s.commission_pct;
+    if (d.commission_pct == null) d.commission_pct = await commissionFor(db, s, d);
     if (d.split_pct == null) d.split_pct = s.split_pct;
     deal = await insert(db, "deals", { ...d, lead_id: Number(body.lead_id) });
   }
@@ -650,6 +663,10 @@ export async function onRequest({ request, env, params }) {
       if (!id && method === "POST") {
         const row = clean(body, INVENTORY_FIELDS);
         if (!row.project) return bad("Project is required");
+        if (row.commission_pct == null && row.developer) {
+          const hit = (s.developer_commissions || []).find((x) => String(x.developer || "").trim().toLowerCase() === row.developer.toLowerCase());
+          if (hit) row.commission_pct = Number(hit.pct);
+        }
         return json({ item: await insert(db, "inventory", row) }, 201);
       }
       if (id && method === "PATCH") return json({ item: await update(db, "inventory", id, clean(body, INVENTORY_FIELDS), false) });

@@ -115,6 +115,12 @@
   const usd = (vAed) => { const u = Number(vAed || 0) / AED_PER_USD; return Math.abs(u) >= 1e3 ? `$${(u / 1e3).toFixed(u >= 1e5 ? 0 : 1).replace(/\.0$/, "")}k` : `$${Math.round(u)}`; };
   const both = (vAed) => `${aed(vAed)} (${usd(vAed)})`;
   const pct = (x) => (x == null ? "n/a" : `${(x * 100).toFixed(x < 0.1 && x > 0 ? 1 : 0)}%`);
+  // Agency commission by developer (Settings), falling back to the default rate.
+  const devPct = (dev) => {
+    const k = String(dev || "").trim().toLowerCase();
+    const hit = k && (settings?.developer_commissions || []).find((x) => String(x.developer || "").trim().toLowerCase() === k);
+    return hit ? Number(hit.pct) : null;
+  };
   const netOf = (d) => (Number(d.price_aed) || 0) * (Number(d.commission_pct) || 0) / 100 * (Number(d.split_pct) || 0) / 100;
   const first = (name) => String(name || "").trim().split(/\s+/)[0] || "";
   const digits = (p) => String(p || "").replace(/\D/g, "");
@@ -505,18 +511,20 @@
   async function dealSheet(lead, deal = null, meetingId = null) {
     const inv = (await api("inventory").catch(() => ({ inventory: [] }))).inventory.filter((i) => i.status === "active");
     const d = deal || { stage: "eoi", commission_pct: settings.commission_pct, split_pct: settings.split_pct, lane: lead.lane, eoi_refundable: 1 };
+    let commTouched = !!deal;
     const netEl = h("p", { class: "netcalc" });
     let f;
     const paintNet = () => { const v = f.get(); const n = netOf(v); netEl.replaceChildren("Your net: ", h("b", null, both(n)), v.price_aed ? ` · ${v.commission_pct || 0}% × ${v.split_pct || 0}% of ${aed(v.price_aed)}` : ""); };
     f = form([
       ...(inv.length ? [{ k: "inventory_id", label: "From your Launch Filter", type: "select", num: true, placeholder: "Pick a project (optional)",
         options: inv.map((i) => [i.id, `${i.project}${i.developer ? ` · ${i.developer}` : ""}`]) }] : []),
-      { k: "project", label: "Project", half: true }, { k: "developer", label: "Developer", half: true },
+      { k: "project", label: "Project", half: true }, { k: "developer", label: "Developer", half: true, oninput: (v) => autoComm(devPct(v)) },
       { k: "unit", label: "Unit", half: true, placeholder: "V-214, 4BR" },
       { k: "lane", label: "Lane", type: "select", options: opts(LANE), half: true },
       { k: "price_aed", label: "Price (AED)", type: "money", oninput: () => paintNet() },
-      { k: "commission_pct", label: "Agency commission %", type: "number", half: true, step: "0.1", oninput: () => paintNet() },
-      { k: "split_pct", label: "Your split %", type: "number", half: true, step: "1", oninput: () => paintNet() },
+      { k: "commission_pct", label: "Agency commission %", type: "number", half: true, step: "0.1", oninput: () => { commTouched = true; paintNet(); },
+        hint: "Set by the developer (5–8%). Filled from the project or developer." },
+      { k: "split_pct", label: "Your split %", type: "number", half: true, step: "1", oninput: () => paintNet(), hint: "Lyka's split" },
       { k: "stage", label: "Stage", type: "chips", options: [...STAGES, ["fell_through", "Fell through"]], required: true },
       { k: "eoi_amount", label: "EOI / booking deposit (AED)", type: "money", half: true },
       { k: "eoi_refundable", label: "EOI refundable?", type: "chips", options: [["1", "Yes"], ["0", "No"]], num: true, half: true },
@@ -530,11 +538,18 @@
       { k: "fell_through_reason", label: "If it fell through: why" },
       { k: "notes", label: "Notes", type: "textarea" },
     ], d);
+    const inputFor = (k) => [...f.el.querySelectorAll(".fld")].find((x) => x.querySelector("label")?.textContent.startsWith(k))?.querySelector("input, select");
+    function autoComm(pct) {
+      const inp = inputFor("Agency commission");
+      if (commTouched || !inp) return;
+      inp.value = pct ?? settings.commission_pct; paintNet();
+    }
     const invSel = f.el.querySelector("select");
     if (inv.length && invSel) invSel.addEventListener("change", () => {
       const i = inv.find((x) => String(x.id) === invSel.value); if (!i) return;
       const set = (k, v) => { const el = [...f.el.querySelectorAll(".fld")].find((x) => x.querySelector("label")?.textContent.startsWith(k)); const inp = el?.querySelector("input, select"); if (inp && !inp.value && v != null) inp.value = v; };
-      set("Project", i.project); set("Developer", i.developer); set("Lane", i.lane); set("Price", i.price_from_aed); paintNet();
+      set("Project", i.project); set("Developer", i.developer); set("Lane", i.lane); set("Price", i.price_from_aed);
+      autoComm(i.commission_pct ?? devPct(i.developer)); paintNet();
     });
     paintNet();
     const saveBtn = h("button", { class: "btn", type: "button", onclick: async () => {
@@ -982,7 +997,8 @@
         const pass = i.f_delivery && i.f_growth && i.f_payment;
         return h("button", { class: "lrow link-row", type: "button", onclick: () => invSheet(i) }, h("div", { class: "lmain" },
           h("b", null, i.project, h("span", { class: `st ${pass ? "s-won" : "s-lost"}` }, pass ? "Passes" : "Fails filter"), i.status !== "active" ? h("span", { class: "tag" }, i.status === "sold_out" ? "Sold out" : "Archived") : null),
-          h("small", null, [i.developer, i.area, i.price_from_aed ? `from ${aed(i.price_from_aed)}` : null, i.down_payment_pct ? `${i.down_payment_pct}% down` : null, i.handover ? `handover ${i.handover}` : null].filter(Boolean).join(" · ")),
+          h("small", null, [i.developer, i.area, i.price_from_aed ? `from ${aed(i.price_from_aed)}` : null, i.down_payment_pct ? `${i.down_payment_pct}% down` : null,
+            i.commission_pct != null ? `${i.commission_pct}% commission` : null, i.handover ? `handover ${i.handover}` : null].filter(Boolean).join(" · ")),
           h("small", null, `${i.f_delivery ? "✓" : "✗"} delivery record  ${i.f_growth ? "✓" : "✗"} growth driver  ${i.f_payment ? "✓" : "✗"} payment-plan fit${i.eoi_deadline ? ` · EOI by ${fmtDay(fromGulf(i.eoi_deadline))}` : ""}`)));
       })));
     }
@@ -995,6 +1011,7 @@
       { k: "lane", label: "Lane", type: "chips", options: opts(LANE) },
       { k: "unit_types", label: "Unit types", placeholder: "3–5BR villas, townhouses" },
       { k: "price_from_aed", label: "From (AED)", type: "money", half: true }, { k: "down_payment_pct", label: "Down payment %", type: "number", half: true },
+      { k: "commission_pct", label: "Agency commission %", type: "number", half: true, step: "0.1", hint: "Blank = the developer's rate from Settings" },
       { k: "payment_plan", label: "Payment plan", placeholder: "10/50/40, 1% monthly" }, { k: "handover", label: "Handover", half: true, placeholder: "Q4 2028" },
       { k: "eoi_deadline", label: "EOI deadline", type: "date", half: true },
       { type: "heading", label: "The Launch Filter" },
@@ -1123,7 +1140,8 @@
       { k: "deals_target", label: "Deals needed", type: "number", half: true }, { k: "deals_buffer", label: "Deals planned (buffer)", type: "number", half: true },
       { k: "start_date", label: "Start date", type: "date", half: true }, { k: "deadline", label: "Deadline", type: "date", half: true },
       { type: "heading", label: "Commission defaults for new deals" },
-      { k: "commission_pct", label: "Agency commission %", type: "number", half: true, step: "0.1" }, { k: "split_pct", label: "Your split %", type: "number", half: true },
+      { k: "split_pct", label: "Lyka split: yours %", type: "number", half: true },
+      { k: "commission_pct", label: "Commission if developer not listed %", type: "number", half: true, step: "0.1" },
       { type: "heading", label: "Activity targets" },
       { k: "daily_touches", label: "Touches per day", type: "number", half: true },
       { k: "w_touches", label: "Weekly touches", type: "number", half: true }, { k: "w_conversations", label: "Weekly conversations", type: "number", half: true },
@@ -1135,6 +1153,10 @@
       r_pickup: +(s.rates.pickup * 100).toFixed(1), r_book: +(s.rates.book * 100).toFixed(1), r_show: +(s.rates.show * 100).toFixed(1), r_close: +(s.rates.close * 100).toFixed(1) });
     const monthEls = s.monthly.map((m) => ({ m, low: h("input", { type: "number", value: m.low, class: "tiny", "aria-label": `${m.month} low` }), high: h("input", { type: "number", value: m.high, class: "tiny", "aria-label": `${m.month} high` }),
       focus: h("input", { type: "text", value: m.focus, "aria-label": `${m.month} focus` }) }));
+    const devRow = (x = {}) => ({ dev: h("input", { type: "text", value: x.developer || "", placeholder: "Developer", "aria-label": "Developer" }),
+      pct: h("input", { type: "number", value: x.pct ?? "", step: "0.1", class: "tiny", placeholder: "%", "aria-label": "Commission %", inputmode: "decimal" }) });
+    const devEls = (s.developer_commissions || []).map(devRow);
+    const devWrap = h("div", null, devEls.map((r) => h("div", { class: "devrow" }, r.dev, r.pct, h("span", null, "%"))));
     const tplEls = s.templates.map((t) => ({ name: h("input", { type: "text", value: t.name }), text: h("textarea", { rows: 3, value: t.text }) }));
     const tplWrap = h("div", null, tplEls.map((t) => h("div", { class: "tplrow" }, t.name, t.text)));
     const save = async () => {
@@ -1145,6 +1167,7 @@
         weekly: { touches: v.w_touches, conversations: v.w_conversations, booked: v.w_booked, held: v.w_held, eoi: v.w_eoi },
         rates: { pickup: v.r_pickup / 100, book: v.r_book / 100, show: v.r_show / 100, close: v.r_close / 100 },
         monthly: monthEls.map(({ m, low, high, focus }) => ({ month: m.month, focus: focus.value, low: Number(low.value) || 0, high: Number(high.value) || 0 })),
+        developer_commissions: devEls.map((r) => ({ developer: r.dev.value.trim(), pct: Number(r.pct.value) })).filter((r) => r.developer && r.pct > 0),
         templates: tplEls.map((t) => ({ name: t.name.value.trim(), text: t.text.value.trim() })).filter((t) => t.name && t.text),
       };
       try { await api("settings", { method: "PUT", body }); await loadSettings(); toast("Settings saved"); } catch (e) { fail(e); }
@@ -1152,6 +1175,9 @@
     return [h("div", { class: "crumb" }, back("#more", "More")), header("Settings"),
       h("div", { class: "card" }, f.el),
       card("Monthly deal targets", null, monthEls.map(({ m, low, high, focus }) => h("div", { class: "mrow" }, h("b", null, m.month), low, h("span", null, "–"), high, focus))),
+      card("Commission by developer", "agency %, before Lyka's split", devWrap,
+        h("p", { class: "fhint" }, "New deals and projects pick this up from the developer's name. Change a single deal on the deal itself."),
+        h("button", { class: "btn ghost", type: "button", onclick: () => { const r = devRow(); devEls.push(r); devWrap.append(h("div", { class: "devrow" }, r.dev, r.pct, h("span", null, "%"))); r.dev.focus(); } }, "Add developer")),
       card("WhatsApp templates", "{first} = first name, {time} = meeting time", tplWrap,
         h("button", { class: "btn ghost", type: "button", onclick: () => { const t = { name: h("input", { type: "text", placeholder: "Name" }), text: h("textarea", { rows: 3 }) }; tplEls.push(t); tplWrap.append(h("div", { class: "tplrow" }, t.name, t.text)); } }, "Add template")),
       h("div", { class: "savebar" }, h("button", { class: "btn", type: "button", onclick: save }, "Save settings")),

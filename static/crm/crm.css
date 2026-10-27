@@ -202,3 +202,5 @@ table.kpi td { text-align: right; padding: 7px 6px; border-bottom: 1px solid var
 table.kpi th:first-child, table.kpi td:first-child { text-align: left; }
 table.kpi td.hit { color: var(--up); font-weight: 700; }
 .card .cmp + .cmp { margin-top: 8px; }
+.devrow { display: grid; grid-template-columns: 1fr 72px 16px; gap: 8px; align-items: center; margin-bottom: 8px; font-size: 14px; color: var(--muted); }
+.devrow input[type="text"] { padding: 9px 11px; font-size: 15px; }
