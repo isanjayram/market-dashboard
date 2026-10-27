@@ -99,7 +99,7 @@
    "headline": "Dubai approves urban plan to raise property values by AED20 billion",
    "summary": "The emirate has greenlit an AED2 billion development strategy. This initiative aims to significantly enhance local real estate values.",
    "why": "This major government investment directly targets property valuation growth.",
-   "age_hours": 6.7,
+   "age_hours": 6.8,
    "topic": "Macro & geopolitics",
    "more": 5
   },
@@ -182,7 +182,7 @@
    "headline": "Zimaya Properties rolls out Lawncrest residential project",
    "summary": "Zimaya Properties has introduced its fifth venture, named Lawncrest, carrying a price tag of Dh185 million. The new development expands residential options available in Dubai.",
    "why": "New project launches directly contribute to the expanding local real estate supply.",
-   "age_hours": 10.9,
+   "age_hours": 11.0,
    "topic": "Developer news"
   },
   {
@@ -210,9 +210,9 @@
  ],
  "window_hours": 24,
  "count_relevant": 21,
- "count_fetched": 294,
+ "count_fetched": 296,
  "feed_errors": {},
- "mode": "AI summaries (gemini)",
- "as_of": "2026-10-28T01:34+04:00",
- "saved_at": "2026-10-28T01:34+04:00"
+ "mode": "AI summaries (saved from an earlier run)",
+ "as_of": "2026-10-28T01:36+04:00",
+ "saved_at": "2026-10-28T01:36+04:00"
 }
