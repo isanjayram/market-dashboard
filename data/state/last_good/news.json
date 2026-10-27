@@ -16,7 +16,7 @@
    "headline": "Golden Visa holders can obtain emergency return permits quickly",
    "summary": "UAE Golden Visa holders who lose their passports overseas can secure a return permit in just thirty minutes. This fast-track service ensures resident mobility is maintained.",
    "why": "It affects residency documentation rules for Golden Visa holders.",
-   "age_hours": 7.9,
+   "age_hours": 8.0,
    "topic": "golden visa"
   },
   {
@@ -77,9 +77,9 @@
    "headline": "Dubai approves urban plan to raise property values by AED20 billion",
    "summary": "The emirate has greenlit an AED2 billion development strategy. This initiative aims to significantly enhance local real estate values.",
    "why": "This major government investment directly targets property valuation growth.",
-   "age_hours": 4.6,
+   "age_hours": 4.7,
    "topic": "Macro & geopolitics",
-   "more": 1
+   "more": 4
   },
   {
    "id": "c223d680fa1d",
@@ -100,7 +100,7 @@
    "headline": "AED2 billion urban plan aims to lift Dubai property values",
    "summary": "Authorities have endorsed a new urban development framework. The project is designed to generate AED20 billion in property value gains.",
    "why": "Large-scale urban development directly impacts market values and buyer confidence.",
-   "age_hours": 5.6,
+   "age_hours": 5.7,
    "topic": "Macro & geopolitics"
   },
   {
@@ -122,7 +122,7 @@
    "headline": "Aldar reports 25 percent net profit surge on new launches",
    "summary": "Aldar Properties saw third-quarter net profits rise by a quarter alongside higher revenues. Growth was driven by new project rollouts.",
    "why": "It demonstrates strong financial health and ongoing expansion by a major regional developer.",
-   "age_hours": 14.4,
+   "age_hours": 14.5,
    "topic": "aldar"
   },
   {
@@ -144,7 +144,7 @@
    "headline": "Nakheel issues major construction contract for Dubai Islands project",
    "summary": "Nakheel has signed a significant construction agreement valued at $258 million. The deal focuses on the Bay Grove development located within Dubai Islands.",
    "why": "This signals progress in prominent master-planned communities that affect local inventory.",
-   "age_hours": 8.0,
+   "age_hours": 8.1,
    "topic": "nakheel"
   },
   {
@@ -163,7 +163,7 @@
    "headline": "Zimaya Properties rolls out Lawncrest residential project",
    "summary": "Zimaya Properties has introduced its fifth venture, named Lawncrest, carrying a price tag of Dh185 million. The new development expands residential options available in Dubai.",
    "why": "New project launches directly contribute to the expanding local real estate supply.",
-   "age_hours": 8.8,
+   "age_hours": 8.9,
    "topic": "Developer news"
   },
   {
@@ -185,7 +185,7 @@
    "headline": "Aldar reports higher revenue despite slowing UAE sales",
    "summary": "Aldar's total revenue increased despite a broader slowdown in property sales across the United Arab Emirates.",
    "why": "It provides insight into major developer financial health amid market shifts.",
-   "age_hours": 10.8,
+   "age_hours": 10.9,
    "topic": "aldar"
   },
   {
@@ -209,10 +209,10 @@
   }
  ],
  "window_hours": 24,
- "count_relevant": 16,
- "count_fetched": 296,
+ "count_relevant": 19,
+ "count_fetched": 306,
  "feed_errors": {},
- "mode": "AI summaries (gemini)",
- "as_of": "2026-10-27T23:26+04:00",
- "saved_at": "2026-10-27T23:26+04:00"
+ "mode": "AI summaries (saved from an earlier run)",
+ "as_of": "2026-10-27T23:31+04:00",
+ "saved_at": "2026-10-27T23:31+04:00"
 }
