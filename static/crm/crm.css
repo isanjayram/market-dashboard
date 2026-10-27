@@ -598,3 +598,4 @@ input[type="file"]::file-selector-button { font: 600 14px var(--font); color: va
 @media (max-width: 1023px) {
   .topbar, .topbar.scrolled { background: var(--bg); -webkit-backdrop-filter: none; backdrop-filter: none; }
 }
+@media (max-width: 1023px) { .topbar::after { background: linear-gradient(to bottom, var(--bg), transparent); } }
