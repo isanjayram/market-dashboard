@@ -1,0 +1,8 @@
+{#- The Market tab of the CRM: the Morning Brief sections, loaded into the app (no page of its own). -#}
+<div class="mk-head">
+  <p class="sub">Built {{ now.strftime('%a %-d %b, %H:%M') }} Gulf time</p>
+  {%- if meta.stale %}<span class="status warn"><i></i>{{ meta.stale_short }}</span>
+  {%- else %}<span class="status"><i></i>{{ meta.label or 'Up to date' }}{% if pulse %} · DLD {{ pulse.as_of|day_label('%a %-d %b') }}{% endif %}</span>{% endif %}
+</div>
+{% include "_market.html.j2" %}
+<p class="mk-foot">AI calls today {{ run.llm_calls }}/{{ run.llm_cap }} · Forecasts are never shown as fact.{% if meta.note %}<br>{{ meta.note }}{% endif %}</p>

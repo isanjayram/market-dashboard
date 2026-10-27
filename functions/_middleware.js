@@ -38,9 +38,9 @@ function loginPage(message, status = 401, next = "/") {
   const note = message ? `<p class="err" role="alert">${message}</p>` : "";
   const html = `<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex, nofollow">
-<meta name="theme-color" content="#0d0d0d"><title>Morning Brief · sign in</title>
+<meta name="theme-color" content="#0b0b0c"><title>Sanjay Ram CRM · sign in</title>
 <link rel="manifest" href="/manifest.webmanifest"><link rel="apple-touch-icon" href="/apple-touch-icon.png?v=2">
-<meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Brief">
+<meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Sanjay Ram CRM">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <style>
   :root { color-scheme: dark; }
@@ -58,12 +58,12 @@ function loginPage(message, status = 401, next = "/") {
   .err { color: #f07171; margin: 10px 0 0; }
 </style></head><body>
 <form method="post" action="/__login">
-  <h1>Morning Brief</h1><p>Private dashboard. Enter your password.</p>
+  <h1>Sanjay Ram CRM</h1><p>Private. Enter your password.</p>
   <label for="pw">Password</label>
   <input id="pw" name="password" type="password" autocomplete="current-password" required autofocus>
   <input type="hidden" name="username" autocomplete="username" value="sanjay">
   <input type="hidden" name="next" value="${safeNext(next)}">
-  <button type="submit">Open dashboard</button>${note}
+  <button type="submit">Sign in</button>${note}
 </form></body></html>`;
   return new Response(html, {
     status,
