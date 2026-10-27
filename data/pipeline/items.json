@@ -1584,5 +1584,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"68c38de01012": {
+"id": "68c38de01012",
+"title": "Zimaya Properties rolls out Lawncrest residential project",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdEJZaGNsand3ZTNuTFd2Z3FyRUh2aGtWcU95Y3l1Y0gtNFU1OER6a0R6VFhneHYycWhweWp3SkhnR2ppRXkzRlllWnlpUml0emI3aW9xNnQ1TFd6VjFRdk5OSkU2VzJ6QzUyTkZJekx1dlhseFVfdUpSSmhqWDRsVlhCWFhCMHZZLXlSOWVkYUJ3QW9ReVFvYVJqSklkVXprZjBXVjNKTFVBYjV1S1E0ei1hbFBjUzFUWFk0anA5SDVrS2JmS0ZJSEpQdVRiVHFva2pXYVZ3?oc=5",
+"source": "The Des Moines Register",
+"category": "Developer news",
+"published": "2026-10-27T14:39+04:00",
+"first_seen": "2026-10-28",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": "Lawncrest",
+"developer": "Zimaya Properties",
+"location": null,
+"type": "residential",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

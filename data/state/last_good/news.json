@@ -16,7 +16,7 @@
    "headline": "Golden Visa holders can obtain emergency return permits quickly",
    "summary": "UAE Golden Visa holders who lose their passports overseas can secure a return permit in just thirty minutes. This fast-track service ensures resident mobility is maintained.",
    "why": "It affects residency documentation rules for Golden Visa holders.",
-   "age_hours": 8.2,
+   "age_hours": 8.5,
    "topic": "golden visa"
   },
   {
@@ -35,7 +35,7 @@
    "headline": "Dubai South sales soar amidst questions on unit size value",
    "summary": "Sales transactions are increasing rapidly within the Dubai South area. Investors are questioning if property sizes are shrinking relative to pricing.",
    "why": "It highlights shifting buyer value trends in a major Dubai district.",
-   "age_hours": 20.7,
+   "age_hours": 21.0,
    "topic": "Developer news",
    "more": 5
   },
@@ -58,7 +58,7 @@
    "headline": "New urban development policy aims to raise property values",
    "summary": "Dubai approved a strategy to transform 48 urban centres by 2040. The initiative aims to elevate local real estate values by Dh20 billion.",
    "why": "Infrastructure planning directly impacts future property values across targeted zones.",
-   "age_hours": 3.3,
+   "age_hours": 3.6,
    "topic": "Infrastructure"
   },
   {
@@ -77,9 +77,9 @@
    "headline": "Dubai approves urban plan to raise property values by AED20 billion",
    "summary": "The emirate has greenlit an AED2 billion development strategy. This initiative aims to significantly enhance local real estate values.",
    "why": "This major government investment directly targets property valuation growth.",
-   "age_hours": 4.9,
+   "age_hours": 5.2,
    "topic": "Macro & geopolitics",
-   "more": 1
+   "more": 3
   },
   {
    "id": "c223d680fa1d",
@@ -100,7 +100,7 @@
    "headline": "AED2 billion urban plan aims to lift Dubai property values",
    "summary": "Authorities have endorsed a new urban development framework. The project is designed to generate AED20 billion in property value gains.",
    "why": "Large-scale urban development directly impacts market values and buyer confidence.",
-   "age_hours": 5.9,
+   "age_hours": 6.3,
    "topic": "Macro & geopolitics"
   },
   {
@@ -122,7 +122,7 @@
    "headline": "Aldar reports 25 percent net profit surge on new launches",
    "summary": "Aldar Properties saw third-quarter net profits rise by a quarter alongside higher revenues. Growth was driven by new project rollouts.",
    "why": "It demonstrates strong financial health and ongoing expansion by a major regional developer.",
-   "age_hours": 14.7,
+   "age_hours": 15.0,
    "topic": "aldar"
   },
   {
@@ -144,7 +144,7 @@
    "headline": "Nakheel issues major construction contract for Dubai Islands project",
    "summary": "Nakheel has signed a significant construction agreement valued at $258 million. The deal focuses on the Bay Grove development located within Dubai Islands.",
    "why": "This signals progress in prominent master-planned communities that affect local inventory.",
-   "age_hours": 8.4,
+   "age_hours": 8.7,
    "topic": "nakheel"
   },
   {
@@ -163,7 +163,7 @@
    "headline": "Zimaya Properties rolls out Lawncrest residential project",
    "summary": "Zimaya Properties has introduced its fifth venture, named Lawncrest, carrying a price tag of Dh185 million. The new development expands residential options available in Dubai.",
    "why": "New project launches directly contribute to the expanding local real estate supply.",
-   "age_hours": 9.1,
+   "age_hours": 9.4,
    "topic": "Developer news"
   },
   {
@@ -185,7 +185,7 @@
    "headline": "Aldar reports higher revenue despite slowing UAE sales",
    "summary": "Aldar's total revenue increased despite a broader slowdown in property sales across the United Arab Emirates.",
    "why": "It provides insight into major developer financial health amid market shifts.",
-   "age_hours": 11.1,
+   "age_hours": 11.4,
    "topic": "aldar"
   },
   {
@@ -204,15 +204,15 @@
    "headline": "Abu Dhabi and Partners Group sign infrastructure agreement",
    "summary": "A new partnership aims to boost private sector involvement in Abu Dhabi infrastructure and real estate.",
    "why": "This agreement encourages private investment in regional property and infrastructure.",
-   "age_hours": 12.2,
+   "age_hours": 12.5,
    "topic": "abu dhabi"
   }
  ],
  "window_hours": 24,
- "count_relevant": 16,
- "count_fetched": 261,
+ "count_relevant": 18,
+ "count_fetched": 284,
  "feed_errors": {},
  "mode": "AI summaries (saved from an earlier run)",
- "as_of": "2026-10-27T23:45+04:00",
- "saved_at": "2026-10-27T23:45+04:00"
+ "as_of": "2026-10-28T00:04+04:00",
+ "saved_at": "2026-10-28T00:04+04:00"
 }
