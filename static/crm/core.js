@@ -687,6 +687,20 @@
     if ("serviceWorker" in navigator && location.protocol === "https:") navigator.serviceWorker.register("/sw.js").catch(() => {});
     paintSync();
     C.paintChrome();
+    // iPhone home-screen apps lay the page out one status bar shorter than the screen, which leaves a
+    // solid strip under the tab bar. Size the frame to the real screen instead.
+    if ((navigator.standalone || matchMedia("(display-mode: standalone)").matches) && /iP(hone|od)/.test(navigator.userAgent)) {
+      const fit = () => {
+        const portrait = matchMedia("(orientation: portrait)").matches;
+        const full = portrait ? Math.max(screen.width, screen.height) : Math.min(screen.width, screen.height);
+        const root = document.documentElement;
+        root.style.setProperty("--full-h", `${Math.max(innerHeight, full)}px`);
+        root.classList.toggle("fullh", full > innerHeight + 1);
+      };
+      fit();
+      addEventListener("resize", fit);
+      addEventListener("orientationchange", () => setTimeout(fit, 300));
+    }
     // No pinch-zoom: a home-screen app on iPhone can stay zoomed out and never bounce back.
     // (Safari's own gesture events; the viewport tag and touch-action cover the rest.)
     for (const ev of ["gesturestart", "gesturechange", "gestureend"]) document.addEventListener(ev, (e) => e.preventDefault(), { passive: false });
