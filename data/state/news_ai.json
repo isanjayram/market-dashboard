@@ -604,6 +604,24 @@
    "category": "Developer news",
    "impact": "Medium",
    "impact_reason": "Adds fresh housing units to local supply."
+  },
+  "5f96e7c3dae6": {
+   "relevant": true,
+   "headline": "UAE Property Grand Expo 2026 Heading to Hyderabad",
+   "summary": "An upcoming exhibition in India will showcase Dubai real estate opportunities to investors. It aims to connect local buyers directly with developers.",
+   "why": "It promotes UAE property investment to overseas buyers in India.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Promotional event with minimal direct market impact."
+  },
+  "9bb9ea62e8ea": {
+   "relevant": true,
+   "headline": "Global Edge Organizes UAE Property Expo in Hyderabad",
+   "summary": "Global Edge is launching the upcoming exhibition to highlight Dubai real estate. The event targets Indian investors looking for overseas properties.",
+   "why": "It highlights international marketing efforts targeting foreign real estate buyers.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Event announcement with no immediate effect on local pricing."
   }
  }
 }
