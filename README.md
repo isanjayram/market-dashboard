@@ -1,8 +1,8 @@
-# Sanjay's Morning Market Brief
+# Sanjay Ram CRM (with the Morning Market Brief)
 
 A private phone app (home-screen web app) that rebuilds itself every morning at no cost, so the day's market numbers are ready by 9:30 AM Gulf time. Nothing runs on your laptop.
 
-**Tabs:** Brief (5 bullets + 3 talking points + top news) · Market (DLD sales) · Rent (Ejari) · News (top 8 + 30-day archive) · **CRM** (your sales pipeline, see below) · More (Project pipeline, Developers, Landmarks).
+**The app is a CRM** (see "The CRM" below). The Morning Brief lives in its **Market** tab: Brief (5 bullets + 3 talking points + top news) · Sales (DLD) · Rent (Ejari) · News (top 8 + 30-day archive) · Projects (pipeline, developers, landmarks). The standalone brief page is still at `/brief/`.
 
 **Live:** https://sanjay-market-brief.pages.dev (password). On iPhone: open in Safari → Share → Add to Home Screen.
 
@@ -128,19 +128,23 @@ of the repo in `~/Library/Application Support/MorningBrief`.
 Log: `~/Library/Logs/MorningBrief/refresh.log`. If the Mac is off for 5+ days the
 Market tab shows STALE until it runs again.
 
-## CRM (/crm/)
+## The CRM (the app at /)
 
-Your sales system as an app: the CRM tab in the bottom bar, behind the same password. Data lives in a free Cloudflare D1 database (`sanjay-crm`), not in this repo, so the morning rebuild never touches it.
+Sanjay Ram CRM: a full sales CRM for Dubai off-plan, behind the password. The Morning Brief is now one tab in it (**Market**); the old one-page brief stays at `/brief/`. On the phone it has a fixed tab bar (Today · Leads · Pipeline · Market · More). On a laptop it has a sidebar, and Leads shows the list and the lead side by side. Laptop shortcuts: N new lead, T new task, / search, 1–7 sections.
 
-| Screen | What it does |
+| Area | What it does |
 |---|---|
-| **Today** | Touches vs 60, whether UAE calling hours are open, which block of your day you're in. Lists, in order: inbound leads (5-minute timer), today's meetings, overdue follow-ups, due today, hot leads not touched this week, fresh numbers. |
-| **Call → log** | Tap call, and when you come back to the app the log opens. One tap for the outcome (no answer · booked · stay in touch · referral · not interested · don't contact), the nos count, and a follow-up date. Booked opens the meeting booking; referral opens a new lead already linked to the person who referred them. |
-| **Compliance guard** | Blocks calls to UAE numbers outside 9 AM–6 PM, numbers on the DNCR, people who asked not to be called, and same-day callbacks after a no. Warns when the DNCR isn't checked yet, or when it's late in the lead's own time zone (India/US). |
-| **Meeting** | The 30-minute run of show: context script, Gate 1 need, Gate 2 decision-maker and timeline, Gate 3 budget (each marked pass or not), belief-break, units, the 1–10 close, objections (with your answer to each), outcome. Saving updates the lead: lane, budget, hot or nurture. |
-| **Pipeline** | Leads by stage, upcoming meetings, and a deal board: EOI → allocation → booking → SPA → Oqood → commission paid. Your net is shown in AED and $. |
-| **Numbers** | $100K goal (booked vs paid vs in EOI), a funnel against your assumed rates with the leak highlighted, weekly targets, speed to lead, gate failures and objections, the weekly KPI table, monthly targets, and lead sources. |
-| **More** | Friday review, Launch Filter inventory, scripts and objections, CSV import, settings (targets, commission %, WhatsApp templates), the inbound webhook, backup and export. |
+| **Today** | Touches vs 60, calling hours, your schedule block, inbound leads (5-minute timer), meetings, your tasks, overdue and due follow-ups, hot leads, fresh numbers, client payments due, the Morning Brief card, the week's targets. |
+| **Calling** | Tap call; when you come back the log opens. Swipe a row right to call or left to log. The compliance guard blocks UAE calls outside 9–6, DNCR numbers, do-not-call leads and same-day callbacks after a no. With no signal, the log is kept on the phone and synced later. |
+| **Tasks** | Several per lead plus your own. A lead's next follow-up is its earliest open task. Logging a call closes the follow-ups it covered. |
+| **Leads** | Search, quick filters, **smart lists** (saved filters), **bulk edit** (temperature, stage, source, tag, follow-up, delete), and duplicate **merge**. |
+| **Lead** | Overview (next up, household & decision-makers, profile), timeline (every call, meeting, change), deals with the client's **payment plan**. |
+| **Meeting** | The 30-minute run of show with the 3 Gates, belief-break, 1–10 close, objections and outcome. |
+| **Pipeline** | Deal board EOI → commission paid, **calendar** (meetings, tasks, client payments by week), **client payments** due or overdue. |
+| **Numbers** | $100K goal, funnel with the leak highlighted, weekly KPIs, monthly targets, speed to lead, gate failures, sources, Friday review. |
+| **Settings** | Phone notifications, inbound addresses per portal (website, Property Finder, Bayut, Dubizzle, Meta), commission per developer, targets, WhatsApp templates, smart lists, backup. |
+
+**Phone notifications:** add the app to the iPhone home screen, open it from there, then go to More → Settings → Turn on notifications. You'll get alerts for new inbound leads (instantly), leads still waiting after 5 minutes, meetings 60 and 10 minutes before, tasks as they fall due, and the morning plan at about 07:45. The alerts come from a small scheduler Worker (`workers/crm-cron`, every 5 minutes, free plan), deployed by the daily workflow.
 
 **Telegram:** the morning call plan at 07:41 and the Friday review at 13:13, both Gulf time (`.github/workflows/crm.yml`). Every inbound lead posted to the webhook (Settings → Inbound) also pings you straight away. Telegram needs the `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID` secrets.
 

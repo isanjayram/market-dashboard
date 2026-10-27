@@ -126,8 +126,19 @@ def build(pulse: dict[str, Any] | None, pulse_meta: dict[str, Any], run: dict[st
             [(r["area"], r["value"], aed(r["value"])) for r in pulse["top_value"]], label="Top areas by value, last 7 days")
         ctx["spark_psf"] = charts.sparkline(pulse["trend"]["psf"][-14:])
     SITE_DIR.mkdir(parents=True, exist_ok=True)
-    html = env.get_template("index.html.j2").render(**ctx)
-    (SITE_DIR / "index.html").write_text(html)
+    # The app at / is the CRM. The Morning Brief lives inside it (Market tab, loaded from /market/),
+    # and the old standalone page stays at /brief/ as a fallback.
+    (SITE_DIR / "brief").mkdir(exist_ok=True)
+    (SITE_DIR / "brief" / "index.html").write_text(env.get_template("index.html.j2").render(**ctx))
+    market = SITE_DIR / "market"
+    market.mkdir(exist_ok=True)
+    (market / "fragment.html").write_text(env.get_template("market_fragment.html.j2").render(**ctx))
+    b = sections.get("brief") or {}
+    (market / "brief.json").write_text(json.dumps({
+        "bullets": b.get("bullets") or [], "talking_points": b.get("talking_points") or [], "mode": b.get("mode"),
+        "updated": stamp.isoformat(timespec="minutes"), "dld_as_of": pulse and pulse.get("as_of"),
+        "stale": bool(pulse_meta.get("stale")), "stale_short": pulse_meta.get("stale_short"),
+    }, ensure_ascii=False))
     (SITE_DIR / "robots.txt").write_text("User-agent: *\nDisallow: /\n")
     health = {"updated": stamp.isoformat(timespec="minutes"), "dld_as_of": pulse and pulse.get("as_of"),
               "stale": bool(pulse_meta.get("stale"))}
@@ -136,8 +147,11 @@ def build(pulse: dict[str, Any] | None, pulse_meta: dict[str, Any], run: dict[st
     for extra in (STATIC_DIR / "app").iterdir():  # home-screen app: manifest, icons, offline worker
         if extra.is_file():
             shutil.copy(extra, SITE_DIR / extra.name)
-    # CRM: a static shell at /crm/ that talks to functions/api/crm (data lives in Cloudflare D1, not in the build).
+    # CRM: a static shell that talks to functions/api/crm (data lives in Cloudflare D1, not in the build).
+    # Served at / (and /crm/ for old links); its scripts and styles sit under /crm/.
     crm = SITE_DIR / "crm"
     shutil.rmtree(crm, ignore_errors=True)
     shutil.copytree(STATIC_DIR / "crm", crm)
     shutil.copy(STATIC_DIR / "app.css", crm / "base.css")
+    shutil.copy(STATIC_DIR / "app.js", crm / "market.js")
+    shutil.copy(crm / "index.html", SITE_DIR / "index.html")

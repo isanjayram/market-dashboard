@@ -1,12 +1,12 @@
 {
-  "name": "Morning Brief",
-  "short_name": "Brief",
-  "description": "Sanjay's morning Dubai property market dashboard",
-  "start_url": "/",
+  "name": "Sanjay Ram CRM",
+  "short_name": "Sanjay CRM",
+  "description": "Sanjay Ram's CRM for Dubai off-plan sales, with the Morning Brief built in",
+  "start_url": "/#today",
   "scope": "/",
   "display": "standalone",
-  "background_color": "#0d0d0d",
-  "theme_color": "#0d0d0d",
+  "background_color": "#0b0b0c",
+  "theme_color": "#0b0b0c",
   "icons": [
     {
       "src": "/icon-192.png",
@@ -27,14 +27,19 @@
   ],
   "shortcuts": [
     {
-      "name": "CRM: today's calls",
-      "short_name": "CRM",
-      "url": "/crm/#today"
+      "name": "Today's calls",
+      "short_name": "Today",
+      "url": "/#today"
     },
     {
-      "name": "Add a lead",
-      "short_name": "New lead",
-      "url": "/crm/#leads"
+      "name": "Leads",
+      "short_name": "Leads",
+      "url": "/#leads"
+    },
+    {
+      "name": "Market",
+      "short_name": "Market",
+      "url": "/#market"
     }
   ]
 }
