@@ -634,9 +634,13 @@
     } catch (e) {
       clearTimeout(slow);
       if (seq !== renderSeq) return;
-      mountPage(view(), { title: "Couldn't load", body: [h("div", { class: "card" }, h("p", { class: "warnbox" }, e.message || "Something went wrong."),
+      // Gone (deleted or merged) needs a way back, not a retry.
+      const gone = e.status === 404;
+      mountPage(view(), { title: gone ? "Not found" : "Couldn't load", back: gone ? [r.nav, "Back"] : null,
+        body: [h("div", { class: "card" }, h("p", { class: gone ? "fhint" : "warnbox" }, gone ? `${e.message || "Not found"}. It may have been deleted or merged into another record.` : e.message || "Something went wrong."),
         e.status === 503 ? h("p", { class: "fhint" }, "The database isn't connected yet. See README → CRM.") : null,
-        h("button", { class: "btn ghost", type: "button", onclick: () => render() }, "Try again"))] });
+        gone ? h("a", { class: "btn ghost", href: `#${r.nav}` }, "Go back")
+          : h("button", { class: "btn ghost", type: "button", onclick: () => render() }, "Try again"))] });
     }
   }
   C.mountPage = mountPage;
