@@ -16,9 +16,9 @@
    "headline": "Dubai South sales soar amidst questions on unit size value",
    "summary": "Sales transactions are increasing rapidly within the Dubai South area. Investors are questioning if property sizes are shrinking relative to pricing.",
    "why": "It highlights shifting buyer value trends in a major Dubai district.",
-   "age_hours": 7.2,
+   "age_hours": 9.3,
    "topic": "Developer news",
-   "more": 2
+   "more": 3
   },
   {
    "id": "8bceb5253c0d",
@@ -36,7 +36,7 @@
    "headline": "Dubai South housing surge presents opportunities and supply challenges",
    "summary": "Rapid development in Dubai South attracts Indian investors. However, an upcoming influx of units creates potential market saturation risks.",
    "why": "This report highlights emerging investment prospects and inventory trends in a key Dubai district.",
-   "age_hours": 20.1,
+   "age_hours": 22.2,
    "topic": "Supply & market reports",
    "more": 1
   },
@@ -59,52 +59,8 @@
    "headline": "Aldar reports 25 percent net profit surge on new launches",
    "summary": "Aldar Properties saw third-quarter net profits rise by a quarter alongside higher revenues. Growth was driven by new project rollouts.",
    "why": "It demonstrates strong financial health and ongoing expansion by a major regional developer.",
-   "age_hours": 1.2,
+   "age_hours": 3.3,
    "topic": "aldar"
-  },
-  {
-   "id": "68ee0c529177",
-   "title": "UAE completes a missing link in its transport network Etihad Rail ushers in a new era of connectivity",
-   "link": "https://www.khaleejtimes.com/business-technology-review/uae-completes-a-missing-link-in-its-transport-network-etihad-rail-ushers-in-a-new-era-of-connectivity",
-   "source": "Khaleej Times",
-   "kind": "outlet",
-   "published": "2026-10-27T07:30+04:00",
-   "tags": [
-    "Business Technology Review",
-    "Business"
-   ],
-   "teaser": "For decades, the UAE has built its reputation on connecting the world. Its airports link continents, its airlines carry international passengers, and its ports support global trade. Within its cities, Metro systems, trams, buses and highways provide extensive transport connections. One important link remained missing: a national passenger railway connecting the Emirates themselves. That gap is now",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Infrastructure upgrades can influence regional accessibility and real estate demand.",
-   "watch": false,
-   "headline": "Etihad Rail connects transport network to usher in era",
-   "summary": "The UAE has finished a critical missing link in its transit infrastructure. Etihad Rail significantly improves national connectivity.",
-   "why": "Improved transport infrastructure often enhances accessibility and boosts surrounding property values.",
-   "age_hours": 2.8,
-   "topic": "etihad rail"
-  },
-  {
-   "id": "762729cbd1fb",
-   "title": "UAE in November 2026: New rules, Etihad Rail stations, Dubai road changes and major events",
-   "link": "https://gulfnews.com/living-in-uae/ask-us/uae-november-2026-new-rules-changes-major-events-1.500724392",
-   "source": "Gulf News",
-   "kind": "outlet",
-   "published": "2026-10-27T06:00+04:00",
-   "tags": [
-    "Living-Ask-Us",
-    "UAE"
-   ],
-   "teaser": "Dubai: November is shaping up to be a busy month across the UAE, with several important changes taking effect alongside a packed calendar of activities and events as the country heads into the cooler winter months. From updates that could affect your daily routine to new travel options and outdoor experiences, here is a look at what UAE residents should know and the key dates to mark on their cale",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "New rules and transport options affect community access and routines.",
-   "watch": false,
-   "headline": "UAE updates transport and rules heading into winter season",
-   "summary": "November brings several new regulations, transport options, and road changes across the country. These updates coincide with the start of cooler weather activities.",
-   "why": "Regulatory and infrastructure updates directly impact daily operations and community access.",
-   "age_hours": 4.3,
-   "topic": "etihad rail"
   },
   {
    "id": "0ab1c1ef8110",
@@ -122,53 +78,70 @@
    "headline": "Dar Global considers launching dedicated Dubai real estate fund",
    "summary": "The developer is evaluating a new investment vehicle focused on local property assets. This plan supports its broader strategy for international acquisitions.",
    "why": "New institutional capital funds entering the market affect liquidity and investor sentiment.",
-   "age_hours": 16.8,
+   "age_hours": 19.0,
    "topic": "Developer news"
   },
   {
-   "id": "353d8214477a",
-   "title": "Abu Dhabi to see new property project launch every 3 days as demand stays strong",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYktBRXRVSjVxQkV1bjBFaDc3RHV4anl2MVhNamF6VDByZFI2YWxEaGozdUt2bjZ6eTduUUt3SnNtaDNTVmU5Um1LTHZKX1hsWEhXUDZ0dTVuWXZKelNiQnZtekVLS1NELVk3Wk1iaXRuT2V3SkxHT0l6VEJLMXZLODhZZlVNSXhsbVh6ZzIzVVdxdHlZRERhS3Jta1JMaTNJa0tLZ2oyeUI1SlhJRThEa08zQUlrVFJ0MU13UFBBLVQ5UdIBwgFBVV95cUxNYktBRXRVSjVxQkV1bjBFaDc3RHV4anl2MVhNamF6VDByZFI2YWxEaGozdUt2bjZ6eTduUUt3SnNtaDNTVmU5Um1LTHZKX1hsWEhXUDZ0dTVuWXZKelNiQnZtekVLS1NELVk3Wk1iaXRuT2V3SkxHT0l6VEJLMXZLODhZZlVNSXhsbVh6ZzIzVVdxdHlZRERhS3Jta1JMaTNJa0tLZ2oyeUI1SlhJRThEa08zQUlrVFJ0MU13UFBBLVQ5UQ?oc=5",
-   "source": "Khaleej Times",
+   "id": "bbb4dcfdfea6",
+   "title": "Abu Dhabi To See New Property Project Launch Every 3 Days As Demand Stays Strong",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQODNoTko0WTc3RXp2anpMZmFyNG9JRkt3M1VvVkhLNFVfeDNLNF9UZHNyVy1UVEUzUGFybHN0Y1lveUE2cWtRRVJDYXdBbG13X1dhZkxKUTNjODlJbkExY0k1RURHRlpDTjQyd2pXZ1NGNWVWbmQzbzB1U2xtNVJGWTFuTEx4X3JHNWt1Q2xBdk1CZ19IS0hYc0NyRm5qNFRUQ1BOZ0pvQUhEaWdnbDFr?oc=5",
+   "source": "Menafn",
    "kind": "search",
-   "published": "2026-10-26T10:39+04:00",
+   "published": "2026-10-26T12:35+04:00",
    "tags": [],
    "teaser": "",
    "category": "Developer news",
    "impact": "Medium",
-   "impact_reason": "Shows high supply growth and sustained market demand.",
+   "impact_reason": "Indicates steady developer activity and increasing market supply.",
    "watch": false,
-   "also": [
-    "Menafn"
-   ],
-   "headline": "Abu Dhabi anticipates property launch every three days",
-   "summary": "Strong market demand is prompting a rapid pace of new real estate project launches in Abu Dhabi. A fresh development is expected to debut roughly every 72 hours.",
-   "why": "High supply velocity signals strong developer confidence and robust buyer demand in the capital.",
-   "age_hours": 23.6,
+   "headline": "Abu Dhabi expects a property project launch every three days.",
+   "summary": "High demand in Abu Dhabi is driving a rapid pace of new real estate project launches.",
+   "why": "It highlights significant ongoing supply expansion and buyer demand in the capital.",
+   "age_hours": 23.8,
    "topic": "abu dhabi"
   },
   {
-   "id": "de9d5a84b265",
-   "title": "Standard Asset Company opens UAE office to drive $1.5B bitcoin and real estate strategy",
-   "link": "https://gulfnews.com/business/corporate-news/standard-asset-company-opens-uae-office-to-drive-15b-bitcoin-and-real-estate-strategy-1.500724138",
+   "id": "faf9b39a9b1f",
+   "title": "Beyond Property: Dubai forum to explore where UAE wealth is heading in 2027",
+   "link": "https://gulfnews.com/business/beyond-property-dubai-forum-to-explore-where-uae-wealth-is-heading-in-2027-1.500725028",
    "source": "Gulf News",
    "kind": "outlet",
-   "published": "2026-10-27T08:00+04:00",
+   "published": "2026-10-27T10:27+04:00",
    "tags": [
-    "Corporate-News"
+    "Business"
    ],
-   "teaser": "Abu Dhabi: Standard Proprietary Company Ltd. (\u201cStandard Asset Company\u201d or \u201cSAC\u201d) today announced the opening of its headquarters in Abu Dhabi Global Market (ADGM). The office will lead the firm\u2019s anticipated $1.5 billion asset management strategy, which pairs a professionally managed Bitcoin reserve with the acquisition of marquee UAE real estate assets. Diplomacy through business SAC was founded ",
+   "teaser": "For years, property has been the default route to wealth for many UAE residents. A growing number of investors are now weighing what else their money could do . US and global equities, fixed income, technology and alternative assets are drawing more attention from professionals, entrepreneurs and investors who want to diversify and build resilience, even as real estate remains a cornerstone of wea",
    "category": "Macro & geopolitics",
    "impact": "Low",
-   "impact_reason": "New corporate office opening with indirect market influence.",
+   "impact_reason": "Reflects broader investment discussions rather than direct policy changes.",
    "watch": false,
    "also": [
     "Gulf News"
    ],
-   "headline": "Standard Asset Company opens ADGM office for strategy",
-   "summary": "Standard Asset Company has established its headquarters within the Abu Dhabi Global Market. The office will spearhead a large-scale asset strategy combining Bitcoin reserves and real estate.",
-   "why": "Inflows of institutional capital into local asset management affect the broader financial ecosystem.",
-   "age_hours": 2.3,
+   "headline": "Dubai forum to discuss shifting UAE investment trends beyond property.",
+   "summary": "Investors are increasingly exploring global equities, fixed income, and alternative assets alongside real estate.",
+   "why": "It signals changing capital allocation trends among UAE wealth holders.",
+   "age_hours": 2.0,
+   "topic": "Macro & geopolitics",
+   "more": 1
+  },
+  {
+   "id": "afda061213d3",
+   "title": "Standard Asset Company opens UAE office to drive $1.5B bitcoin and real estate strategy",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNX1FaYWVsQ1hfTVR2cV9iX2JHUTYyNkRYdEhIZE1Mc2xHVmZrdExGVmp1WHFCTkRoQ19kalVrc1ZLTzB5YjlGS21nVUNiMDdjd25NU0hFT0xaelM5WVlhV0t4THZNNlJudzI5Z1VWd24wQWVLWFdKelp6d3FKRGpXcnBLaVd4V21NbUNzSHE1aWpXZXZzNFFkMTN5a3luN1FCUllWMkstTGQ2cUZHdkhNNF9FWjBjTktwWE41LUlVTDk1REpvOUtKbkdGaVZ5OWxqa2tESG5pODJFZU9uUV9xZ2RRMEFRYnVueTJBatIB7AFBVV95cUxNX1FaYWVsQ1hfTVR2cV9iX2JHUTYyNkRYdEhIZE1Mc2xHVmZrdExGVmp1WHFCTkRoQ19kalVrc1ZLTzB5YjlGS21nVUNiMDdjd25NU0hFT0xaelM5WVlhV0t4THZNNlJudzI5Z1VWd24wQWVLWFdKelp6d3FKRGpXcnBLaVd4V21NbUNzSHE1aWpXZXZzNFFkMTN5a3luN1FCUllWMkstTGQ2cUZHdkhNNF9FWjBjTktwWE41LUlVTDk1REpvOUtKbkdGaVZ5OWxqa2tESG5pODJFZU9uUV9xZ2RRMEFRYnVueTJBag?oc=5",
+   "source": "Gulf News",
+   "kind": "search",
+   "published": "2026-10-27T08:00+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Represents niche institutional investment entry.",
+   "watch": false,
+   "headline": "Standard Asset Company opens UAE office for investment strategy.",
+   "summary": "The firm establishes a local presence to execute a combined bitcoin and real estate strategy.",
+   "why": "It introduces new institutional capital targeting the local property sector.",
+   "age_hours": 4.4,
    "topic": "Macro & geopolitics"
   },
   {
@@ -187,15 +160,15 @@
    "headline": "Dubai Islands residential land mortgaged for Dhs618 million",
    "summary": "A large plot of residential land on Dubai Islands has been heavily mortgaged. Such high-value financial transactions usually indicate upcoming project development funding.",
    "why": "Large land mortgages signal upcoming project financing and development activity.",
-   "age_hours": 15.0,
+   "age_hours": 17.1,
    "topic": "Supply & market reports"
   }
  ],
  "window_hours": 24,
- "count_relevant": 13,
- "count_fetched": 331,
+ "count_relevant": 14,
+ "count_fetched": 350,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-27T10:15+04:00",
- "saved_at": "2026-10-27T10:15+04:00"
+ "as_of": "2026-10-27T12:24+04:00",
+ "saved_at": "2026-10-27T12:24+04:00"
 }

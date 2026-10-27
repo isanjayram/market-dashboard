@@ -334,6 +334,69 @@
    "category": "Developer news",
    "impact": "Medium",
    "impact_reason": "Explores new funding options for local real estate."
+  },
+  "bbb4dcfdfea6": {
+   "relevant": true,
+   "headline": "Abu Dhabi expects a property project launch every three days.",
+   "summary": "High demand in Abu Dhabi is driving a rapid pace of new real estate project launches.",
+   "why": "It highlights significant ongoing supply expansion and buyer demand in the capital.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Indicates steady developer activity and increasing market supply."
+  },
+  "d81df655779a": {
+   "relevant": false,
+   "headline": "Nakheel Palm Run returns to Palm Jumeirah in November.",
+   "summary": "The community running event offers various race distances on the Palm Jumeirah Crescent.",
+   "why": "This is a lifestyle event rather than property news.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Not related to property market fundamentals."
+  },
+  "faf9b39a9b1f": {
+   "relevant": true,
+   "headline": "Dubai forum to discuss shifting UAE investment trends beyond property.",
+   "summary": "Investors are increasingly exploring global equities, fixed income, and alternative assets alongside real estate.",
+   "why": "It signals changing capital allocation trends among UAE wealth holders.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Reflects broader investment discussions rather than direct policy changes."
+  },
+  "afda061213d3": {
+   "relevant": true,
+   "headline": "Standard Asset Company opens UAE office for investment strategy.",
+   "summary": "The firm establishes a local presence to execute a combined bitcoin and real estate strategy.",
+   "why": "It introduces new institutional capital targeting the local property sector.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Represents niche institutional investment entry."
+  },
+  "e57f2484fae8": {
+   "relevant": true,
+   "headline": "Casa Vista sells forty percent of AQUORA Residences ahead of launch.",
+   "summary": "The developer achieved strong early sales for its waterfront project on Dubai Islands prior to the official reveal.",
+   "why": "It demonstrates robust buyer demand for new Dubai waterfront developments.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Shows strong off-plan absorption for a specific project."
+  },
+  "ec33397c1199": {
+   "relevant": false,
+   "headline": "Sobha Realty expands into Abu Dhabi.",
+   "summary": "The developer enters the Abu Dhabi market while continuing its partnership with IIFA.",
+   "why": "The item focuses heavily on a corporate sponsorship and awards partnership.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Corporate marketing and sponsorship announcement."
+  },
+  "d34ded456d2b": {
+   "relevant": true,
+   "headline": "Global Edge announces UAE Property Grand Expo in Hyderabad.",
+   "summary": "An upcoming exhibition in India aims to showcase UAE real estate opportunities to international investors.",
+   "why": "It targets foreign capital inflow into the UAE property market.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "A promotional event aimed at overseas investors."
   }
  }
 }

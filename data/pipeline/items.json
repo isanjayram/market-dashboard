@@ -1540,5 +1540,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"e57f2484fae8": {
+"id": "e57f2484fae8",
+"title": "Casa Vista sells forty percent of AQUORA Residences ahead of launch.",
+"link": "https://www.khaleejtimes.com/business/property/casa-vista-development-strengthens-uae-presence-as-40-per-cent-of-aquora-residences-sell-ahead-of-unveiling",
+"source": "Khaleej Times",
+"category": "Developer news",
+"published": "2026-10-26T16:46+04:00",
+"first_seen": "2026-10-27",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": "AQUORA Residences",
+"developer": "Casa Vista Development",
+"location": "Dubai Islands",
+"type": "waterfront address",
+"launch_date": "October 28, 2026",
+"handover": null,
+"starting_price": "Dh350 million",
+"payment_plan": null
+}
 }
 }
