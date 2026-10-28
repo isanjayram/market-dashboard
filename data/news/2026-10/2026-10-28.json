@@ -547,5 +547,19 @@
 "LatestLY"
 ],
 "topic": "Macro & geopolitics"
+},
+{
+"id": "741beb5ebb65",
+"headline": "DFSA Fines Moody's Middle East Over Data Controls",
+"summary": "The Dubai Financial Services Authority penalized Moody's Middle East Dh2.15 million. The penalty stems from inadequate systems to protect confidential information.",
+"why": "Regulatory enforcement actions impact financial market transparency and governance standards in Dubai.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/business/markets/dfsa-fines-moodys-middle-east-unit-dh215-million-1.500726809",
+"published": "2026-10-28T14:20+04:00",
+"category": "Regulation & fees",
+"impact": "Medium",
+"impact_reason": "Highlights regulatory enforcement on financial institutions.",
+"watch": false,
+"topic": "Regulation & fees"
 }
 ]

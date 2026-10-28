@@ -586,6 +586,15 @@
    "category": "Infrastructure",
    "impact": "Medium",
    "impact_reason": "Boosts property values through targeted urban development."
+  },
+  "741beb5ebb65": {
+   "relevant": true,
+   "headline": "DFSA Fines Moody's Middle East Over Data Controls",
+   "summary": "The Dubai Financial Services Authority penalized Moody's Middle East Dh2.15 million. The penalty stems from inadequate systems to protect confidential information.",
+   "why": "Regulatory enforcement actions impact financial market transparency and governance standards in Dubai.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Highlights regulatory enforcement on financial institutions."
   }
  }
 }
