@@ -568,6 +568,24 @@
    "category": "Developer news",
    "impact": "Low",
    "impact_reason": "Corporate expansion with minimal immediate market-wide effect."
+  },
+  "0c73400f7a6d": {
+   "relevant": true,
+   "headline": "Zimaya launches $50.3 million Dubai residential project",
+   "summary": "Developer Zimaya has introduced a new residential development worth $50.3 million in Dubai. This addition expands housing choices within the local market.",
+   "why": "New project launches directly impact property supply and investor choices.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Adds new residential supply to the market."
+  },
+  "e2d3535f43dd": {
+   "relevant": true,
+   "headline": "Dubai initiates $545 million urban development plan",
+   "summary": "A major urban development push valued at $545 million has been planned to elevate local property values. The initiative focuses on enhancing city infrastructure.",
+   "why": "Infrastructure investments directly influence regional property valuations and sentiment.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Boosts property values through targeted urban development."
   }
  }
 }
