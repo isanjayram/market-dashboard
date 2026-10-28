@@ -505,6 +505,69 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "General market trend observation with limited immediate policy impact."
+  },
+  "56e1dd72677e": {
+   "relevant": true,
+   "headline": "Indian Tax Notice on UAE Property Prompts Expat Concerns",
+   "summary": "Expats face new tax scrutiny from India regarding their real estate investments in the Emirates. This development creates uncertainty for Indian nationals owning property abroad.",
+   "why": "This impacts Indian expats who must navigate cross-border tax compliance.",
+   "category": "Regulation & fees",
+   "impact": "High",
+   "impact_reason": "Changes tax liabilities and sentiment for Indian property buyers."
+  },
+  "27a3152b5c86": {
+   "relevant": false,
+   "headline": "Global Stock Markets Rally on AI Optimism",
+   "summary": "Wall Street futures and Asian markets rose due to positive artificial intelligence sentiment.",
+   "why": "The news focuses on international equities rather than regional property.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Not directly related to local real estate markets."
+  },
+  "0a99aa006e9c": {
+   "relevant": false,
+   "headline": "Qatar Partners With Google for AI Property Tool",
+   "summary": "Qatar is launching an AI platform called TATHMEEN with Google to improve property pricing transparency.",
+   "why": "The update concerns Qatar rather than the UAE real estate market.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Outside the UAE property jurisdiction."
+  },
+  "5305c9d094ac": {
+   "relevant": true,
+   "headline": "UAE Golden Visa Holders Eligible for Free Return Documents",
+   "summary": "Golden Visa residents can now request a complimentary return document if they lose their passport overseas. This policy update eases travel logistics for long-term investors.",
+   "why": "It affects residency documentation and travel convenience for Golden Visa holders.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Improves residency perks and travel ease for investors."
+  },
+  "0bbd6b47d67f": {
+   "relevant": true,
+   "headline": "Dubai Property Sector Generates Significant New Wealth",
+   "summary": "The local housing market continues to generate substantial wealth opportunities for investors. Market conditions are creating numerous property millionaires across the emirate.",
+   "why": "It reflects ongoing market performance and wealth creation trends.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "General market commentary with no immediate policy change."
+  },
+  "52d10b437f97": {
+   "relevant": true,
+   "headline": "ADPIC and Partners Group to Boost Abu Dhabi Projects",
+   "summary": "A new partnership aims to increase private sector involvement in Abu Dhabi infrastructure and real estate. This collaboration will support upcoming development initiatives in the capital.",
+   "why": "Private sector investment drives future capital projects.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Boosts private investment in capital infrastructure and real estate."
+  },
+  "752f6f2af7a3": {
+   "relevant": true,
+   "headline": "Oswal Green Tech Establishes Dubai Real Estate Subsidiary",
+   "summary": "The firm has set up a new local entity to pursue real estate expansion in Dubai. This move highlights continuing corporate interest in the emirate's property sector.",
+   "why": "New corporate entities entering the market signal ongoing sector expansion.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Corporate expansion with minimal immediate market-wide effect."
   }
  }
 }
