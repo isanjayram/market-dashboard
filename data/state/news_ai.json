@@ -451,6 +451,60 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "No direct effect on property values or real estate."
+  },
+  "481fdc671851": {
+   "relevant": true,
+   "headline": "Dubai South apartment sales jump 27 percent as demand shifts",
+   "summary": "Property transactions in Dubai South rose 27 percent recently. Buyers are increasingly opting for smaller apartment units.",
+   "why": "It highlights changing buyer preferences and demand trends in a key Dubai district.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Reflects shifting buyer demand patterns in the local market."
+  },
+  "2863eca09385": {
+   "relevant": true,
+   "headline": "Gold prices drop ahead of Federal Reserve interest rate decision",
+   "summary": "Spot gold declined to $4,030.68 as investors awaited the upcoming Fed rate verdict. A stronger U.S. dollar added downward pressure on bullion.",
+   "why": "Interest rate expectations directly influence global financing costs and property investment sentiment.",
+   "category": "Rates & mortgages",
+   "impact": "Medium",
+   "impact_reason": "Fed decisions impact global borrowing costs and investor sentiment."
+  },
+  "377fdb65b6ac": {
+   "relevant": false,
+   "headline": "TMLAK Property Expands Advisory Services",
+   "summary": "TMLAK Property Expands High-ROI Real Estate & Golden Visa Advisory Services in Dubai",
+   "why": "This is a company promotional announcement rather than broader market news.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Single company promotion lacks broader market impact."
+  },
+  "ded1202bbbdc": {
+   "relevant": true,
+   "headline": "Dar Global creates new property fund targeting international markets",
+   "summary": "Dar Global is launching a new fund to invest in real estate across the GCC, European Union, and United States.",
+   "why": "New cross-border investment funds influence capital flows and large-scale developer strategies.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "New international fund launch with indirect local market effects."
+  },
+  "7a2664a30c70": {
+   "relevant": true,
+   "headline": "AHS Properties plans 1.3 billion dollar twin towers in Dubai",
+   "summary": "AHS Properties has announced plans to construct luxury twin towers in Dubai valued at $1.3 billion.",
+   "why": "Major new project launches contribute to the pipeline of luxury supply in the emirate.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Adds significant luxury inventory to the Dubai property pipeline."
+  },
+  "f7e334c06fe1": {
+   "relevant": true,
+   "headline": "Selective buyers transform Dubai luxury branded real estate sector",
+   "summary": "The branded luxury property segment in Dubai is evolving as buyers become more selective and discerning.",
+   "why": "Changes in high-net-worth buyer behavior impact pricing and sales strategies in the luxury segment.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "General market trend observation with limited immediate policy impact."
   }
  }
 }
