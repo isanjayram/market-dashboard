@@ -514,6 +514,24 @@
    "category": "Developer news",
    "impact": "Low",
    "impact_reason": "Indicates broader regional development trends."
+  },
+  "a9458fad6efb": {
+   "relevant": false,
+   "headline": "Family museum preserves historic Dubai rental papers and bills",
+   "summary": "A Pakistani family showcases historical documents and memorabilia from 1960s Dubai. The collection highlights decades of local history through old bills and rental agreements.",
+   "why": "This is a nostalgic lifestyle feature with no real estate market or economic news impact.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Lifestyle feature lacking real estate news value."
+  },
+  "817d229ccbed": {
+   "relevant": true,
+   "headline": "Upcoming supply expected to influence Dubai property prices soon",
+   "summary": "New housing supply slated for delivery in the coming months could begin affecting property prices across Dubai. Analysts are monitoring how incoming inventory will shift local market dynamics.",
+   "why": "It addresses future property inventory changes that directly influence market pricing and buyer sentiment.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "New property supply may influence future market prices."
   }
  }
 }
