@@ -23,7 +23,7 @@
    "headline": "Landlords barred from cutting utilities during tenancy disputes",
    "summary": "Dubai tenancy laws forbid landlords from disconnecting essential utilities like air conditioning or water over unpaid rent. Landlords cannot interfere with tenant property access during active disputes.",
    "why": "This clarifies landlord-tenant regulations and protects renter rights in Dubai.",
-   "age_hours": 0.2,
+   "age_hours": 0.4,
    "topic": "Regulation & fees"
   },
   {
@@ -51,27 +51,8 @@
    "headline": "UAE holds base interest rate at 3.9 percent",
    "summary": "Following the US Federal Reserve's decision, the Central Bank of the UAE kept its key interest rate steady at 3.90 percent. This maintains current borrowing conditions for property buyers and mortgage holders across the Emirates.",
    "why": "Unchanged interest rates directly stabilize mortgage costs and buyer financing conditions in the UAE.",
-   "age_hours": 14.5,
+   "age_hours": 14.7,
    "topic": "Rates & mortgages"
-  },
-  {
-   "id": "f161b54955c4",
-   "title": "Dubai approves $544.6 million investment plan targeting $5.4 billion in real estate value by 2040",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSllWLXYxMktlYUlVM05LOGNXV1JSTzBGTWplVk40dUdFa0kzTURkY2ZadEJjMHpYNVBTZVJoUmRrY1lfMHFQM1F5NUdzQlBRdVFIeTBxWW5mVWx6OTJDRjhPUjB4THNlZUdObXQzc1BCQms1SU1HSW1ibXdiVlBsbXlkX3ZIUk5Gem01Sm53d0VDNElOUlJrQUxNREUzR21TNGdiVURUNWxDQzJjM21YT0RIcDhMQ0xzZ2ZUQndUOF9ET2oxRXc?oc=5",
-   "source": "Fast Company Middle East",
-   "kind": "search",
-   "published": "2026-10-28T13:04+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Infrastructure",
-   "impact": "High",
-   "impact_reason": "Substantial funding targets long-term property value growth.",
-   "watch": false,
-   "headline": "Dubai greenlights massive multi-million dollar investment strategy",
-   "summary": "Local authorities cleared a substantial investment framework aimed at boosting property values significantly over the next decade and a half. The initiative seeks to generate billions in sectoral worth by 2040.",
-   "why": "Long-term public funding directly shapes urban expansion and asset valuations.",
-   "age_hours": 23.9,
-   "topic": "Infrastructure"
   },
   {
    "id": "e594cef8e676",
@@ -95,7 +76,7 @@
    "headline": "New housing supply may impact Dubai property prices soon",
    "summary": "Dubizzle Group reports that Dubai's market has avoided widespread distressed selling so far. However, the influence of incoming housing supply on asking prices could become more noticeable over the coming months.",
    "why": "Anticipated new housing supply provides crucial insight into future pricing trends and inventory levels for agents.",
-   "age_hours": 3.7,
+   "age_hours": 3.9,
    "topic": "Supply & market reports",
    "more": 3
   },
@@ -118,7 +99,7 @@
    "headline": "Abu Dhabi apartment prices rise up to 9.2 percent",
    "summary": "Affordable and mid-market apartment prices grew during the third quarter of 2026. Buyer demand shifted toward more budget-friendly communities alongside luxury options.",
    "why": "It shows shifting price trends and buyer demand in affordable Abu Dhabi communities.",
-   "age_hours": 7.0,
+   "age_hours": 7.2,
    "topic": "abu dhabi",
    "more": 3
   },
@@ -141,7 +122,7 @@
    "headline": "Dubai 2026 survey shows strong buyer and renter sentiment",
    "summary": "Nearly half of surveyed buyers anticipate price growth, while a similar portion of renters consider purchasing.",
    "why": "It measures buyer sentiment and future market participation in Dubai.",
-   "age_hours": 7.3,
+   "age_hours": 7.5,
    "topic": "Supply & market reports"
   },
   {
@@ -163,7 +144,7 @@
    "headline": "UAE waterfront property prices surge by nearly 40 percent",
    "summary": "Asking prices for waterfront real estate jumped significantly across the country, with Abu Dhabi driving the upward trend.",
    "why": "It reveals major price surges in the UAE waterfront sector.",
-   "age_hours": 14.3,
+   "age_hours": 14.5,
    "topic": "abu dhabi"
   },
   {
@@ -182,9 +163,9 @@
    "headline": "Expert notes temporary pause in property craze",
    "summary": "Industry expert Niranjan Hiranandani notes that the intense real estate craze has paused while fundamental market appeal remains. Long-term sector confidence stays intact despite slower momentum.",
    "why": "It provides valuable sentiment analysis regarding market cycles for agents.",
-   "age_hours": 0.8,
+   "age_hours": 1.0,
    "topic": "Macro & geopolitics",
-   "more": 3
+   "more": 1
   },
   {
    "id": "8138b6238e74",
@@ -208,15 +189,15 @@
    "headline": "German-speaking buyer advisory passes milestone",
    "summary": "Independent advisory firm Dubai Finanz has assisted over 750 investors from Germany, Austria, and Switzerland since launch. The firm focuses on independent buyer representation.",
    "why": "It reflects ongoing foreign investor interest from German-speaking European markets.",
-   "age_hours": 0.8,
+   "age_hours": 1.0,
    "topic": "Macro & geopolitics"
   }
  ],
  "window_hours": 24,
- "count_relevant": 21,
- "count_fetched": 336,
+ "count_relevant": 18,
+ "count_fetched": 365,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-29T12:57+04:00",
- "saved_at": "2026-10-29T12:57+04:00"
+ "as_of": "2026-10-29T13:08+04:00",
+ "saved_at": "2026-10-29T13:08+04:00"
 }

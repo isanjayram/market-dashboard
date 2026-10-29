@@ -451,6 +451,33 @@
    "category": "Supply & market reports",
    "impact": "Medium",
    "impact_reason": "Indicates broader buyer interest across UAE off-plan projects."
+  },
+  "ac4f69a35f5e": {
+   "relevant": false,
+   "headline": "Builder bank fraud persists in India despite regulatory oversight",
+   "summary": "Numerous open cases and chargesheets highlight ongoing financial fraud by builders in India. Authorities continue to face criticism for failing to curb these fraudulent practices effectively.",
+   "why": "This news focuses entirely on the Indian regulatory and banking system rather than the UAE property market.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "No direct effect on the local Dubai market."
+  },
+  "3493bc6a724f": {
+   "relevant": false,
+   "headline": "Search engine optimization strategies for targeting wealthy Dubai property buyers",
+   "summary": "Digital marketing agencies offer specialized search techniques to help real estate firms attract high net worth individuals online. These strategies aim to capture affluent clientele through targeted web positioning.",
+   "why": "This is an advertising and marketing piece for SEO services rather than factual market news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Promotional content without broad market significance."
+  },
+  "562b1284e3ba": {
+   "relevant": false,
+   "headline": "Austin Albert wins a recent Dubai real estate award",
+   "summary": "Industry professional Austin Albert has achieved recognition by receiving a property sector award in Dubai. The milestone marks a notable personal achievement within the local brokerage community.",
+   "why": "Individual awards and lifestyle pieces are excluded from the agent briefing.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Awards do not impact pricing, supply, or regulations."
   }
  }
 }
