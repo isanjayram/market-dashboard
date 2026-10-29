@@ -478,6 +478,42 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Awards do not impact pricing, supply, or regulations."
+  },
+  "5e2dd0d6d74d": {
+   "relevant": true,
+   "headline": "Dubai rental agreements may face cancellation prior to commencement",
+   "summary": "Agreements can be nullified ahead of the start date if fraud is established. This provides legal protection against deceptive leasing practices.",
+   "why": "It protects tenants and landlords from fraudulent pre-lease agreements.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Safeguards parties against deceptive leasing practices."
+  },
+  "eb1ffeb9abe7": {
+   "relevant": true,
+   "headline": "New RDC guidelines permit pre-lease cancellation for fraud",
+   "summary": "Dubai's Rental Disputes Center introduces measures allowing lease annulment if deception is proven beforehand. Civil Transactions Law provisions back this legal safeguard.",
+   "why": "It establishes clear legal recourse against fraudulent rental contracts.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Enhances transparency and legal protection in leasing."
+  },
+  "766d3a5a3fcd": {
+   "relevant": true,
+   "headline": "Dubai urban plan aims for billions in property gains",
+   "summary": "An ambitious new urban development strategy targets a significant boost in property value across the emirate. The initiative focuses on enhancing city infrastructure and growth.",
+   "why": "It outlines strategic targets for increasing real estate value.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Drives long-term market sentiment and property appreciation."
+  },
+  "4f18e6f2527f": {
+   "relevant": true,
+   "headline": "Abu Dhabi enters a fresh development cycle",
+   "summary": "Major cultural and residential projects are sparking a new phase of growth in the capital. Developments range from cultural institutions to large-scale communities.",
+   "why": "It highlights expanding real estate activity beyond Dubai.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Indicates broader regional development trends."
   }
  }
 }

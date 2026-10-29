@@ -23,36 +23,28 @@
    "headline": "Landlords barred from cutting utilities during tenancy disputes",
    "summary": "Dubai tenancy laws forbid landlords from disconnecting essential utilities like air conditioning or water over unpaid rent. Landlords cannot interfere with tenant property access during active disputes.",
    "why": "This clarifies landlord-tenant regulations and protects renter rights in Dubai.",
-   "age_hours": 0.4,
-   "topic": "Regulation & fees"
+   "age_hours": 1.7,
+   "topic": "Regulation & fees",
+   "more": 1
   },
   {
-   "id": "7215f3da1080",
-   "title": "UAE keeps interest rate at 3.9 percent as Fed votes 10-2 to hold amid elevated inflation",
-   "link": "https://economymiddleeast.com/news/uae-keeps-interest-rate-at-3-9-percent-as-fed-votes-10-2-to-hold-amid-elevated-inflation/?utm_source=rss&utm_medium=rss&utm_campaign=uae-keeps-interest-rate-at-3-9-percent-as-fed-votes-10-2-to-hold-amid-elevated-inflation",
-   "source": "Economy Middle East",
-   "kind": "outlet",
-   "published": "2026-10-28T22:26+04:00",
-   "tags": [
-    "business",
-    "Central Bank",
-    "Economics",
-    "economy",
-    "inflation",
-    "interest rate",
-    "UAE Central Bank",
-    "United States"
-   ],
-   "teaser": "The UAE kept its key interest rate unchanged at 3.90 percent after the US Federal Reserve paused its tightening cycle in October, leaving borrowing conditions in the Emirates steady following last month\u2019s rate increase. The Central Bank of the UAE maintained the Base Rate applicable to its Overnight Deposit Facility at 3.90 percent after the [\u2026] The post UAE keeps interest rate at 3.9 percent as F",
-   "category": "Rates & mortgages",
-   "impact": "High",
-   "impact_reason": "Keeps borrowing costs and mortgage financing steady.",
+   "id": "5e2dd0d6d74d",
+   "title": "Dubai rental contracts can be cancelled before they begin if deception is proven",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQVFzbGYzcDBpbG1oRnlSM3lJLUM2VFV0UUlqSHIwQ3dVTGk0M2xRSU5OTnYwZFBJUmd0UFZkX3ZpVkI3S0cya0tPQk5DNzVSSlM3ZzRiRVM2dXFSSFhuMDUxdk5yRDMxaTJZcGFDNFJLZUhvenFJcnZ3Y1RRSGxaMFJEQ1VyVXlFemdjajFReU9DeW90d29UYk5aT1JEODUwY2pESlhLaF8xRHVPZ3lyTHk5blU5bG5zUjh2TQ?oc=5",
+   "source": "Gulf Business",
+   "kind": "search",
+   "published": "2026-10-29T13:39+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Safeguards parties against deceptive leasing practices.",
    "watch": false,
-   "headline": "UAE holds base interest rate at 3.9 percent",
-   "summary": "Following the US Federal Reserve's decision, the Central Bank of the UAE kept its key interest rate steady at 3.90 percent. This maintains current borrowing conditions for property buyers and mortgage holders across the Emirates.",
-   "why": "Unchanged interest rates directly stabilize mortgage costs and buyer financing conditions in the UAE.",
-   "age_hours": 14.7,
-   "topic": "Rates & mortgages"
+   "headline": "Dubai rental agreements may face cancellation prior to commencement",
+   "summary": "Agreements can be nullified ahead of the start date if fraud is established. This provides legal protection against deceptive leasing practices.",
+   "why": "It protects tenants and landlords from fraudulent pre-lease agreements.",
+   "age_hours": 0.8,
+   "topic": "Regulation & fees"
   },
   {
    "id": "e594cef8e676",
@@ -76,31 +68,8 @@
    "headline": "New housing supply may impact Dubai property prices soon",
    "summary": "Dubizzle Group reports that Dubai's market has avoided widespread distressed selling so far. However, the influence of incoming housing supply on asking prices could become more noticeable over the coming months.",
    "why": "Anticipated new housing supply provides crucial insight into future pricing trends and inventory levels for agents.",
-   "age_hours": 3.9,
+   "age_hours": 5.1,
    "topic": "Supply & market reports",
-   "more": 3
-  },
-  {
-   "id": "1dd949ea40c3",
-   "title": "Abu Dhabi apartment prices climb by up to 9.2%; buyers turn to affordable areas",
-   "link": "https://www.khaleejtimes.com/business/abu-dhabi-apartment-prices-climb-by-up-to-92-buyers-turn-to-affordable-areas",
-   "source": "Khaleej Times",
-   "kind": "outlet",
-   "published": "2026-10-29T05:59+04:00",
-   "tags": [
-    "Business",
-    "Property"
-   ],
-   "teaser": "Apartment asking prices in some of Abu Dhabi's affordable and mid-market communities increased by as much as 9.2 per cent during the third quarter of 2026, as demand for more budget-friendly homes continued alongside interest in luxury properties, according to Bayut's latest market report. Baniyas recorded the highest specified quarterly increase, with average asking prices per square foot for mid",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Highlights shifting demand toward affordable Abu Dhabi communities.",
-   "watch": false,
-   "headline": "Abu Dhabi apartment prices rise up to 9.2 percent",
-   "summary": "Affordable and mid-market apartment prices grew during the third quarter of 2026. Buyer demand shifted toward more budget-friendly communities alongside luxury options.",
-   "why": "It shows shifting price trends and buyer demand in affordable Abu Dhabi communities.",
-   "age_hours": 7.2,
-   "topic": "abu dhabi",
    "more": 3
   },
   {
@@ -122,8 +91,28 @@
    "headline": "Dubai 2026 survey shows strong buyer and renter sentiment",
    "summary": "Nearly half of surveyed buyers anticipate price growth, while a similar portion of renters consider purchasing.",
    "why": "It measures buyer sentiment and future market participation in Dubai.",
-   "age_hours": 7.5,
+   "age_hours": 8.8,
    "topic": "Supply & market reports"
+  },
+  {
+   "id": "766d3a5a3fcd",
+   "title": "Dubai targets $5.45bn property value increase under new urban development plan",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LM25zSTJINi1aM2VpcWRfOExhRFkteE9FaUFOUi1GcGpmOUJvZWxLTDRmTTFMZkdMYVRRRDR2OXpPTi16MGJiZWU5TUNuQTkySHkwR1VnTGFMTzRtZlZ3OEZiVHpzb3dPQjlwbFVSaGU1V1FnWWc?oc=5",
+   "source": "Arabian Business",
+   "kind": "search",
+   "published": "2026-10-29T01:44+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Drives long-term market sentiment and property appreciation.",
+   "watch": false,
+   "headline": "Dubai urban plan aims for billions in property gains",
+   "summary": "An ambitious new urban development strategy targets a significant boost in property value across the emirate. The initiative focuses on enhancing city infrastructure and growth.",
+   "why": "It outlines strategic targets for increasing real estate value.",
+   "age_hours": 12.7,
+   "topic": "Macro & geopolitics",
+   "more": 2
   },
   {
    "id": "09cede3692f8",
@@ -144,8 +133,9 @@
    "headline": "UAE waterfront property prices surge by nearly 40 percent",
    "summary": "Asking prices for waterfront real estate jumped significantly across the country, with Abu Dhabi driving the upward trend.",
    "why": "It reveals major price surges in the UAE waterfront sector.",
-   "age_hours": 14.5,
-   "topic": "abu dhabi"
+   "age_hours": 15.8,
+   "topic": "abu dhabi",
+   "more": 3
   },
   {
    "id": "370689d0f9da",
@@ -163,41 +153,39 @@
    "headline": "Expert notes temporary pause in property craze",
    "summary": "Industry expert Niranjan Hiranandani notes that the intense real estate craze has paused while fundamental market appeal remains. Long-term sector confidence stays intact despite slower momentum.",
    "why": "It provides valuable sentiment analysis regarding market cycles for agents.",
-   "age_hours": 1.0,
-   "topic": "Macro & geopolitics",
-   "more": 1
+   "age_hours": 2.2,
+   "topic": "Macro & geopolitics"
   },
   {
-   "id": "8138b6238e74",
-   "title": "Dubai Finanz passes 750 investors as demand grows for buyer-side property advice in Dubai",
-   "link": "https://gulfnews.com/friday/dubai-finanz-passes-750-investors-as-demand-grows-for-buyer-side-property-advice-in-dubai-1.500728046",
-   "source": "Gulf News",
-   "kind": "outlet",
-   "published": "2026-10-29T12:08+04:00",
-   "tags": [
-    "Friday"
-   ],
-   "teaser": "Dubai Finanz, known in English as Dubai Finance, has advised more than 750 German-speaking investors since its founding in 2023. The company is an independent property investment advisory firm (unabh\u00e4ngiger Immobilienberater) that represents buyers, primarily from Germany, Austria and Switzerland, when they buy property in Dubai. It does not accept commissions from developers, sellers or brokers a",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Measures niche advisory growth without altering market conditions.",
+   "id": "d3401ee106c8",
+   "title": "Off-plan property demand spreads across Dubai, Abu Dhabi residential projects",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUUlQakNaQXg5Z0dvSnR6YnJTVmtLaFFBWmNKNEE2d1d2ZXFPMlJoRW5oS0xaRVMwdVlsQ1hCOUJtdUdtR3JnTWFZSlg2UWlJLW40R0RTN09PNUg3YVduR2w5UkIxVGVuYmI2SWppZkVDaXRVYmxqakpPUExZclEySnE3d0VfQ3FBR0hBcy1FUl9iamlnZ3JwWkxFc3V4QmRPTDlmQ29VN2c2SjBwSnF2NVVTblVvbWRXOGQ1TnB6YnRjMmUweUtLMzE2Tnh0d1BxdFBCVFhEVjhBUUtkZFIyMWpya3p4Qnc?oc=5",
+   "source": "TradingView",
+   "kind": "search",
+   "published": "2026-10-29T10:09+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Indicates broader buyer interest across UAE off-plan projects.",
    "watch": false,
    "also": [
-    "Gulf News",
-    "Gulf News"
+    "Zawya",
+    "TradingView",
+    "Zawya"
    ],
-   "headline": "German-speaking buyer advisory passes milestone",
-   "summary": "Independent advisory firm Dubai Finanz has assisted over 750 investors from Germany, Austria, and Switzerland since launch. The firm focuses on independent buyer representation.",
-   "why": "It reflects ongoing foreign investor interest from German-speaking European markets.",
-   "age_hours": 1.0,
-   "topic": "Macro & geopolitics"
+   "headline": "Off-plan property demand grows in Dubai and Abu Dhabi",
+   "summary": "Buyer interest for off-plan residential projects is expanding across both Dubai and Abu Dhabi. This trend shows strong ongoing momentum in the UAE property market.",
+   "why": "It highlights shifting buyer demand patterns across major UAE residential markets.",
+   "age_hours": 4.3,
+   "topic": "abu dhabi"
   }
  ],
  "window_hours": 24,
- "count_relevant": 18,
- "count_fetched": 365,
+ "count_relevant": 19,
+ "count_fetched": 379,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-29T13:08+04:00",
- "saved_at": "2026-10-29T13:08+04:00"
+ "as_of": "2026-10-29T14:25+04:00",
+ "saved_at": "2026-10-29T14:25+04:00"
 }
