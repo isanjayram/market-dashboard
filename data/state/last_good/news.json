@@ -1,6 +1,32 @@
 {
  "top": [
   {
+   "id": "2e36393550cb",
+   "title": "Dubai tenants: Can landlords cut AC or essential services during a dispute?",
+   "link": "https://gulfnews.com/living-in-uae/housing/dubai-tenants-can-landlords-cut-ac-or-essential-services-during-a-dispute-1.500728079",
+   "source": "Gulf News",
+   "kind": "outlet",
+   "published": "2026-10-29T12:46+04:00",
+   "tags": [
+    "Living-Housing",
+    "Ask Gulf News",
+    "Dubai"
+   ],
+   "teaser": "Dubai: Can a landlord disconnect your air conditioning (AC) , electricity or water supply if you have unpaid rent or are involved in a rental dispute? Under Dubai's tenancy law , landlords are prohibited from disconnecting essential services or interfering with a tenant's use of a property, even when there is an ongoing disagreement. Article 34 of Dubai Law No. 26 of 2007, which regulates the rela",
+   "category": "Regulation & fees",
+   "impact": "High",
+   "impact_reason": "Directly impacts rental dispute rules and tenant protections.",
+   "watch": false,
+   "also": [
+    "Gulf News"
+   ],
+   "headline": "Landlords barred from cutting utilities during tenancy disputes",
+   "summary": "Dubai tenancy laws forbid landlords from disconnecting essential utilities like air conditioning or water over unpaid rent. Landlords cannot interfere with tenant property access during active disputes.",
+   "why": "This clarifies landlord-tenant regulations and protects renter rights in Dubai.",
+   "age_hours": 0.2,
+   "topic": "Regulation & fees"
+  },
+  {
    "id": "7215f3da1080",
    "title": "UAE keeps interest rate at 3.9 percent as Fed votes 10-2 to hold amid elevated inflation",
    "link": "https://economymiddleeast.com/news/uae-keeps-interest-rate-at-3-9-percent-as-fed-votes-10-2-to-hold-amid-elevated-inflation/?utm_source=rss&utm_medium=rss&utm_campaign=uae-keeps-interest-rate-at-3-9-percent-as-fed-votes-10-2-to-hold-amid-elevated-inflation",
@@ -25,7 +51,7 @@
    "headline": "UAE holds base interest rate at 3.9 percent",
    "summary": "Following the US Federal Reserve's decision, the Central Bank of the UAE kept its key interest rate steady at 3.90 percent. This maintains current borrowing conditions for property buyers and mortgage holders across the Emirates.",
    "why": "Unchanged interest rates directly stabilize mortgage costs and buyer financing conditions in the UAE.",
-   "age_hours": 12.6,
+   "age_hours": 14.5,
    "topic": "Rates & mortgages"
   },
   {
@@ -44,31 +70,8 @@
    "headline": "Dubai greenlights massive multi-million dollar investment strategy",
    "summary": "Local authorities cleared a substantial investment framework aimed at boosting property values significantly over the next decade and a half. The initiative seeks to generate billions in sectoral worth by 2040.",
    "why": "Long-term public funding directly shapes urban expansion and asset valuations.",
-   "age_hours": 22.0,
+   "age_hours": 23.9,
    "topic": "Infrastructure"
-  },
-  {
-   "id": "62b3ed58264c",
-   "title": "Off-plan property demand spreads across Dubai, Abu Dhabi residential projects",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYVJJVmVjNkZnNGo0ekViZUtDOExua3VMYVNxWDRRRXdlRlBYZVhZSFUzT0VMc1FfemtSaktXUXNPUVlpRi1wbUM5VXVKdGZXWEJsc0RoS2ZpR2VFNlZyY29BSWY2eHNnR1lfWXVOTng1YTFvRlpKbE9TdmVxMnpQeUdSNWxuZnJnNVF2Q3pPV0wxcnNjNHI4NzJQRU0tS1NwNWxtWGtISEt4NXBuSjZYWVlPVEVYNkl0cFE?oc=5",
-   "source": "Zawya",
-   "kind": "search",
-   "published": "2026-10-29T10:09+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Highlights growing buyer demand for off-plan properties.",
-   "watch": false,
-   "also": [
-    "Zawya"
-   ],
-   "headline": "Off-plan property demand expands across UAE residential projects",
-   "summary": "Demand for off-plan real estate is broadening across various residential projects in both Dubai and Abu Dhabi.",
-   "why": "Increasing demand for off-plan property signals strong buyer interest and shifting market trends in the UAE.",
-   "age_hours": 0.9,
-   "topic": "abu dhabi",
-   "more": 4
   },
   {
    "id": "e594cef8e676",
@@ -92,9 +95,9 @@
    "headline": "New housing supply may impact Dubai property prices soon",
    "summary": "Dubizzle Group reports that Dubai's market has avoided widespread distressed selling so far. However, the influence of incoming housing supply on asking prices could become more noticeable over the coming months.",
    "why": "Anticipated new housing supply provides crucial insight into future pricing trends and inventory levels for agents.",
-   "age_hours": 1.8,
+   "age_hours": 3.7,
    "topic": "Supply & market reports",
-   "more": 5
+   "more": 3
   },
   {
    "id": "1dd949ea40c3",
@@ -115,8 +118,9 @@
    "headline": "Abu Dhabi apartment prices rise up to 9.2 percent",
    "summary": "Affordable and mid-market apartment prices grew during the third quarter of 2026. Buyer demand shifted toward more budget-friendly communities alongside luxury options.",
    "why": "It shows shifting price trends and buyer demand in affordable Abu Dhabi communities.",
-   "age_hours": 5.1,
-   "topic": "abu dhabi"
+   "age_hours": 7.0,
+   "topic": "abu dhabi",
+   "more": 3
   },
   {
    "id": "6807f743c2f2",
@@ -137,58 +141,82 @@
    "headline": "Dubai 2026 survey shows strong buyer and renter sentiment",
    "summary": "Nearly half of surveyed buyers anticipate price growth, while a similar portion of renters consider purchasing.",
    "why": "It measures buyer sentiment and future market participation in Dubai.",
-   "age_hours": 5.4,
+   "age_hours": 7.3,
    "topic": "Supply & market reports"
   },
   {
-   "id": "5305c9d094ac",
-   "title": "UAE Golden Visa Holders Can Seek Free Return Document After Passport Loss Abroad",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZzNTaEVISjVXM2d2TEc2dUl4eDdtRjVLU0VqYkREcHQwRjFYT0VoVm5mQjNYWVhpYUhTUGdGZWlORWE0VlNrd3UwZEY5TmV2SzlqY1k2Yko3cVo5RVpPekZhSVhhbmZRWGVqclZPaDZqS1lsRzE3WWVYOGZPOEl1ZkZJVnhwMU5QY0NfUVJvZ3RqUmptbDAtYkRMd0RPbHRnNFd0VG9meU5PY2Noa1dqMXlNMkNhd0tPb1p4S1hEWdIBxwFBVV95cUxNMHVoMldFcHNaSTZ0bTZZdDZadE9lSXhLOFhCWlFyUUcyZUNqUTRWR2tWLVRYZXRTajRjMDFoTUhROFdSRWI4SXdWeFRXMHJlWExvc1NHMUhCSkZTTnZrY2pqbjNmdUx6ZnBKclNFWDFoZ1NlUGpsOWdQaFcxSEpRRDVxRHdjM2ZpQVBjbXVuZFN5bG96eWM4S21ldVpNMUxvNHRVck9qX0NaQXhvWjNibWl3cG1NME42a1QyS0dEeGtRU2Vmb2k4?oc=5",
-   "source": "NDTV Profit",
+   "id": "09cede3692f8",
+   "title": "UAE waterfront property asking prices rise nearly 40% as Abu Dhabi leads growth",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQnIyc2FycXE0aGhLZEJLUnU3emZwUTdqenpETlgyd1dwNmJ6NTBKUkRCN1JYTnZlTVdkQWU3LXljRDJwS0RFOG1LNmlMZXhYWjZIQ2V4UmRHTm9NVWF5eVc1MkE4Y1hjd1JHVnhPZ1pKQkhUcTY4ODRMZHJiLW55VnZ0RjJnLWo0THQxeWlTNzVkdlk0Yk1aZzg0V3pKYzBBYmdqVFpaMTIxVHduLTV5S0c2aVZITmFXNDBtajd6MA?oc=5",
+   "source": "Arabian Business",
    "kind": "search",
-   "published": "2026-10-28T11:47+04:00",
+   "published": "2026-10-28T22:38+04:00",
    "tags": [],
    "teaser": "",
-   "category": "Regulation & fees",
+   "category": "Supply & market reports",
    "impact": "Medium",
-   "impact_reason": "Improves residency perks and travel ease for investors.",
+   "impact_reason": "Shows substantial price appreciation for waterfront properties.",
    "watch": false,
-   "headline": "UAE Golden Visa Holders Eligible for Free Return Documents",
-   "summary": "Golden Visa residents can now request a complimentary return document if they lose their passport overseas. This policy update eases travel logistics for long-term investors.",
-   "why": "It affects residency documentation and travel convenience for Golden Visa holders.",
-   "age_hours": 23.3,
-   "topic": "golden visa"
+   "also": [
+    "Arabian Business"
+   ],
+   "headline": "UAE waterfront property prices surge by nearly 40 percent",
+   "summary": "Asking prices for waterfront real estate jumped significantly across the country, with Abu Dhabi driving the upward trend.",
+   "why": "It reveals major price surges in the UAE waterfront sector.",
+   "age_hours": 14.3,
+   "topic": "abu dhabi"
   },
   {
-   "id": "e24f01ffd994",
-   "title": "Brent oil outlook lifted to $110 as global inventories fall, tanker costs surge",
-   "link": "https://economymiddleeast.com/news/brent-oil-outlook-lifted-to-110-as-global-inventories-fall-tanker-costs-surge/?utm_source=rss&utm_medium=rss&utm_campaign=brent-oil-outlook-lifted-to-110-as-global-inventories-fall-tanker-costs-surge",
-   "source": "Economy Middle East",
+   "id": "370689d0f9da",
+   "title": "Dubai real estate craze has paused, but appeal remains: Niranjan Hiranandani | Real Estate News",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZXp5QzlFVl84a0o0X25kNERRLVJVcUV0eVltZm1zRFduT2ZOT1U4TzhNNTFwM3l6a2xPc0YyS3doMm42TEdSdEJlbzNvS0FpVWsyQ3hNbjRnRlN6SEtsbHZhVjE1dEQxUjZhUnhnRTVic0NPakhsWUhWZll3MlpVWG9vYVBYZG9qTWtMNFduUTR5RGFSaVBDUnhzOXlmWHVoYS1ocEowLUpNQ3NTcDdyeXVSWVJQQ2djc2FpVm16Qm9oVy1NTUZXbjU3RTlYSy0tU3lNSNIB2gFBVV95cUxNcDJyNkRkdk1qMDFSOWhyNXFHYkZYV0ljeEtLaEt2dGZldzVRNVdvTUI0dWhVeFp0dWh5OS1qM1dqZUhFbXU2VDJnNnNLcjZjRjIxUXZpdG5yQXVsM1ZkRzd0YjZXNmlXVjJkUVdLcFBTdEQ5S21Xa0JyNW1vSlV0ZzkxRVB1LTQyclBrNVQwalNuT2U1OXdNRjJKbUtCQ3Bja0pxVGxuaU9fNjBfeF94Q3N4TFdxUHplYi10OHV0c3E0SDFCZlB2ZWkyVVFNcUNqTkNRWFZXWTZlZw?oc=5",
+   "source": "Hindustan Times",
+   "kind": "search",
+   "published": "2026-10-29T12:11+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Provides expert sentiment on shifting market momentum and appeal.",
+   "watch": false,
+   "headline": "Expert notes temporary pause in property craze",
+   "summary": "Industry expert Niranjan Hiranandani notes that the intense real estate craze has paused while fundamental market appeal remains. Long-term sector confidence stays intact despite slower momentum.",
+   "why": "It provides valuable sentiment analysis regarding market cycles for agents.",
+   "age_hours": 0.8,
+   "topic": "Macro & geopolitics",
+   "more": 3
+  },
+  {
+   "id": "8138b6238e74",
+   "title": "Dubai Finanz passes 750 investors as demand grows for buyer-side property advice in Dubai",
+   "link": "https://gulfnews.com/friday/dubai-finanz-passes-750-investors-as-demand-grows-for-buyer-side-property-advice-in-dubai-1.500728046",
+   "source": "Gulf News",
    "kind": "outlet",
-   "published": "2026-10-28T20:40+04:00",
+   "published": "2026-10-29T12:08+04:00",
    "tags": [
-    "Middle East",
-    "Oil",
-    "Oil and gas",
-    "Oil prices"
+    "Friday"
    ],
-   "teaser": "UBS has raised its year-end forecast for Brent crude oil to $110 per barrel from $100 as persistent Middle East supply risks, falling global inventories and record shipping costs keep the oil market tight despite a recovery in Gulf crude flows. The Swiss bank also lifted its Brent forecasts for 2027, raising its March estimate [\u2026] The post Brent oil outlook lifted to $110 as global inventories fal",
+   "teaser": "Dubai Finanz, known in English as Dubai Finance, has advised more than 750 German-speaking investors since its founding in 2023. The company is an independent property investment advisory firm (unabh\u00e4ngiger Immobilienberater) that represents buyers, primarily from Germany, Austria and Switzerland, when they buy property in Dubai. It does not accept commissions from developers, sellers or brokers a",
    "category": "Macro & geopolitics",
    "impact": "Low",
-   "impact_reason": "Macroeconomic oil forecast update with indirect regional impact.",
+   "impact_reason": "Measures niche advisory growth without altering market conditions.",
    "watch": false,
-   "headline": "UBS raises Brent crude forecast to 110 dollars",
-   "summary": "Falling global inventories, surging shipping costs, and Middle East supply risks prompted the bank to increase its oil price outlook.",
-   "why": "It reports macroeconomic oil price adjustments affecting regional economies.",
-   "age_hours": 14.4,
-   "topic": "oil"
+   "also": [
+    "Gulf News",
+    "Gulf News"
+   ],
+   "headline": "German-speaking buyer advisory passes milestone",
+   "summary": "Independent advisory firm Dubai Finanz has assisted over 750 investors from Germany, Austria, and Switzerland since launch. The firm focuses on independent buyer representation.",
+   "why": "It reflects ongoing foreign investor interest from German-speaking European markets.",
+   "age_hours": 0.8,
+   "topic": "Macro & geopolitics"
   }
  ],
  "window_hours": 24,
- "count_relevant": 20,
- "count_fetched": 315,
+ "count_relevant": 21,
+ "count_fetched": 336,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-29T11:03+04:00",
- "saved_at": "2026-10-29T11:03+04:00"
+ "as_of": "2026-10-29T12:57+04:00",
+ "saved_at": "2026-10-29T12:57+04:00"
 }

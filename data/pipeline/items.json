@@ -1606,5 +1606,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"8ecb1b387c06": {
+"id": "8ecb1b387c06",
+"title": "Abu Dhabi expects rapid residential project launches",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaW4wNW9yZUhxc3V1VkdBRml1c1ZpMHR4UkgweHM1TmRXcUEta0pUMHgtazIxdWt0X2Z4dkVHakIzUF80WHpIbXpReUxjRGlheVdsaXpDaHlBcDYyZVBQdmJLSU4tSi1QNUx2RUgydk5zbThvLWFfMHFxdGZRcXJPWDh2cFpPeE1oMnBKaW9qVnNoYWQ3eTVUZjE0VVJSRDNUU3F1UkpYLVR4SFRpdEs1UjhhQzdRbS1D?oc=5",
+"source": "Middle East Construction News",
+"category": "Developer news",
+"published": "2026-10-29T09:14+04:00",
+"first_seen": "2026-10-29",
+"kind": "Off-plan launch",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

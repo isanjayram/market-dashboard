@@ -298,5 +298,119 @@
 "impact_reason": "General market context",
 "watch": false,
 "topic": "Macro & geopolitics"
+},
+{
+"id": "2e36393550cb",
+"headline": "Landlords barred from cutting utilities during tenancy disputes",
+"summary": "Dubai tenancy laws forbid landlords from disconnecting essential utilities like air conditioning or water over unpaid rent. Landlords cannot interfere with tenant property access during active disputes.",
+"why": "This clarifies landlord-tenant regulations and protects renter rights in Dubai.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/living-in-uae/housing/dubai-tenants-can-landlords-cut-ac-or-essential-services-during-a-dispute-1.500728079",
+"published": "2026-10-29T12:46+04:00",
+"category": "Regulation & fees",
+"impact": "High",
+"impact_reason": "Directly impacts rental dispute rules and tenant protections.",
+"watch": false,
+"also": [
+"Gulf News"
+],
+"topic": "Regulation & fees"
+},
+{
+"id": "370689d0f9da",
+"headline": "Expert notes temporary pause in property craze",
+"summary": "Industry expert Niranjan Hiranandani notes that the intense real estate craze has paused while fundamental market appeal remains. Long-term sector confidence stays intact despite slower momentum.",
+"why": "It provides valuable sentiment analysis regarding market cycles for agents.",
+"source": "Hindustan Times",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZXp5QzlFVl84a0o0X25kNERRLVJVcUV0eVltZm1zRFduT2ZOT1U4TzhNNTFwM3l6a2xPc0YyS3doMm42TEdSdEJlbzNvS0FpVWsyQ3hNbjRnRlN6SEtsbHZhVjE1dEQxUjZhUnhnRTVic0NPakhsWUhWZll3MlpVWG9vYVBYZG9qTWtMNFduUTR5RGFSaVBDUnhzOXlmWHVoYS1ocEowLUpNQ3NTcDdyeXVSWVJQQ2djc2FpVm16Qm9oVy1NTUZXbjU3RTlYSy0tU3lNSNIB2gFBVV95cUxNcDJyNkRkdk1qMDFSOWhyNXFHYkZYV0ljeEtLaEt2dGZldzVRNVdvTUI0dWhVeFp0dWh5OS1qM1dqZUhFbXU2VDJnNnNLcjZjRjIxUXZpdG5yQXVsM1ZkRzd0YjZXNmlXVjJkUVdLcFBTdEQ5S21Xa0JyNW1vSlV0ZzkxRVB1LTQyclBrNVQwalNuT2U1OXdNRjJKbUtCQ3Bja0pxVGxuaU9fNjBfeF94Q3N4TFdxUHplYi10OHV0c3E0SDFCZlB2ZWkyVVFNcUNqTkNRWFZXWTZlZw?oc=5",
+"published": "2026-10-29T12:11+04:00",
+"category": "Macro & geopolitics",
+"impact": "Medium",
+"impact_reason": "Provides expert sentiment on shifting market momentum and appeal.",
+"watch": false,
+"more": 3,
+"topic": "Macro & geopolitics"
+},
+{
+"id": "d3401ee106c8",
+"headline": "Off-plan property demand grows in Dubai and Abu Dhabi",
+"summary": "Buyer interest for off-plan residential projects is expanding across both Dubai and Abu Dhabi. This trend shows strong ongoing momentum in the UAE property market.",
+"why": "It highlights shifting buyer demand patterns across major UAE residential markets.",
+"source": "TradingView",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUUlQakNaQXg5Z0dvSnR6YnJTVmtLaFFBWmNKNEE2d1d2ZXFPMlJoRW5oS0xaRVMwdVlsQ1hCOUJtdUdtR3JnTWFZSlg2UWlJLW40R0RTN09PNUg3YVduR2w5UkIxVGVuYmI2SWppZkVDaXRVYmxqakpPUExZclEySnE3d0VfQ3FBR0hBcy1FUl9iamlnZ3JwWkxFc3V4QmRPTDlmQ29VN2c2SjBwSnF2NVVTblVvbWRXOGQ1TnB6YnRjMmUweUtLMzE2Tnh0d1BxdFBCVFhEVjhBUUtkZFIyMWpya3p4Qnc?oc=5",
+"published": "2026-10-29T10:09+04:00",
+"category": "Supply & market reports",
+"impact": "Medium",
+"impact_reason": "Indicates broader buyer interest across UAE off-plan projects.",
+"watch": false,
+"also": [
+"Zawya",
+"TradingView",
+"Zawya"
+],
+"topic": "abu dhabi"
+},
+{
+"id": "8ecb1b387c06",
+"headline": "Abu Dhabi expects rapid residential project launches",
+"summary": "Metropolitan Capital reports that Abu Dhabi is on track to introduce a new residential project every three days. The high frequency points to expanding capital inventory.",
+"why": "This indicates expanding project pipelines and shifts in regional supply trends.",
+"source": "Middle East Construction News",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaW4wNW9yZUhxc3V1VkdBRml1c1ZpMHR4UkgweHM1TmRXcUEta0pUMHgtazIxdWt0X2Z4dkVHakIzUF80WHpIbXpReUxjRGlheVdsaXpDaHlBcDYyZVBQdmJLSU4tSi1QNUx2RUgydk5zbThvLWFfMHFxdGZRcXJPWDh2cFpPeE1oMnBKaW9qVnNoYWQ3eTVUZjE0VVJSRDNUU3F1UkpYLVR4SFRpdEs1UjhhQzdRbS1D?oc=5",
+"published": "2026-10-29T09:14+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Indicates accelerating new residential supply in the capital.",
+"watch": false,
+"also": [
+"Middle East Construction News"
+],
+"topic": "abu dhabi"
+},
+{
+"id": "8138b6238e74",
+"headline": "German-speaking buyer advisory passes milestone",
+"summary": "Independent advisory firm Dubai Finanz has assisted over 750 investors from Germany, Austria, and Switzerland since launch. The firm focuses on independent buyer representation.",
+"why": "It reflects ongoing foreign investor interest from German-speaking European markets.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/friday/dubai-finanz-passes-750-investors-as-demand-grows-for-buyer-side-property-advice-in-dubai-1.500728046",
+"published": "2026-10-29T12:08+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "Measures niche advisory growth without altering market conditions.",
+"watch": false,
+"also": [
+"Gulf News",
+"Gulf News"
+],
+"topic": "Macro & geopolitics"
+},
+{
+"id": "3493bc6a724f",
+"headline": "Capturing HNWIs Online: Search Strategies from the Best Real Estate SEO Company in Dubai",
+"summary": "",
+"why": "can move investor sentiment; expect questions about where the market is heading.",
+"source": "The Good Men Project",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS1ZDTWpxODJVeGQyOVVsT25PUlgxeFlmQ1JCRzR4RDZaczV2SmY1R1E2RTQ0VkxvUHlmNk95M3gyMGRQY1BRM1FPNld4RkJFekN4UEdKRkhfR0RFNXplZ0ttT1FNMTdfZGVKaEpOanpFOVp5MXczOEhmWFhnODFyWmlKWV85bWVyRDhzNjZHTjRfazNRZmVqSk4teUxlN2NTSXVBZmFXeWJtMGwwdVNSMDI5Ul9VN3lpSnJXbUswSnVWZ0VWT1ZRdE5mNA?oc=5",
+"published": "2026-10-29T09:30+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": false,
+"topic": "Macro & geopolitics"
+},
+{
+"id": "562b1284e3ba",
+"headline": "Austin Albert Makes History With Dubai Real Estate Award",
+"summary": "",
+"why": "can move investor sentiment; expect questions about where the market is heading.",
+"source": "THISDAYLIVE",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX19ZQXE0ampKSTBVb1FhRmYxOWhFaFhOSUxndWV6NTdvM2trRU9KSldkQVQxOHlocWdnVGxYSVQyVGZGR3lodElDSFljV01YNS0yNUNWTFFVbjVmNHhOUEdXQl9YWG9BUVBPa1lEd0xSYnNLS1VGZVhfbk01RVdiSW5GZ3VQR3BZcTd3ei1OWXBqLU5CV2YwTE1ReEY?oc=5",
+"published": "2026-10-29T00:31+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": false,
+"topic": "Macro & geopolitics"
 }
 ]

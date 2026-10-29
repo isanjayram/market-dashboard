@@ -370,6 +370,87 @@
    "category": "Supply & market reports",
    "impact": "Medium",
    "impact_reason": "Indicates a shift in transaction patterns."
+  },
+  "2505b3f01607": {
+   "relevant": true,
+   "headline": "Golden Visa holders can secure emergency return permits swiftly",
+   "summary": "UAE Golden Visa holders who lose passports abroad can obtain quick return permits within thirty minutes. The fast process ensures residents face minimal travel disruptions.",
+   "why": "It impacts long-term investors and residents maintaining residency status while traveling internationally.",
+   "category": "Regulation & fees",
+   "impact": "High",
+   "impact_reason": "Affects residency and travel security for key investor segments."
+  },
+  "fbb753c7a8b8": {
+   "relevant": false,
+   "headline": "RTA announces car parks for Dubai Ride",
+   "summary": "The RTA designated specific parking locations for cyclists participating in the upcoming Dubai Ride event. Participants must arrive early during the scheduled morning window.",
+   "why": "This is a brief public transport and traffic update unrelated to property markets.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Lifestyle event parking details carry no property market impact."
+  },
+  "8ecb1b387c06": {
+   "relevant": true,
+   "headline": "Abu Dhabi expects rapid residential project launches",
+   "summary": "Metropolitan Capital reports that Abu Dhabi is on track to introduce a new residential project every three days. The high frequency points to expanding capital inventory.",
+   "why": "This indicates expanding project pipelines and shifts in regional supply trends.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Indicates accelerating new residential supply in the capital."
+  },
+  "2e36393550cb": {
+   "relevant": true,
+   "headline": "Landlords barred from cutting utilities during tenancy disputes",
+   "summary": "Dubai tenancy laws forbid landlords from disconnecting essential utilities like air conditioning or water over unpaid rent. Landlords cannot interfere with tenant property access during active disputes.",
+   "why": "This clarifies landlord-tenant regulations and protects renter rights in Dubai.",
+   "category": "Regulation & fees",
+   "impact": "High",
+   "impact_reason": "Directly impacts rental dispute rules and tenant protections."
+  },
+  "8138b6238e74": {
+   "relevant": true,
+   "headline": "German-speaking buyer advisory passes milestone",
+   "summary": "Independent advisory firm Dubai Finanz has assisted over 750 investors from Germany, Austria, and Switzerland since launch. The firm focuses on independent buyer representation.",
+   "why": "It reflects ongoing foreign investor interest from German-speaking European markets.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Measures niche advisory growth without altering market conditions."
+  },
+  "aec5b615b4a0": {
+   "relevant": true,
+   "headline": "New urban policy targets Dh20bn property value boost",
+   "summary": "Dubai approved an urban development plan upgrading forty-eight centers to lift property values significantly by 2040. The Executive Council chaired the strategic modernization initiative.",
+   "why": "It signals long-term capital growth potential across targeted urban zones.",
+   "category": "Macro & geopolitics",
+   "impact": "High",
+   "impact_reason": "Directly targets substantial long-term real estate value appreciation."
+  },
+  "75949189c0cc": {
+   "relevant": false,
+   "headline": "Dubai agency rewards top agent with supercar",
+   "summary": "A local real estate company gifted a Lamborghini Urus to its top-performing employee. The luxury incentive highlights corporate rewards within the sector.",
+   "why": "This is a corporate lifestyle and promotional piece with no broader market news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Internal company reward has no relevance to market trends."
+  },
+  "370689d0f9da": {
+   "relevant": true,
+   "headline": "Expert notes temporary pause in property craze",
+   "summary": "Industry expert Niranjan Hiranandani notes that the intense real estate craze has paused while fundamental market appeal remains. Long-term sector confidence stays intact despite slower momentum.",
+   "why": "It provides valuable sentiment analysis regarding market cycles for agents.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Provides expert sentiment on shifting market momentum and appeal."
+  },
+  "d3401ee106c8": {
+   "relevant": true,
+   "headline": "Off-plan property demand grows in Dubai and Abu Dhabi",
+   "summary": "Buyer interest for off-plan residential projects is expanding across both Dubai and Abu Dhabi. This trend shows strong ongoing momentum in the UAE property market.",
+   "why": "It highlights shifting buyer demand patterns across major UAE residential markets.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Indicates broader buyer interest across UAE off-plan projects."
   }
  }
 }
