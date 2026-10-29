@@ -23,27 +23,29 @@
    "headline": "Landlords barred from cutting utilities during tenancy disputes",
    "summary": "Dubai tenancy laws forbid landlords from disconnecting essential utilities like air conditioning or water over unpaid rent. Landlords cannot interfere with tenant property access during active disputes.",
    "why": "This clarifies landlord-tenant regulations and protects renter rights in Dubai.",
-   "age_hours": 2.2,
-   "topic": "Regulation & fees",
-   "more": 1
+   "age_hours": 2.4,
+   "topic": "Regulation & fees"
   },
   {
-   "id": "5e2dd0d6d74d",
-   "title": "Dubai rental contracts can be cancelled before they begin if deception is proven",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQVFzbGYzcDBpbG1oRnlSM3lJLUM2VFV0UUlqSHIwQ3dVTGk0M2xRSU5OTnYwZFBJUmd0UFZkX3ZpVkI3S0cya0tPQk5DNzVSSlM3ZzRiRVM2dXFSSFhuMDUxdk5yRDMxaTJZcGFDNFJLZUhvenFJcnZ3Y1RRSGxaMFJEQ1VyVXlFemdjajFReU9DeW90d29UYk5aT1JEODUwY2pESlhLaF8xRHVPZ3lyTHk5blU5bG5zUjh2TQ?oc=5",
-   "source": "Gulf Business",
-   "kind": "search",
-   "published": "2026-10-29T13:39+04:00",
-   "tags": [],
-   "teaser": "",
+   "id": "eb1ffeb9abe7",
+   "title": "Deception in your lease? Dubai's new rule could annul your contract",
+   "link": "https://www.khaleejtimes.com/business/property/deception-in-your-lease-dubais-new-rule-could-annul-your-contract",
+   "source": "Khaleej Times",
+   "kind": "outlet",
+   "published": "2026-10-29T13:03+04:00",
+   "tags": [
+    "Property",
+    "UAE"
+   ],
+   "teaser": "Dubai\u2019s Rental Disputes Center (RDC) has established new rules that allow tenants and landlords to annul lease agreements before signing in the case a contract can be proven deceptive. The principle is grounded in the provisions of the Civil Transactions Law and confirms that legal safeguards may extend beyond the signing of a contract, provided the applicable legal requirements are met. RDC is th",
    "category": "Regulation & fees",
    "impact": "Medium",
-   "impact_reason": "Safeguards parties against deceptive leasing practices.",
+   "impact_reason": "Enhances transparency and legal protection in leasing.",
    "watch": false,
-   "headline": "Dubai rental agreements may face cancellation prior to commencement",
-   "summary": "Agreements can be nullified ahead of the start date if fraud is established. This provides legal protection against deceptive leasing practices.",
-   "why": "It protects tenants and landlords from fraudulent pre-lease agreements.",
-   "age_hours": 1.3,
+   "headline": "New RDC guidelines permit pre-lease cancellation for fraud",
+   "summary": "Dubai's Rental Disputes Center introduces measures allowing lease annulment if deception is proven beforehand. Civil Transactions Law provisions back this legal safeguard.",
+   "why": "It establishes clear legal recourse against fraudulent rental contracts.",
+   "age_hours": 2.1,
    "topic": "Regulation & fees"
   },
   {
@@ -67,9 +69,9 @@
    "headline": "Off-plan property demand expands across UAE residential projects",
    "summary": "Demand for off-plan real estate is broadening across various residential projects in both Dubai and Abu Dhabi.",
    "why": "Increasing demand for off-plan property signals strong buyer interest and shifting market trends in the UAE.",
-   "age_hours": 4.8,
+   "age_hours": 5.0,
    "topic": "abu dhabi",
-   "more": 3
+   "more": 2
   },
   {
    "id": "817d229ccbed",
@@ -87,9 +89,9 @@
    "headline": "Upcoming supply expected to influence Dubai property prices soon",
    "summary": "New housing supply slated for delivery in the coming months could begin affecting property prices across Dubai. Analysts are monitoring how incoming inventory will shift local market dynamics.",
    "why": "It addresses future property inventory changes that directly influence market pricing and buyer sentiment.",
-   "age_hours": 5.7,
+   "age_hours": 5.9,
    "topic": "Supply & market reports",
-   "more": 3
+   "more": 2
   },
   {
    "id": "6807f743c2f2",
@@ -110,7 +112,7 @@
    "headline": "Dubai 2026 survey shows strong buyer and renter sentiment",
    "summary": "Nearly half of surveyed buyers anticipate price growth, while a similar portion of renters consider purchasing.",
    "why": "It measures buyer sentiment and future market participation in Dubai.",
-   "age_hours": 9.3,
+   "age_hours": 9.5,
    "topic": "Supply & market reports"
   },
   {
@@ -129,9 +131,9 @@
    "headline": "Dubai urban plan aims for billions in property gains",
    "summary": "An ambitious new urban development strategy targets a significant boost in property value across the emirate. The initiative focuses on enhancing city infrastructure and growth.",
    "why": "It outlines strategic targets for increasing real estate value.",
-   "age_hours": 13.2,
+   "age_hours": 13.4,
    "topic": "Macro & geopolitics",
-   "more": 2
+   "more": 1
   },
   {
    "id": "09cede3692f8",
@@ -152,7 +154,7 @@
    "headline": "UAE waterfront property prices surge by nearly 40 percent",
    "summary": "Asking prices for waterfront real estate jumped significantly across the country, with Abu Dhabi driving the upward trend.",
    "why": "It reveals major price surges in the UAE waterfront sector.",
-   "age_hours": 16.3,
+   "age_hours": 16.5,
    "topic": "abu dhabi"
   },
   {
@@ -171,15 +173,15 @@
    "headline": "Expert notes temporary pause in property craze",
    "summary": "Industry expert Niranjan Hiranandani notes that the intense real estate craze has paused while fundamental market appeal remains. Long-term sector confidence stays intact despite slower momentum.",
    "why": "It provides valuable sentiment analysis regarding market cycles for agents.",
-   "age_hours": 2.8,
+   "age_hours": 3.0,
    "topic": "Macro & geopolitics"
   }
  ],
  "window_hours": 24,
- "count_relevant": 19,
- "count_fetched": 366,
+ "count_relevant": 15,
+ "count_fetched": 345,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-29T14:56+04:00",
- "saved_at": "2026-10-29T14:56+04:00"
+ "as_of": "2026-10-29T15:08+04:00",
+ "saved_at": "2026-10-29T15:08+04:00"
 }

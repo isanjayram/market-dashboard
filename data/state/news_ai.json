@@ -532,6 +532,24 @@
    "category": "Supply & market reports",
    "impact": "Medium",
    "impact_reason": "New property supply may influence future market prices."
+  },
+  "64f8f859829f": {
+   "relevant": true,
+   "headline": "Abu Dhabi expects a residential launch every three days",
+   "summary": "Metropolitan Capital reports that Abu Dhabi will witness a rapid pace of new housing projects. This highlights strong ongoing activity in the emirate's property sector.",
+   "why": "It highlights significant new housing supply entering the Abu Dhabi market.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "High volume of upcoming residential supply."
+  },
+  "b1ba970abed5": {
+   "relevant": false,
+   "headline": "Dubai firm gifts employee a Lamborghini",
+   "summary": "A real estate company in Dubai gifted an expensive car to an employee.",
+   "why": "This is a lifestyle and promotional story with no impact on the property market.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Not relevant to property markets."
   }
  }
 }
