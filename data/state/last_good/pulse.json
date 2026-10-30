@@ -72,16 +72,16 @@
     "value": 180616164.0
    },
    {
-    "area": "Dubai Maritime City",
-    "dld_area": "Madinat Dubai Almelaheyah",
-    "deals": 99,
-    "value": 269538931.0
-   },
-   {
     "area": "Jabal Ali First",
     "dld_area": "Jabal Ali First",
     "deals": 99,
     "value": 188326448.0
+   },
+   {
+    "area": "Dubai Maritime City",
+    "dld_area": "Madinat Dubai Almelaheyah",
+    "deals": 99,
+    "value": 269538931.0
    },
    {
     "area": "DAMAC Lagoons",
@@ -1590,5 +1590,5 @@
   "fetched_at": "2026-10-30T09:46+04:00",
   "test": false
  },
- "saved_at": "2026-10-30T13:02+04:00"
+ "saved_at": "2026-10-30T14:27+04:00"
 }

@@ -1,6 +1,30 @@
 {
  "top": [
   {
+   "id": "0c2387a7f3ab",
+   "title": "UAE's Arada raises $400 million in first property debt issuance since regional conflict began",
+   "link": "https://www.khaleejtimes.com/business/uaes-arada-raises-400-million-in-first-property-debt-issuance-since-regional-conflict-began",
+   "source": "Khaleej Times",
+   "kind": "outlet",
+   "published": "2026-10-30T12:58+04:00",
+   "tags": [
+    "Business"
+   ],
+   "teaser": "UAE-based developer Arada has raised $400 million through a five-year sukuk issuance, marking the first debt offering by a UAE real estate developer since the regional conflict began in February 2026, as investor demand for the country's property sector remains resilient despite geopolitical uncertainty. The senior unsecured sukuk attracted more than $700 million in orders from regional and intern",
+   "category": "Developer news",
+   "impact": "High",
+   "impact_reason": "Signals ongoing investor confidence and developer funding resilience.",
+   "watch": true,
+   "also": [
+    "Khaleej Times"
+   ],
+   "headline": "Arada secures $400 million through new sukuk issuance",
+   "summary": "Developer Arada successfully raised $400 million via a five-year sukuk. This represents the UAE property sector's first debt offering since regional conflict started.",
+   "why": "It shows strong investor confidence and liquidity for UAE developers despite geopolitical tensions.",
+   "age_hours": 1.5,
+   "topic": "arada"
+  },
+  {
    "id": "ffa4107b3155",
    "title": "Gold prices fall below $4,000 as U.S. inflation data raises December rate hike expectations",
    "link": "https://economymiddleeast.com/news/gold-prices-fall-below-4000-as-u-s-inflation-data-raises-december-rate-hike-expectations/?utm_source=rss&utm_medium=rss&utm_campaign=gold-prices-fall-below-4000-as-u-s-inflation-data-raises-december-rate-hike-expectations",
@@ -22,34 +46,8 @@
    "headline": "Gold drops and U.S. inflation fuels rate hike expectations",
    "summary": "Spot gold prices declined following stronger-than-expected U.S. inflation figures. This shift reinforces market expectations for another Federal Reserve interest rate increase.",
    "why": "Changes in global interest rates directly influence mortgage costs and borrowing conditions for property buyers.",
-   "age_hours": 2.4,
+   "age_hours": 3.8,
    "topic": "Rates & mortgages"
-  },
-  {
-   "id": "5dddc3c4558b",
-   "title": "Sharjah opens new real estate registration branch in Muwaileh amid property investment",
-   "link": "https://www.khaleejtimes.com/business/sharjah-opens-new-real-estate-registration-branch-in-muwaileh-amid-property-investment",
-   "source": "Khaleej Times",
-   "kind": "outlet",
-   "published": "2026-10-30T09:35+04:00",
-   "tags": [
-    "Business",
-    "Property"
-   ],
-   "teaser": "Sharjah has opened a new real estate registration branch in Muwaileh to meet growing demand for property services as residential developments and investment activity continue to expand in the area. The Sharjah Real Estate Registration Department said the new branch is part of its efforts to bring government services closer to residents, property owners and investors, while improving the efficiency",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Streamlines local property transactions and boosts investor convenience.",
-   "watch": true,
-   "also": [
-    "Khaleej Times",
-    "Sharjah24"
-   ],
-   "headline": "Sharjah opens new real estate registration branch in Muwaileh",
-   "summary": "A new property registration office opened in Muwaileh to handle rising investment demand and residential expansion. The Sharjah Real Estate Registration Department aims to decentralize and ease services.",
-   "why": "Expanding administrative infrastructure facilitates smoother property transactions in growing investment zones.",
-   "age_hours": 3.5,
-   "topic": "sharjah"
   },
   {
    "id": "47e20c6d5649",
@@ -67,8 +65,30 @@
    "headline": "Sharjah RERD opens new branch to meet surging property demand",
    "summary": "Sharjah has launched an additional registration branch to cater to escalating property market activity. This expansion brings municipal property services closer to active residential communities.",
    "why": "Better accessibility to registry services supports ongoing regional real estate growth.",
-   "age_hours": 4.3,
+   "age_hours": 5.8,
    "topic": "sharjah"
+  },
+  {
+   "id": "62e18289531c",
+   "title": "Fitch affirms ADQ\u2019s rating as net profit rises 66% to Dh43 billion",
+   "link": "https://www.khaleejtimes.com/business/fitch-affirms-adqs-rating-as-net-profit-rises-66-to-dh43-billion",
+   "source": "Khaleej Times",
+   "kind": "outlet",
+   "published": "2026-10-30T12:54+04:00",
+   "tags": [
+    "Business"
+   ],
+   "teaser": "Fitch Ratings has affirmed Abu Dhabi Developmental Holding Company's (ADQ) long-term credit rating at 'AA' with a Stable Outlook, as the company's net profit rose nearly 66 per cent to Dh43 billion in 2025, supported by higher revenue and operating earnings. The international ratings agency also affirmed the company's short-term issuer default rating at 'F1+', reflecting its assessment of strong g",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Demonstrates strong sovereign-linked financial stability.",
+   "watch": false,
+   "headline": "Fitch affirms ADQ credit rating following strong profit growth",
+   "summary": "Fitch Ratings maintained ADQ at 'AA' with a Stable Outlook. This decision followed a 66 percent jump in annual net profit to Dh43 billion.",
+   "why": "It reflects robust state-backed financial health supporting the broader Abu Dhabi economy.",
+   "age_hours": 1.6,
+   "topic": "Supply & market reports",
+   "more": 2
   },
   {
    "id": "29128297f007",
@@ -83,13 +103,10 @@
    "impact": "Medium",
    "impact_reason": "Protects contracting parties against pre-tenancy fraud and deception.",
    "watch": false,
-   "also": [
-    "Gulf Business"
-   ],
    "headline": "Dubai rental contracts can be annulled before starting if deceived",
    "summary": "Signed tenancy agreements may be cancelled prior to commencement if proven deceitful.",
    "why": "It clarifies legal rights for tenants and landlords regarding fraudulent leases.",
-   "age_hours": 14.3,
+   "age_hours": 15.7,
    "topic": "Regulation & fees"
   },
   {
@@ -108,9 +125,8 @@
    "headline": "Abu Dhabi rental yields hit 11.5% amid rising prices",
    "summary": "Apartment prices climbed up to 9.2 percent while rental yields reached 11.5 percent.",
    "why": "It highlights attractive returns for investors in the Abu Dhabi market.",
-   "age_hours": 14.5,
-   "topic": "abu dhabi",
-   "more": 1
+   "age_hours": 15.9,
+   "topic": "abu dhabi"
   },
   {
    "id": "26dcaf8fe855",
@@ -128,9 +144,8 @@
    "headline": "Dubai Records Dh141 Billion in Third Quarter Property Deals",
    "summary": "Dubai property transactions reached Dh141 billion during the third quarter. The milestone reflects strong activity across the local sector.",
    "why": "It provides crucial market performance data for real estate professionals.",
-   "age_hours": 16.8,
-   "topic": "Supply & market reports",
-   "more": 1
+   "age_hours": 18.2,
+   "topic": "Supply & market reports"
   },
   {
    "id": "92aa769810db",
@@ -148,7 +163,7 @@
    "headline": "Abu Dhabi property market continues upward growth trajectory",
    "summary": "The property sector in Abu Dhabi maintains its positive momentum amid sustained buying activity. Market indicators reflect continued strength across residential and commercial segments.",
    "why": "Broad market performance trends guide investor confidence and capital allocation across the Emirates.",
-   "age_hours": 19.4,
+   "age_hours": 20.8,
    "topic": "abu dhabi"
   },
   {
@@ -167,54 +182,37 @@
    "headline": "Tenants and landlords can cancel signed leases if deception proven",
    "summary": "Signed rental agreements in Dubai are subject to cancellation before taking effect if fraud is established.",
    "why": "It establishes clear legal recourse for contractual deception in leasing.",
-   "age_hours": 20.1,
+   "age_hours": 21.5,
    "topic": "Regulation & fees"
   },
   {
-   "id": "683aa02c3a76",
-   "title": "Dar Global Capital Partners Eyes Dubai Real Estate Fund",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS2hyejBhSU40ejhKLUxkbW1VMkdSNUQ3bzZBVzVoYlNIRnBjSE1fNlV2MU5xbWxnTEN3M0EzWVpzbmUwMExlUmpkbjh1RDFGY2FNVUF2WEpLNHUweDBDMnd5T0FxWVBtWENKaHNYYWEtYVZ5ZFN0Q3lka0o0ck41R3RZZHVZTjhwajZDd0tmdUEwZ0gzRVpYZE9n?oc=5",
-   "source": "https://megaproject.com/",
+   "id": "37212a660f69",
+   "title": "Sharjah opens new real estate registration branch in Muwaileh amid property investment",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYjZNNWhGSGdyYzFXYXBhV0N1NV91bExZbmhabTlDdE5QVlNiMDZ1cWFjdzg1Z0JVck9MWDI1eko5Vkg4MGxOeWZKTlpuR3JjUnJRWnJJeDN3SXZXOEc1N1JtX0VyYnBXemF4eUNpUXFXR3ZUR1VBTUR0d0xHR2otUnp0aVp5N05HdzZ6UkJJSS1zbjZETUh3SU1tMllubVZQV1BfdUFoVDhmZGZVRWNkTmkyazg4ZzlvS2tUbkY0cGVINHJ0cHI1b3d30gHKAUFVX3lxTE5iNk01aEZIZ3JjMVdhcGFXQ3U1X3VsTFluaFptOUN0TlBWU2IwNnVxYWN3ODVnQlVyT0xYMjV6SjlWSDgwbE55ZkpOWm5HcmNSclFackl4M3dJdlc4RzU3Um1fRXJicFd6YXh5Q2lRcVdHdlRHVUFNRHR3TEdHai1SenRpWnk3Tkd3NnpSQklJLXNuNkRNSHdJTW0yWW5tVlBXUF91QWhUOGZkZlVFY2ROaTJrODhnOW9La1RuRjRwZUg0cnRwcjVvd3c?oc=5",
+   "source": "Khaleej Times",
    "kind": "search",
-   "published": "2026-10-30T02:28+04:00",
+   "published": "2026-10-30T09:35+04:00",
    "tags": [],
    "teaser": "",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "New funds can increase capital inflow into local properties.",
-   "watch": false,
-   "headline": "Dar Global Capital Partners plans Dubai real estate fund",
-   "summary": "Dar Global Capital Partners is looking into establishing a dedicated property fund in Dubai. The move indicates continued institutional interest in expanding local real estate investment vehicles.",
-   "why": "It highlights new investment fund creation targeting the local market.",
-   "age_hours": 10.6,
-   "topic": "Developer news"
-  },
-  {
-   "id": "7ee17d020540",
-   "title": "Cityscape to make India debut with Mumbai real estate expo in 2027",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcVJjcFhOT09CNDI4VXFvUUpoaXhmMlluZWsxMUQxcWptZ0FCd1JLSnZOLXV4bTRKQnBPaW1KanF1X00yZDBXQ0RQWkxJdV80Z1BsV2ZxWG5jc043dTdaNmdYdllWelZ4YXg0SkljRWs0Ukp2a0tJcWc4Y0ktTFZQVXZndlQyOHBKYnNQOFhQV2pBRkpSU2t4aTVpSXNoNFd0bmNiQnlZbkt6d3dYbElZQ2U1Zy1odmgwM1c5aDNZMFRJY2FZRkdBWlNJM2piV01oSzFaamZZclpDX1dNYy1KZA?oc=5",
-   "source": "Construction World",
-   "kind": "search",
-   "published": "2026-10-30T09:00+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Macro & geopolitics",
+   "category": "Infrastructure",
    "impact": "Low",
-   "impact_reason": "Future international event targeting foreign investors.",
+   "impact_reason": "Enhances administrative efficiency for local property registration.",
    "watch": true,
-   "headline": "Cityscape Announces Mumbai Real Estate Expo Debut for 2027",
-   "summary": "Cityscape is planning its first Indian real estate exhibition in Mumbai for 2027. This event will connect international markets with Indian investors.",
-   "why": "It opens new avenues for attracting Indian capital to Dubai real estate.",
-   "age_hours": 4.0,
-   "topic": "Macro & geopolitics",
-   "more": 1
+   "also": [
+    "Sharjah24"
+   ],
+   "headline": "Sharjah launches new property registration branch in Muwaileh",
+   "summary": "Sharjah has opened a fresh real estate registration branch in the Muwaileh area.",
+   "why": "It improves local administrative access for property investors in Sharjah.",
+   "age_hours": 4.9,
+   "topic": "sharjah"
   }
  ],
  "window_hours": 24,
- "count_relevant": 16,
- "count_fetched": 351,
+ "count_relevant": 20,
+ "count_fetched": 369,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-30T13:02+04:00",
- "saved_at": "2026-10-30T13:02+04:00"
+ "as_of": "2026-10-30T14:28+04:00",
+ "saved_at": "2026-10-30T14:28+04:00"
 }

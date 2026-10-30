@@ -604,6 +604,87 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Links real estate earnings to cryptocurrency."
+  },
+  "0c2387a7f3ab": {
+   "relevant": true,
+   "headline": "Arada secures $400 million through new sukuk issuance",
+   "summary": "Developer Arada successfully raised $400 million via a five-year sukuk. This represents the UAE property sector's first debt offering since regional conflict started.",
+   "why": "It shows strong investor confidence and liquidity for UAE developers despite geopolitical tensions.",
+   "category": "Developer news",
+   "impact": "High",
+   "impact_reason": "Signals ongoing investor confidence and developer funding resilience."
+  },
+  "62e18289531c": {
+   "relevant": true,
+   "headline": "Fitch affirms ADQ credit rating following strong profit growth",
+   "summary": "Fitch Ratings maintained ADQ at 'AA' with a Stable Outlook. This decision followed a 66 percent jump in annual net profit to Dh43 billion.",
+   "why": "It reflects robust state-backed financial health supporting the broader Abu Dhabi economy.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Demonstrates strong sovereign-linked financial stability."
+  },
+  "37212a660f69": {
+   "relevant": true,
+   "headline": "Sharjah launches new property registration branch in Muwaileh",
+   "summary": "Sharjah has opened a fresh real estate registration branch in the Muwaileh area.",
+   "why": "It improves local administrative access for property investors in Sharjah.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Enhances administrative efficiency for local property registration."
+  },
+  "9495fa8d3451": {
+   "relevant": false,
+   "headline": "Arada reopens UAE property debt markets with $400m sukuk closure",
+   "summary": "Arada reopens UAE property debt markets with $400m sukuk closure.",
+   "why": "Duplicate news story covered by a higher quality source.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Duplicate content."
+  },
+  "dd7a80bbd56e": {
+   "relevant": false,
+   "headline": "Cityscape launches its real estate investment platform in Mumbai",
+   "summary": "Cityscape, the World's Leading Real Estate Investment Platform, Makes Its India Debut in Mumbai.",
+   "why": "Event is outside the UAE market and does not directly affect local real estate transactions.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "International event outside the UAE property market."
+  },
+  "594f54f05d8b": {
+   "relevant": false,
+   "headline": "Dubai real estate buyers find better deals as new homes arrive",
+   "summary": "Dubai real estate buyers find better deals as new homes reach the market.",
+   "why": "Teaser is missing and the title offers no actionable market data or news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Lacks specific data or news substance."
+  },
+  "d7c7a3bb6f5d": {
+   "relevant": false,
+   "headline": "Dubai Land Department aims to expand Emirati career opportunities",
+   "summary": "Dubai Land Department to Expand Emirati Career Opportunities.",
+   "why": "Internal HR policy update rather than property market news.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Internal employment matter."
+  },
+  "690531887304": {
+   "relevant": false,
+   "headline": "Dubai agent receives Lamborghini Urus after closing major deals",
+   "summary": "Dubai real estate agent gets a Lamborghini Urus after closing $500M in deals.",
+   "why": "Lifestyle and promotional content rather than substantive real estate news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Lifestyle and agent achievement story."
+  },
+  "234ca07a7706": {
+   "relevant": true,
+   "headline": "Stay Property Management adopts AI for Dubai short-term rentals",
+   "summary": "Stay Property Management is integrating artificial intelligence to enhance operations within Dubai's short-term rental sector. This technological upgrade aims to optimize management processes for holiday homes.",
+   "why": "Adopting new property technology impacts the efficiency and management standards of Dubai's short-term rental market.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Operational tech upgrade with minimal immediate market-wide impact."
   }
  }
 }
