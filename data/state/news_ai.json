@@ -685,6 +685,15 @@
    "category": "Developer news",
    "impact": "Low",
    "impact_reason": "Operational tech upgrade with minimal immediate market-wide impact."
+  },
+  "6db5eb80854f": {
+   "relevant": false,
+   "headline": "Dubai agency rewards top broker with luxury car",
+   "summary": "A local real estate firm presented an employee with a high-end sports car after reaching a major sales milestone.",
+   "why": "This is a company promotional event rather than core property market news.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Internal corporate event with no broader market effect."
   }
  }
 }
