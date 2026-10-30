@@ -1,10 +1,4 @@
 {
- "2026-09-30": {
-  "calls": 8,
-  "by_provider": {
-   "gemini": 8
-  }
- },
  "2026-10-01": {
   "calls": 10,
   "by_provider": {
@@ -177,6 +171,12 @@
   "calls": 16,
   "by_provider": {
    "gemini": 16
+  }
+ },
+ "2026-10-30": {
+  "calls": 4,
+  "by_provider": {
+   "gemini": 4
   }
  }
 }

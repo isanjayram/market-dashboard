@@ -1628,5 +1628,49 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"c27ae3a0557b": {
+"id": "c27ae3a0557b",
+"title": "Abu Dhabi experiences rapid new residential project launches",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWVZKZHdVUmpFU2YzZG1aS2ZNbVpyZS1weXVKRDR0dzYtWXdVSDB1RVdIdzZOYmt2UThHaU81amdhY3QwZVQ3Sk1NSU5xejlBaG1lcEVyWXFLNUJZVXBHdUhsMlRqMWZoX2NTZHFrVDdieVR5RDFQTnFaNnAwU3dnX0FhX0FSQWNXUmZSSnloazR5djVPMXZia3NpdjY1OFRHY3poZlJKSzZoNGgyN05WQXFnS2ExVnFVVHRaN3NVQS15MlFwM3FyUmdmQzY?oc=5",
+"source": "Trending Now Infrastructure",
+"category": "Developer news",
+"published": "2026-10-29T12:58+04:00",
+"first_seen": "2026-10-30",
+"kind": "Off-plan launch",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"3fc02496a51a": {
+"id": "3fc02496a51a",
+"title": "Sharjah opens new real estate registration branch in Muwaileh",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa01mTW9DdEEya1puY2w5bFhzT1FSY294MEtFMmFXOWdaVjNQUk1NTWtpazZydGpVaXFBVnhQTEJIdmNZNGRTeUlVZDlIM1VFZW94RlUzd1g1RTJyR3ZaanFhajVDYlFnZ2FONE5wWXBwaUZfd3dnR0ctZzV6M1R1NTVTaWl0ZGRjallpSmgwYkM0WmZsempXQjNXZFBTbGtBVnJkYUoxRFZOWTNsMmJqZklxZDB0ekJXT1VVQ3RIRDltQdIBygFBVV95cUxOYjZNNWhGSGdyYzFXYXBhV0N1NV91bExZbmhabTlDdE5QVlNiMDZ1cWFjdzg1Z0JVck9MWDI1eko5Vkg4MGxOeWZKTlpuR3JjUnJRWnJJeDN3SXZXOEc1N1JtX0VyYnBXemF4eUNpUXFXR3ZUR1VBTUR0d0xHR2otUnp0aVp5N05HdzZ6UkJJSS1zbjZETUh3SU1tMllubVZQV1BfdUFoVDhmZGZVRWNkTmkyazg4ZzlvS2tUbkY0cGVINHJ0cHI1b3d3?oc=5",
+"source": "Khaleej Times",
+"category": "Infrastructure",
+"published": "2026-10-30T09:35+04:00",
+"first_seen": "2026-10-30",
+"kind": "Infrastructure",
+"region": "Sharjah",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

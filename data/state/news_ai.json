@@ -1,195 +1,4 @@
 {
- "2026-10-28": {
-  "3a1982e83c03": {
-   "relevant": true,
-   "headline": "UAE Interest Rates Expected to Remain Unchanged Today",
-   "summary": "Analyst predictions suggest the US Federal Reserve will maintain current rates without reductions. Borrowers in Dubai must wait longer for potential mortgage relief.",
-   "why": "Interest rate stability directly dictates borrowing costs and mortgage affordability for real estate buyers.",
-   "category": "Rates & mortgages",
-   "impact": "High",
-   "impact_reason": "Affects mortgage affordability and buyer borrowing costs."
-  },
-  "6f886ffe6fce": {
-   "relevant": true,
-   "headline": "Dar Global Targets Luxury Properties in Dubai",
-   "summary": "Dar Global Capital Partners is actively seeking high-end real estate opportunities in Dubai. The firm focuses on expanding its presence in the luxury property sector.",
-   "why": "It highlights institutional investment interest in Dubai's high-end property market.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Highlights institutional investment focus without altering broader market conditions."
-  },
-  "01d944dcf85f": {
-   "relevant": false,
-   "headline": "UAE Beach Closures Vary Across Different Properties",
-   "summary": "Certain UAE beaches and hotel shorelines are currently experiencing varying closure statuses depending on the specific property.",
-   "why": "This news piece focuses on hotel amenities rather than core real estate market dynamics.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "No direct effect on property values or real estate."
-  },
-  "481fdc671851": {
-   "relevant": true,
-   "headline": "Dubai South apartment sales jump 27 percent as demand shifts",
-   "summary": "Property transactions in Dubai South rose 27 percent recently. Buyers are increasingly opting for smaller apartment units.",
-   "why": "It highlights changing buyer preferences and demand trends in a key Dubai district.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Reflects shifting buyer demand patterns in the local market."
-  },
-  "2863eca09385": {
-   "relevant": true,
-   "headline": "Gold prices drop ahead of Federal Reserve interest rate decision",
-   "summary": "Spot gold declined to $4,030.68 as investors awaited the upcoming Fed rate verdict. A stronger U.S. dollar added downward pressure on bullion.",
-   "why": "Interest rate expectations directly influence global financing costs and property investment sentiment.",
-   "category": "Rates & mortgages",
-   "impact": "Medium",
-   "impact_reason": "Fed decisions impact global borrowing costs and investor sentiment."
-  },
-  "377fdb65b6ac": {
-   "relevant": false,
-   "headline": "TMLAK Property Expands Advisory Services",
-   "summary": "TMLAK Property Expands High-ROI Real Estate & Golden Visa Advisory Services in Dubai",
-   "why": "This is a company promotional announcement rather than broader market news.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Single company promotion lacks broader market impact."
-  },
-  "ded1202bbbdc": {
-   "relevant": true,
-   "headline": "Dar Global creates new property fund targeting international markets",
-   "summary": "Dar Global is launching a new fund to invest in real estate across the GCC, European Union, and United States.",
-   "why": "New cross-border investment funds influence capital flows and large-scale developer strategies.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "New international fund launch with indirect local market effects."
-  },
-  "7a2664a30c70": {
-   "relevant": true,
-   "headline": "AHS Properties plans 1.3 billion dollar twin towers in Dubai",
-   "summary": "AHS Properties has announced plans to construct luxury twin towers in Dubai valued at $1.3 billion.",
-   "why": "Major new project launches contribute to the pipeline of luxury supply in the emirate.",
-   "category": "Macro & geopolitics",
-   "impact": "Medium",
-   "impact_reason": "Adds significant luxury inventory to the Dubai property pipeline."
-  },
-  "f7e334c06fe1": {
-   "relevant": true,
-   "headline": "Selective buyers transform Dubai luxury branded real estate sector",
-   "summary": "The branded luxury property segment in Dubai is evolving as buyers become more selective and discerning.",
-   "why": "Changes in high-net-worth buyer behavior impact pricing and sales strategies in the luxury segment.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "General market trend observation with limited immediate policy impact."
-  },
-  "56e1dd72677e": {
-   "relevant": true,
-   "headline": "Indian Tax Notice on UAE Property Prompts Expat Concerns",
-   "summary": "Expats face new tax scrutiny from India regarding their real estate investments in the Emirates. This development creates uncertainty for Indian nationals owning property abroad.",
-   "why": "This impacts Indian expats who must navigate cross-border tax compliance.",
-   "category": "Regulation & fees",
-   "impact": "High",
-   "impact_reason": "Changes tax liabilities and sentiment for Indian property buyers."
-  },
-  "27a3152b5c86": {
-   "relevant": false,
-   "headline": "Global Stock Markets Rally on AI Optimism",
-   "summary": "Wall Street futures and Asian markets rose due to positive artificial intelligence sentiment.",
-   "why": "The news focuses on international equities rather than regional property.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Not directly related to local real estate markets."
-  },
-  "0a99aa006e9c": {
-   "relevant": false,
-   "headline": "Qatar Partners With Google for AI Property Tool",
-   "summary": "Qatar is launching an AI platform called TATHMEEN with Google to improve property pricing transparency.",
-   "why": "The update concerns Qatar rather than the UAE real estate market.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Outside the UAE property jurisdiction."
-  },
-  "5305c9d094ac": {
-   "relevant": true,
-   "headline": "UAE Golden Visa Holders Eligible for Free Return Documents",
-   "summary": "Golden Visa residents can now request a complimentary return document if they lose their passport overseas. This policy update eases travel logistics for long-term investors.",
-   "why": "It affects residency documentation and travel convenience for Golden Visa holders.",
-   "category": "Regulation & fees",
-   "impact": "Medium",
-   "impact_reason": "Improves residency perks and travel ease for investors."
-  },
-  "0bbd6b47d67f": {
-   "relevant": true,
-   "headline": "Dubai Property Sector Generates Significant New Wealth",
-   "summary": "The local housing market continues to generate substantial wealth opportunities for investors. Market conditions are creating numerous property millionaires across the emirate.",
-   "why": "It reflects ongoing market performance and wealth creation trends.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "General market commentary with no immediate policy change."
-  },
-  "52d10b437f97": {
-   "relevant": true,
-   "headline": "ADPIC and Partners Group to Boost Abu Dhabi Projects",
-   "summary": "A new partnership aims to increase private sector involvement in Abu Dhabi infrastructure and real estate. This collaboration will support upcoming development initiatives in the capital.",
-   "why": "Private sector investment drives future capital projects.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Boosts private investment in capital infrastructure and real estate."
-  },
-  "752f6f2af7a3": {
-   "relevant": true,
-   "headline": "Oswal Green Tech Establishes Dubai Real Estate Subsidiary",
-   "summary": "The firm has set up a new local entity to pursue real estate expansion in Dubai. This move highlights continuing corporate interest in the emirate's property sector.",
-   "why": "New corporate entities entering the market signal ongoing sector expansion.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Corporate expansion with minimal immediate market-wide effect."
-  },
-  "0c73400f7a6d": {
-   "relevant": true,
-   "headline": "Zimaya launches $50.3 million Dubai residential project",
-   "summary": "Developer Zimaya has introduced a new residential development worth $50.3 million in Dubai. This addition expands housing choices within the local market.",
-   "why": "New project launches directly impact property supply and investor choices.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Adds new residential supply to the market."
-  },
-  "e2d3535f43dd": {
-   "relevant": true,
-   "headline": "Dubai initiates $545 million urban development plan",
-   "summary": "A major urban development push valued at $545 million has been planned to elevate local property values. The initiative focuses on enhancing city infrastructure.",
-   "why": "Infrastructure investments directly influence regional property valuations and sentiment.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Boosts property values through targeted urban development."
-  },
-  "741beb5ebb65": {
-   "relevant": true,
-   "headline": "DFSA Fines Moody's Middle East Over Data Controls",
-   "summary": "The Dubai Financial Services Authority penalized Moody's Middle East Dh2.15 million. The penalty stems from inadequate systems to protect confidential information.",
-   "why": "Regulatory enforcement actions impact financial market transparency and governance standards in Dubai.",
-   "category": "Regulation & fees",
-   "impact": "Medium",
-   "impact_reason": "Highlights regulatory enforcement on financial institutions."
-  },
-  "0734868b3bc6": {
-   "relevant": true,
-   "headline": "DFSA penalizes Moody's Middle East for data breaches",
-   "summary": "The Dubai financial watchdog has penalized Moody's Middle East over half a million dollars for leaking private client information. The infraction occurred within the DIFC jurisdiction.",
-   "why": "Regulatory penalties highlight enforcement standards within key financial free zones.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Administrative penalty does not affect broader property market."
-  },
-  "f161b54955c4": {
-   "relevant": true,
-   "headline": "Dubai greenlights massive multi-million dollar investment strategy",
-   "summary": "Local authorities cleared a substantial investment framework aimed at boosting property values significantly over the next decade and a half. The initiative seeks to generate billions in sectoral worth by 2040.",
-   "why": "Long-term public funding directly shapes urban expansion and asset valuations.",
-   "category": "Infrastructure",
-   "impact": "High",
-   "impact_reason": "Substantial funding targets long-term property value growth."
-  }
- },
  "2026-10-29": {
   "dfc3a3ed2d03": {
    "relevant": false,
@@ -550,6 +359,143 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Not relevant to property markets."
+  }
+ },
+ "2026-10-30": {
+  "7a37676c2039": {
+   "relevant": true,
+   "headline": "Abu Dhabi apartment prices surge 24 percent in Q3 2026",
+   "summary": "Freehold property values grew by 3.1 percent quarter-on-quarter according to ValuStrat. Transaction volumes slowed despite the accelerated price appreciation.",
+   "why": "It provides critical valuation metrics for the capital's residential sector.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Highlights rising asset values and capital appreciation trends."
+  },
+  "c27ae3a0557b": {
+   "relevant": true,
+   "headline": "Abu Dhabi experiences rapid new residential project launches",
+   "summary": "Metropolitan Capital reports that a fresh residential project is introduced every three days in Abu Dhabi.",
+   "why": "It shows high developer activity and expanding housing supply in the capital.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Reflects growing inventory and active development pipelines."
+  },
+  "0b81a4665e89": {
+   "relevant": true,
+   "headline": "Dubai property market records Dh141 billion in Q3 transactions",
+   "summary": "Dubai achieved Dh141 billion in real estate transactions during the third quarter.",
+   "why": "It demonstrates sustained high transaction volume and investor confidence in Dubai.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Demonstrates robust market liquidity and strong quarterly investment volumes."
+  },
+  "3fc02496a51a": {
+   "relevant": true,
+   "headline": "Sharjah opens new real estate registration branch in Muwaileh",
+   "summary": "A fresh registration branch has been established in Muwaileh to accommodate rising property investment interest.",
+   "why": "It improves administrative access for real estate investors in Sharjah.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Enhances local registration convenience without altering market fundamentals."
+  },
+  "5fe1d2dbc1ce": {
+   "relevant": false,
+   "headline": "Dubai offers over 400 new Emirati job openings in real estate",
+   "summary": "The Dubai Land Department is creating over 400 jobs for Emiratis with on-the-spot interviews.",
+   "why": "Employment drives are outside the scope of property investment or market analysis.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Focuses on local employment rather than property market mechanics."
+  },
+  "29128297f007": {
+   "relevant": true,
+   "headline": "Dubai rental contracts can be annulled before starting if deceived",
+   "summary": "Signed tenancy agreements may be cancelled prior to commencement if proven deceitful.",
+   "why": "It clarifies legal rights for tenants and landlords regarding fraudulent leases.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Protects contracting parties against pre-tenancy fraud and deception."
+  },
+  "c5c95cad290f": {
+   "relevant": true,
+   "headline": "Abu Dhabi rental yields hit 11.5% amid rising prices",
+   "summary": "Apartment prices climbed up to 9.2 percent while rental yields reached 11.5 percent.",
+   "why": "It highlights attractive returns for investors in the Abu Dhabi market.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Provides key yield data influencing investor sentiment and returns."
+  },
+  "448980c79202": {
+   "relevant": true,
+   "headline": "Tenants and landlords can cancel signed leases if deception proven",
+   "summary": "Signed rental agreements in Dubai are subject to cancellation before taking effect if fraud is established.",
+   "why": "It establishes clear legal recourse for contractual deception in leasing.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Safeguards market participants from fraudulent rental agreements."
+  },
+  "a8a88b036403": {
+   "relevant": true,
+   "headline": "Landlord restrictions on utilities during Dubai rental disputes",
+   "summary": "Legal guidelines address whether property owners can disconnect air conditioning or vital services amid disagreements. The rules protect tenants from unlawful pressure tactics during ongoing rental conflicts.",
+   "why": "It clarifies tenant rights and landlord obligations during legal disputes.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Affects tenant rights and rental dispute procedures."
+  },
+  "2af90a4e917a": {
+   "relevant": true,
+   "headline": "Dubai Finanz crosses 750 investors amid rising advisory demand",
+   "summary": "Buyer-side property advisory firm Dubai Finanz has surpassed 750 investors. This growth highlights increasing demand for independent guidance among property purchasers in the emirate.",
+   "why": "It shows shifting consumer preferences toward professional buyer representation.",
+   "category": "Supply & market reports",
+   "impact": "Low",
+   "impact_reason": "Reflects advisory trends rather than direct market changes."
+  },
+  "683aa02c3a76": {
+   "relevant": true,
+   "headline": "Dar Global Capital Partners plans Dubai real estate fund",
+   "summary": "Dar Global Capital Partners is looking into establishing a dedicated property fund in Dubai. The move indicates continued institutional interest in expanding local real estate investment vehicles.",
+   "why": "It highlights new investment fund creation targeting the local market.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "New funds can increase capital inflow into local properties."
+  },
+  "5a14b3188ea7": {
+   "relevant": false,
+   "headline": "Emaar Dubai Premier Padel P1 unveils new venue",
+   "summary": "Organizers revealed a new location for the upcoming Premier Padel P1 tournament in Dubai.",
+   "why": "This is a sports event announcement with no real estate impact.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Purely sports and lifestyle content."
+  },
+  "c3f137cbd1bb": {
+   "relevant": true,
+   "headline": "Standard Asset Company launches $1.5 billion crypto and property strategy",
+   "summary": "A massive investment strategy combining Bitcoin and UAE real estate has been unveiled by Standard Asset Company. The initiative aims to merge digital assets with physical property investments in the region.",
+   "why": "It introduces significant alternative capital into the property sector.",
+   "category": "Macro & geopolitics",
+   "impact": "High",
+   "impact_reason": "Large capital injection combining crypto and real estate."
+  },
+  "c26625577026": {
+   "relevant": true,
+   "headline": "Upcoming new supply may influence Dubai property prices soon",
+   "summary": "Market analysts suggest that incoming residential supply could start affecting property valuations in the near future. Increased inventory might shift pricing dynamics across various neighborhoods.",
+   "why": "It provides crucial market intelligence regarding future price trends.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "New supply shifts market balance and pricing power."
+  },
+  "50641ed4558f": {
+   "relevant": true,
+   "headline": "Real estate funds create fresh investment avenues in Dubai",
+   "summary": "New property funds are emerging to provide alternative investment opportunities within Dubai's real estate sector. These vehicles offer diversified entry points for investors looking at the market.",
+   "why": "It highlights evolving financial products for property market participants.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "New investment channels expand buyer participation options."
   }
  }
 }
