@@ -254,5 +254,65 @@
 "impact_reason": "Indicates broader regional development trends.",
 "watch": false,
 "topic": "abu dhabi"
+},
+{
+"id": "ffa4107b3155",
+"headline": "Gold drops and U.S. inflation fuels rate hike expectations",
+"summary": "Spot gold prices declined following stronger-than-expected U.S. inflation figures. This shift reinforces market expectations for another Federal Reserve interest rate increase.",
+"why": "Changes in global interest rates directly influence mortgage costs and borrowing conditions for property buyers.",
+"source": "Economy Middle East",
+"link": "https://economymiddleeast.com/news/gold-prices-fall-below-4000-as-u-s-inflation-data-raises-december-rate-hike-expectations/?utm_source=rss&utm_medium=rss&utm_campaign=gold-prices-fall-below-4000-as-u-s-inflation-data-raises-december-rate-hike-expectations",
+"published": "2026-10-30T10:38+04:00",
+"category": "Rates & mortgages",
+"impact": "High",
+"impact_reason": "Shifts global borrowing costs and affects mortgage sentiment.",
+"watch": false,
+"topic": "Rates & mortgages"
+},
+{
+"id": "5dddc3c4558b",
+"headline": "Sharjah opens new real estate registration branch in Muwaileh",
+"summary": "A new property registration office opened in Muwaileh to handle rising investment demand and residential expansion. The Sharjah Real Estate Registration Department aims to decentralize and ease services.",
+"why": "Expanding administrative infrastructure facilitates smoother property transactions in growing investment zones.",
+"source": "Khaleej Times",
+"link": "https://www.khaleejtimes.com/business/sharjah-opens-new-real-estate-registration-branch-in-muwaileh-amid-property-investment",
+"published": "2026-10-30T09:35+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Streamlines local property transactions and boosts investor convenience.",
+"watch": true,
+"also": [
+"Khaleej Times",
+"Sharjah24"
+],
+"topic": "sharjah"
+},
+{
+"id": "47e20c6d5649",
+"headline": "Sharjah RERD opens new branch to meet surging property demand",
+"summary": "Sharjah has launched an additional registration branch to cater to escalating property market activity. This expansion brings municipal property services closer to active residential communities.",
+"why": "Better accessibility to registry services supports ongoing regional real estate growth.",
+"source": "Magzter",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYnVaLUluazh6ZDVqazNPNDdOMWY1OWMyZDNLS0FCRnVaTC1POHNHMWxQd0xEejhLUkNtUDlfYW5kN1h3MTIzTEFlMUZURWVtNkxHanYyZWVtTWZZd1lWaUhteTlzYjlGVWJiTG5HQkZveVJlVVVBVW9tVmxYeGZTd3VOMFlxX3Njbk5aa1pITzloNkdOb0dlcGxBZC00ZG4wM01ZNTdCcEJSdWlpTDBxX0lWTTA?oc=5",
+"published": "2026-10-30T08:42+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Enhances administrative efficiency for growing property demand.",
+"watch": true,
+"topic": "sharjah"
+},
+{
+"id": "92aa769810db",
+"headline": "Abu Dhabi property market continues upward growth trajectory",
+"summary": "The property sector in Abu Dhabi maintains its positive momentum amid sustained buying activity. Market indicators reflect continued strength across residential and commercial segments.",
+"why": "Broad market performance trends guide investor confidence and capital allocation across the Emirates.",
+"source": "Zawya",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRFZJMGVLWmoyODR4UW9CNWFPaE80VXM3ci16QXU3Wk5Gb3VSUWdBUnN1NjZ0dUV5MlNPYkt4a2UxY1FFYS1WZWRZcjdILUdjOGExbkRhaFlGNkR0U3RKU3hyLUVqUXBCbjhCWFp5dUQ1RXFmOE5IQ3R4ZTRkcmhsVlVxNVNma0dOUm1TMHlnMkx1d2JhYUdqOU1IYXlVT2x2UzZxaUFJNEJxaGtsLWc5ZjVlQjhRZXMt?oc=5",
+"published": "2026-10-29T17:41+04:00",
+"category": "Supply & market reports",
+"impact": "Medium",
+"impact_reason": "Reflects ongoing market strength and positive investor sentiment.",
+"watch": false,
+"topic": "abu dhabi"
 }
 ]

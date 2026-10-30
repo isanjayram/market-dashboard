@@ -1,6 +1,31 @@
 {
  "top": [
   {
+   "id": "ffa4107b3155",
+   "title": "Gold prices fall below $4,000 as U.S. inflation data raises December rate hike expectations",
+   "link": "https://economymiddleeast.com/news/gold-prices-fall-below-4000-as-u-s-inflation-data-raises-december-rate-hike-expectations/?utm_source=rss&utm_medium=rss&utm_campaign=gold-prices-fall-below-4000-as-u-s-inflation-data-raises-december-rate-hike-expectations",
+   "source": "Economy Middle East",
+   "kind": "outlet",
+   "published": "2026-10-30T10:38+04:00",
+   "tags": [
+    "gold prices",
+    "inflation",
+    "interest rate",
+    "Middle East",
+    "United States"
+   ],
+   "teaser": "Gold prices fell on Friday as higher oil prices and stronger-than-expected U.S. inflation data reinforced expectations of another Federal Reserve interest rate hike later this year, putting bullion on track for a second consecutive monthly decline. As of 6:15 GMT, spot gold dropped 0.80 percent to $3,989.30 per ounce, while U.S. gold futures for December [\u2026] The post Gold prices fall below $4,000 ",
+   "category": "Rates & mortgages",
+   "impact": "High",
+   "impact_reason": "Shifts global borrowing costs and affects mortgage sentiment.",
+   "watch": false,
+   "headline": "Gold drops and U.S. inflation fuels rate hike expectations",
+   "summary": "Spot gold prices declined following stronger-than-expected U.S. inflation figures. This shift reinforces market expectations for another Federal Reserve interest rate increase.",
+   "why": "Changes in global interest rates directly influence mortgage costs and borrowing conditions for property buyers.",
+   "age_hours": 0.5,
+   "topic": "Rates & mortgages"
+  },
+  {
    "id": "c3f137cbd1bb",
    "title": "Standard Asset Company unveils $1.5 billion Bitcoin and UAE real estate strategy",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZOVRYOXZqaXZtZnp6Q0dLbEZ2VzhjSEttY2pHZkh2akN1NEpIZmNvWWtPV05TTFhwMVpHWmM1dTdDTnhHemFxVHhXYlBMU0R0d25xX25QT2k3NzJSTGhDTkhGWkhsT0ktOWpQMWhZT0NwU3lDRm1ibzJIWTdWZGc?oc=5",
@@ -16,9 +41,54 @@
    "headline": "Standard Asset Company launches $1.5 billion crypto and property strategy",
    "summary": "A massive investment strategy combining Bitcoin and UAE real estate has been unveiled by Standard Asset Company. The initiative aims to merge digital assets with physical property investments in the region.",
    "why": "It introduces significant alternative capital into the property sector.",
-   "age_hours": 15.4,
+   "age_hours": 16.7,
    "topic": "Macro & geopolitics",
    "more": 1
+  },
+  {
+   "id": "5dddc3c4558b",
+   "title": "Sharjah opens new real estate registration branch in Muwaileh amid property investment",
+   "link": "https://www.khaleejtimes.com/business/sharjah-opens-new-real-estate-registration-branch-in-muwaileh-amid-property-investment",
+   "source": "Khaleej Times",
+   "kind": "outlet",
+   "published": "2026-10-30T09:35+04:00",
+   "tags": [
+    "Business",
+    "Property"
+   ],
+   "teaser": "Sharjah has opened a new real estate registration branch in Muwaileh to meet growing demand for property services as residential developments and investment activity continue to expand in the area. The Sharjah Real Estate Registration Department said the new branch is part of its efforts to bring government services closer to residents, property owners and investors, while improving the efficiency",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Streamlines local property transactions and boosts investor convenience.",
+   "watch": true,
+   "also": [
+    "Khaleej Times",
+    "Sharjah24"
+   ],
+   "headline": "Sharjah opens new real estate registration branch in Muwaileh",
+   "summary": "A new property registration office opened in Muwaileh to handle rising investment demand and residential expansion. The Sharjah Real Estate Registration Department aims to decentralize and ease services.",
+   "why": "Expanding administrative infrastructure facilitates smoother property transactions in growing investment zones.",
+   "age_hours": 1.5,
+   "topic": "sharjah"
+  },
+  {
+   "id": "47e20c6d5649",
+   "title": "Sharjah RERD opens new branch to meet surging property demand | Gulf Today - newspaper",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYnVaLUluazh6ZDVqazNPNDdOMWY1OWMyZDNLS0FCRnVaTC1POHNHMWxQd0xEejhLUkNtUDlfYW5kN1h3MTIzTEFlMUZURWVtNkxHanYyZWVtTWZZd1lWaUhteTlzYjlGVWJiTG5HQkZveVJlVVVBVW9tVmxYeGZTd3VOMFlxX3Njbk5aa1pITzloNkdOb0dlcGxBZC00ZG4wM01ZNTdCcEJSdWlpTDBxX0lWTTA?oc=5",
+   "source": "Magzter",
+   "kind": "search",
+   "published": "2026-10-30T08:42+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Enhances administrative efficiency for growing property demand.",
+   "watch": true,
+   "headline": "Sharjah RERD opens new branch to meet surging property demand",
+   "summary": "Sharjah has launched an additional registration branch to cater to escalating property market activity. This expansion brings municipal property services closer to active residential communities.",
+   "why": "Better accessibility to registry services supports ongoing regional real estate growth.",
+   "age_hours": 2.4,
+   "topic": "sharjah"
   },
   {
    "id": "29128297f007",
@@ -33,10 +103,13 @@
    "impact": "Medium",
    "impact_reason": "Protects contracting parties against pre-tenancy fraud and deception.",
    "watch": false,
+   "also": [
+    "Gulf Business"
+   ],
    "headline": "Dubai rental contracts can be annulled before starting if deceived",
    "summary": "Signed tenancy agreements may be cancelled prior to commencement if proven deceitful.",
    "why": "It clarifies legal rights for tenants and landlords regarding fraudulent leases.",
-   "age_hours": 11.0,
+   "age_hours": 12.3,
    "topic": "Regulation & fees",
    "more": 1
   },
@@ -56,35 +129,27 @@
    "headline": "Abu Dhabi rental yields hit 11.5% amid rising prices",
    "summary": "Apartment prices climbed up to 9.2 percent while rental yields reached 11.5 percent.",
    "why": "It highlights attractive returns for investors in the Abu Dhabi market.",
-   "age_hours": 11.3,
+   "age_hours": 12.6,
    "topic": "abu dhabi",
-   "more": 3
+   "more": 2
   },
   {
-   "id": "7a37676c2039",
-   "title": "Abu Dhabi real estate maintains upward trajectory in Q3 2026 as apartment prices rise 24 percent",
-   "link": "https://economymiddleeast.com/news/abu-dhabi-real-estate-maintains-upward-trajectory-in-q3-2026-as-apartment-prices-rise-24-percent/?utm_source=rss&utm_medium=rss&utm_campaign=abu-dhabi-real-estate-maintains-upward-trajectory-in-q3-2026-as-apartment-prices-rise-24-percent",
-   "source": "Economy Middle East",
-   "kind": "outlet",
-   "published": "2026-10-29T17:39+04:00",
-   "tags": [
-    "Abu Dhabi",
-    "Abu Dhabi real estate",
-    "investment",
-    "Property"
-   ],
-   "teaser": "Abu Dhabi\u2019s residential real estate price growth picked up pace in the third quarter of 2026, even as fewer homes changed hands. According to ValuStrat\u2019s latest quarterly review, freehold residential property prices rose 3.1 percent quarter-on-quarter to 155.8 points, up from 2.1 percent growth in Q2, taking annual growth to 16.8 percent. Apartments drove the [\u2026] The post Abu Dhabi real estate mai",
+   "id": "92aa769810db",
+   "title": "Abu Dhabi real estate maintains its upward trajectory",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRFZJMGVLWmoyODR4UW9CNWFPaE80VXM3ci16QXU3Wk5Gb3VSUWdBUnN1NjZ0dUV5MlNPYkt4a2UxY1FFYS1WZWRZcjdILUdjOGExbkRhaFlGNkR0U3RKU3hyLUVqUXBCbjhCWFp5dUQ1RXFmOE5IQ3R4ZTRkcmhsVlVxNVNma0dOUm1TMHlnMkx1d2JhYUdqOU1IYXlVT2x2UzZxaUFJNEJxaGtsLWc5ZjVlQjhRZXMt?oc=5",
+   "source": "Zawya",
+   "kind": "search",
+   "published": "2026-10-29T17:41+04:00",
+   "tags": [],
+   "teaser": "",
    "category": "Supply & market reports",
    "impact": "Medium",
-   "impact_reason": "Highlights rising asset values and capital appreciation trends.",
+   "impact_reason": "Reflects ongoing market strength and positive investor sentiment.",
    "watch": false,
-   "also": [
-    "Zawya"
-   ],
-   "headline": "Abu Dhabi apartment prices surge 24 percent in Q3 2026",
-   "summary": "Freehold property values grew by 3.1 percent quarter-on-quarter according to ValuStrat. Transaction volumes slowed despite the accelerated price appreciation.",
-   "why": "It provides critical valuation metrics for the capital's residential sector.",
-   "age_hours": 16.1,
+   "headline": "Abu Dhabi property market continues upward growth trajectory",
+   "summary": "The property sector in Abu Dhabi maintains its positive momentum amid sustained buying activity. Market indicators reflect continued strength across residential and commercial segments.",
+   "why": "Broad market performance trends guide investor confidence and capital allocation across the Emirates.",
+   "age_hours": 17.4,
    "topic": "abu dhabi"
   },
   {
@@ -103,7 +168,7 @@
    "headline": "Tenants and landlords can cancel signed leases if deception proven",
    "summary": "Signed rental agreements in Dubai are subject to cancellation before taking effect if fraud is established.",
    "why": "It establishes clear legal recourse for contractual deception in leasing.",
-   "age_hours": 16.8,
+   "age_hours": 18.1,
    "topic": "Regulation & fees"
   },
   {
@@ -122,7 +187,7 @@
    "headline": "Dar Global Capital Partners plans Dubai real estate fund",
    "summary": "Dar Global Capital Partners is looking into establishing a dedicated property fund in Dubai. The move indicates continued institutional interest in expanding local real estate investment vehicles.",
    "why": "It highlights new investment fund creation targeting the local market.",
-   "age_hours": 7.3,
+   "age_hours": 8.6,
    "topic": "Developer news"
   },
   {
@@ -141,76 +206,16 @@
    "headline": "Upcoming new supply may influence Dubai property prices soon",
    "summary": "Market analysts suggest that incoming residential supply could start affecting property valuations in the near future. Increased inventory might shift pricing dynamics across various neighborhoods.",
    "why": "It provides crucial market intelligence regarding future price trends.",
-   "age_hours": 21.3,
+   "age_hours": 22.6,
    "topic": "Supply & market reports",
    "more": 1
-  },
-  {
-   "id": "370689d0f9da",
-   "title": "Dubai real estate craze has paused, but appeal remains: Niranjan Hiranandani | Real Estate News",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZXp5QzlFVl84a0o0X25kNERRLVJVcUV0eVltZm1zRFduT2ZOT1U4TzhNNTFwM3l6a2xPc0YyS3doMm42TEdSdEJlbzNvS0FpVWsyQ3hNbjRnRlN6SEtsbHZhVjE1dEQxUjZhUnhnRTVic0NPakhsWUhWZll3MlpVWG9vYVBYZG9qTWtMNFduUTR5RGFSaVBDUnhzOXlmWHVoYS1ocEowLUpNQ3NTcDdyeXVSWVJQQ2djc2FpVm16Qm9oVy1NTUZXbjU3RTlYSy0tU3lNSNIB2gFBVV95cUxNcDJyNkRkdk1qMDFSOWhyNXFHYkZYV0ljeEtLaEt2dGZldzVRNVdvTUI0dWhVeFp0dWh5OS1qM1dqZUhFbXU2VDJnNnNLcjZjRjIxUXZpdG5yQXVsM1ZkRzd0YjZXNmlXVjJkUVdLcFBTdEQ5S21Xa0JyNW1vSlV0ZzkxRVB1LTQyclBrNVQwalNuT2U1OXdNRjJKbUtCQ3Bja0pxVGxuaU9fNjBfeF94Q3N4TFdxUHplYi10OHV0c3E0SDFCZlB2ZWkyVVFNcUNqTkNRWFZXWTZlZw?oc=5",
-   "source": "Hindustan Times",
-   "kind": "search",
-   "published": "2026-10-29T12:11+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Macro & geopolitics",
-   "impact": "Medium",
-   "impact_reason": "Provides expert sentiment on shifting market momentum and appeal.",
-   "watch": false,
-   "headline": "Expert notes temporary pause in property craze",
-   "summary": "Industry expert Niranjan Hiranandani notes that the intense real estate craze has paused while fundamental market appeal remains. Long-term sector confidence stays intact despite slower momentum.",
-   "why": "It provides valuable sentiment analysis regarding market cycles for agents.",
-   "age_hours": 21.6,
-   "topic": "Macro & geopolitics"
-  },
-  {
-   "id": "0b81a4665e89",
-   "title": "Dubai Property Market Posts Dh141 Billion In Q3 Transactions",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbUlOaFQ2S0U3cEdsY1VmN0l5eVpKTjRRY1JNQThVeHRqbFNCU24xOWwwTkxRLXdIY2MzdGlIbnAxZFFXTktoRks0SkNpU0llckc5ajJsbFVIOGp4QzZRZko5RnRELTR6X0ctY1pKUTBHb3lsanJ4WVMxZlVvRzlMSVVKZEEtZlB5blhhd1ZNS2xrWE9x?oc=5",
-   "source": "Menafn",
-   "kind": "search",
-   "published": "2026-10-29T11:29+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Demonstrates robust market liquidity and strong quarterly investment volumes.",
-   "watch": false,
-   "headline": "Dubai property market records Dh141 billion in Q3 transactions",
-   "summary": "Dubai achieved Dh141 billion in real estate transactions during the third quarter.",
-   "why": "It demonstrates sustained high transaction volume and investor confidence in Dubai.",
-   "age_hours": 22.3,
-   "topic": "Supply & market reports"
-  },
-  {
-   "id": "3fc02496a51a",
-   "title": "Sharjah opens new real estate registration branch in Muwaileh amid property investment",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa01mTW9DdEEya1puY2w5bFhzT1FSY294MEtFMmFXOWdaVjNQUk1NTWtpazZydGpVaXFBVnhQTEJIdmNZNGRTeUlVZDlIM1VFZW94RlUzd1g1RTJyR3ZaanFhajVDYlFnZ2FONE5wWXBwaUZfd3dnR0ctZzV6M1R1NTVTaWl0ZGRjallpSmgwYkM0WmZsempXQjNXZFBTbGtBVnJkYUoxRFZOWTNsMmJqZklxZDB0ekJXT1VVQ3RIRDltQdIBygFBVV95cUxOYjZNNWhGSGdyYzFXYXBhV0N1NV91bExZbmhabTlDdE5QVlNiMDZ1cWFjdzg1Z0JVck9MWDI1eko5Vkg4MGxOeWZKTlpuR3JjUnJRWnJJeDN3SXZXOEc1N1JtX0VyYnBXemF4eUNpUXFXR3ZUR1VBTUR0d0xHR2otUnp0aVp5N05HdzZ6UkJJSS1zbjZETUh3SU1tMllubVZQV1BfdUFoVDhmZGZVRWNkTmkyazg4ZzlvS2tUbkY0cGVINHJ0cHI1b3d3?oc=5",
-   "source": "Khaleej Times",
-   "kind": "search",
-   "published": "2026-10-30T09:35+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Infrastructure",
-   "impact": "Low",
-   "impact_reason": "Enhances local registration convenience without altering market fundamentals.",
-   "watch": true,
-   "also": [
-    "Sharjah24"
-   ],
-   "headline": "Sharjah opens new real estate registration branch in Muwaileh",
-   "summary": "A fresh registration branch has been established in Muwaileh to accommodate rising property investment interest.",
-   "why": "It improves administrative access for real estate investors in Sharjah.",
-   "age_hours": 0.2,
-   "topic": "sharjah"
   }
  ],
  "window_hours": 24,
- "count_relevant": 17,
- "count_fetched": 313,
+ "count_relevant": 18,
+ "count_fetched": 320,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-30T09:47+04:00",
- "saved_at": "2026-10-30T09:47+04:00"
+ "as_of": "2026-10-30T11:05+04:00",
+ "saved_at": "2026-10-30T11:05+04:00"
 }

@@ -496,6 +496,60 @@
    "category": "Macro & geopolitics",
    "impact": "Medium",
    "impact_reason": "New investment channels expand buyer participation options."
+  },
+  "ffa4107b3155": {
+   "relevant": true,
+   "headline": "Gold drops and U.S. inflation fuels rate hike expectations",
+   "summary": "Spot gold prices declined following stronger-than-expected U.S. inflation figures. This shift reinforces market expectations for another Federal Reserve interest rate increase.",
+   "why": "Changes in global interest rates directly influence mortgage costs and borrowing conditions for property buyers.",
+   "category": "Rates & mortgages",
+   "impact": "High",
+   "impact_reason": "Shifts global borrowing costs and affects mortgage sentiment."
+  },
+  "5305c9d094ac": {
+   "relevant": true,
+   "headline": "UAE Golden Visa holders get free return documents for lost passports",
+   "summary": "Golden Visa residents can now obtain a complimentary return document if they lose their passport while abroad. This new service streamlines emergency travel procedures for long-term investors.",
+   "why": "Residency rules directly impact the convenience and retention of high-net-worth property investors in the UAE.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Improves residency perks and travel ease for investors."
+  },
+  "5dddc3c4558b": {
+   "relevant": true,
+   "headline": "Sharjah opens new real estate registration branch in Muwaileh",
+   "summary": "A new property registration office opened in Muwaileh to handle rising investment demand and residential expansion. The Sharjah Real Estate Registration Department aims to decentralize and ease services.",
+   "why": "Expanding administrative infrastructure facilitates smoother property transactions in growing investment zones.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Streamlines local property transactions and boosts investor convenience."
+  },
+  "47e20c6d5649": {
+   "relevant": true,
+   "headline": "Sharjah RERD opens new branch to meet surging property demand",
+   "summary": "Sharjah has launched an additional registration branch to cater to escalating property market activity. This expansion brings municipal property services closer to active residential communities.",
+   "why": "Better accessibility to registry services supports ongoing regional real estate growth.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Enhances administrative efficiency for growing property demand."
+  },
+  "92aa769810db": {
+   "relevant": true,
+   "headline": "Abu Dhabi property market continues upward growth trajectory",
+   "summary": "The property sector in Abu Dhabi maintains its positive momentum amid sustained buying activity. Market indicators reflect continued strength across residential and commercial segments.",
+   "why": "Broad market performance trends guide investor confidence and capital allocation across the Emirates.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects ongoing market strength and positive investor sentiment."
+  },
+  "a0796695d15d": {
+   "relevant": false,
+   "headline": "Emaar Dubai Premier Padel P1 unveils new venue",
+   "summary": "",
+   "why": "Sports events and sponsorships have no direct bearing on real estate transactions or economics.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Pertains to sports entertainment rather than property economics."
   }
  }
 }
