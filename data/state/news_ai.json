@@ -694,6 +694,24 @@
    "category": "Developer news",
    "impact": "Low",
    "impact_reason": "Internal corporate event with no broader market effect."
+  },
+  "033df8c88e52": {
+   "relevant": true,
+   "headline": "Arada Secures $400 Million in Sukuk Sale",
+   "summary": "Arada has successfully closed a $400 million Sukuk issuance, effectively reopening local real estate debt markets.",
+   "why": "This move signals renewed investor appetite and liquidity in the local property debt sector.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Reflects ongoing developer financing activity without immediate buyer impact."
+  },
+  "7bf7109d51c7": {
+   "relevant": true,
+   "headline": "Construction Begins on Palm Jumeirah Pedestrian Bridges",
+   "summary": "Dubai Holding and the RTA have officially broken ground on new pedestrian bridges for Palm Jumeirah.",
+   "why": "The project aims to improve local connectivity and pedestrian safety within the area.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Local infrastructure enhancement with minimal immediate effect on market values."
   }
  }
 }
