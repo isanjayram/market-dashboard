@@ -550,6 +550,60 @@
    "category": "Developer news",
    "impact": "Low",
    "impact_reason": "Pertains to sports entertainment rather than property economics."
+  },
+  "26dcaf8fe855": {
+   "relevant": true,
+   "headline": "Dubai Records Dh141 Billion in Third Quarter Property Deals",
+   "summary": "Dubai property transactions reached Dh141 billion during the third quarter. The milestone reflects strong activity across the local sector.",
+   "why": "It provides crucial market performance data for real estate professionals.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Highlights robust third quarter transaction volumes."
+  },
+  "7ee17d020540": {
+   "relevant": true,
+   "headline": "Cityscape Announces Mumbai Real Estate Expo Debut for 2027",
+   "summary": "Cityscape is planning its first Indian real estate exhibition in Mumbai for 2027. This event will connect international markets with Indian investors.",
+   "why": "It opens new avenues for attracting Indian capital to Dubai real estate.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Future international event targeting foreign investors."
+  },
+  "5daac1decc80": {
+   "relevant": true,
+   "headline": "Top Twenty Locations for Buying Dubai Apartments and Villas",
+   "summary": "A ranking highlights the twenty most sought-after neighborhoods for purchasing apartments and villas in Dubai. Investors use these insights to target popular residential communities.",
+   "why": "It helps agents guide buyers toward high-demand areas.",
+   "category": "Supply & market reports",
+   "impact": "Low",
+   "impact_reason": "Identifies popular neighborhoods for buyers."
+  },
+  "6e435a8a3171": {
+   "relevant": true,
+   "headline": "Real Estate Funds Create Fresh Investment Avenues in Dubai",
+   "summary": "New real estate investment funds are providing additional ways to enter Dubai's property sector. These financial vehicles expand portfolio choices for market participants.",
+   "why": "It introduces alternative capital sources for property investments.",
+   "category": "Supply & market reports",
+   "impact": "Low",
+   "impact_reason": "Expands investment vehicles in the market."
+  },
+  "2350f12d08aa": {
+   "relevant": true,
+   "headline": "Standard Asset Company Launches 1.5 Billion Dollar Crypto and Property Strategy",
+   "summary": "A royal-backed firm introduced a 1.5 billion dollar strategy combining Bitcoin and UAE real estate. The initiative links digital assets directly with property revenue.",
+   "why": "It merges cryptocurrency funding with UAE real estate development.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Introduces new crypto-backed real estate funding."
+  },
+  "c296627e71fb": {
+   "relevant": true,
+   "headline": "New Strategy Links UAE Property Income Directly to Bitcoin",
+   "summary": "A 1.5 billion dollar investment strategy connects UAE real estate income with Bitcoin. This approach bridges traditional property yields with digital currency.",
+   "why": "It represents an innovative financial model for property markets.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Links real estate earnings to cryptocurrency."
   }
  }
 }

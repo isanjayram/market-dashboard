@@ -22,28 +22,8 @@
    "headline": "Gold drops and U.S. inflation fuels rate hike expectations",
    "summary": "Spot gold prices declined following stronger-than-expected U.S. inflation figures. This shift reinforces market expectations for another Federal Reserve interest rate increase.",
    "why": "Changes in global interest rates directly influence mortgage costs and borrowing conditions for property buyers.",
-   "age_hours": 0.5,
+   "age_hours": 2.4,
    "topic": "Rates & mortgages"
-  },
-  {
-   "id": "c3f137cbd1bb",
-   "title": "Standard Asset Company unveils $1.5 billion Bitcoin and UAE real estate strategy",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZOVRYOXZqaXZtZnp6Q0dLbEZ2VzhjSEttY2pHZkh2akN1NEpIZmNvWWtPV05TTFhwMVpHWmM1dTdDTnhHemFxVHhXYlBMU0R0d25xX25QT2k3NzJSTGhDTkhGWkhsT0ktOWpQMWhZT0NwU3lDRm1ibzJIWTdWZGc?oc=5",
-   "source": "Crypto Briefing",
-   "kind": "search",
-   "published": "2026-10-29T18:23+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Macro & geopolitics",
-   "impact": "High",
-   "impact_reason": "Large capital injection combining crypto and real estate.",
-   "watch": false,
-   "headline": "Standard Asset Company launches $1.5 billion crypto and property strategy",
-   "summary": "A massive investment strategy combining Bitcoin and UAE real estate has been unveiled by Standard Asset Company. The initiative aims to merge digital assets with physical property investments in the region.",
-   "why": "It introduces significant alternative capital into the property sector.",
-   "age_hours": 16.7,
-   "topic": "Macro & geopolitics",
-   "more": 1
   },
   {
    "id": "5dddc3c4558b",
@@ -68,7 +48,7 @@
    "headline": "Sharjah opens new real estate registration branch in Muwaileh",
    "summary": "A new property registration office opened in Muwaileh to handle rising investment demand and residential expansion. The Sharjah Real Estate Registration Department aims to decentralize and ease services.",
    "why": "Expanding administrative infrastructure facilitates smoother property transactions in growing investment zones.",
-   "age_hours": 1.5,
+   "age_hours": 3.5,
    "topic": "sharjah"
   },
   {
@@ -87,7 +67,7 @@
    "headline": "Sharjah RERD opens new branch to meet surging property demand",
    "summary": "Sharjah has launched an additional registration branch to cater to escalating property market activity. This expansion brings municipal property services closer to active residential communities.",
    "why": "Better accessibility to registry services supports ongoing regional real estate growth.",
-   "age_hours": 2.4,
+   "age_hours": 4.3,
    "topic": "sharjah"
   },
   {
@@ -109,9 +89,8 @@
    "headline": "Dubai rental contracts can be annulled before starting if deceived",
    "summary": "Signed tenancy agreements may be cancelled prior to commencement if proven deceitful.",
    "why": "It clarifies legal rights for tenants and landlords regarding fraudulent leases.",
-   "age_hours": 12.3,
-   "topic": "Regulation & fees",
-   "more": 1
+   "age_hours": 14.3,
+   "topic": "Regulation & fees"
   },
   {
    "id": "c5c95cad290f",
@@ -129,9 +108,29 @@
    "headline": "Abu Dhabi rental yields hit 11.5% amid rising prices",
    "summary": "Apartment prices climbed up to 9.2 percent while rental yields reached 11.5 percent.",
    "why": "It highlights attractive returns for investors in the Abu Dhabi market.",
-   "age_hours": 12.6,
+   "age_hours": 14.5,
    "topic": "abu dhabi",
-   "more": 2
+   "more": 1
+  },
+  {
+   "id": "26dcaf8fe855",
+   "title": "Dubai property market posts Dh141 billion in Q3 transactions",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUZ1Y25aQVRhbnJEaG5IZl9HZmljM1ctdDVhX1hhTGo2NjJ2UUZhQkdwMjM3RjAwczhXM0lpSHRlcFVnaGR6LWtkVWY1cEVRc3hreFY2WGFISGs3bFF3TzJnUGpLQXVWZU5MWDdrZ1JONDNacG15RFk3em91M25nQjRfNGZjbDgzRlBTTE03Vl94VjB4RmNtdWhWSV9nUVXSAacBQVVfeXFMUElUYmZwY0paM1JzSUdyWWRaYk9hYU5uUl80T1V0QWhrT1M0aWJNdXV4dV9Yc1ZGVnRRMEp3XzJTWGNHbHBaNDdhVGNvZ3JQMktOLVlpSlo1dEUxUmlmZG1jZ1lSakFFSVRSeFZoN2Q3dURHLTc5aVJxYU9aYUNSZFpGSURGY0ZMWFhpNS1nMFZIM0ItOVYwWUR5Z2owd3NoVWxSX2xDc1E?oc=5",
+   "source": "Khaleej Times",
+   "kind": "search",
+   "published": "2026-10-29T20:14+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Highlights robust third quarter transaction volumes.",
+   "watch": false,
+   "headline": "Dubai Records Dh141 Billion in Third Quarter Property Deals",
+   "summary": "Dubai property transactions reached Dh141 billion during the third quarter. The milestone reflects strong activity across the local sector.",
+   "why": "It provides crucial market performance data for real estate professionals.",
+   "age_hours": 16.8,
+   "topic": "Supply & market reports",
+   "more": 1
   },
   {
    "id": "92aa769810db",
@@ -149,7 +148,7 @@
    "headline": "Abu Dhabi property market continues upward growth trajectory",
    "summary": "The property sector in Abu Dhabi maintains its positive momentum amid sustained buying activity. Market indicators reflect continued strength across residential and commercial segments.",
    "why": "Broad market performance trends guide investor confidence and capital allocation across the Emirates.",
-   "age_hours": 17.4,
+   "age_hours": 19.4,
    "topic": "abu dhabi"
   },
   {
@@ -168,7 +167,7 @@
    "headline": "Tenants and landlords can cancel signed leases if deception proven",
    "summary": "Signed rental agreements in Dubai are subject to cancellation before taking effect if fraud is established.",
    "why": "It establishes clear legal recourse for contractual deception in leasing.",
-   "age_hours": 18.1,
+   "age_hours": 20.1,
    "topic": "Regulation & fees"
   },
   {
@@ -187,35 +186,35 @@
    "headline": "Dar Global Capital Partners plans Dubai real estate fund",
    "summary": "Dar Global Capital Partners is looking into establishing a dedicated property fund in Dubai. The move indicates continued institutional interest in expanding local real estate investment vehicles.",
    "why": "It highlights new investment fund creation targeting the local market.",
-   "age_hours": 8.6,
+   "age_hours": 10.6,
    "topic": "Developer news"
   },
   {
-   "id": "c26625577026",
-   "title": "Dubai Property Prices: New Supply Impact May Emerge In Coming Months",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQnZ0TFFadENHM1p2Y2hvZG9KYlV1QmRvLVkxbk51bTJCWWxUU2stTmdyeUs0N3JaS0E0ZnNvUmxtT1RUSFdia0JKdEpDeGFxSnE4NklKbEt1bThjZ3FOaUUwVE5MWXVGWjNBc0F0aGR1QVItYzNYcnNWTFdrR3dsc2hJSHlhNW1Cb255dl9kS0ppLW9KdjFGbUxBMkNyZw?oc=5",
-   "source": "Menafn",
+   "id": "7ee17d020540",
+   "title": "Cityscape to make India debut with Mumbai real estate expo in 2027",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcVJjcFhOT09CNDI4VXFvUUpoaXhmMlluZWsxMUQxcWptZ0FCd1JLSnZOLXV4bTRKQnBPaW1KanF1X00yZDBXQ0RQWkxJdV80Z1BsV2ZxWG5jc043dTdaNmdYdllWelZ4YXg0SkljRWs0Ukp2a0tJcWc4Y0ktTFZQVXZndlQyOHBKYnNQOFhQV2pBRkpSU2t4aTVpSXNoNFd0bmNiQnlZbkt6d3dYbElZQ2U1Zy1odmgwM1c5aDNZMFRJY2FZRkdBWlNJM2piV01oSzFaamZZclpDX1dNYy1KZA?oc=5",
+   "source": "Construction World",
    "kind": "search",
-   "published": "2026-10-29T12:32+04:00",
+   "published": "2026-10-30T09:00+04:00",
    "tags": [],
    "teaser": "",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "New supply shifts market balance and pricing power.",
-   "watch": false,
-   "headline": "Upcoming new supply may influence Dubai property prices soon",
-   "summary": "Market analysts suggest that incoming residential supply could start affecting property valuations in the near future. Increased inventory might shift pricing dynamics across various neighborhoods.",
-   "why": "It provides crucial market intelligence regarding future price trends.",
-   "age_hours": 22.6,
-   "topic": "Supply & market reports",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Future international event targeting foreign investors.",
+   "watch": true,
+   "headline": "Cityscape Announces Mumbai Real Estate Expo Debut for 2027",
+   "summary": "Cityscape is planning its first Indian real estate exhibition in Mumbai for 2027. This event will connect international markets with Indian investors.",
+   "why": "It opens new avenues for attracting Indian capital to Dubai real estate.",
+   "age_hours": 4.0,
+   "topic": "Macro & geopolitics",
    "more": 1
   }
  ],
  "window_hours": 24,
- "count_relevant": 18,
- "count_fetched": 320,
+ "count_relevant": 16,
+ "count_fetched": 351,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-30T11:05+04:00",
- "saved_at": "2026-10-30T11:05+04:00"
+ "as_of": "2026-10-30T13:02+04:00",
+ "saved_at": "2026-10-30T13:02+04:00"
 }
