@@ -314,5 +314,22 @@
 "impact_reason": "General market context",
 "watch": false,
 "topic": "emaar"
+},
+{
+"id": "d0866e57cb59",
+"headline": "Arada Secures $400 Million Through First Post-Conflict Sukuk",
+"summary": "Developer Arada successfully raised $400 million via a property sukuk. This marks the first such issuance since regional tensions started.",
+"why": "It shows strong investor confidence and liquidity for regional property developers despite geopolitical tensions.",
+"source": "Arabian Business",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbWRiNlh5Yk9KalZ6czBOYU5TclFXc0NjTzY2cXRySXZxYldwRkdud2dXNUlRdGsyU293dXRLblhoOXlRdmdsNmNvSnVUYXJQa0dxRDBhanc0cVRKNVlIbWh4QV92Q0dHM18yWFBXMkxMQXpkbzlpRWo2YjZtY2NmTFpmMmdhMVZoQzNuN3paTUF0RzBXWnpyazA3czRSNS1GS3Q4MW9HV29PR0FyY3huaDUzS1N5Nnp1WW9DYk45eUhCalBRcDYwSQ?oc=5",
+"published": "2026-10-31T01:26+04:00",
+"category": "Developer news",
+"impact": "High",
+"impact_reason": "Indicates strong market liquidity and developer financing confidence.",
+"watch": true,
+"also": [
+"Arabian Business"
+],
+"topic": "arada"
 }
 ]

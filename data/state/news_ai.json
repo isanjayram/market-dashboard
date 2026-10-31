@@ -550,6 +550,24 @@
    "category": "Infrastructure",
    "impact": "Low",
    "impact_reason": "Personal legal case with no broad market impact."
+  },
+  "d0866e57cb59": {
+   "relevant": true,
+   "headline": "Arada Secures $400 Million Through First Post-Conflict Sukuk",
+   "summary": "Developer Arada successfully raised $400 million via a property sukuk. This marks the first such issuance since regional tensions started.",
+   "why": "It shows strong investor confidence and liquidity for regional property developers despite geopolitical tensions.",
+   "category": "Developer news",
+   "impact": "High",
+   "impact_reason": "Indicates strong market liquidity and developer financing confidence."
+  },
+  "bb2c0e5394e8": {
+   "relevant": false,
+   "headline": "Standard Asset Company Launches $1.5 Billion Crypto and Property Strategy",
+   "summary": "A new $1.5 billion strategy combines Bitcoin and UAE real estate investments, with Coinbase managing the digital assets.",
+   "why": "This is primarily a crypto investment strategy rather than direct real estate market news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Primarily focuses on cryptocurrency investment strategies."
   }
  }
 }
