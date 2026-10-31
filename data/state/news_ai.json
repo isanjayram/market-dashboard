@@ -586,6 +586,15 @@
    "category": "Infrastructure",
    "impact": "Low",
    "impact_reason": "Temporary traffic delays do not affect property values."
+  },
+  "5d19a7c1045d": {
+   "relevant": false,
+   "headline": "Dubai agency gifts Lamborghini to top sales employee",
+   "summary": "A viral video captures a local brokerage rewarding a staff member with a luxury vehicle. The employee achieved over half a billion dollars in sales.",
+   "why": "This is a promotional lifestyle story about employee rewards rather than material market news.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Marketing stunt with no market impact."
   }
  }
 }
