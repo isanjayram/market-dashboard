@@ -469,6 +469,69 @@
    "category": "Regulation & fees",
    "impact": "Low",
    "impact_reason": "Employment event without direct property market impact."
+  },
+  "ded7d7069de6": {
+   "relevant": true,
+   "headline": "Etihad Rail Sells 120,000 Tickets in Its First Month",
+   "summary": "The UAE's new passenger rail network reached significant ridership numbers during its opening month. The transport service is currently preparing for future expansion across the country.",
+   "why": "Transport links directly influence regional property demand and community accessibility.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Improves regional connectivity and accessibility for communities."
+  },
+  "b81ad0ef695b": {
+   "relevant": true,
+   "headline": "Emirates Road Faces Temporary Two-Week Closures for Rail Work",
+   "summary": "Motorists should expect brief disruptions along Emirates Road over a two-week period. The temporary closures accommodate ongoing construction for the Etihad Rail project.",
+   "why": "Infrastructure works cause temporary local disruptions that affect daily commutes.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Causes temporary local traffic disruptions near transport routes."
+  },
+  "fa5038ebf55a": {
+   "relevant": true,
+   "headline": "UAE Golden Visa Expands Opportunities for Digital Content Creators",
+   "summary": "Digital influencers can now access long-term residency through the updated UAE Golden Visa framework. This policy provides creators with enhanced professional stability and security within the country.",
+   "why": "Residency policy changes directly influence long-term buyer pools and rental demand.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Attracts affluent creators, boosting long-term residential demand."
+  },
+  "14f272f3fbd1": {
+   "relevant": false,
+   "headline": "Gulf SWFs Navigating UK Property Tax Changes",
+   "summary": "Gulf sovereign wealth funds remain resilient despite recent tax adjustments in the UK property market.",
+   "why": "The article focuses on UK tax policy rather than the local UAE property market.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Focuses on UK tax policies instead of UAE property."
+  },
+  "75949189c0cc": {
+   "relevant": false,
+   "headline": "Dubai Agent Receives Lamborghini for Record Sales",
+   "summary": "A top-performing Dubai property agent was awarded a luxury car for leading sales in 2026.",
+   "why": "This is an industry lifestyle and incentive story lacking broader market impact.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Lifestyle story with no broader market impact."
+  },
+  "8b0da43608b8": {
+   "relevant": true,
+   "headline": "Sharjah Launches New Property Registration Branch in Muwaileh",
+   "summary": "Sharjah has established a dedicated real estate registration office in the Muwaileh district. This expansion aims to better serve rising property investment activity in the area.",
+   "why": "New registration branches streamline transactions and boost investor confidence.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Enhances administrative efficiency for local property investors."
+  },
+  "dda59dc77d38": {
+   "relevant": false,
+   "headline": "Dubai Real Estate Agent Wins Lamborghini Urus Award",
+   "summary": "An employee in Dubai received a luxury vehicle as an award for yearly performance.",
+   "why": "This is an internal company award piece rather than substantive market news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Internal corporate news with no market relevance."
   }
  }
 }
