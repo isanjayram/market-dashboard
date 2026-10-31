@@ -1694,5 +1694,76 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"9b609f64500c": {
+"id": "9b609f64500c",
+"title": "UAE weekend traffic updates include closures and toll changes",
+"link": "https://gulfnews.com/uae/transport/uae-weekend-traffic-road-closures-parking-updates-salik-rates-metro-timings-and-new-speed-limits-1.500730222",
+"source": "Gulf News",
+"category": "Infrastructure",
+"published": "2026-10-31T06:00+04:00",
+"first_seen": "2026-10-31",
+"kind": "Infrastructure",
+"region": "Sharjah",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"2ae7cfa281f3": {
+"id": "2ae7cfa281f3",
+"title": "Etihad Rail construction prompts overnight road closures until November 15",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYnRKb09qeGJZR1BoME1XOWk5OUh5a2NTTnotYjA3ZldrbWdzZHhxdGtHTVBMQ0FvWnBiY1F1ZEVBVnE3NEFnVUdaVVBzZjViUGN1eUU3TXZEWERPRHhrc3FoMmNQWWNsczcxSURPbEgyZkFoMldXSlVmNExMVVJIa0Y2NDJsZzlLTHpvaGpOb3dRZmpxZmVqTkRqNi05UTE2MHFMODY0WUp4Y19BSU5WNUthY2R2TGZyLUxHaG1WLTBjVkVuLU1GWGxxMDZxdlZmU2ZESGlTbk9DVnZrcFHSAd4BQVVfeXFMTmJ0Sm9PanhiWUdQaDBNVzlpOTlIeWtjU056LWIwN2ZXa21nc2R4cXRrR01QTENBb1pwYmNRdWRFQVZxNzRBZ1VHWlVQc2Y1YlBjdXlFN012RFhET0R4a3NxaDJjUFljbHM3MUlET2xIMmZBaDJXV0pVZjRMTFVSSGtGNjQybGc5S0x6b2hqTm93UWZqcWZlak5EajYtOVExNjBxTDg2NFlKeGNfQUlOVjVLYWNkdkxmci1MR2htVi0wY1ZFbi1NRlhscTA2cXZWZlNmREhpU25PQ1Z2a3BR?oc=5",
+"source": "Gulf News",
+"category": "Infrastructure",
+"published": "2026-10-30T15:29+04:00",
+"first_seen": "2026-10-31",
+"kind": "Infrastructure",
+"region": "Sharjah",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"cca68ff7554a": {
+"id": "cca68ff7554a",
+"title": "Etihad Rail sells 120,000 tickets in its first month",
+"link": "https://www.thenationalnews.com/news/uae/2026/10/30/etihad-rail-sells-120000-passenger-tickets-in-first-month-of-operations/",
+"source": "The National",
+"category": "Infrastructure",
+"published": "2026-10-30T19:03+04:00",
+"first_seen": "2026-10-31",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": {
+"name": "Etihad Rail passenger stations",
+"status": "Al Yalayis (Dubai) and Al Dhaid (Sharjah) open 30 Sep 2026",
+"source": "Gulf News",
+"url": "https://gulfnews.com/uae/dubai/etihad-rail-is-coming-to-dubai-what-changes-when-al-yalayis-station-opens-september-30-1.500679227"
+},
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
