@@ -83,6 +83,7 @@
     log: "M4 6h16M4 12h10M4 18h7",
     back: "M15 18l-6-6 6-6",
     chevron: "M9 6l6 6-6 6",
+    import: "M12 4v11M8 11l4 4 4-4M5 15v3a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-3",
     plus: "M12 5v14M5 12h14",
     search: "M11 18a7 7 0 1 1 0-14 7 7 0 0 1 0 14zM20 20l-4-4",
     filter: "M4 6h16M7 12h10M10 18h4",
@@ -399,10 +400,24 @@
       const i = TABS.indexOf(r.nav);
       return { onTab: backHidden && i >= 0, i, nav: r.nav };
     };
+    // Put the page straight back: no offset, no fade, and no sideways scroll left behind (a dragged page sticks out
+    // past the edge, and iPhone can scroll the frame sideways into that space and leave it there).
+    const settle = (animate = true) => {
+      const v = view(); if (!v) return;
+      v.style.transition = animate ? "transform .22s ease-out, opacity .22s" : "none"; v.style.transform = ""; v.style.opacity = "";
+      const a = document.getElementById("app"); if (a && a.scrollLeft) a.scrollLeft = 0;
+      clearTimeout(settle.t); settle.t = setTimeout(() => { v.style.transition = ""; if (a && a.scrollLeft) a.scrollLeft = 0; }, 260);
+    };
+    document.addEventListener("DOMContentLoaded", () => {
+      const a = document.getElementById("app");
+      a?.addEventListener("scroll", () => { if (a.scrollLeft) a.scrollLeft = 0; }, { passive: true });
+    });
     addEventListener("touchstart", (e) => {
       if (C.isDesktop() || sheetStack.length || e.touches.length > 1 || e.target.closest(NO)) { x0 = null; return; }
       x0 = e.touches[0].clientX; y0 = e.touches[0].clientY; dx = 0; mode = null; t0 = Date.now();
     }, { passive: true });
+    // iPhone ends some touches with "cancel" instead of "end" (a system gesture took over): snap back.
+    addEventListener("touchcancel", () => { if (x0 !== null && mode === "x") settle(); x0 = null; mode = null; });
     addEventListener("touchmove", (e) => {
       if (x0 === null) return;
       const t = e.touches[0]; const ddx = t.clientX - x0, ddy = t.clientY - y0;
@@ -423,7 +438,7 @@
       let target = null;
       if (go && w.onTab) { const n = w.i + (dx < 0 ? 1 : -1); if (n >= 0 && n < TABS.length) target = TABS[n]; }
       if (go && !w.onTab && dx > 0) target = "back";
-      if (!target) { v.style.transition = "transform .22s ease-out, opacity .22s"; v.style.transform = ""; v.style.opacity = ""; return; }
+      if (!target) { settle(); return; }
       const dir = dx < 0 ? -1 : 1;
       v.style.transition = "transform .16s ease-in, opacity .16s"; v.style.transform = `translateX(${dir * innerWidth * 0.6}px)`; v.style.opacity = "0";
       setTimeout(() => {
@@ -434,6 +449,7 @@
         } else location.hash = target;
         requestAnimationFrame(() => requestAnimationFrame(() => {
           v.style.transition = "transform .24s cubic-bezier(.2,.8,.2,1), opacity .24s"; v.style.transform = ""; v.style.opacity = "";
+          setTimeout(() => settle(false), 280); // whatever happened mid-way, end exactly in place
         }));
       }, 160);
     });

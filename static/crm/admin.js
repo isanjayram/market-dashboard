@@ -192,7 +192,7 @@
   const FIELD_GUESS = [["name", /^(full ?name|name|contact( name)?|client)$/i], ["first", /^first ?name$/i], ["last", /^(last ?name|surname)$/i],
     ["phone", /(phone|mobile|cell|number|contact no|tel)/i], ["whatsapp", /whats ?app/i], ["email", /e-?mail/i], ["city", /^city|location$/i], ["country", /^country$/i],
     ["company", /(company|organi[sz]ation|employer)/i], ["job_title", /(title|position|designation|role)/i], ["notes", /(note|comment|remark|message)/i], ["source_detail", /(source|campaign|list)/i], ["tags", /^tags?$/i]];
-  C.route("import", async () => {
+  C.route("import", async (from) => {
     const res = h("div");
     const defs = C.form([
       { k: "source", label: "Source for these leads", type: "chips", options: C.opts(C.SOURCE), required: true },
@@ -235,7 +235,7 @@
         area.value = ""; parsed = null; prevEl.replaceChildren();
       } catch (e) { C.fail(e); } finally { go.disabled = false; }
     } }, "Import leads");
-    return { title: "Import", sub: "Lyka CRM export, Apollo, LinkedIn, your contacts", back: moreBack, body: [
+    return { title: "Import", sub: "Lyka CRM export, Apollo, LinkedIn, your contacts", back: from === "leads" ? ["leads", "Leads"] : moreBack, body: [
       h("section", { class: "card" }, defs.el, h("div", { class: "fld" }, h("label", null, "CSV"), area, file), prevEl, h("div", { class: "stack" }, go), res),
       h("p", { class: "fhint pad" }, "Duplicates are skipped by phone number. UAE numbers like 050… become +97150…; Indian 10-digit mobiles become +91…. Purchased owner databases: check with Lyka the data is legally sourced first.")] };
   }, { nav: "more" });
@@ -380,7 +380,7 @@
       h("section", { class: "card list" },
         item("#inventory", "pipeline", "Launch Filter", "Projects per lane, checked against your 3 filters"),
         item("#scripts", "log", "Scripts & objections", "Cold call, BANT, the 3 Gates, the close"),
-        item("#import", "plus", "Import leads", "CSV from Lyka, Apollo, LinkedIn, contacts"),
+        item("#import", "import", "Import leads", "CSV from Lyka, Apollo, LinkedIn, contacts"),
         item("#duplicates", "people", "Duplicates", "Find and merge the same person added twice")),
       h("section", { class: "card list" },
         item("#settings", "bell", "Settings", "Notifications, portals, commission, targets, backup"),
