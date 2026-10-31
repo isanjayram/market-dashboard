@@ -208,7 +208,7 @@
     const p = getPane();
     p.paintChips();
     await p.load();
-    return { title: "Leads", actions: [iconBtn("plus", "Add a lead", () => C.leadSheet())], body: [p.el], className: "leads-page" };
+    return { title: "Leads", actions: [iconBtn("import", "Import leads (CSV)", () => { location.hash = "import/leads"; }), iconBtn("plus", "Add a lead", () => C.leadSheet())], body: [p.el], className: "leads-page" };
   }, { prefetch: () => [`leads?view=open&limit=100&offset=0`] });
 
   // Laptop: list on the left, the lead on the right; picking a lead only redraws the right side.
@@ -218,7 +218,7 @@
     const p = getPane();
     if (!split) {
       split = h("div", { class: "twopane" }, h("div", { class: "pane-list" }, h("header", { class: "page-h" }, h("div", { class: "ph-row" }, h("div", { class: "ph-t" }, h("h1", null, "Leads")),
-        h("div", { class: "ph-a" }, iconBtn("plus", "Add a lead", () => C.leadSheet()))))), h("div", { class: "pane-detail" }));
+        h("div", { class: "ph-a" }, iconBtn("import", "Import leads (CSV)", () => { location.hash = "import/leads"; }), iconBtn("plus", "Add a lead", () => C.leadSheet()))))), h("div", { class: "pane-detail" }));
       v.replaceChildren(split);
       document.body.classList.add("split-on");
       keepScroll = false;
