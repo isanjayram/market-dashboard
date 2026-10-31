@@ -13,13 +13,10 @@
    "impact": "High",
    "impact_reason": "Indicates strong market liquidity and developer financing confidence.",
    "watch": true,
-   "also": [
-    "Arabian Business"
-   ],
    "headline": "Arada Secures $400 Million Through First Post-Conflict Sukuk",
    "summary": "Developer Arada successfully raised $400 million via a property sukuk. This marks the first such issuance since regional tensions started.",
    "why": "It shows strong investor confidence and liquidity for regional property developers despite geopolitical tensions.",
-   "age_hours": 11.6,
+   "age_hours": 12.5,
    "topic": "arada"
   },
   {
@@ -42,7 +39,7 @@
    "headline": "UAE weekend traffic updates include closures and toll changes",
    "summary": "Drivers across Dubai, Abu Dhabi, and Sharjah face various road closures, lane restrictions, and revised toll rates. These changes impact weekend travel routes until Sunday.",
    "why": "It informs agents about city-wide transit disruptions affecting mobility.",
-   "age_hours": 7.0,
+   "age_hours": 8.0,
    "topic": "metro"
   },
   {
@@ -61,9 +58,9 @@
    "headline": "Dubai property market achieves $3.3bn in weekly transactions",
    "summary": "Dubai property sales hit $3.3 billion over the past week. A notable transaction included a Palm Jumeirah apartment selling for $15 million.",
    "why": "It provides crucial weekly performance metrics for the local market.",
-   "age_hours": 11.1,
+   "age_hours": 12.1,
    "topic": "Supply & market reports",
-   "more": 1
+   "more": 2
   },
   {
    "id": "2ae7cfa281f3",
@@ -81,7 +78,7 @@
    "headline": "Etihad Rail construction prompts overnight road closures until November 15",
    "summary": "Ongoing Etihad Rail works are causing overnight road closures for motorists traveling between Dubai and Sharjah. These traffic restrictions remain active until mid-November.",
    "why": "It highlights regional infrastructure construction affecting inter-emirate transit.",
-   "age_hours": 21.5,
+   "age_hours": 22.5,
    "topic": "sharjah"
   },
   {
@@ -97,10 +94,14 @@
    "impact": "Medium",
    "impact_reason": "Demonstrates robust sector growth and massive transaction volumes.",
    "watch": false,
+   "also": [
+    "Emirates 24|7",
+    "Emirates 24|7"
+   ],
    "headline": "Dubai real estate reaches Dh625 billion over ten months",
    "summary": "Dubai property turnover reached Dh625 billion across 181,866 transactions during the first ten months. Total sales alone accounted for Dh412 billion of this figure.",
    "why": "It underscores the unprecedented trading volume in Dubai real estate.",
-   "age_hours": 9.1,
+   "age_hours": 10.0,
    "topic": "Supply & market reports"
   },
   {
@@ -119,8 +120,9 @@
    "headline": "Etihad Rail Sells 120,000 Tickets in Its First Month",
    "summary": "The UAE's new passenger rail network reached significant ridership numbers during its opening month. The transport service is currently preparing for future expansion across the country.",
    "why": "Transport links directly influence regional property demand and community accessibility.",
-   "age_hours": 15.2,
-   "topic": "etihad rail"
+   "age_hours": 16.1,
+   "topic": "etihad rail",
+   "more": 1
   },
   {
    "id": "cca68ff7554a",
@@ -138,7 +140,7 @@
    "headline": "Etihad Rail sells 120,000 tickets in its first month",
    "summary": "The national passenger railway sold 120,000 tickets during its initial 30 days of operation. The service connects Abu Dhabi, Dubai, Al Dhaid, and Fujairah.",
    "why": "It tracks the successful adoption of the new inter-city transport network.",
-   "age_hours": 18.0,
+   "age_hours": 18.9,
    "topic": "etihad rail"
   },
   {
@@ -157,34 +159,15 @@
    "headline": "UAE Golden Visa Expands Opportunities for Digital Content Creators",
    "summary": "Digital influencers can now access long-term residency through the updated UAE Golden Visa framework. This policy provides creators with enhanced professional stability and security within the country.",
    "why": "Residency policy changes directly influence long-term buyer pools and rental demand.",
-   "age_hours": 17.5,
+   "age_hours": 18.4,
    "topic": "golden visa"
-  },
-  {
-   "id": "234ca07a7706",
-   "title": "Stay Property Management builds AI-powered future for Dubai\u2019s short-term rental market",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElfdlZfQ2hiSldzZ09xUXdGZGVxbm5JekVIaDVCVF9oelZwTzBxSVl5akNmYmo0clZ4elZ0WUt6U0FoYlYzZnhtaXo1eDBhMl9MUkFmUVUxWGdzZmItMzBraDY5NTNyQW0tNTRlU3Zxc2NPbFJnUTVSM2dhckhEcjEyZGtsT2otUktEUUJRQng0NncwMV83TTZWMnN2YVV4Y3YyRnFyQ3JUUWVnbUc4akQ0aWkyRnhVSnhFMDlqR1gzRms5NkNtR3dR?oc=5",
-   "source": "Gulf Today",
-   "kind": "search",
-   "published": "2026-10-30T13:09+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Operational tech upgrade with minimal immediate market-wide impact.",
-   "watch": false,
-   "headline": "Stay Property Management adopts AI for Dubai short-term rentals",
-   "summary": "Stay Property Management is integrating artificial intelligence to enhance operations within Dubai's short-term rental sector. This technological upgrade aims to optimize management processes for holiday homes.",
-   "why": "Adopting new property technology impacts the efficiency and management standards of Dubai's short-term rental market.",
-   "age_hours": 23.9,
-   "topic": "Developer news"
   }
  ],
  "window_hours": 24,
- "count_relevant": 12,
- "count_fetched": 311,
+ "count_relevant": 11,
+ "count_fetched": 306,
  "feed_errors": {},
  "mode": "AI summaries (gemini)",
- "as_of": "2026-10-31T13:01+04:00",
- "saved_at": "2026-10-31T13:01+04:00"
+ "as_of": "2026-10-31T13:57+04:00",
+ "saved_at": "2026-10-31T13:57+04:00"
 }
