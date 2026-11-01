@@ -15,10 +15,13 @@
    "impact": "Medium",
    "impact_reason": "Bolsters broader investor confidence in the UAE market.",
    "watch": false,
+   "also": [
+    "Gulf News"
+   ],
    "headline": "Abu Dhabi's AA credit rating affirmed by Fitch",
    "summary": "Fitch Ratings has maintained Abu Dhabi's AA credit rating alongside a stable outlook. The agency pointed to the emirate's robust fiscal indicators and high per capita GDP.",
    "why": "Strong sovereign credit ratings boost overall investor confidence in the UAE economy.",
-   "age_hours": 1.2,
+   "age_hours": 2.2,
    "topic": "abu dhabi"
   },
   {
@@ -44,7 +47,7 @@
    "headline": "Dubai RTA launches AI strategy to reduce traffic",
    "summary": "Dubai's RTA introduced an artificial intelligence initiative aimed at cutting road congestion and speeding up licensing procedures. Bus commuters will also experience more dependable transit schedules.",
    "why": "Improved transport infrastructure and reduced traffic congestion enhance overall community livability.",
-   "age_hours": 1.6,
+   "age_hours": 2.6,
    "topic": "Infrastructure"
   },
   {
@@ -63,7 +66,7 @@
    "headline": "New Dubai Ruling Allows Pre-Tenancy Contract Cancellation",
    "summary": "Tenants who find their rental contracts misleading can now cancel them before the tenancy period officially begins. This regulatory update offers tenants better protection against deceptive agreements.",
    "why": "It strengthens tenant rights and pre-lease protections.",
-   "age_hours": 20.4,
+   "age_hours": 21.4,
    "topic": "Regulation & fees"
   },
   {
@@ -82,7 +85,7 @@
    "headline": "Abu Dhabi Confirms Qualifying Occupations for 10-Year Golden Visa",
    "summary": "The UAE has specified the exact professions eligible for Abu Dhabi's 10-year residency Golden Visa. This update clarifies qualification pathways for professionals seeking long-term stability.",
    "why": "Long-term residency options directly influence investor and resident retention.",
-   "age_hours": 17.6,
+   "age_hours": 18.7,
    "topic": "abu dhabi"
   },
   {
@@ -105,7 +108,7 @@
    "headline": "Arada Reopens UAE Real Estate Debt Markets With Sukuk",
    "summary": "Arada has successfully issued a $400 million sukuk, effectively reopening the debt markets for UAE property firms. This move signals continued investor appetite for regional developer bonds.",
    "why": "Corporate financing trends impact developer expansion and project delivery.",
-   "age_hours": 14.3,
+   "age_hours": 15.3,
    "topic": "arada"
   },
   {
@@ -124,7 +127,7 @@
    "headline": "RTA targets traffic reduction through AI strategy",
    "summary": "Dubai's transport authority is utilizing artificial intelligence to decrease congestion and streamline services.",
    "why": "AI-driven transport upgrades improve urban mobility and neighborhood connectivity.",
-   "age_hours": 2.3,
+   "age_hours": 3.3,
    "topic": "Infrastructure"
   },
   {
@@ -143,7 +146,7 @@
    "headline": "Vision Breaks Ground on New Dubai Residential Project",
    "summary": "Vision has officially started construction on a 246-unit residential development in Dubai. The new project adds fresh housing stock to the emirate's growing residential pipeline.",
    "why": "New residential launches affect future supply levels.",
-   "age_hours": 12.2,
+   "age_hours": 13.2,
    "topic": "Developer news"
   },
   {
@@ -165,15 +168,15 @@
    "headline": "UAE Property Expo 2026 Opens in Hyderabad",
    "summary": "The UAE Property Grand Expo 2026 has launched in Hyderabad, highlighting real estate investments in Dubai and Ajman. The event targets international buyers looking for regional property opportunities.",
    "why": "Overseas expos indicate ongoing international marketing efforts.",
-   "age_hours": 20.5,
+   "age_hours": 21.6,
    "topic": "Supply & market reports"
   }
  ],
  "window_hours": 24,
- "count_relevant": 13,
- "count_fetched": 365,
+ "count_relevant": 12,
+ "count_fetched": 368,
  "feed_errors": {},
- "mode": "AI summaries (gemini)",
- "as_of": "2026-11-01T13:46+04:00",
- "saved_at": "2026-11-01T13:46+04:00"
+ "mode": "AI summaries (saved from an earlier run)",
+ "as_of": "2026-11-01T14:48+04:00",
+ "saved_at": "2026-11-01T14:48+04:00"
 }
