@@ -22,7 +22,7 @@
    "headline": "Abu Dhabi's AA credit rating affirmed by Fitch",
    "summary": "Fitch Ratings has maintained Abu Dhabi's AA credit rating alongside a stable outlook. The agency pointed to the emirate's robust fiscal indicators and high per capita GDP.",
    "why": "Strong sovereign credit ratings boost overall investor confidence in the UAE economy.",
-   "age_hours": 2.7,
+   "age_hours": 2.9,
    "topic": "abu dhabi",
    "more": 1
   },
@@ -46,7 +46,7 @@
    "headline": "Dubai RTA launches AI strategy to reduce traffic",
    "summary": "Dubai's RTA introduced an artificial intelligence initiative aimed at cutting road congestion and speeding up licensing procedures. Bus commuters will also experience more dependable transit schedules.",
    "why": "Improved transport infrastructure and reduced traffic congestion enhance overall community livability.",
-   "age_hours": 3.1,
+   "age_hours": 3.3,
    "topic": "Infrastructure"
   },
   {
@@ -65,27 +65,8 @@
    "headline": "Abu Dhabi Confirms Qualifying Occupations for 10-Year Golden Visa",
    "summary": "The UAE has specified the exact professions eligible for Abu Dhabi's 10-year residency Golden Visa. This update clarifies qualification pathways for professionals seeking long-term stability.",
    "why": "Long-term residency options directly influence investor and resident retention.",
-   "age_hours": 19.2,
+   "age_hours": 19.4,
    "topic": "abu dhabi"
-  },
-  {
-   "id": "4791521793c8",
-   "title": "Is Dubai Property Actually Cheaper Than Mumbai?",
-   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1EUUJxU0VXZGY2MnBHTkxraVN2M2dERHA3ZXU3a1JIWFZpT2hJZE95YnVxVll5SUFTZERJ?oc=5",
-   "source": "Howl.Link",
-   "kind": "search",
-   "published": "2026-10-31T18:30+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Offers general market comparison rather than direct regulatory changes.",
-   "watch": false,
-   "headline": "Comparing Property Affordability Between Dubai and Mumbai Markets",
-   "summary": "An analysis evaluates whether real estate is truly more affordable in Dubai than in Mumbai. The comparison highlights differences in global pricing.",
-   "why": "It provides cross-border market comparison insights for investors.",
-   "age_hours": 20.8,
-   "topic": "Macro & geopolitics"
   },
   {
    "id": "6a62d0f25284",
@@ -103,15 +84,15 @@
    "headline": "UAE Property Expo 2026 Opens in Hyderabad",
    "summary": "The UAE Property Grand Expo 2026 has launched in Hyderabad, highlighting real estate investments in Dubai and Ajman. The event targets international buyers looking for regional property opportunities.",
    "why": "Overseas expos indicate ongoing international marketing efforts.",
-   "age_hours": 22.1,
+   "age_hours": 22.3,
    "topic": "Supply & market reports"
   }
  ],
  "window_hours": 24,
- "count_relevant": 10,
- "count_fetched": 295,
+ "count_relevant": 9,
+ "count_fetched": 288,
  "feed_errors": {},
- "mode": "AI summaries (gemini)",
- "as_of": "2026-11-01T15:19+04:00",
- "saved_at": "2026-11-01T15:19+04:00"
+ "mode": "AI summaries (saved from an earlier run)",
+ "as_of": "2026-11-01T15:31+04:00",
+ "saved_at": "2026-11-01T15:31+04:00"
 }
