@@ -388,6 +388,24 @@
    "category": "Infrastructure",
    "impact": "Low",
    "impact_reason": "Incremental updates to transport efficiency."
+  },
+  "9495fa8d3451": {
+   "relevant": true,
+   "headline": "Arada Secures $400 Million Through New Sukuk Issuance",
+   "summary": "The developer successfully closed a major financial sukuk. This move restarts property debt market activity in the UAE.",
+   "why": "It shows active developer financing in the regional property market.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Indicates steady developer funding without altering buyer costs."
+  },
+  "4791521793c8": {
+   "relevant": true,
+   "headline": "Comparing Property Affordability Between Dubai and Mumbai Markets",
+   "summary": "An analysis evaluates whether real estate is truly more affordable in Dubai than in Mumbai. The comparison highlights differences in global pricing.",
+   "why": "It provides cross-border market comparison insights for investors.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Offers general market comparison rather than direct regulatory changes."
   }
  }
 }
