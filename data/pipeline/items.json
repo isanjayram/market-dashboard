@@ -1787,5 +1787,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"e65ee528747c": {
+"id": "e65ee528747c",
+"title": "Vision Breaks Ground on New Dubai Residential Project",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU05PZFRUejZZcS1vVkp6TVByLWRQNkxrTjIwNDJTMUlxX2ZFTzdNYnBSLUZXLWxpR213YjVuR05idDNtckpyUllON0toWERfN3F1QkJrR0VyZnFnMVR5V2xmUDNTX0Etb2RYWC1oaHZKVnVJOWxZUTNBWHZPVmNKR3I1SUpRd0U1Y3ltVG9KeXZFOVVFLVc1WjNvSmZHZXdsYXFV?oc=5",
+"source": "TradeArabia",
+"category": "Developer news",
+"published": "2026-11-01T01:35+04:00",
+"first_seen": "2026-11-01",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": "Dubai",
+"type": "Residential",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
