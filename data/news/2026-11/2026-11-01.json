@@ -202,5 +202,50 @@
 "impact_reason": "Stronger economy drives future real estate demand.",
 "watch": false,
 "topic": "abu dhabi"
+},
+{
+"id": "94b122a75d99",
+"headline": "Abu Dhabi's AA credit rating affirmed by Fitch",
+"summary": "Fitch Ratings has maintained Abu Dhabi's AA credit rating alongside a stable outlook. The agency pointed to the emirate's robust fiscal indicators and high per capita GDP.",
+"why": "Strong sovereign credit ratings boost overall investor confidence in the UAE economy.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/uae/abu-dhabi/fitch-affirms-abu-dhabis-aa-credit-rating-with-stable-outlook-1.500731534",
+"published": "2026-11-01T12:36+04:00",
+"category": "Macro & geopolitics",
+"impact": "Medium",
+"impact_reason": "Bolsters broader investor confidence in the UAE market.",
+"watch": false,
+"topic": "abu dhabi"
+},
+{
+"id": "7c7b8859d919",
+"headline": "Dubai RTA launches AI strategy to reduce traffic",
+"summary": "Dubai's RTA introduced an artificial intelligence initiative aimed at cutting road congestion and speeding up licensing procedures. Bus commuters will also experience more dependable transit schedules.",
+"why": "Improved transport infrastructure and reduced traffic congestion enhance overall community livability.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/uae/dubai-motorists-to-face-less-traffic-and-get-faster-rta-services-heres-how-1.500731525",
+"published": "2026-11-01T12:12+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Better transport links enhance neighborhood appeal and accessibility.",
+"watch": false,
+"also": [
+"Gulf News"
+],
+"topic": "Infrastructure"
+},
+{
+"id": "134c6365fd43",
+"headline": "RTA targets traffic reduction through AI strategy",
+"summary": "Dubai's transport authority is utilizing artificial intelligence to decrease congestion and streamline services.",
+"why": "AI-driven transport upgrades improve urban mobility and neighborhood connectivity.",
+"source": "Khaleej Times",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1VoNnN6WDNNMW9pM2NNOXptakhCQ05uZk90SmJMNWQ1UUF4VTVISU9vdllMUUtRcWVYOXF1dlFyYUFwN3FJSEN3WVhPVF9JZkwyLTF4Vy1GcFcwY0ZVeXE0b0VjZ0hnN25CazZ0eEVISnVOZkhIWkN1Q0N0UEpVV0M1ZVgtZWk4M01YQW1KMlpPMGhiRkHSAZYBQVVfeXFMT09VaDZzelgzTTFvaTNjTTl6bWpIQkNObmZPdEpiTDVkNVFBeFU1SElPb3ZZTFFLUXFlWDlxdXZRcmFBcDdxSUhDd1lYT1RfSWZMMi0xeFctRnBXMGNGVXlxNG9FY2dIZzduQms2dHhFSEp1TmZISFpDdUNDdFBKVVdDNWVYLWVpODNNWEFtSjJaTzBoYkZB?oc=5",
+"published": "2026-11-01T11:28+04:00",
+"category": "Infrastructure",
+"impact": "Low",
+"impact_reason": "Incremental updates to transport efficiency.",
+"watch": false,
+"topic": "Infrastructure"
 }
 ]

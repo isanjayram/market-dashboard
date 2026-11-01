@@ -352,6 +352,42 @@
    "category": "Regulation & fees",
    "impact": "Low",
    "impact_reason": "Internal HR update with no direct market impact."
+  },
+  "94b122a75d99": {
+   "relevant": true,
+   "headline": "Abu Dhabi's AA credit rating affirmed by Fitch",
+   "summary": "Fitch Ratings has maintained Abu Dhabi's AA credit rating alongside a stable outlook. The agency pointed to the emirate's robust fiscal indicators and high per capita GDP.",
+   "why": "Strong sovereign credit ratings boost overall investor confidence in the UAE economy.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Bolsters broader investor confidence in the UAE market."
+  },
+  "fb5ee451c02a": {
+   "relevant": false,
+   "headline": "Dubai Ride event brings cycling competitions",
+   "summary": "Cyclists compete for prizes during the Dubai Ride event.",
+   "why": "This is a lifestyle and sporting event with no direct real estate impact.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Lifestyle event with no real estate relevance."
+  },
+  "7c7b8859d919": {
+   "relevant": true,
+   "headline": "Dubai RTA launches AI strategy to reduce traffic",
+   "summary": "Dubai's RTA introduced an artificial intelligence initiative aimed at cutting road congestion and speeding up licensing procedures. Bus commuters will also experience more dependable transit schedules.",
+   "why": "Improved transport infrastructure and reduced traffic congestion enhance overall community livability.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Better transport links enhance neighborhood appeal and accessibility."
+  },
+  "134c6365fd43": {
+   "relevant": true,
+   "headline": "RTA targets traffic reduction through AI strategy",
+   "summary": "Dubai's transport authority is utilizing artificial intelligence to decrease congestion and streamline services.",
+   "why": "AI-driven transport upgrades improve urban mobility and neighborhood connectivity.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Incremental updates to transport efficiency."
   }
  }
 }
