@@ -307,6 +307,51 @@
    "category": "Supply & market reports",
    "impact": "Low",
    "impact_reason": "An overseas promotional event with indirect local impact."
+  },
+  "8557e43ef5f2": {
+   "relevant": true,
+   "headline": "Fitch maintains Abu Dhabi's AA credit rating",
+   "summary": "Fitch Ratings has affirmed Abu Dhabi at AA with a stable outlook. The stable rating reflects solid fiscal fundamentals.",
+   "why": "It reinforces macroeconomic stability and investor confidence in the UAE capital's property market.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Bolsters investor confidence in the local economy."
+  },
+  "3bf5414f7433": {
+   "relevant": false,
+   "headline": "Dubai road closures announced for Sunday",
+   "summary": "Sheikh Zayed Road will experience temporary closures and altered Metro hours on Sunday, November 1.",
+   "why": "This is a temporary traffic advisory unrelated to real estate market trends.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Daily traffic advisory with no real estate impact."
+  },
+  "dd01ab97da41": {
+   "relevant": true,
+   "headline": "Abu Dhabi economic growth projected to hit 15.1%",
+   "summary": "Fitch forecasts Abu Dhabi economic growth will accelerate to 15.1% by 2027. Increased oil production drives this expansion.",
+   "why": "Stronger economic growth directly fuels housing demand and commercial property investments.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Stronger economy drives future real estate demand."
+  },
+  "5daac1decc80": {
+   "relevant": true,
+   "headline": "Top twenty popular Dubai areas for property buyers",
+   "summary": "A new ranking highlights the twenty most sought-after communities for purchasing apartments and villas in Dubai.",
+   "why": "Agents can use buyer demand trends to guide clients toward high-performing neighborhoods.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Highlights key areas currently driving buyer demand."
+  },
+  "d7c7a3bb6f5d": {
+   "relevant": false,
+   "headline": "Dubai Land Department boosts Emirati career opportunities",
+   "summary": "The Dubai Land Department is launching initiatives to expand career opportunities for local citizens.",
+   "why": "Internal employment initiatives do not affect property prices, buyer costs, or regulations.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Internal HR update with no direct market impact."
   }
  }
 }
