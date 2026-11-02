@@ -317,5 +317,38 @@
 "Consultancy-me.com"
 ],
 "topic": "abu dhabi"
+},
+{
+"id": "e8da15d53585",
+"headline": "Manage Ejari contracts through a single app",
+"summary": "Tenants and landlords can now register, renew, and cancel their Ejari contracts using one application. This update streamlines rental administration processes across Dubai.",
+"why": "It simplifies lease management for landlords and tenants.",
+"source": "Khaleej Times",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVzctMjdRaldsT1VOQW1rdG5kbVlsQlM5STJzMzhfUHNJY1hCTXhKUzZmVGc2a21sazFFbXA0dWl5YW1pYUJ4V24zdWFwRUZOOXJxNlF6WmpnVm1MSVRjelh4NDdpTUY3c2dqdUQ5WXR3VUQyMlFDSEdiMk1JcWRKZmZqNnJmTExQOEc3ZGln0gGWAUFVX3lxTE5EbDlwWkpkUGNaRkZpUnBLY2Z0SWhfSUxfaHcyQjItYW5kSVdFN1piRlNVck41d0N5eEh6X19oZFpWb3Q3UlBZV1Q2QzJIZ2xXQUVMMm9mNlB5TWtUU3RJaUdwRXR4cHI4ODZRWnh1al9GT1o3bTZDOS1Nc1dEc2F2Q1dOMl9MQjBWWlBjQnNsSkZjeVd1Zw?oc=5",
+"published": "2026-11-02T15:36+04:00",
+"category": "Regulation & fees",
+"impact": "Low",
+"impact_reason": "Streamlines rental administration without changing costs.",
+"watch": false,
+"also": [
+"Gulf News",
+"Gulf News",
+"Gulf News"
+],
+"topic": "ejari"
+},
+{
+"id": "655e790d5c49",
+"headline": "DubaiNow app adds complete Ejari and DEWA services",
+"summary": "The Dubai Land Department integrated full tenancy procedures into the DubaiNow application. Users can handle registration, renewals, cancellations, and utility payments in one place.",
+"why": "It improves the digital experience for managing rental properties.",
+"source": "Economy Middle East",
+"link": "https://economymiddleeast.com/news/dubai-integrates-full-ejari-tenancy-journey-into-dubainow-with-registration-renewal-cancellation-and-dewa-payments/?utm_source=rss&utm_medium=rss&utm_campaign=dubai-integrates-full-ejari-tenancy-journey-into-dubainow-with-registration-renewal-cancellation-and-dewa-payments",
+"published": "2026-11-02T14:51+04:00",
+"category": "Regulation & fees",
+"impact": "Low",
+"impact_reason": "Improves digital efficiency for property management.",
+"watch": false,
+"topic": "ejari"
 }
 ]

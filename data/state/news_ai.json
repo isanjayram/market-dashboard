@@ -352,6 +352,33 @@
    "category": "Supply & market reports",
    "impact": "Low",
    "impact_reason": "Highlights general regional market performance trends."
+  },
+  "e8da15d53585": {
+   "relevant": true,
+   "headline": "Manage Ejari contracts through a single app",
+   "summary": "Tenants and landlords can now register, renew, and cancel their Ejari contracts using one application. This update streamlines rental administration processes across Dubai.",
+   "why": "It simplifies lease management for landlords and tenants.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Streamlines rental administration without changing costs."
+  },
+  "813b3c79a7c3": {
+   "relevant": false,
+   "headline": "Al Habtoor Group sells Lebanon assets",
+   "summary": "Al Habtoor Group plans to divest its entire portfolio of hotels and property assets located in Lebanon. The decision shifts the company's regional focus away from the Lebanese market.",
+   "why": "It involves overseas property divestment outside Dubai.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "No direct impact on Dubai real estate."
+  },
+  "655e790d5c49": {
+   "relevant": true,
+   "headline": "DubaiNow app adds complete Ejari and DEWA services",
+   "summary": "The Dubai Land Department integrated full tenancy procedures into the DubaiNow application. Users can handle registration, renewals, cancellations, and utility payments in one place.",
+   "why": "It improves the digital experience for managing rental properties.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Improves digital efficiency for property management."
   }
  }
 }

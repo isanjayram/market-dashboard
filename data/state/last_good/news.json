@@ -16,27 +16,8 @@
    "headline": "Dubai Real Estate Mortgages Reach Record $5.94 Billion Across 10,000 Loans",
    "summary": "Mortgage financing in Dubai climbed to $5.94 billion as buyers secured 10,000 separate loans. This massive volume demonstrates deep financing reliance and strong borrowing activity in the market.",
    "why": "Mortgage trends directly reflect buyer purchasing power and financing conditions.",
-   "age_hours": 4.3,
+   "age_hours": 6.0,
    "topic": "Rates & mortgages"
-  },
-  {
-   "id": "7d3d5702df1e",
-   "title": "Dubai delivers 38,000 new residential units in first nine months of 2026",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWnU0TXVLNkEwbDBkLWxLRjVmSnhRT2tSY2lYYmFJRmRUSjdjamFjOWE4NGdPQmNlNnlzRWtzcTlXTTByQ2g1MG9ESWtWQi1TTVBiMXBVOU1LTGRtTnZfdnY3akFZbnlEZm5JRU11R0VLU1RTQTFzLVVHNE5ndjFaamcybU5ZZDBKRWFfRlRYS2QwSm9tejF4VU9xdzhFaHcxZU5BRUNCemhpTXpWTS1XMThTOHlLNDFHWW1N?oc=5",
-   "source": "Construction Week Online",
-   "kind": "search",
-   "published": "2026-11-02T13:00+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Adds significant housing inventory to the market.",
-   "watch": false,
-   "headline": "Dubai adds 38,000 homes in nine months",
-   "summary": "Dubai successfully delivered 38,000 new residential properties during the first three quarters of 2026.",
-   "why": "New completions directly influence local housing supply and market dynamics.",
-   "age_hours": 1.0,
-   "topic": "Supply & market reports"
   },
   {
    "id": "87deef99c605",
@@ -51,13 +32,10 @@
    "impact": "Medium",
    "impact_reason": "Provides valuable location trends for buyers and investors.",
    "watch": false,
-   "also": [
-    "Construction Week Online"
-   ],
    "headline": "Abu Dhabi Property Market Highlights Top 20 Areas For Apartments and Villas",
    "summary": "A new report ranks the top 20 most popular neighborhoods for purchasing apartments and villas in Abu Dhabi. These insights map out current buyer interest across the capital's residential districts.",
    "why": "Knowing popular areas helps investors and agents identify high-demand locations.",
-   "age_hours": 4.0,
+   "age_hours": 5.7,
    "topic": "abu dhabi"
   },
   {
@@ -76,28 +54,8 @@
    "headline": "Dubai Luxury Property Market Records Nine Sales Exceeding $27 Million",
    "summary": "Dubai's high-end property sector achieved nine transactions priced above $27 million. This highlights continued strong demand for ultra-luxury real estate in the emirate.",
    "why": "It shows sustained high-net-worth buyer activity in the luxury segment.",
-   "age_hours": 4.0,
-   "topic": "Developer news",
-   "more": 1
-  },
-  {
-   "id": "2c54bd7f9407",
-   "title": "Dubai rents: 1 in 5 tenants now pays less than before as rentals ease on new supply",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMllhUGVPclhEck5ILVJWNDRFaWp2bmkyOG5aWERXMVJFSFdvUjRNaHBvNVgzaC15UUNPVkxyR1FZTms5dThkQ3lUOFpNaC03MFBNNGlsTHdpOGtoVkVwaU0zQUVoYWpkNWdvYTk2aWNqd1lfWkZfZzdESURweW5yc1RiaE80ZFREaWp3blVQLUFhSnBSQzBybk92WlIzWFFrVEtNcHFTZ3M2cHdnNGJCeVRMWl9XVjJSUEZJenBSVFZPS3pm0gHEAUFVX3lxTFAyWWFQZU9yWERyTkgtUlY0NEVpanZuaTI4blpYRFcxUkVIV29SNE1ocG81WDNoLXlRQ09WTHJHUVlOazl1OGRDeVQ4Wk1oLTcwUE00aWxMd2k4a2hWRXBpTTNBRWhhamQ1Z29hOTZpY2p3WV9aRl9nN0RJRHB5bnJzVGJoTzRkVERpanduVVAtQWFKcFJDMHJuT3ZaUjNYUWtUS01wcVNnczZwd2c0YkJ5VExaX1dWMlJQRkl6cFJUVk9LemY?oc=5",
-   "source": "Khaleej Times",
-   "kind": "search",
-   "published": "2026-11-02T08:45+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Shifts rental pricing trends and tenant negotiation power.",
-   "watch": false,
-   "headline": "Dubai rental market cools as new supply eases prices",
-   "summary": "Twenty percent of renters now secure lower rates than previously paid. Increased housing stock is bringing relief to tenants across the emirate.",
-   "why": "It shows a direct shift in rental market dynamics due to new supply.",
-   "age_hours": 5.3,
-   "topic": "rents"
+   "age_hours": 5.7,
+   "topic": "Developer news"
   },
   {
    "id": "e3b378f36943",
@@ -115,7 +73,7 @@
    "headline": "Residents Move Into Dar Global\u2019s Supercar-Inspired Pagani Tower in Dubai",
    "summary": "Residents are officially moving into Dar Global's Pagani-branded tower in Dubai. The project blends automotive design concepts with luxury residential real estate.",
    "why": "Branded residences continue to shape luxury development trends in Dubai.",
-   "age_hours": 6.2,
+   "age_hours": 7.8,
    "topic": "Developer news"
   },
   {
@@ -134,7 +92,7 @@
    "headline": "Dubai permits eight-floor buildings in Al Satwa",
    "summary": "Dubai Municipality has updated planning rules to allow residential developments up to eight floors in Al Satwa. The policy shift aims to encourage investment and stimulate neighborhood growth.",
    "why": "Zoning changes directly unlock new development potential and land value in established areas.",
-   "age_hours": 20.0,
+   "age_hours": 21.7,
    "topic": "Infrastructure",
    "more": 1
   },
@@ -154,7 +112,7 @@
    "headline": "Al Satwa zoning revised for eight-storey residential projects",
    "summary": "New planning regulations in Dubai now permit residential buildings up to eight storeys tall in Al Satwa. The municipality implemented the change to remove growth barriers.",
    "why": "Modifications to building heights expand construction opportunities for developers.",
-   "age_hours": 21.4,
+   "age_hours": 23.0,
    "topic": "Infrastructure"
   },
   {
@@ -173,7 +131,7 @@
    "headline": "UAE Golden Visa Highlights Nine Professional Fields For 10-Year Residency",
    "summary": "Nine specific professional sectors have been identified as qualifying for the ten-year UAE Golden Visa. This update clarifies residency pathways for skilled professionals looking to settle long-term.",
    "why": "Clearer residency rules directly influence foreign buyer decisions and long-term retention.",
-   "age_hours": 3.9,
+   "age_hours": 5.6,
    "topic": "golden visa"
   },
   {
@@ -189,23 +147,63 @@
    "impact": "Low",
    "impact_reason": "Updates administrative procedures for abandoned real estate.",
    "watch": true,
-   "also": [
-    "Gulf News"
-   ],
    "headline": "Sharjah introduces new regulations for abandoned properties",
    "summary": "Authorities in Sharjah have officially approved new guidelines governing lost and abandoned real estate. The policy outlines official procedures for handling such properties.",
    "why": "Regulatory updates regarding property status affect local asset management and administrative compliance.",
-   "age_hours": 19.0,
+   "age_hours": 20.7,
    "topic": "sharjah"
+  },
+  {
+   "id": "e8da15d53585",
+   "title": "Dubai tenants, landlords can now register, renew, cancel Ejari contracts using one app",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVzctMjdRaldsT1VOQW1rdG5kbVlsQlM5STJzMzhfUHNJY1hCTXhKUzZmVGc2a21sazFFbXA0dWl5YW1pYUJ4V24zdWFwRUZOOXJxNlF6WmpnVm1MSVRjelh4NDdpTUY3c2dqdUQ5WXR3VUQyMlFDSEdiMk1JcWRKZmZqNnJmTExQOEc3ZGln0gGWAUFVX3lxTE5EbDlwWkpkUGNaRkZpUnBLY2Z0SWhfSUxfaHcyQjItYW5kSVdFN1piRlNVck41d0N5eEh6X19oZFpWb3Q3UlBZV1Q2QzJIZ2xXQUVMMm9mNlB5TWtUU3RJaUdwRXR4cHI4ODZRWnh1al9GT1o3bTZDOS1Nc1dEc2F2Q1dOMl9MQjBWWlBjQnNsSkZjeVd1Zw?oc=5",
+   "source": "Khaleej Times",
+   "kind": "search",
+   "published": "2026-11-02T15:36+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Streamlines rental administration without changing costs.",
+   "watch": false,
+   "also": [
+    "Gulf News",
+    "Gulf News",
+    "Gulf News"
+   ],
+   "headline": "Manage Ejari contracts through a single app",
+   "summary": "Tenants and landlords can now register, renew, and cancel their Ejari contracts using one application. This update streamlines rental administration processes across Dubai.",
+   "why": "It simplifies lease management for landlords and tenants.",
+   "age_hours": 0.1,
+   "topic": "ejari"
+  },
+  {
+   "id": "655e790d5c49",
+   "title": "Dubai integrates full Ejari tenancy journey into DubaiNow with registration, renewal, cancellation and DEWA payments",
+   "link": "https://economymiddleeast.com/news/dubai-integrates-full-ejari-tenancy-journey-into-dubainow-with-registration-renewal-cancellation-and-dewa-payments/?utm_source=rss&utm_medium=rss&utm_campaign=dubai-integrates-full-ejari-tenancy-journey-into-dubainow-with-registration-renewal-cancellation-and-dewa-payments",
+   "source": "Economy Middle East",
+   "kind": "outlet",
+   "published": "2026-11-02T14:51+04:00",
+   "tags": [],
+   "teaser": "Dubai Land Department has launched an enhanced Ejari service through the DubaiNow app, bringing key tenancy procedures into a single digital journey as the emirate advances the integration of government and real estate services. The upgraded service allows customers to create and register tenancy contracts through one process, with the Ejari certificate issued immediately after [\u2026] The post Dubai ",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Improves digital efficiency for property management.",
+   "watch": false,
+   "headline": "DubaiNow app adds complete Ejari and DEWA services",
+   "summary": "The Dubai Land Department integrated full tenancy procedures into the DubaiNow application. Users can handle registration, renewals, cancellations, and utility payments in one place.",
+   "why": "It improves the digital experience for managing rental properties.",
+   "age_hours": 0.8,
+   "topic": "ejari"
   }
  ],
  "window_hours": 24,
- "count_relevant": 14,
- "count_fetched": 340,
+ "count_relevant": 13,
+ "count_fetched": 303,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-02T14:00+04:00",
- "saved_at": "2026-11-02T14:00+04:00"
+ "as_of": "2026-11-02T15:41+04:00",
+ "saved_at": "2026-11-02T15:41+04:00"
 }
