@@ -235,6 +235,96 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Celebrity gossip has no market impact."
+  },
+  "b8d500bb67b3": {
+   "relevant": true,
+   "headline": "Dubai Luxury Property Market Records Nine Sales Exceeding $27 Million",
+   "summary": "Dubai's high-end property sector achieved nine transactions priced above $27 million. This highlights continued strong demand for ultra-luxury real estate in the emirate.",
+   "why": "It shows sustained high-net-worth buyer activity in the luxury segment.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Highlights robust demand for ultra-luxury properties."
+  },
+  "905d37586186": {
+   "relevant": true,
+   "headline": "UAE Golden Visa Highlights Nine Professional Fields For 10-Year Residency",
+   "summary": "Nine specific professional sectors have been identified as qualifying for the ten-year UAE Golden Visa. This update clarifies residency pathways for skilled professionals looking to settle long-term.",
+   "why": "Clearer residency rules directly influence foreign buyer decisions and long-term retention.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Affects long-term residency and buyer eligibility."
+  },
+  "dac1ca2d1f30": {
+   "relevant": true,
+   "headline": "Dubai Records Dhs5.28 Billion in Ready-To-Move Apartment Sales",
+   "summary": "Completed apartments in Dubai generated Dhs5.28 billion in recent sales figures. This indicates strong buyer preference for immediate occupancy units.",
+   "why": "It reflects robust liquidity and demand within the ready property market.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Demonstrates strong market demand for ready properties."
+  },
+  "7f513355a3b8": {
+   "relevant": true,
+   "headline": "Dubai RTA Launches AI Strategy Targeting $81.7 Million Annual Value",
+   "summary": "Dubai's RTA introduced an updated artificial intelligence strategy aiming for AED300 million in annual value. The plan transitions half of its operations into an Agentic AI ecosystem over two and a half years.",
+   "why": "Infrastructure enhancements improve overall connectivity and community appeal.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Digital upgrades have a minor indirect effect."
+  },
+  "87deef99c605": {
+   "relevant": true,
+   "headline": "Abu Dhabi Property Market Highlights Top 20 Areas For Apartments and Villas",
+   "summary": "A new report ranks the top 20 most popular neighborhoods for purchasing apartments and villas in Abu Dhabi. These insights map out current buyer interest across the capital's residential districts.",
+   "why": "Knowing popular areas helps investors and agents identify high-demand locations.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Provides valuable location trends for buyers and investors."
+  },
+  "43de666d83dd": {
+   "relevant": true,
+   "headline": "Dubai Real Estate Mortgages Reach Record $5.94 Billion Across 10,000 Loans",
+   "summary": "Mortgage financing in Dubai climbed to $5.94 billion as buyers secured 10,000 separate loans. This massive volume demonstrates deep financing reliance and strong borrowing activity in the market.",
+   "why": "Mortgage trends directly reflect buyer purchasing power and financing conditions.",
+   "category": "Rates & mortgages",
+   "impact": "High",
+   "impact_reason": "Shows massive financing activity and buyer borrowing trends."
+  },
+  "e3b378f36943": {
+   "relevant": true,
+   "headline": "Residents Move Into Dar Global’s Supercar-Inspired Pagani Tower in Dubai",
+   "summary": "Residents are officially moving into Dar Global's Pagani-branded tower in Dubai. The project blends automotive design concepts with luxury residential real estate.",
+   "why": "Branded residences continue to shape luxury development trends in Dubai.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Showcases delivery of high-profile branded real estate."
+  },
+  "e21b364e989f": {
+   "relevant": true,
+   "headline": "OPEC+ Keeps December Oil Output Unchanged as Focus Shifts to 2027",
+   "summary": "Seven key OPEC+ producers agreed to maintain their December oil production quotas. The decision extends current output pauses while policymakers look ahead to 2027 targets.",
+   "why": "Macroeconomic oil policies influence broader UAE economic sentiment and liquidity.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Maintains status quo without immediate local property impact."
+  },
+  "2c54bd7f9407": {
+   "relevant": true,
+   "headline": "Dubai rental market cools as new supply eases prices",
+   "summary": "Twenty percent of renters now secure lower rates than previously paid. Increased housing stock is bringing relief to tenants across the emirate.",
+   "why": "It shows a direct shift in rental market dynamics due to new supply.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Shifts rental pricing trends and tenant negotiation power."
+  },
+  "12e422fd6529": {
+   "relevant": false,
+   "headline": "Dubai motorists to face less traffic and get faster RTA services",
+   "summary": "Dubai drivers will experience reduced congestion and improved roads. The RTA is introducing faster public services for commuters.",
+   "why": "This news focuses on general traffic and transport rather than real estate property, mortgages, or macroeconomic trends.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "No direct effect on property values or real estate."
   }
  }
 }
