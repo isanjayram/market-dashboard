@@ -286,5 +286,36 @@
 "impact_reason": "Incremental updates to transport efficiency.",
 "watch": false,
 "topic": "Infrastructure"
+},
+{
+"id": "7d3d5702df1e",
+"headline": "Dubai adds 38,000 homes in nine months",
+"summary": "Dubai successfully delivered 38,000 new residential properties during the first three quarters of 2026.",
+"why": "New completions directly influence local housing supply and market dynamics.",
+"source": "Construction Week Online",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWnU0TXVLNkEwbDBkLWxLRjVmSnhRT2tSY2lYYmFJRmRUSjdjamFjOWE4NGdPQmNlNnlzRWtzcTlXTTByQ2g1MG9ESWtWQi1TTVBiMXBVOU1LTGRtTnZfdnY3akFZbnlEZm5JRU11R0VLU1RTQTFzLVVHNE5ndjFaamcybU5ZZDBKRWFfRlRYS2QwSm9tejF4VU9xdzhFaHcxZU5BRUNCemhpTXpWTS1XMThTOHlLNDFHWW1N?oc=5",
+"published": "2026-11-02T13:00+04:00",
+"category": "Supply & market reports",
+"impact": "Medium",
+"impact_reason": "Adds significant housing inventory to the market.",
+"watch": false,
+"topic": "Supply & market reports"
+},
+{
+"id": "b8ad846d4ca2",
+"headline": "Abu Dhabi real estate maintains positive momentum",
+"summary": "The property sector in Abu Dhabi continues its steady upward growth trend.",
+"why": "Regional property performance influences broader UAE investor sentiment.",
+"source": "Consultancy-me.com",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbWtlVEpKZUhtN2lEbFZLMlVFdjA3cUdlTmJDdXpWekhBeHVjZjZfRjlQYmU4VE45S0d3aHhTVFdhZk8xbTBrVUp6NG1MSUxkRU9uQll3R2NrWGJlWnlkSkI2Y29fVUc0VzliVnhpOGVqdENnOXduRTdBZjNMMDBmekNzMUo4WHd6SmNSQzZqYmx3Si1CNFJXLWV3T241VU3SAaQBQVVfeXFMUHVtUGp4c05hak5tbHJxUnplRWJoVExRQ1N1ekZoa0JKX0U1cm8zV3lhQTMtdWhhaEJvMS02TDBESzNLRmt2TjRERm9peGhSRHcxbjdNVjhBTU9CanVWMzNPT3lmUGNGRUFxcGFRVG5LVV9mUFRwZGtLMXZlZ1NZcXZQNkxiUjFqQTVTbkNXMzc1LTJnWnRMRjJIakRPT3phNzV2emU?oc=5",
+"published": "2026-11-02T12:09+04:00",
+"category": "Supply & market reports",
+"impact": "Low",
+"impact_reason": "Highlights general regional market performance trends.",
+"watch": false,
+"also": [
+"Consultancy-me.com"
+],
+"topic": "abu dhabi"
 }
 ]

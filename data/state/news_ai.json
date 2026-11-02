@@ -325,6 +325,33 @@
    "category": "Infrastructure",
    "impact": "Low",
    "impact_reason": "No direct effect on property values or real estate."
+  },
+  "cf1eea817f6a": {
+   "relevant": false,
+   "headline": "Al Habtoor exits Lebanon market",
+   "summary": "The Dubai conglomerate is selling all assets in Lebanon following ceased operations.",
+   "why": "This asset sale occurs outside the UAE and has no direct impact on Dubai real estate.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Outside the local property market scope."
+  },
+  "7d3d5702df1e": {
+   "relevant": true,
+   "headline": "Dubai adds 38,000 homes in nine months",
+   "summary": "Dubai successfully delivered 38,000 new residential properties during the first three quarters of 2026.",
+   "why": "New completions directly influence local housing supply and market dynamics.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Adds significant housing inventory to the market."
+  },
+  "b8ad846d4ca2": {
+   "relevant": true,
+   "headline": "Abu Dhabi real estate maintains positive momentum",
+   "summary": "The property sector in Abu Dhabi continues its steady upward growth trend.",
+   "why": "Regional property performance influences broader UAE investor sentiment.",
+   "category": "Supply & market reports",
+   "impact": "Low",
+   "impact_reason": "Highlights general regional market performance trends."
   }
  }
 }
