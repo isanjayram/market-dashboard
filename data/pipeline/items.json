@@ -1809,5 +1809,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"536b15a2043d": {
+"id": "536b15a2043d",
+"title": "Residents begin moving into Dar Global Pagani tower",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNDNLR0x1OU9NT3FKQkhiU01lMWEtd3gtZjJNQzZqVHV1QXNvZVBOcEJHTWpBYmd0R0J4ODlBU1Mxa2N3NHE1X2VlVzgzUmlqb3ZsX2VIMzBvdnBYdm94SV9Ud2k5MFF2cnd5ZEFYaXdGcWNERzVYOHJLaFFaM21fU29qS1lTa3VmeXJ4cnBEdFNwc05IU084c3diVk9VNC1VV1R1dmhLRWFLNXU2TnhGNEZ0c1NRejMzdUlqeXRrMDZ6Zw?oc=5",
+"source": "Arabian Business",
+"category": "Developer news",
+"published": "2026-11-02T07:51+04:00",
+"first_seen": "2026-11-02",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": "Pagani tower",
+"developer": "Dar Global",
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
