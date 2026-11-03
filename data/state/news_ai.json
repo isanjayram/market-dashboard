@@ -1,168 +1,4 @@
 {
- "2026-11-01": {
-  "b99b9d447d9a": {
-   "relevant": true,
-   "headline": "Dubai Property Hits Dh625 Billion Across 181,866 Deals",
-   "summary": "Dubai's property sector achieved Dh625 billion in total value over ten months, driven by nearly 182,000 transactions. Total sales alone accounted for Dh412 billion during this period.",
-   "why": "It shows massive transaction volume and market liquidity.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Highlights robust ongoing investor demand and high market turnover."
-  },
-  "69e36143c5ca": {
-   "relevant": true,
-   "headline": "Abu Dhabi Confirms Qualifying Occupations for 10-Year Golden Visa",
-   "summary": "The UAE has specified the exact professions eligible for Abu Dhabi's 10-year residency Golden Visa. This update clarifies qualification pathways for professionals seeking long-term stability.",
-   "why": "Long-term residency options directly influence investor and resident retention.",
-   "category": "Regulation & fees",
-   "impact": "Medium",
-   "impact_reason": "Encourages long-term residency and boosts buyer confidence."
-  },
-  "8fbb9af1fcdd": {
-   "relevant": true,
-   "headline": "Arada Reopens UAE Real Estate Debt Markets With Sukuk",
-   "summary": "Arada has successfully issued a $400 million sukuk, effectively reopening the debt markets for UAE property firms. This move signals continued investor appetite for regional developer bonds.",
-   "why": "Corporate financing trends impact developer expansion and project delivery.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Reflects developer funding conditions rather than direct buyer impact."
-  },
-  "9e63c7e17fd2": {
-   "relevant": true,
-   "headline": "Factory Sale Requires Landlord Consent for Tenancy Transfer",
-   "summary": "A leased factory cannot be sold without the landlord's explicit agreement, and buyers do not automatically inherit tenancy rights. Landlord approval remains mandatory to transfer lease obligations.",
-   "why": "It clarifies commercial leasing laws and tenant transfer rights.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Applies to specific commercial leasing scenarios."
-  },
-  "e65ee528747c": {
-   "relevant": true,
-   "headline": "Vision Breaks Ground on New Dubai Residential Project",
-   "summary": "Vision has officially started construction on a 246-unit residential development in Dubai. The new project adds fresh housing stock to the emirate's growing residential pipeline.",
-   "why": "New residential launches affect future supply levels.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "A single project launch has limited broad market impact."
-  },
-  "1c756603a342": {
-   "relevant": true,
-   "headline": "New Dubai Ruling Allows Pre-Tenancy Contract Cancellation",
-   "summary": "Tenants who find their rental contracts misleading can now cancel them before the tenancy period officially begins. This regulatory update offers tenants better protection against deceptive agreements.",
-   "why": "It strengthens tenant rights and pre-lease protections.",
-   "category": "Regulation & fees",
-   "impact": "Medium",
-   "impact_reason": "Enhances tenant legal protections before lease commencement."
-  },
-  "6a62d0f25284": {
-   "relevant": true,
-   "headline": "UAE Property Expo 2026 Opens in Hyderabad",
-   "summary": "The UAE Property Grand Expo 2026 has launched in Hyderabad, highlighting real estate investments in Dubai and Ajman. The event targets international buyers looking for regional property opportunities.",
-   "why": "Overseas expos indicate ongoing international marketing efforts.",
-   "category": "Supply & market reports",
-   "impact": "Low",
-   "impact_reason": "An overseas promotional event with indirect local impact."
-  },
-  "8557e43ef5f2": {
-   "relevant": true,
-   "headline": "Fitch maintains Abu Dhabi's AA credit rating",
-   "summary": "Fitch Ratings has affirmed Abu Dhabi at AA with a stable outlook. The stable rating reflects solid fiscal fundamentals.",
-   "why": "It reinforces macroeconomic stability and investor confidence in the UAE capital's property market.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Bolsters investor confidence in the local economy."
-  },
-  "3bf5414f7433": {
-   "relevant": false,
-   "headline": "Dubai road closures announced for Sunday",
-   "summary": "Sheikh Zayed Road will experience temporary closures and altered Metro hours on Sunday, November 1.",
-   "why": "This is a temporary traffic advisory unrelated to real estate market trends.",
-   "category": "Infrastructure",
-   "impact": "Low",
-   "impact_reason": "Daily traffic advisory with no real estate impact."
-  },
-  "dd01ab97da41": {
-   "relevant": true,
-   "headline": "Abu Dhabi economic growth projected to hit 15.1%",
-   "summary": "Fitch forecasts Abu Dhabi economic growth will accelerate to 15.1% by 2027. Increased oil production drives this expansion.",
-   "why": "Stronger economic growth directly fuels housing demand and commercial property investments.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Stronger economy drives future real estate demand."
-  },
-  "5daac1decc80": {
-   "relevant": true,
-   "headline": "Top twenty popular Dubai areas for property buyers",
-   "summary": "A new ranking highlights the twenty most sought-after communities for purchasing apartments and villas in Dubai.",
-   "why": "Agents can use buyer demand trends to guide clients toward high-performing neighborhoods.",
-   "category": "Macro & geopolitics",
-   "impact": "Medium",
-   "impact_reason": "Highlights key areas currently driving buyer demand."
-  },
-  "d7c7a3bb6f5d": {
-   "relevant": false,
-   "headline": "Dubai Land Department boosts Emirati career opportunities",
-   "summary": "The Dubai Land Department is launching initiatives to expand career opportunities for local citizens.",
-   "why": "Internal employment initiatives do not affect property prices, buyer costs, or regulations.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Internal HR update with no direct market impact."
-  },
-  "94b122a75d99": {
-   "relevant": true,
-   "headline": "Abu Dhabi's AA credit rating affirmed by Fitch",
-   "summary": "Fitch Ratings has maintained Abu Dhabi's AA credit rating alongside a stable outlook. The agency pointed to the emirate's robust fiscal indicators and high per capita GDP.",
-   "why": "Strong sovereign credit ratings boost overall investor confidence in the UAE economy.",
-   "category": "Macro & geopolitics",
-   "impact": "Medium",
-   "impact_reason": "Bolsters broader investor confidence in the UAE market."
-  },
-  "fb5ee451c02a": {
-   "relevant": false,
-   "headline": "Dubai Ride event brings cycling competitions",
-   "summary": "Cyclists compete for prizes during the Dubai Ride event.",
-   "why": "This is a lifestyle and sporting event with no direct real estate impact.",
-   "category": "Infrastructure",
-   "impact": "Low",
-   "impact_reason": "Lifestyle event with no real estate relevance."
-  },
-  "7c7b8859d919": {
-   "relevant": true,
-   "headline": "Dubai RTA launches AI strategy to reduce traffic",
-   "summary": "Dubai's RTA introduced an artificial intelligence initiative aimed at cutting road congestion and speeding up licensing procedures. Bus commuters will also experience more dependable transit schedules.",
-   "why": "Improved transport infrastructure and reduced traffic congestion enhance overall community livability.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Better transport links enhance neighborhood appeal and accessibility."
-  },
-  "134c6365fd43": {
-   "relevant": true,
-   "headline": "RTA targets traffic reduction through AI strategy",
-   "summary": "Dubai's transport authority is utilizing artificial intelligence to decrease congestion and streamline services.",
-   "why": "AI-driven transport upgrades improve urban mobility and neighborhood connectivity.",
-   "category": "Infrastructure",
-   "impact": "Low",
-   "impact_reason": "Incremental updates to transport efficiency."
-  },
-  "9495fa8d3451": {
-   "relevant": true,
-   "headline": "Arada Secures $400 Million Through New Sukuk Issuance",
-   "summary": "The developer successfully closed a major financial sukuk. This move restarts property debt market activity in the UAE.",
-   "why": "It shows active developer financing in the regional property market.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Indicates steady developer funding without altering buyer costs."
-  },
-  "4791521793c8": {
-   "relevant": true,
-   "headline": "Comparing Property Affordability Between Dubai and Mumbai Markets",
-   "summary": "An analysis evaluates whether real estate is truly more affordable in Dubai than in Mumbai. The comparison highlights differences in global pricing.",
-   "why": "It provides cross-border market comparison insights for investors.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Offers general market comparison rather than direct regulatory changes."
-  }
- },
  "2026-11-02": {
   "c918f6f0aff7": {
    "relevant": true,
@@ -388,6 +224,116 @@
    "category": "Regulation & fees",
    "impact": "Low",
    "impact_reason": "Not relevant to Dubai real estate market."
+  }
+ },
+ "2026-11-03": {
+  "845eb4030e81": {
+   "relevant": false,
+   "headline": "PM Modi inaugurates Pune Metro Line-3 virtually",
+   "summary": "The Indian Prime Minister has virtually opened the Pune Metro Line-3 today.",
+   "why": "This infrastructure project is located in India and does not affect the Dubai real estate market.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Overseas infrastructure project irrelevant to Dubai property."
+  },
+  "2ae37f99acfd": {
+   "relevant": false,
+   "headline": "Emaar India launches Elara high-rise in Lucknow",
+   "summary": "Emaar India expands its footprint by launching a second premium high-rise residential project named Elara in Lucknow.",
+   "why": "The development is based in India rather than Dubai, making it irrelevant to local property agents.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Indian real estate expansion outside Dubai."
+  },
+  "8e721bbf79dc": {
+   "relevant": true,
+   "headline": "Dubai Metro Red Line station renamed to Garmin",
+   "summary": "The Road and Transport Authority has officially renamed a Dubai Metro station to Garmin.",
+   "why": "Station renaming affects local transit accessibility and neighborhood branding for nearby properties.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Local transit updates impact nearby property appeal."
+  },
+  "30e87782df95": {
+   "relevant": true,
+   "headline": "Casa Vista starts second phase of AQUORA project",
+   "summary": "Casa Vista Development progresses in Dubai as the AQUORA project enters its second residential phase.",
+   "why": "New project phases increase local housing supply and present new inventory options for buyers.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "New residential supply enters the Dubai market."
+  },
+  "ad13ff6ed578": {
+   "relevant": true,
+   "headline": "Dubai ready-property sales increase by eleven percent in Q3",
+   "summary": "Sales of ready properties in Dubai registered an eleven percent increase during the third quarter.",
+   "why": "Sales data reflects growing buyer demand and transactional activity in the secondary market.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Data shows increased secondary market demand."
+  },
+  "d1617ea74e8d": {
+   "relevant": true,
+   "headline": "Dubai Land Department updates Ejari service on DubaiNow",
+   "summary": "An upgraded Ejari service has been launched by the Dubai Land Department via the DubaiNow application.",
+   "why": "Streamlined rental registration processes improve administrative efficiency for landlords and tenants.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Improves administrative rental registration processes."
+  },
+  "dd6ff7bfcd81": {
+   "relevant": true,
+   "headline": "New Ejari rental service announced in Dubai",
+   "summary": "Dubai has introduced a fresh Ejari service tailored for both property tenants and landlords.",
+   "why": "Ejari updates directly impact leasing procedures and regulatory compliance for rentals.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Updates local leasing procedures."
+  },
+  "3a7629ce2e22": {
+   "relevant": false,
+   "headline": "Emaar wins Dubai-it real estate award from Hamdan",
+   "summary": "Sheikh Hamdan bin Mohammed has recognized Emaar as the winner of a local real estate award.",
+   "why": "Awards and accolades do not change market fundamentals, regulations, or buyer costs.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Corporate awards carry no direct market impact."
+  },
+  "3afbb83e1b8f": {
+   "relevant": false,
+   "headline": "Emaar wins real estate excellence award in Dubai",
+   "summary": "Emaar received an award recognizing excellence in Dubai's real estate sector.",
+   "why": "This is an industry award and lifestyle piece lacking actionable market news.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Awards do not affect property costs or market fundamentals."
+  },
+  "d1bbe8092bc1": {
+   "relevant": false,
+   "headline": "Dubai Land Department wraps up Emirati hiring event",
+   "summary": "The fourth Emirati employment event hosted by the Dubai Land Department has concluded.",
+   "why": "This is an employment and HR initiative rather than a property market development.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Job fairs do not alter property prices or regulations."
+  },
+  "301535f6bb37": {
+   "relevant": true,
+   "headline": "Dubai property prices return to April levels",
+   "summary": "PropertyIndex reports that local real estate prices have retraced back to April levels. The platform highlights its pricing accuracy for the market.",
+   "why": "Price trends directly impact buyer decisions and market valuation.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Price tracking helps investors gauge current market sentiment."
+  },
+  "43bc8324a8e2": {
+   "relevant": true,
+   "headline": "Visionary Investment Holding buys Luminova Real Estate",
+   "summary": "Visionary Investment Holding has completed the acquisition of Luminova Real Estate and Holiday Homes in Dubai.",
+   "why": "Corporate acquisitions in the local property sector affect market operations.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Corporate buyouts have minimal immediate impact on buyers."
   }
  }
 }

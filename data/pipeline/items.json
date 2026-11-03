@@ -1831,5 +1831,49 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"8e721bbf79dc": {
+"id": "8e721bbf79dc",
+"title": "Dubai Metro Red Line station renamed to Garmin",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMVFtd2xpOHVKOVMyNjVHU1JodXc0V1JQUG4tZWo3S2xzdzBzc01kcklrOXR2NzJiWjFOVXNfZGlsMzU3ejZxTHdhS05TcW9kUEhTbEVQQndFUHFyT1ZINk5kbkxuTVpheTUzUGJZZ3JmYkZjT1pud003RGRGOXZqaGdvcw?oc=5",
+"source": "Arabian Business",
+"category": "Infrastructure",
+"published": "2026-11-03T00:13+04:00",
+"first_seen": "2026-11-03",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"30e87782df95": {
+"id": "30e87782df95",
+"title": "Casa Vista starts second phase of AQUORA project",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQalVKcFg1bEE2SDJVYUdsc215SW5ZVTNqMUd4d1lab19ma292YmZwTmRkUnV4OGgtTVdOdWMxSW95SkFsMDkwWXNiUjY3RWNKemFiT0NQNm16Tjk0X0RVVVgzTXVnUjVEajNmb0dENVFMaWIyekgwaW80ZVdKZEpUX01VN1ZpaVg3WnVES0NjZ0plNUk1ZmloWENPeS1UWmw2c1NFVWpORWxQWGctUXJMTXhRZHF6UXl1dUJXQk4xR1VCb3BjdE1zVWlHMm5SZ0JYTFNJ?oc=5",
+"source": "EIN Presswire",
+"category": "Developer news",
+"published": "2026-11-03T03:23+04:00",
+"first_seen": "2026-11-03",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": "AQUORA",
+"developer": "Casa Vista",
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
