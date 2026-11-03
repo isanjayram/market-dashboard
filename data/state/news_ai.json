@@ -334,6 +334,69 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Corporate buyouts have minimal immediate impact on buyers."
+  },
+  "f4d44fc51250": {
+   "relevant": true,
+   "headline": "Brookfield and Lunate Launch New Gulf Real Estate Firm",
+   "summary": "Major asset managers Brookfield and Lunate have established a new property development company targeting the Gulf region.",
+   "why": "New institutional backing will influence future regional project pipelines and market supply.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "New regional developer increases major project supply."
+  },
+  "49284cbe22a5": {
+   "relevant": false,
+   "headline": "Dubai PropTech Platform Launches with Ambitious Target",
+   "summary": "A professional networking platform tailored for Dubai real estate agents has debuted, aiming for significant market share.",
+   "why": "This is an industry software launch rather than a core market driver.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "App launch has no direct impact on property costs."
+  },
+  "d277ca5df778": {
+   "relevant": false,
+   "headline": "Local Car Rental Firm Wins Regional Travel Award",
+   "summary": "Octane.Rent has received luxury travel awards for its rental services in the UAE and Middle East.",
+   "why": "This is a lifestyle and awards piece unrelated to property.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Awards piece unrelated to real estate market."
+  },
+  "ec29470cf2fc": {
+   "relevant": false,
+   "headline": "Emaar Properties Honoured After Launching Numerous Projects",
+   "summary": "Emaar Properties received an award following a massive rollout of sixty-two projects within a single year.",
+   "why": "This is an industry award announcement rather than new market data.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Corporate award announcement without direct market impact."
+  },
+  "73799dbe89c3": {
+   "relevant": false,
+   "headline": "Omniyat Partnership News and Media Updates",
+   "summary": "Media coverage highlights recent activities and updates regarding Omniyat developments in the UAE.",
+   "why": "This is a generic news aggregation page rather than a specific factual announcement.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "General news link with no specific market update."
+  },
+  "ada6e6546641": {
+   "relevant": true,
+   "headline": "Long-Term Stays Dominate UAE Managed Properties in Q3",
+   "summary": "Extended stays made up over half of all portfolio nights recorded by First Class Property Management during the third quarter.",
+   "why": "Shifts in rental duration trends affect short-term versus long-term investment strategies.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Highlights shifting rental demand patterns in the UAE."
+  },
+  "36c24305e82f": {
+   "relevant": true,
+   "headline": "Dubai Property Prices Return to April 2025 Levels",
+   "summary": "Data from PropertyIndex indicates that property values in Dubai have corrected back to where they stood in April 2025.",
+   "why": "Price index movements directly impact buyer sentiment and market valuation strategies.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Important valuation benchmark for buyers and investors."
   }
  }
 }
