@@ -397,6 +397,60 @@
    "category": "Supply & market reports",
    "impact": "Medium",
    "impact_reason": "Important valuation benchmark for buyers and investors."
+  },
+  "ca336c6a36bd": {
+   "relevant": true,
+   "headline": "UAE office rents surge as Q3 demand outpaces supply",
+   "summary": "Abu Dhabi and Dubai office rents climbed 20 percent and 12 percent respectively in Q3 2026. Limited supply and robust occupier demand drove this commercial market growth.",
+   "why": "This report highlights strong commercial sector performance across the Emirates.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects commercial market momentum and tighter office availability."
+  },
+  "25ad1f8917e5": {
+   "relevant": true,
+   "headline": "Dubai Q3 sales and mortgages hit $38.5 billion",
+   "summary": "Dubai registered AED141.4 billion in sales and mortgages during the third quarter of 2026. Apartment yields reached 7.7 percent amid steady financing and broad buyer demand.",
+   "why": "Transaction volumes and yields indicate strong ongoing market liquidity.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Demonstrates healthy transaction activity and high rental returns."
+  },
+  "6274f69a711b": {
+   "relevant": false,
+   "headline": "Blackbrick Property marks five years in Dubai with launch of its international collection",
+   "summary": "Blackbrick Property celebrates five years in Dubai by launching its international collection.",
+   "why": "This is a company anniversary and marketing launch with no broader market impact.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Company anniversary and new launch announcement."
+  },
+  "7a1f5ecdd793": {
+   "relevant": true,
+   "headline": "Dubai integrates Ejari and DEWA into single service",
+   "summary": "Dubai simplifies the renting process by combining tenancy contracts and utility payments under one unified Ejari platform.",
+   "why": "Streamlining rental and utility procedures improves the tenant experience in Dubai.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Improves rental administrative efficiency without changing costs."
+  },
+  "1c3ab06e7e99": {
+   "relevant": true,
+   "headline": "Union Properties posts 58% revenue jump in nine months",
+   "summary": "Union Properties generated Dh809.5 million in revenue during the first nine months of 2026. Stronger operations drove this top-line growth despite a sharp drop in net profit.",
+   "why": "Financial results from major developers indicate sector-wide corporate health.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Highlights corporate financial performance of a listed developer."
+  },
+  "c8cbe186a282": {
+   "relevant": true,
+   "headline": "Affordable Dubai apartments gain value as luxury prices drop",
+   "summary": "Lower-priced apartments in Dubai are seeing rising valuations while luxury property prices experience declines.",
+   "why": "Shifts in pricing dynamics between affordable and luxury segments affect buyer strategies.",
+   "category": "Supply & market reports",
+   "impact": "Low",
+   "impact_reason": "Indicates a shifting price trend across different asset tiers."
   }
  }
 }

@@ -279,5 +279,80 @@
 "StreetInsider"
 ],
 "topic": "Supply & market reports"
+},
+{
+"id": "ca336c6a36bd",
+"headline": "UAE office rents surge as Q3 demand outpaces supply",
+"summary": "Abu Dhabi and Dubai office rents climbed 20 percent and 12 percent respectively in Q3 2026. Limited supply and robust occupier demand drove this commercial market growth.",
+"why": "This report highlights strong commercial sector performance across the Emirates.",
+"source": "Economy Middle East",
+"link": "https://economymiddleeast.com/news/uae-office-market-strengthens-as-abu-dhabi-rents-rise-20-percent-dubai-gains-12-percent/?utm_source=rss&utm_medium=rss&utm_campaign=uae-office-market-strengthens-as-abu-dhabi-rents-rise-20-percent-dubai-gains-12-percent",
+"published": "2026-11-03T13:46+04:00",
+"category": "Supply & market reports",
+"impact": "Medium",
+"impact_reason": "Reflects commercial market momentum and tighter office availability.",
+"watch": false,
+"topic": "abu dhabi"
+},
+{
+"id": "25ad1f8917e5",
+"headline": "Dubai Q3 sales and mortgages hit $38.5 billion",
+"summary": "Dubai registered AED141.4 billion in sales and mortgages during the third quarter of 2026. Apartment yields reached 7.7 percent amid steady financing and broad buyer demand.",
+"why": "Transaction volumes and yields indicate strong ongoing market liquidity.",
+"source": "Economy Middle East",
+"link": "https://economymiddleeast.com/news/dubais-real-estate-sales-and-mortgages-reach-38-5-billion-in-q3-as-apartment-yields-hit-7-7-percent/?utm_source=rss&utm_medium=rss&utm_campaign=dubais-real-estate-sales-and-mortgages-reach-38-5-billion-in-q3-as-apartment-yields-hit-7-7-percent",
+"published": "2026-11-03T13:41+04:00",
+"category": "Supply & market reports",
+"impact": "Medium",
+"impact_reason": "Demonstrates healthy transaction activity and high rental returns.",
+"watch": false,
+"more": 3,
+"topic": "Supply & market reports"
+},
+{
+"id": "7a1f5ecdd793",
+"headline": "Dubai integrates Ejari and DEWA into single service",
+"summary": "Dubai simplifies the renting process by combining tenancy contracts and utility payments under one unified Ejari platform.",
+"why": "Streamlining rental and utility procedures improves the tenant experience in Dubai.",
+"source": "Gulf Business",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTTNpamV3T01iWHN1WnhjbDRzWmxHUXJxRkY4MXhmUnB0Zkh0VnE5LWRuc3VJYUFkZFByYUJUbEQzc3pCeDJmNkFYNXR0X2xGM2JZeE9jNF9jS250RWFUT2xacjB4QjFqZzZLcHJSbVJDRjBaVlZuRk1pM3llNEtHRHZ4U0FGSTJKZlpBYmd1WlRQMlpFRTgyZF9yNnJvVFdiRkkybjZhSEVEbHZ4R0NWRmgydzdmTWtUSVBEN3dBR2lSRUYzTmc?oc=5",
+"published": "2026-11-03T12:55+04:00",
+"category": "Regulation & fees",
+"impact": "Low",
+"impact_reason": "Improves rental administrative efficiency without changing costs.",
+"watch": false,
+"also": [
+"Gulf Business"
+],
+"more": 2,
+"topic": "ejari"
+},
+{
+"id": "1c3ab06e7e99",
+"headline": "Union Properties posts 58% revenue jump in nine months",
+"summary": "Union Properties generated Dh809.5 million in revenue during the first nine months of 2026. Stronger operations drove this top-line growth despite a sharp drop in net profit.",
+"why": "Financial results from major developers indicate sector-wide corporate health.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/business/property/union-properties-nine-month-revenue-jumps-58-to-dh8095-million-1.500733942",
+"published": "2026-11-03T12:21+04:00",
+"category": "Developer news",
+"impact": "Low",
+"impact_reason": "Highlights corporate financial performance of a listed developer.",
+"watch": false,
+"topic": "Developer news"
+},
+{
+"id": "c8cbe186a282",
+"headline": "Affordable Dubai apartments gain value as luxury prices drop",
+"summary": "Lower-priced apartments in Dubai are seeing rising valuations while luxury property prices experience declines.",
+"why": "Shifts in pricing dynamics between affordable and luxury segments affect buyer strategies.",
+"source": "Arabian Gulf Business Insight | AGBI",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNVp2V0tJZVUyVkYtdjBwaEFYbUlUZVRaem15bUpocl9MLXdkSE1aMkNuNVdYZlR4N2F5YlFOcUpJVjhHYmU3RUFLeFVsX2k2S2VxUnpGelhHTW1haVBvTVBYRVhUYnpIUGExM2pSTmY5WlJqNmMxTV9wUURWbDlZLUpRdXhMTV9rVWxHZVRrZzBYRWx5QU5YaUJnb05PTTFpRWRQN1lxblhPWTFTZlE?oc=5",
+"published": "2026-11-03T13:42+04:00",
+"category": "Supply & market reports",
+"impact": "Low",
+"impact_reason": "Indicates a shifting price trend across different asset tiers.",
+"watch": false,
+"topic": "Supply & market reports"
 }
 ]
