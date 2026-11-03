@@ -1875,5 +1875,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"6f5d28351257": {
+"id": "6f5d28351257",
+"title": "Mohamed Alabbar’s Emaar Wins Prestigious Dubai Award: Launches 62 Projects and Completes Over 12,000 Homes in One Year",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS2hkTDdnWWhRM1BRYU1Za2tfTWRQOFVpWUFSWTZCNG1DT2VrMVc4b3gxWWJmZ2l0M0F2RlNvby1XZ0VWeGJIcHpOcUZfcEFhb0JQNVRXanFLNjFQWXh4Njl1aUFRb21ySDB6Q0VHaFpaUHphQ1VENGdPbjZyaE1WekFYS0pjWGpYd2IxNFJKeGxCSnR6UnVTaTI0MlNSWFZQZEVmSXFwbzM1eDJUTzI5akhjUnJZRDJSaEpYTE5rTDVNXzV2cjBhb3MxQm5pSFZNbTVRLVFtT18?oc=5",
+"source": "Bankar.me",
+"category": "Developer news",
+"published": "2026-11-03T15:19+04:00",
+"first_seen": "2026-11-03",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": "Emaar",
+"location": "Dubai",
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
