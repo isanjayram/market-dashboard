@@ -354,5 +354,33 @@
 "impact_reason": "Indicates a shifting price trend across different asset tiers.",
 "watch": false,
 "topic": "Supply & market reports"
+},
+{
+"id": "ee41c4e5b4ef",
+"headline": "Sharjah reviews property registration procedures.",
+"summary": "The Sharjah Executive Council held discussions regarding ongoing property registration initiatives and improvements.",
+"why": "It concerns local property registration and government oversight.",
+"source": "Sharjah24",
+"link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tWDFnb3lXWFFqOGRTdDNGOUpOejNoTjJQUGVERWxhc21iZHlaUFZlRHpyTVU5ZDh5emltV0JXR0FRUHpoTUw0eEZQOE93Ry16UTlKRGlIeFU4WThVMWc?oc=5",
+"published": "2026-11-03T15:07+04:00",
+"category": "Regulation & fees",
+"impact": "Medium",
+"impact_reason": "Enhances administrative efficiency in local property registration.",
+"watch": true,
+"topic": "sharjah"
+},
+{
+"id": "9504c75f93b9",
+"headline": "Maharashtra REAT Refuses Homebuyers' Plea To Withdraw Developer's Appeal Pre-Deposit For Home Loan EMIs",
+"summary": "",
+"why": "mortgage costs and affordability for financed buyers may shift.",
+"source": "LiveLawBiz",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ3N5ZGpJTE9SYzhJakwyWWF4TVBEVmsyLTNtYXJCdHpOa2RxUUc4cVB5NlA5RS04RFU0ZWlMVmlqQkJjQTVFeEp5Sm5GN0dmOFNiRk1TVk9GZ1FUTk43ZlFmZm9heE1MSndlVkMyM0EyM2RjV0Z4a3A0ejYzQVI0S3lobnI2NlhqXzRTeDA4ZE1UNlpxRi02Q09Ib3BoMTlXakd2UnpDckxKY2EzVXRYS3BaeDhqVllTQmFUdERsS09KV1JHdTZ6bUlWcHl5Z9IBzgFBVV95cUxNQ3N5ZGpJTE9SYzhJakwyWWF4TVBEVmsyLTNtYXJCdHpOa2RxUUc4cVB5NlA5RS04RFU0ZWlMVmlqQkJjQTVFeEp5Sm5GN0dmOFNiRk1TVk9GZ1FUTk43ZlFmZm9heE1MSndlVkMyM0EyM2RjV0Z4a3A0ejYzQVI0S3lobnI2NlhqXzRTeDA4ZE1UNlpxRi02Q09Ib3BoMTlXakd2UnpDckxKY2EzVXRYS3BaeDhqVllTQmFUdERsS09KV1JHdTZ6bUlWcHl5Zw?oc=5",
+"published": "2026-11-02T16:07+04:00",
+"category": "Rates & mortgages",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": false,
+"topic": "Rates & mortgages"
 }
 ]

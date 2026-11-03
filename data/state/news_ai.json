@@ -451,6 +451,42 @@
    "category": "Supply & market reports",
    "impact": "Low",
    "impact_reason": "Indicates a shifting price trend across different asset tiers."
+  },
+  "91330e3814e1": {
+   "relevant": false,
+   "headline": "Global gold buying surges as institutional investors seek safety.",
+   "summary": "Central bank gold purchases jumped significantly as investors responded to economic uncertainty. Individual retail buyers showed varied participation compared to institutional funds.",
+   "why": "This article discusses global gold bullion trends rather than Dubai real estate or mortgages.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Global gold trends do not directly impact local property."
+  },
+  "626b7d49b255": {
+   "relevant": false,
+   "headline": "Indian expat acquitted in rental fraud case.",
+   "summary": "An individual involved in a rental dispute was acquitted and cleared of deportation.",
+   "why": "This is a local court case regarding fraud rather than broader market news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Single court case lacks market-wide significance."
+  },
+  "ee41c4e5b4ef": {
+   "relevant": true,
+   "headline": "Sharjah reviews property registration procedures.",
+   "summary": "The Sharjah Executive Council held discussions regarding ongoing property registration initiatives and improvements.",
+   "why": "It concerns local property registration and government oversight.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Enhances administrative efficiency in local property registration."
+  },
+  "6f5d28351257": {
+   "relevant": false,
+   "headline": "Emaar wins award after launching numerous projects.",
+   "summary": "Emaar received a prominent award following a productive year of extensive home completions and new launches.",
+   "why": "This is an award announcement rather than actionable market news.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Corporate awards do not directly impact buyer decisions."
   }
  }
 }
