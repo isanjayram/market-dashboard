@@ -361,6 +361,78 @@
    "category": "Regulation & fees",
    "impact": "Low",
    "impact_reason": "Educational content does not alter existing rules or costs."
+  },
+  "826ea8569ab8": {
+   "relevant": true,
+   "headline": "Emirates Road traffic delays due to accident near airport",
+   "summary": "Dubai Police warned motorists of heavy traffic heading to Abu Dhabi after a crash on Emirates Road past Al Maktoum Airport.",
+   "why": "Traffic incidents impact daily commuting and accessibility across key city corridors.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Causes temporary travel delays for commuters."
+  },
+  "2b38431fcf13": {
+   "relevant": true,
+   "headline": "Emaar leads Dubai real estate developer sales in ten months",
+   "summary": "Emaar has secured the top position in sales among Dubai real estate developers over a ten-month period.",
+   "why": "It reflects developer performance and market leadership trends in Dubai.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Highlights developer dominance and market activity."
+  },
+  "d0b8ff0ab2b1": {
+   "relevant": false,
+   "headline": "Birdfy brings smart AI birdwatching to UAE homes",
+   "summary": "Birdfy launched its smart AI birdwatching cameras designed for UAE apartments and villas.",
+   "why": "This is a consumer tech product launch unrelated to property investment.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Consumer gadget launch with no real estate impact."
+  },
+  "8264ed9fddd7": {
+   "relevant": true,
+   "headline": "Burj Azizi skyscraper might face competition before opening",
+   "summary": "Dubai's upcoming Burj Azizi skyscraper could potentially be surpassed by another tower before its completion.",
+   "why": "Skyscraper competition shapes Dubai's evolving skyline and luxury project appeal.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Speculative tower news with minimal immediate impact."
+  },
+  "1c3fa2297fea": {
+   "relevant": true,
+   "headline": "RTA finishes road maintenance and rehabilitation works",
+   "summary": "The RTA has successfully completed maintenance and rehabilitation projects on major Dubai roadways.",
+   "why": "Road improvements enhance community connectivity and local infrastructure quality.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Routine road maintenance improves general connectivity."
+  },
+  "e8da15d53585": {
+   "relevant": true,
+   "headline": "Manage Ejari contracts easily using a single mobile application",
+   "summary": "Dubai tenants and landlords can now handle Ejari registrations, renewals, and cancellations through one app.",
+   "why": "Streamlined rental administration simplifies processes for landlords and tenants.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Enhances administrative convenience for rental contracts."
+  },
+  "b420ce3caa58": {
+   "relevant": false,
+   "headline": "Emaar wins Dubai-it Real Estate Award",
+   "summary": "Emaar has been awarded the Dubai-it Real Estate Award.",
+   "why": "Award wins are excluded per guidelines.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Corporate award announcement with no market impact."
+  },
+  "6575d8d45da4": {
+   "relevant": true,
+   "headline": "Wasl and Emirates NBD partner for off-plan financing",
+   "summary": "Wasl and Emirates NBD joined forces to make home financing smoother for off-plan property buyers.",
+   "why": "Easier mortgage processes directly impact buyer financing and purchasing power.",
+   "category": "Rates & mortgages",
+   "impact": "High",
+   "impact_reason": "Improves mortgage accessibility and financing for off-plan buyers."
   }
  }
 }

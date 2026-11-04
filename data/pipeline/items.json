@@ -1919,5 +1919,49 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"826ea8569ab8": {
+"id": "826ea8569ab8",
+"title": "Emirates Road traffic delays due to accident near airport",
+"link": "https://gulfnews.com/uae/emergencies/traffic-delays-reported-on-emirates-road-following-accident-near-al-maktoum-airport-1.500735340",
+"source": "Gulf News",
+"category": "Infrastructure",
+"published": "2026-11-04T10:54+04:00",
+"first_seen": "2026-11-04",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"1c3fa2297fea": {
+"id": "1c3fa2297fea",
+"title": "RTA finishes road maintenance and rehabilitation works",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQTZBdl9PdktHVXU5bnRHSXFIZG5vd091TWhLRC1VWHpfeERuYlZKUjYxS01zQWxrcGJ0VjhOOV9pYnZGeTNZc3E3NkkzRFVrWW13cklLVXZGLXBfY05EWXlQbXpneXVPajgyOEFhN1VEcUZxWHVkS2JiQ25lWHZPbkl6c3Y1SFhwUXBBQl9iT2hNd0FhamJUSVBpbjBuVUVBbXhkeHhJNDQ?oc=5",
+"source": "TradeArabia",
+"category": "Infrastructure",
+"published": "2026-11-03T18:47+04:00",
+"first_seen": "2026-11-04",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

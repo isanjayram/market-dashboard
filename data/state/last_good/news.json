@@ -1,6 +1,25 @@
 {
  "top": [
   {
+   "id": "6575d8d45da4",
+   "title": "Wasl and Emirates NBD partner to streamline home financing for off-plan buyers",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYktfdURLR2FZQl9kWFhHRXMwMkl5UnVoUTFvUldGNzBrLXVjZEJ6aV95Sm1kbUhBUncyX2lUT1VRYkkxMUJYdlVOaEFYVGJJa2pzSnJLc05jS010RjBIdy10Zk9JT0Jtbl9oT0ZWSXF0UVk4V29YZVEyRHNhcUpPRU1XMjh3TmZEZHM5ZjZB?oc=5",
+   "source": "Al-Bawaba",
+   "kind": "search",
+   "published": "2026-11-04T09:21+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Rates & mortgages",
+   "impact": "High",
+   "impact_reason": "Improves mortgage accessibility and financing for off-plan buyers.",
+   "watch": false,
+   "headline": "Wasl and Emirates NBD partner for off-plan financing",
+   "summary": "Wasl and Emirates NBD joined forces to make home financing smoother for off-plan property buyers.",
+   "why": "Easier mortgage processes directly impact buyer financing and purchasing power.",
+   "age_hours": 2.1,
+   "topic": "Rates & mortgages"
+  },
+  {
    "id": "ee41c4e5b4ef",
    "title": "Sharjah Executive Council discusses property registration efforts",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tWDFnb3lXWFFqOGRTdDNGOUpOejNoTjJQUGVERWxhc21iZHlaUFZlRHpyTVU5ZDh5emltV0JXR0FRUHpoTUw0eEZQOE93Ry16UTlKRGlIeFU4WThVMWc?oc=5",
@@ -16,8 +35,30 @@
    "headline": "Sharjah reviews property registration procedures.",
    "summary": "The Sharjah Executive Council held discussions regarding ongoing property registration initiatives and improvements.",
    "why": "It concerns local property registration and government oversight.",
-   "age_hours": 18.1,
+   "age_hours": 20.3,
    "topic": "sharjah"
+  },
+  {
+   "id": "826ea8569ab8",
+   "title": "Traffic delays reported on Emirates Road following accident near Al Maktoum Airport",
+   "link": "https://gulfnews.com/uae/emergencies/traffic-delays-reported-on-emirates-road-following-accident-near-al-maktoum-airport-1.500735340",
+   "source": "Gulf News",
+   "kind": "outlet",
+   "published": "2026-11-04T10:54+04:00",
+   "tags": [
+    "emergencies",
+    "Dubai"
+   ],
+   "teaser": "Dubai Police have issued a travel advisory for motorists traveling toward Abu Dhabi following a traffic accident on Emirates Road (E611). According to a alert published by Dubai Police on X, the incident occurred on the Abu Dhabi-bound carriageway of Emirates Road, past Al Maktoum International Airport. #Traffic_Update | #Accident has occurred on Emirates Road, heading towards the Emirate of Abu D",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Causes temporary travel delays for commuters.",
+   "watch": false,
+   "headline": "Emirates Road traffic delays due to accident near airport",
+   "summary": "Dubai Police warned motorists of heavy traffic heading to Abu Dhabi after a crash on Emirates Road past Al Maktoum Airport.",
+   "why": "Traffic incidents impact daily commuting and accessibility across key city corridors.",
+   "age_hours": 0.6,
+   "topic": "airport"
   },
   {
    "id": "ee1214910efc",
@@ -38,7 +79,7 @@
    "headline": "Emaar proposes buyout of remaining Emaar Development shares",
    "summary": "Emaar Properties launched a voluntary cash offer at Dh15 per share to take full control of Emaar Development. The move aims to acquire the remaining shares not currently owned.",
    "why": "Major corporate restructuring by the emirates largest developer affects shareholder value.",
-   "age_hours": 0.8,
+   "age_hours": 3.0,
    "topic": "emaar"
   },
   {
@@ -60,7 +101,7 @@
    "headline": "Dubai prices dip slightly as Abu Dhabi apartments surge",
    "summary": "Dubai property values dropped by 1% and rents decreased by 7% during the period. Meanwhile, apartment prices in Abu Dhabi recorded a 13% increase.",
    "why": "It highlights diverging price trends between the UAE's major property markets.",
-   "age_hours": 8.2,
+   "age_hours": 10.4,
    "topic": "abu dhabi"
   },
   {
@@ -79,50 +120,66 @@
    "headline": "October Dubai residential sales climb to AED 25.15 billion",
    "summary": "Dubai residential transactions grew by 12.4% in October, driven by strong momentum in the secondary market. Total sales value reached AED 25.15 billion for the month.",
    "why": "It shows robust transaction growth and rising activity within the secondary property sector.",
-   "age_hours": 16.8,
+   "age_hours": 19.0,
    "topic": "Supply & market reports",
-   "more": 3
+   "more": 2
   },
   {
-   "id": "f4d44fc51250",
-   "title": "Brookfield, Lunate Set Up New Gulf Property Development Firm",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNlhrcEI4VUp0aFJKZkcxUUJLLVRQRkI5V3ZtbXlxNDI4ejlhdDhmbmliZENYdHNrNS13V0lkaXA1T2F4UnhlQkk2TEJHTXpJRTFfVk1EdUptY05ibDRmM2c1Qmx4aWVOZVM3SlMydWZSZUE4M0U3TEVtY3RhaHlPbW1Pay1pa05lODIwODJqNFM1U1lFY2pQazNqWlYxVnFXaERTb0ZaQ3R2NlpPbVVv?oc=5",
-   "source": "Bloomberg.com",
+   "id": "2b38431fcf13",
+   "title": "In 10 months.. Emaar tops Dubai real estate developers sales list",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTUhQNGR6V2tsQW0zLTJHRGtfWW82c2JhZnhvNGdIdTNsTzlidmx2alJVdVh6M3pyTnd1NzN6a0RJRjhFdHZpS3RZWGlQb0c4SzhReXBMWk15cjYwSWdiSF9TdG4yeEhDRC11b3lHWUpMam84azRmSnN1dUpSS3NscXNWNzZrYTZQWWtvNWxocU1VOEZzeFdVVGctaklqdjBZTnNhdnBsRWlRTC1WWXFzMzlKUDhpa205dDZQRU05SXZYbWptaUszTXdBTGpScVNPa1E?oc=5",
+   "source": "\u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
    "kind": "search",
-   "published": "2026-11-03T11:10+04:00",
+   "published": "2026-11-04T10:12+04:00",
    "tags": [],
    "teaser": "",
    "category": "Developer news",
    "impact": "Medium",
-   "impact_reason": "New regional developer increases major project supply.",
+   "impact_reason": "Highlights developer dominance and market activity.",
    "watch": false,
-   "also": [
-    "Bloomberg.com"
-   ],
-   "headline": "Brookfield and Lunate Launch New Gulf Real Estate Firm",
-   "summary": "Major asset managers Brookfield and Lunate have established a new property development company targeting the Gulf region.",
-   "why": "New institutional backing will influence future regional project pipelines and market supply.",
-   "age_hours": 22.2,
+   "headline": "Emaar leads Dubai real estate developer sales in ten months",
+   "summary": "Emaar has secured the top position in sales among Dubai real estate developers over a ten-month period.",
+   "why": "It reflects developer performance and market leadership trends in Dubai.",
+   "age_hours": 1.3,
+   "topic": "emaar"
+  },
+  {
+   "id": "8264ed9fddd7",
+   "title": "Burj Azizi: Dubai\u2019s next skyscraper giant could be overtaken before it opens",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORFlkb2R0V2RjNmpWM1l4T3ZJZ1VMUTFUZ21ZRkNaQ2ZSOVpaQ3RGMExjNFNZeDItRWVrMW9meE1FczdoTEtjeXdUbmtDMTRiY05FNllOSFdmNEZ6Qy1LNnVWQVJfLXFhMjNEckVWZEVCTVFwU0Myc3FES3B1NXlQSFk0OFJmQ2c?oc=5",
+   "source": "Arabian Business",
+   "kind": "search",
+   "published": "2026-11-04T10:15+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Speculative tower news with minimal immediate impact.",
+   "watch": false,
+   "headline": "Burj Azizi skyscraper might face competition before opening",
+   "summary": "Dubai's upcoming Burj Azizi skyscraper could potentially be surpassed by another tower before its completion.",
+   "why": "Skyscraper competition shapes Dubai's evolving skyline and luxury project appeal.",
+   "age_hours": 1.2,
    "topic": "Developer news"
   },
   {
-   "id": "ea35e15ca4f2",
-   "title": "UAE Business: Strong office demand, tight supply continue to drive UAE real estate markets",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCaDUxanFOdDcxTmwwSGJiOU9fZHN4QzZweTNPa00xdHM3NUhJT0FBaVhVd29VYlg3cHR2QXYtSjcyR1lPMWN4TkRINXdXZVpxbmlN?oc=5",
-   "source": "Gulf Daily News (Bahrain)",
+   "id": "1c3fa2297fea",
+   "title": "RTA completes maintenance, rehabilitation works on key Dubai roads",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQTZBdl9PdktHVXU5bnRHSXFIZG5vd091TWhLRC1VWHpfeERuYlZKUjYxS01zQWxrcGJ0VjhOOV9pYnZGeTNZc3E3NkkzRFVrWW13cklLVXZGLXBfY05EWXlQbXpneXVPajgyOEFhN1VEcUZxWHVkS2JiQ25lWHZPbkl6c3Y1SFhwUXBBQl9iT2hNd0FhamJUSVBpbjBuVUVBbXhkeHhJNDQ?oc=5",
+   "source": "TradeArabia",
    "kind": "search",
-   "published": "2026-11-04T02:25+04:00",
+   "published": "2026-11-03T18:47+04:00",
    "tags": [],
    "teaser": "",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Highlights tight commercial supply and strong demand.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Routine road maintenance improves general connectivity.",
    "watch": false,
-   "headline": "Strong office demand and tight supply drive UAE markets",
-   "summary": "Commercial real estate across the UAE continues to experience high demand for office space alongside constrained inventory. This dynamic is actively pushing the market forward.",
-   "why": "Commercial sector performance impacts overall commercial real estate valuations and leasing terms.",
-   "age_hours": 6.9,
-   "topic": "Supply & market reports"
+   "headline": "RTA finishes road maintenance and rehabilitation works",
+   "summary": "The RTA has successfully completed maintenance and rehabilitation projects on major Dubai roadways.",
+   "why": "Road improvements enhance community connectivity and local infrastructure quality.",
+   "age_hours": 16.7,
+   "topic": "Infrastructure"
   },
   {
    "id": "7a1f5ecdd793",
@@ -143,36 +200,17 @@
    "headline": "Dubai integrates Ejari and DEWA into single service",
    "summary": "Dubai simplifies the renting process by combining tenancy contracts and utility payments under one unified Ejari platform.",
    "why": "Streamlining rental and utility procedures improves the tenant experience in Dubai.",
-   "age_hours": 20.4,
+   "age_hours": 22.6,
    "topic": "ejari"
-  },
-  {
-   "id": "d4f17e71c2b5",
-   "title": "Escrow Accounts and Off-Plan Property in Dubai: Where the Money Goes",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa043WE81VFNXQUhQNV9ud1BUN280MW1YQnJDVk1xNmNqaEJTMVM3dTl6VWFKenFOa1Y4YzB6ZzhtNU1DUTNKa2FHTTgwbDNKTDBKUFg3dVB5WExoRXZQN1lNbGtFVUhITVA0YmZnbWFrUUxXVE9tWUhJRHB1UFBvWDJFUzRkN3hsaUoyVVd3?oc=5",
-   "source": "Dubai Sotheby\u2019s International Realty",
-   "kind": "search",
-   "published": "2026-11-03T12:43+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Educational content does not alter existing rules or costs.",
-   "watch": false,
-   "headline": "Understanding Dubai Escrow Accounts for Off-Plan Buyers",
-   "summary": "Dubai Sotheby's International Realty explains how funds are handled in off-plan property escrow accounts. The guide details where buyer investments are allocated during construction.",
-   "why": "Educates buyers on payment security and financial regulations for off-plan properties.",
-   "age_hours": 20.6,
-   "topic": "Regulation & fees"
   }
  ],
  "window_hours": 24,
- "count_relevant": 16,
- "count_fetched": 301,
+ "count_relevant": 20,
+ "count_fetched": 363,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-04T09:19+04:00",
- "saved_at": "2026-11-04T09:19+04:00"
+ "as_of": "2026-11-04T11:29+04:00",
+ "saved_at": "2026-11-04T11:29+04:00"
 }
