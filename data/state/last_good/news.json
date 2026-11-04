@@ -1,25 +1,6 @@
 {
  "top": [
   {
-   "id": "6575d8d45da4",
-   "title": "Wasl and Emirates NBD partner to streamline home financing for off-plan buyers",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYktfdURLR2FZQl9kWFhHRXMwMkl5UnVoUTFvUldGNzBrLXVjZEJ6aV95Sm1kbUhBUncyX2lUT1VRYkkxMUJYdlVOaEFYVGJJa2pzSnJLc05jS010RjBIdy10Zk9JT0Jtbl9oT0ZWSXF0UVk4V29YZVEyRHNhcUpPRU1XMjh3TmZEZHM5ZjZB?oc=5",
-   "source": "Al-Bawaba",
-   "kind": "search",
-   "published": "2026-11-04T09:21+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Rates & mortgages",
-   "impact": "High",
-   "impact_reason": "Improves mortgage accessibility and financing for off-plan buyers.",
-   "watch": false,
-   "headline": "Wasl and Emirates NBD partner for off-plan financing",
-   "summary": "Wasl and Emirates NBD joined forces to make home financing smoother for off-plan property buyers.",
-   "why": "Easier mortgage processes directly impact buyer financing and purchasing power.",
-   "age_hours": 6.2,
-   "topic": "Rates & mortgages"
-  },
-  {
    "id": "bb31161f0bb7",
    "title": "Dubai residential real estate transactions rise 12.4 percent to $6.85 billion in October as off-plan continues to lead",
    "link": "https://economymiddleeast.com/news/dubai-residential-real-estate-transactions-rise-12-4-percent-to-6-85-billion-in-october-as-off-plan-continues-to-lead/?utm_source=rss&utm_medium=rss&utm_campaign=dubai-residential-real-estate-transactions-rise-12-4-percent-to-6-85-billion-in-october-as-off-plan-continues-to-lead",
@@ -35,7 +16,7 @@
    "headline": "Dubai residential sales jump 12.4% in October to $6.85 billion",
    "summary": "Dubai saw 10,178 residential transactions totaling AED25.15 billion in October, driven largely by off-plan sales. Total property sales reached AED32.64 billion when including commercial real estate.",
    "why": "It provides a clear monthly update on sales volume and values.",
-   "age_hours": 1.2,
+   "age_hours": 1.8,
    "topic": "Supply & market reports",
    "more": 3
   },
@@ -55,8 +36,27 @@
    "headline": "Dubai property transactions hit AED 141 billion in Q3 2026",
    "summary": "Dubai real estate recorded AED 141 billion in transactions during the third quarter of 2026. This period was marked by rising liquidity and higher rental yields.",
    "why": "It tracks quarterly sector performance and liquidity trends.",
-   "age_hours": 3.3,
+   "age_hours": 4.0,
    "topic": "Supply & market reports"
+  },
+  {
+   "id": "83fc1cae77ae",
+   "title": "Property Finder reveals 12 Dubai communities with average one-bedroom rents of AED70k or less",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQd3hYVzJsVDVKXzQ0ZkpZOC1kd043NmYyTEZOSEk5OTlBSVJ2LUxFcXVGWENNRVVfUmRlbC0zSHJ4UC1wN2NlODRJMnFUTkloUE1aZmJvSldKYlU0Qk5ER2pIekRhWHNSd3V6clFDM2EyOERORHlRcUZ6a21QX1dYNVJfUTZFVjFIck5NUGotcEpUOVVDUzA4eEp1SW1jZUlqbkg0a1J4X3ppRThob1RvTV80WUtQUXBqYUVCQnN0cTU0Qm12TmhnN056elhfMDltUmwyY2xQUDU?oc=5",
+   "source": "Construction Week Online",
+   "kind": "search",
+   "published": "2026-11-04T10:30+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Helpful rental market data for tenants.",
+   "watch": false,
+   "headline": "Property Finder lists Dubai communities with affordable rents",
+   "summary": "Property Finder has highlighted 12 Dubai communities offering average one-bedroom annual rents of AED 70,000 or below.",
+   "why": "It provides valuable data on affordable rental options across the emirate.",
+   "age_hours": 5.7,
+   "topic": "rents"
   },
   {
    "id": "ee1214910efc",
@@ -78,9 +78,9 @@
    "headline": "Emaar proposes buyout of remaining Emaar Development shares",
    "summary": "Emaar Properties launched a voluntary cash offer at Dh15 per share to take full control of Emaar Development. The move aims to acquire the remaining shares not currently owned.",
    "why": "Major corporate restructuring by the emirates largest developer affects shareholder value.",
-   "age_hours": 7.1,
+   "age_hours": 7.7,
    "topic": "emaar",
-   "more": 4
+   "more": 5
   },
   {
    "id": "5349d014cf6b",
@@ -101,8 +101,30 @@
    "headline": "Dubai prices dip slightly as Abu Dhabi apartments surge",
    "summary": "Dubai property values dropped by 1% and rents decreased by 7% during the period. Meanwhile, apartment prices in Abu Dhabi recorded a 13% increase.",
    "why": "It highlights diverging price trends between the UAE's major property markets.",
-   "age_hours": 14.5,
+   "age_hours": 15.1,
    "topic": "abu dhabi"
+  },
+  {
+   "id": "5c6850f16cfb",
+   "title": "UAE domestic stocks jump, led by real estate and banks",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT2k5amVJM0V4ajh5aDhjTHdVc2lLS1E3Mlc0SEY3NHZJdzRjZVRRNmE1YXVrRWE4MWxndC1xM2k3YjYtQ0JZZE5XeW9MVF9ySVdoYU1kTVFsNmxybjFSc1RsRHVtekd5ZjZ5aVFBT3VrV2VvbW1ueFQ3dkNYdjFYbVRzNHA2dHZ1VWJVOHJKbmZkUEtZMkExZ1BQWEFJYVA3MWFNc1FMU3lZVEZ3RU5LRDhzWUFzalRDN3doYTBpQQ?oc=5",
+   "source": "\u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+   "kind": "search",
+   "published": "2026-11-04T13:24+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Shows positive investor sentiment in real estate stocks.",
+   "watch": false,
+   "also": [
+    "\u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a"
+   ],
+   "headline": "UAE domestic stocks rise driven by real estate",
+   "summary": "Local UAE stock markets experienced gains, with the real estate and banking sectors leading the upward momentum.",
+   "why": "It reflects investor confidence in the local property sector.",
+   "age_hours": 2.8,
+   "topic": "Macro & geopolitics"
   },
   {
    "id": "5b1ce5b90302",
@@ -120,8 +142,52 @@
    "headline": "Emaar plans to buy remaining shares of property arm",
    "summary": "Emaar is moving to acquire the rest of its property division following a post-war market slump.",
    "why": "Major developer restructuring affects market sentiment.",
-   "age_hours": 3.8,
+   "age_hours": 4.4,
    "topic": "emaar"
+  },
+  {
+   "id": "c3facf8243cb",
+   "title": "Dubai tenant faces eviction over Dh2.4m unpaid commercial rent",
+   "link": "https://gulfnews.com/uae/dubai/dubai-tenant-faces-eviction-over-dh24m-unpaid-commercial-rent-1.500735727",
+   "source": "Gulf News",
+   "kind": "outlet",
+   "published": "2026-11-04T15:32+04:00",
+   "tags": [
+    "Dubai",
+    "Crime"
+   ],
+   "teaser": "A Dubai tenant has been ordered to vacate a commercial property in Business Bay after failing to pay Dh2.415 million in rent, with a court committee ruling that a subsequent attempt to settle the outstanding amount came too late to prevent eviction. The First Instance Committee at Dubai\u2019s Rental Disputes Settlement Centre ordered the tenant to hand over the property vacant and free of occupants an",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Single legal case regarding unpaid rent.",
+   "watch": true,
+   "also": [
+    "Gulf News"
+   ],
+   "headline": "Business Bay tenant ordered to vacate over unpaid rent",
+   "summary": "A Business Bay commercial tenant must vacate after failing to pay over Dh2.4 million in rent. The rental committee rejected a late settlement attempt.",
+   "why": "It highlights strict rental enforcement and legal outcomes for commercial defaults.",
+   "age_hours": 0.7,
+   "topic": "rent"
+  },
+  {
+   "id": "e5620405a7cf",
+   "title": "Dubai tenant who never paid rent evicted after amassing Dh2 million in dues",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONTFZMlRfNFlfTXdVMnBMS2NyWEFDY2xhbXJ0ZWF1VDFVVkRicnZpOTg2d0hqNWpNcWlKWWg4RDk3Q25CbVpfTzVnNGtHWFo3Mm9wYkJnb0JBcmQtTk9JSE5UTmNiaGVLak5rOGotbU5rN01HajhmNWt0RzNEcXhkSVg2QlRhWnZVV2hjZWdFZjc3QWI0bzVRNVZvbE5Ma2FVQk9nVVMtX1pvNEFYRjZRWlVwOThmSWFXaXVCcUtNUWdJYWhrMXRmRA?oc=5",
+   "source": "Khaleej Times",
+   "kind": "search",
+   "published": "2026-11-04T15:07+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Enforcement of rental default rules.",
+   "watch": false,
+   "headline": "Dubai tenant evicted after accumulating Dh2 million in arrears",
+   "summary": "A Dubai tenant facing massive unpaid rent arrears has been successfully evicted from the property.",
+   "why": "It demonstrates the enforcement of rental laws and protection for landlords.",
+   "age_hours": 1.1,
+   "topic": "rent"
   },
   {
    "id": "64ee1f234b07",
@@ -139,36 +205,17 @@
    "headline": "Areas in Dubai offering one-bedroom rents below AED 46,000",
    "summary": "A report highlights specific Dubai neighborhoods where annual one-bedroom rents drop under AED 46,000.",
    "why": "Rental price distribution helps tenants and investors track affordable zones.",
-   "age_hours": 2.4,
+   "age_hours": 3.0,
    "topic": "rents"
-  },
-  {
-   "id": "8264ed9fddd7",
-   "title": "Burj Azizi: Dubai\u2019s next skyscraper giant could be overtaken before it opens",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORFlkb2R0V2RjNmpWM1l4T3ZJZ1VMUTFUZ21ZRkNaQ2ZSOVpaQ3RGMExjNFNZeDItRWVrMW9meE1FczdoTEtjeXdUbmtDMTRiY05FNllOSFdmNEZ6Qy1LNnVWQVJfLXFhMjNEckVWZEVCTVFwU0Myc3FES3B1NXlQSFk0OFJmQ2c?oc=5",
-   "source": "Arabian Business",
-   "kind": "search",
-   "published": "2026-11-04T10:15+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Speculative tower news with minimal immediate impact.",
-   "watch": false,
-   "headline": "Burj Azizi skyscraper might face competition before opening",
-   "summary": "Dubai's upcoming Burj Azizi skyscraper could potentially be surpassed by another tower before its completion.",
-   "why": "Skyscraper competition shapes Dubai's evolving skyline and luxury project appeal.",
-   "age_hours": 5.3,
-   "topic": "Developer news"
   }
  ],
  "window_hours": 24,
- "count_relevant": 23,
- "count_fetched": 318,
+ "count_relevant": 28,
+ "count_fetched": 344,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-04T15:34+04:00",
- "saved_at": "2026-11-04T15:35+04:00"
+ "as_of": "2026-11-04T16:14+04:00",
+ "saved_at": "2026-11-04T16:14+04:00"
 }

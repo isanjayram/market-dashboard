@@ -505,6 +505,60 @@
    "category": "Developer news",
    "impact": "Low",
    "impact_reason": "Details corporate consolidation by a leading developer."
+  },
+  "3fb93f34db8b": {
+   "relevant": false,
+   "headline": "Asset Homez awarded by Alef Group",
+   "summary": "Asset Homez received a top-performing broker recognition from Alef Group.",
+   "why": "This is an industry award piece with no direct market news value.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Industry award with no market impact."
+  },
+  "c3facf8243cb": {
+   "relevant": true,
+   "headline": "Business Bay tenant ordered to vacate over unpaid rent",
+   "summary": "A Business Bay commercial tenant must vacate after failing to pay over Dh2.4 million in rent. The rental committee rejected a late settlement attempt.",
+   "why": "It highlights strict rental enforcement and legal outcomes for commercial defaults.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Single legal case regarding unpaid rent."
+  },
+  "4e8b37f0b050": {
+   "relevant": false,
+   "headline": "Expat acquitted in villa rental fraud case",
+   "summary": "An Indian expat was acquitted of villa rental fraud charges following an initial prison and deportation sentence.",
+   "why": "This is a court case report rather than broader market news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Individual court case ruling."
+  },
+  "e5620405a7cf": {
+   "relevant": true,
+   "headline": "Dubai tenant evicted after accumulating Dh2 million in arrears",
+   "summary": "A Dubai tenant facing massive unpaid rent arrears has been successfully evicted from the property.",
+   "why": "It demonstrates the enforcement of rental laws and protection for landlords.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Enforcement of rental default rules."
+  },
+  "83fc1cae77ae": {
+   "relevant": true,
+   "headline": "Property Finder lists Dubai communities with affordable rents",
+   "summary": "Property Finder has highlighted 12 Dubai communities offering average one-bedroom annual rents of AED 70,000 or below.",
+   "why": "It provides valuable data on affordable rental options across the emirate.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Helpful rental market data for tenants."
+  },
+  "5c6850f16cfb": {
+   "relevant": true,
+   "headline": "UAE domestic stocks rise driven by real estate",
+   "summary": "Local UAE stock markets experienced gains, with the real estate and banking sectors leading the upward momentum.",
+   "why": "It reflects investor confidence in the local property sector.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Shows positive investor sentiment in real estate stocks."
   }
  }
 }

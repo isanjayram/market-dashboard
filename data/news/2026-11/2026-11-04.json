@@ -494,5 +494,98 @@
 "impact_reason": "General market context",
 "watch": false,
 "topic": "emaar"
+},
+{
+"id": "83fc1cae77ae",
+"headline": "Property Finder lists Dubai communities with affordable rents",
+"summary": "Property Finder has highlighted 12 Dubai communities offering average one-bedroom annual rents of AED 70,000 or below.",
+"why": "It provides valuable data on affordable rental options across the emirate.",
+"source": "Construction Week Online",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQd3hYVzJsVDVKXzQ0ZkpZOC1kd043NmYyTEZOSEk5OTlBSVJ2LUxFcXVGWENNRVVfUmRlbC0zSHJ4UC1wN2NlODRJMnFUTkloUE1aZmJvSldKYlU0Qk5ER2pIekRhWHNSd3V6clFDM2EyOERORHlRcUZ6a21QX1dYNVJfUTZFVjFIck5NUGotcEpUOVVDUzA4eEp1SW1jZUlqbkg0a1J4X3ppRThob1RvTV80WUtQUXBqYUVCQnN0cTU0Qm12TmhnN056elhfMDltUmwyY2xQUDU?oc=5",
+"published": "2026-11-04T10:30+04:00",
+"category": "Supply & market reports",
+"impact": "Medium",
+"impact_reason": "Helpful rental market data for tenants.",
+"watch": false,
+"topic": "rents"
+},
+{
+"id": "5c6850f16cfb",
+"headline": "UAE domestic stocks rise driven by real estate",
+"summary": "Local UAE stock markets experienced gains, with the real estate and banking sectors leading the upward momentum.",
+"why": "It reflects investor confidence in the local property sector.",
+"source": "صوت الإمارات",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT2k5amVJM0V4ajh5aDhjTHdVc2lLS1E3Mlc0SEY3NHZJdzRjZVRRNmE1YXVrRWE4MWxndC1xM2k3YjYtQ0JZZE5XeW9MVF9ySVdoYU1kTVFsNmxybjFSc1RsRHVtekd5ZjZ5aVFBT3VrV2VvbW1ueFQ3dkNYdjFYbVRzNHA2dHZ1VWJVOHJKbmZkUEtZMkExZ1BQWEFJYVA3MWFNc1FMU3lZVEZ3RU5LRDhzWUFzalRDN3doYTBpQQ?oc=5",
+"published": "2026-11-04T13:24+04:00",
+"category": "Macro & geopolitics",
+"impact": "Medium",
+"impact_reason": "Shows positive investor sentiment in real estate stocks.",
+"watch": false,
+"also": [
+"صوت الإمارات"
+],
+"topic": "Macro & geopolitics"
+},
+{
+"id": "c3facf8243cb",
+"headline": "Business Bay tenant ordered to vacate over unpaid rent",
+"summary": "A Business Bay commercial tenant must vacate after failing to pay over Dh2.4 million in rent. The rental committee rejected a late settlement attempt.",
+"why": "It highlights strict rental enforcement and legal outcomes for commercial defaults.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/uae/dubai/dubai-tenant-faces-eviction-over-dh24m-unpaid-commercial-rent-1.500735727",
+"published": "2026-11-04T15:32+04:00",
+"category": "Regulation & fees",
+"impact": "Low",
+"impact_reason": "Single legal case regarding unpaid rent.",
+"watch": true,
+"also": [
+"Gulf News"
+],
+"topic": "rent"
+},
+{
+"id": "e5620405a7cf",
+"headline": "Dubai tenant evicted after accumulating Dh2 million in arrears",
+"summary": "A Dubai tenant facing massive unpaid rent arrears has been successfully evicted from the property.",
+"why": "It demonstrates the enforcement of rental laws and protection for landlords.",
+"source": "Khaleej Times",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONTFZMlRfNFlfTXdVMnBMS2NyWEFDY2xhbXJ0ZWF1VDFVVkRicnZpOTg2d0hqNWpNcWlKWWg4RDk3Q25CbVpfTzVnNGtHWFo3Mm9wYkJnb0JBcmQtTk9JSE5UTmNiaGVLak5rOGotbU5rN01HajhmNWt0RzNEcXhkSVg2QlRhWnZVV2hjZWdFZjc3QWI0bzVRNVZvbE5Ma2FVQk9nVVMtX1pvNEFYRjZRWlVwOThmSWFXaXVCcUtNUWdJYWhrMXRmRA?oc=5",
+"published": "2026-11-04T15:07+04:00",
+"category": "Regulation & fees",
+"impact": "Low",
+"impact_reason": "Enforcement of rental default rules.",
+"watch": false,
+"topic": "rent"
+},
+{
+"id": "b420ce3caa58",
+"headline": "Emaar wins Dubai-it Real Estate Award",
+"summary": "",
+"why": "new launches or results change the options and prices you can offer clients.",
+"source": "www.travelsdubai.com",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV0MxSW5pSF9lWDEtMjFwREU2REp4RTExQUREZURRZDF2TTBSWnY1R1BQN3RLM1gyamxFZ0pHYm1OTjV6MUdEUWtDTkNnal9McHBSeXZ1MTVqTXRqWUZtMnJTNmJyeEJWbVRGd0dmRnBMZ1ljUkVLR3pYUUVDb0Y5dWN0NVk?oc=5",
+"published": "2026-11-04T11:16+04:00",
+"category": "Developer news",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": false,
+"topic": "emaar"
+},
+{
+"id": "5e42d2a69f9e",
+"headline": "Property Snagging in Dubai & Abu Dhabi: A Complete Guide for Buyers",
+"summary": "",
+"why": "can move investor sentiment; expect questions about where the market is heading.",
+"source": "Gulf Today",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN3REUWdKaEZ2VWg4Y3R4SjA2dzNIVUJiNHFlak1Ccm9zYWZyUGZvbDVIaXhNZmhEN0VGWEZBVXZjcnpHQnNGeXlpQi00ek5YVV9uSkRXZ21wMndPU1dYLUlyS0ZqUGppZ01HbnlHNHJ5VEdRZUpHWlBkU0VWdXdjX2oxMDdTbFJ4eGVRR0pnUGRpSXhSRWdodjN1Zl9ad0d6NmFWSFdHLUpfWF9iRkE?oc=5",
+"published": "2026-11-03T22:16+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": false,
+"also": [
+"Gulf Today"
+],
+"topic": "abu dhabi"
 }
 ]
