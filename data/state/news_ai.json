@@ -433,6 +433,78 @@
    "category": "Rates & mortgages",
    "impact": "High",
    "impact_reason": "Improves mortgage accessibility and financing for off-plan buyers."
+  },
+  "bb31161f0bb7": {
+   "relevant": true,
+   "headline": "Dubai residential sales jump 12.4% in October to $6.85 billion",
+   "summary": "Dubai saw 10,178 residential transactions totaling AED25.15 billion in October, driven largely by off-plan sales. Total property sales reached AED32.64 billion when including commercial real estate.",
+   "why": "It provides a clear monthly update on sales volume and values.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Highlights monthly market performance and off-plan sales momentum."
+  },
+  "0f8b6a3ef1c7": {
+   "relevant": true,
+   "headline": "Dubai property transactions hit AED 141 billion in Q3 2026",
+   "summary": "Dubai real estate recorded AED 141 billion in transactions during the third quarter of 2026. This period was marked by rising liquidity and higher rental yields.",
+   "why": "It tracks quarterly sector performance and liquidity trends.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects overall quarterly market liquidity and yield strength."
+  },
+  "5b1ce5b90302": {
+   "relevant": true,
+   "headline": "Emaar plans to buy remaining shares of property arm",
+   "summary": "Emaar is moving to acquire the rest of its property division following a post-war market slump.",
+   "why": "Major developer restructuring affects market sentiment.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Major corporate consolidation by a leading developer."
+  },
+  "64ee1f234b07": {
+   "relevant": true,
+   "headline": "Areas in Dubai offering one-bedroom rents below AED 46,000",
+   "summary": "A report highlights specific Dubai neighborhoods where annual one-bedroom rents drop under AED 46,000.",
+   "why": "Rental price distribution helps tenants and investors track affordable zones.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Provides specific rental pricing data for affordable areas."
+  },
+  "f531c9507452": {
+   "relevant": true,
+   "headline": "New Ejari service combines tenancy and DEWA utility payments",
+   "summary": "Dubai has launched an updated Ejari service that integrates tenancy registration and DEWA utility payments into a single platform.",
+   "why": "Streamlines leasing administration procedures for landlords and tenants.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Improves administrative efficiency for rental registrations."
+  },
+  "52ec46d8e9ea": {
+   "relevant": true,
+   "headline": "Emaar Properties plans development arm buyout as market cools",
+   "summary": "Emaar Properties is pursuing a full buyout of its development subsidiary as the local property market cools down.",
+   "why": "Corporate restructuring by a major developer impacts industry outlook.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Reflects corporate strategy adjustments during market cycles."
+  },
+  "bdc76b2ba0af": {
+   "relevant": true,
+   "headline": "Emaar offers $16.3 billion to buy out construction arm",
+   "summary": "Property developer Emaar has proposed a buyout of its construction arm valuing the unit at $16.3 billion.",
+   "why": "Major financial transaction involving a key market player.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Involves corporate valuation and restructuring of a major builder."
+  },
+  "09e77a68dd24": {
+   "relevant": true,
+   "headline": "Emaar announces plans for full takeover of property unit",
+   "summary": "Emaar has announced its intention to fully take over its Dubai-listed property subsidiary.",
+   "why": "Consolidation of a major developer affects market structure.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Details corporate consolidation by a leading developer."
   }
  }
 }
