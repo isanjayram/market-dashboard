@@ -1897,5 +1897,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"f4d44fc51250": {
+"id": "f4d44fc51250",
+"title": "Brookfield and Lunate Launch New Gulf Real Estate Firm",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNlhrcEI4VUp0aFJKZkcxUUJLLVRQRkI5V3ZtbXlxNDI4ejlhdDhmbmliZENYdHNrNS13V0lkaXA1T2F4UnhlQkk2TEJHTXpJRTFfVk1EdUptY05ibDRmM2c1Qmx4aWVOZVM3SlMydWZSZUE4M0U3TEVtY3RhaHlPbW1Pay1pa05lODIwODJqNFM1U1lFY2pQazNqWlYxVnFXaERTb0ZaQ3R2NlpPbVVv?oc=5",
+"source": "Bloomberg.com",
+"category": "Developer news",
+"published": "2026-11-03T11:10+04:00",
+"first_seen": "2026-11-04",
+"kind": "Off-plan launch",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
