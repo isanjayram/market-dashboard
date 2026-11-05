@@ -66,16 +66,16 @@
     "value": 418235663.0
    },
    {
-    "area": "Majan",
-    "dld_area": "Wadi Al Safa 3",
-    "deals": 115,
-    "value": 274846245.0
-   },
-   {
     "area": "Palm Deira",
     "dld_area": "Palm Deira",
     "deals": 115,
     "value": 700513052.0
+   },
+   {
+    "area": "Majan",
+    "dld_area": "Wadi Al Safa 3",
+    "deals": 115,
+    "value": 274846245.0
    },
    {
     "area": "Dubai Land Residence",
@@ -1590,5 +1590,5 @@
   "fetched_at": "2026-11-05T15:02+04:00",
   "test": false
  },
- "saved_at": "2026-11-05T15:02+04:00"
+ "saved_at": "2026-11-05T15:29+04:00"
 }

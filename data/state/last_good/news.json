@@ -16,7 +16,7 @@
    "headline": "Top University Graduates Qualify for UAE Golden Visa",
    "summary": "Alumni from the world's leading 100 universities are now eligible for a 10-year residency in the UAE. This pathway encourages top global talent to settle long-term.",
    "why": "It attracts skilled professionals who may become long-term property investors.",
-   "age_hours": 2.2,
+   "age_hours": 2.7,
    "topic": "golden visa"
   },
   {
@@ -37,7 +37,7 @@
    "headline": "Geopolitical Tensions Rise as Brent Oil Drops to $93",
    "summary": "Regional security developments involve reported tanker incidents near Qatar amid international mediation efforts. Meanwhile, global Brent oil prices have declined to $93.",
    "why": "Macroeconomic shifts and regional security can influence investor sentiment and market stability.",
-   "age_hours": 7.3,
+   "age_hours": 7.8,
    "topic": "oil"
   },
   {
@@ -59,7 +59,7 @@
    "headline": "Foreign University Graduates Eligible for UAE Golden Visa",
    "summary": "Graduates from international universities can secure a 10-year UAE residency. The initiative welcomes skilled global talent into the country.",
    "why": "It opens new residency options for international professionals looking to relocate.",
-   "age_hours": 9.0,
+   "age_hours": 9.5,
    "topic": "golden visa"
   },
   {
@@ -78,7 +78,7 @@
    "headline": "Dubai South Housing Demand Surges Past Previous Records",
    "summary": "Studio apartments are leading a massive housing boom in Dubai South. Rental prices have more than doubled as sales surpassed annual records in just eight months.",
    "why": "It highlights rapid growth and high rental yields in a key emerging district.",
-   "age_hours": 3.5,
+   "age_hours": 4.0,
    "topic": "rents"
   },
   {
@@ -97,7 +97,7 @@
    "headline": "Abu Dhabi Property Sales Surge 30 Percent in October",
    "summary": "Property transactions in Abu Dhabi reached AED 13 billion during October. Buyer demand remains notably robust across the capital.",
    "why": "It signals strong market momentum and high investor confidence in Abu Dhabi.",
-   "age_hours": 1.8,
+   "age_hours": 2.3,
    "topic": "abu dhabi",
    "more": 2
   },
@@ -117,7 +117,7 @@
    "headline": "Abu Dhabi Residential Sales Reach AED 12.97 Billion in October",
    "summary": "Residential unit sales in Abu Dhabi increased by over 30 percent in October 2026. Total transactional value neared the 13 billion dirham mark.",
    "why": "It provides concrete data on capital market performance and liquidity.",
-   "age_hours": 2.1,
+   "age_hours": 2.6,
    "topic": "abu dhabi"
   },
   {
@@ -136,9 +136,8 @@
    "headline": "Dubai Introduces New Rent Now Pay Later Option for Tenants",
    "summary": "Dubai has introduced a fresh financing service allowing tenants to defer rent payments. This initiative aims to ease rental payment burdens across the emirate.",
    "why": "Flexible payment schemes directly impact tenant cash flow and rental affordability.",
-   "age_hours": 3.1,
-   "topic": "rent",
-   "more": 1
+   "age_hours": 3.6,
+   "topic": "rent"
   },
   {
    "id": "a2860b642588",
@@ -156,7 +155,7 @@
    "headline": "Brent Oil Slides to 94 Dollars Amid Political Shifts",
    "summary": "Global oil benchmarks dropped to near two-month lows following political updates in the US and geopolitical uncertainty surrounding Iran. Market sentiment reacted quickly to the changing political landscape.",
    "why": "Oil price movements influence overall economic sentiment and liquidity in the region.",
-   "age_hours": 18.0,
+   "age_hours": 18.5,
    "topic": "oil"
   },
   {
@@ -175,7 +174,7 @@
    "headline": "Understanding Dubai Escrow Accounts for Off-Plan Buyers",
    "summary": "Dubai's escrow system ensures that funds paid by purchasers for off-plan properties remain legally protected. This regulatory framework safeguards buyer investments throughout construction.",
    "why": "It reassures buyers regarding the safety of their investments in uncompleted projects.",
-   "age_hours": 7.3,
+   "age_hours": 7.7,
    "topic": "Regulation & fees"
   },
   {
@@ -194,17 +193,17 @@
    "headline": "Dubai Tenant Faces Eviction Over Unpaid Commercial Rent",
    "summary": "A commercial tenant in Dubai is facing eviction due to unpaid rent totaling Dh2.4 million. Legal actions are proceeding regarding the outstanding balance.",
    "why": "Commercial lease defaults and eviction disputes reflect ongoing landlord-tenant legal enforcement.",
-   "age_hours": 23.5,
+   "age_hours": 24.0,
    "topic": "rent"
   }
  ],
  "window_hours": 24,
- "count_relevant": 21,
- "count_fetched": 277,
+ "count_relevant": 19,
+ "count_fetched": 275,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
- "mode": "AI summaries for 16 of 24 stories; rules for the rest (gemini: HTTPError: 503 Server Error: Service Unavailable for url: https://generativelanguage.google)",
- "as_of": "2026-11-05T15:02+04:00",
- "saved_at": "2026-11-05T15:03+04:00"
+ "mode": "AI summaries for 16 of 23 stories; rules for the rest (gemini: HTTPError: 503 Server Error: Service Unavailable for url: https://generativelanguage.google)",
+ "as_of": "2026-11-05T15:29+04:00",
+ "saved_at": "2026-11-05T15:30+04:00"
 }
