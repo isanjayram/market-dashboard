@@ -1,276 +1,4 @@
 {
- "2026-11-03": {
-  "845eb4030e81": {
-   "relevant": false,
-   "headline": "PM Modi inaugurates Pune Metro Line-3 virtually",
-   "summary": "The Indian Prime Minister has virtually opened the Pune Metro Line-3 today.",
-   "why": "This infrastructure project is located in India and does not affect the Dubai real estate market.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Overseas infrastructure project irrelevant to Dubai property."
-  },
-  "2ae37f99acfd": {
-   "relevant": false,
-   "headline": "Emaar India launches Elara high-rise in Lucknow",
-   "summary": "Emaar India expands its footprint by launching a second premium high-rise residential project named Elara in Lucknow.",
-   "why": "The development is based in India rather than Dubai, making it irrelevant to local property agents.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Indian real estate expansion outside Dubai."
-  },
-  "8e721bbf79dc": {
-   "relevant": true,
-   "headline": "Dubai Metro Red Line station renamed to Garmin",
-   "summary": "The Road and Transport Authority has officially renamed a Dubai Metro station to Garmin.",
-   "why": "Station renaming affects local transit accessibility and neighborhood branding for nearby properties.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Local transit updates impact nearby property appeal."
-  },
-  "30e87782df95": {
-   "relevant": true,
-   "headline": "Casa Vista starts second phase of AQUORA project",
-   "summary": "Casa Vista Development progresses in Dubai as the AQUORA project enters its second residential phase.",
-   "why": "New project phases increase local housing supply and present new inventory options for buyers.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "New residential supply enters the Dubai market."
-  },
-  "ad13ff6ed578": {
-   "relevant": true,
-   "headline": "Dubai ready-property sales increase by eleven percent in Q3",
-   "summary": "Sales of ready properties in Dubai registered an eleven percent increase during the third quarter.",
-   "why": "Sales data reflects growing buyer demand and transactional activity in the secondary market.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Data shows increased secondary market demand."
-  },
-  "d1617ea74e8d": {
-   "relevant": true,
-   "headline": "Dubai Land Department updates Ejari service on DubaiNow",
-   "summary": "An upgraded Ejari service has been launched by the Dubai Land Department via the DubaiNow application.",
-   "why": "Streamlined rental registration processes improve administrative efficiency for landlords and tenants.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Improves administrative rental registration processes."
-  },
-  "dd6ff7bfcd81": {
-   "relevant": true,
-   "headline": "New Ejari rental service announced in Dubai",
-   "summary": "Dubai has introduced a fresh Ejari service tailored for both property tenants and landlords.",
-   "why": "Ejari updates directly impact leasing procedures and regulatory compliance for rentals.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Updates local leasing procedures."
-  },
-  "3a7629ce2e22": {
-   "relevant": false,
-   "headline": "Emaar wins Dubai-it real estate award from Hamdan",
-   "summary": "Sheikh Hamdan bin Mohammed has recognized Emaar as the winner of a local real estate award.",
-   "why": "Awards and accolades do not change market fundamentals, regulations, or buyer costs.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Corporate awards carry no direct market impact."
-  },
-  "3afbb83e1b8f": {
-   "relevant": false,
-   "headline": "Emaar wins real estate excellence award in Dubai",
-   "summary": "Emaar received an award recognizing excellence in Dubai's real estate sector.",
-   "why": "This is an industry award and lifestyle piece lacking actionable market news.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Awards do not affect property costs or market fundamentals."
-  },
-  "d1bbe8092bc1": {
-   "relevant": false,
-   "headline": "Dubai Land Department wraps up Emirati hiring event",
-   "summary": "The fourth Emirati employment event hosted by the Dubai Land Department has concluded.",
-   "why": "This is an employment and HR initiative rather than a property market development.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Job fairs do not alter property prices or regulations."
-  },
-  "301535f6bb37": {
-   "relevant": true,
-   "headline": "Dubai property prices return to April levels",
-   "summary": "PropertyIndex reports that local real estate prices have retraced back to April levels. The platform highlights its pricing accuracy for the market.",
-   "why": "Price trends directly impact buyer decisions and market valuation.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Price tracking helps investors gauge current market sentiment."
-  },
-  "43bc8324a8e2": {
-   "relevant": true,
-   "headline": "Visionary Investment Holding buys Luminova Real Estate",
-   "summary": "Visionary Investment Holding has completed the acquisition of Luminova Real Estate and Holiday Homes in Dubai.",
-   "why": "Corporate acquisitions in the local property sector affect market operations.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Corporate buyouts have minimal immediate impact on buyers."
-  },
-  "f4d44fc51250": {
-   "relevant": true,
-   "headline": "Brookfield and Lunate Launch New Gulf Real Estate Firm",
-   "summary": "Major asset managers Brookfield and Lunate have established a new property development company targeting the Gulf region.",
-   "why": "New institutional backing will influence future regional project pipelines and market supply.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "New regional developer increases major project supply."
-  },
-  "49284cbe22a5": {
-   "relevant": false,
-   "headline": "Dubai PropTech Platform Launches with Ambitious Target",
-   "summary": "A professional networking platform tailored for Dubai real estate agents has debuted, aiming for significant market share.",
-   "why": "This is an industry software launch rather than a core market driver.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "App launch has no direct impact on property costs."
-  },
-  "d277ca5df778": {
-   "relevant": false,
-   "headline": "Local Car Rental Firm Wins Regional Travel Award",
-   "summary": "Octane.Rent has received luxury travel awards for its rental services in the UAE and Middle East.",
-   "why": "This is a lifestyle and awards piece unrelated to property.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Awards piece unrelated to real estate market."
-  },
-  "ec29470cf2fc": {
-   "relevant": false,
-   "headline": "Emaar Properties Honoured After Launching Numerous Projects",
-   "summary": "Emaar Properties received an award following a massive rollout of sixty-two projects within a single year.",
-   "why": "This is an industry award announcement rather than new market data.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Corporate award announcement without direct market impact."
-  },
-  "73799dbe89c3": {
-   "relevant": false,
-   "headline": "Omniyat Partnership News and Media Updates",
-   "summary": "Media coverage highlights recent activities and updates regarding Omniyat developments in the UAE.",
-   "why": "This is a generic news aggregation page rather than a specific factual announcement.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "General news link with no specific market update."
-  },
-  "ada6e6546641": {
-   "relevant": true,
-   "headline": "Long-Term Stays Dominate UAE Managed Properties in Q3",
-   "summary": "Extended stays made up over half of all portfolio nights recorded by First Class Property Management during the third quarter.",
-   "why": "Shifts in rental duration trends affect short-term versus long-term investment strategies.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Highlights shifting rental demand patterns in the UAE."
-  },
-  "36c24305e82f": {
-   "relevant": true,
-   "headline": "Dubai Property Prices Return to April 2025 Levels",
-   "summary": "Data from PropertyIndex indicates that property values in Dubai have corrected back to where they stood in April 2025.",
-   "why": "Price index movements directly impact buyer sentiment and market valuation strategies.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Important valuation benchmark for buyers and investors."
-  },
-  "ca336c6a36bd": {
-   "relevant": true,
-   "headline": "UAE office rents surge as Q3 demand outpaces supply",
-   "summary": "Abu Dhabi and Dubai office rents climbed 20 percent and 12 percent respectively in Q3 2026. Limited supply and robust occupier demand drove this commercial market growth.",
-   "why": "This report highlights strong commercial sector performance across the Emirates.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Reflects commercial market momentum and tighter office availability."
-  },
-  "25ad1f8917e5": {
-   "relevant": true,
-   "headline": "Dubai Q3 sales and mortgages hit $38.5 billion",
-   "summary": "Dubai registered AED141.4 billion in sales and mortgages during the third quarter of 2026. Apartment yields reached 7.7 percent amid steady financing and broad buyer demand.",
-   "why": "Transaction volumes and yields indicate strong ongoing market liquidity.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Demonstrates healthy transaction activity and high rental returns."
-  },
-  "6274f69a711b": {
-   "relevant": false,
-   "headline": "Blackbrick Property marks five years in Dubai with launch of its international collection",
-   "summary": "Blackbrick Property celebrates five years in Dubai by launching its international collection.",
-   "why": "This is a company anniversary and marketing launch with no broader market impact.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Company anniversary and new launch announcement."
-  },
-  "7a1f5ecdd793": {
-   "relevant": true,
-   "headline": "Dubai integrates Ejari and DEWA into single service",
-   "summary": "Dubai simplifies the renting process by combining tenancy contracts and utility payments under one unified Ejari platform.",
-   "why": "Streamlining rental and utility procedures improves the tenant experience in Dubai.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Improves rental administrative efficiency without changing costs."
-  },
-  "1c3ab06e7e99": {
-   "relevant": true,
-   "headline": "Union Properties posts 58% revenue jump in nine months",
-   "summary": "Union Properties generated Dh809.5 million in revenue during the first nine months of 2026. Stronger operations drove this top-line growth despite a sharp drop in net profit.",
-   "why": "Financial results from major developers indicate sector-wide corporate health.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Highlights corporate financial performance of a listed developer."
-  },
-  "c8cbe186a282": {
-   "relevant": true,
-   "headline": "Affordable Dubai apartments gain value as luxury prices drop",
-   "summary": "Lower-priced apartments in Dubai are seeing rising valuations while luxury property prices experience declines.",
-   "why": "Shifts in pricing dynamics between affordable and luxury segments affect buyer strategies.",
-   "category": "Supply & market reports",
-   "impact": "Low",
-   "impact_reason": "Indicates a shifting price trend across different asset tiers."
-  },
-  "91330e3814e1": {
-   "relevant": false,
-   "headline": "Global gold buying surges as institutional investors seek safety.",
-   "summary": "Central bank gold purchases jumped significantly as investors responded to economic uncertainty. Individual retail buyers showed varied participation compared to institutional funds.",
-   "why": "This article discusses global gold bullion trends rather than Dubai real estate or mortgages.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Global gold trends do not directly impact local property."
-  },
-  "626b7d49b255": {
-   "relevant": false,
-   "headline": "Indian expat acquitted in rental fraud case.",
-   "summary": "An individual involved in a rental dispute was acquitted and cleared of deportation.",
-   "why": "This is a local court case regarding fraud rather than broader market news.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Single court case lacks market-wide significance."
-  },
-  "ee41c4e5b4ef": {
-   "relevant": true,
-   "headline": "Sharjah reviews property registration procedures.",
-   "summary": "The Sharjah Executive Council held discussions regarding ongoing property registration initiatives and improvements.",
-   "why": "It concerns local property registration and government oversight.",
-   "category": "Regulation & fees",
-   "impact": "Medium",
-   "impact_reason": "Enhances administrative efficiency in local property registration."
-  },
-  "6f5d28351257": {
-   "relevant": false,
-   "headline": "Emaar wins award after launching numerous projects.",
-   "summary": "Emaar received a prominent award following a productive year of extensive home completions and new launches.",
-   "why": "This is an award announcement rather than actionable market news.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Corporate awards do not directly impact buyer decisions."
-  },
-  "3a7a6e763a7e": {
-   "relevant": true,
-   "headline": "UAE Third Quarter Report Shows High Office Demand",
-   "summary": "The third-quarter review highlights persistent office space demand alongside limited availability across the Emirates. These market conditions continue to heavily influence property sector trends.",
-   "why": "It provides essential market intelligence on commercial real estate supply and demand dynamics.",
-   "category": "Supply & market reports",
-   "impact": "Low",
-   "impact_reason": "Reflects existing market trends without altering regulations or costs."
-  }
- },
  "2026-11-04": {
   "2b177b452aab": {
    "relevant": true,
@@ -559,6 +287,152 @@
    "category": "Macro & geopolitics",
    "impact": "Medium",
    "impact_reason": "Shows positive investor sentiment in real estate stocks."
+  }
+ },
+ "2026-11-05": {
+  "089c0d52895b": {
+   "relevant": true,
+   "headline": "Top University Graduates Qualify for UAE Golden Visa",
+   "summary": "Alumni from the world's leading 100 universities are now eligible for a 10-year residency in the UAE. This pathway encourages top global talent to settle long-term.",
+   "why": "It attracts skilled professionals who may become long-term property investors.",
+   "category": "Regulation & fees",
+   "impact": "High",
+   "impact_reason": "Expands residency eligibility for potential buyers."
+  },
+  "100825f54127": {
+   "relevant": true,
+   "headline": "Foreign University Graduates Eligible for UAE Golden Visa",
+   "summary": "Graduates from international universities can secure a 10-year UAE residency. The initiative welcomes skilled global talent into the country.",
+   "why": "It opens new residency options for international professionals looking to relocate.",
+   "category": "Regulation & fees",
+   "impact": "High",
+   "impact_reason": "Broadens the pool of potential long-term residents."
+  },
+  "0752f554c6ad": {
+   "relevant": true,
+   "headline": "Dubai South Housing Demand Surges Past Previous Records",
+   "summary": "Studio apartments are leading a massive housing boom in Dubai South. Rental prices have more than doubled as sales surpassed annual records in just eight months.",
+   "why": "It highlights rapid growth and high rental yields in a key emerging district.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Shows strong investor demand and rising rents."
+  },
+  "366b84e03ef8": {
+   "relevant": true,
+   "headline": "Abu Dhabi Property Sales Surge 30 Percent in October",
+   "summary": "Property transactions in Abu Dhabi reached AED 13 billion during October. Buyer demand remains notably robust across the capital.",
+   "why": "It signals strong market momentum and high investor confidence in Abu Dhabi.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects strong regional sales growth."
+  },
+  "e2e5c0df869d": {
+   "relevant": true,
+   "headline": "Abu Dhabi Residential Sales Reach AED 12.97 Billion in October",
+   "summary": "Residential unit sales in Abu Dhabi increased by over 30 percent in October 2026. Total transactional value neared the 13 billion dirham mark.",
+   "why": "It provides concrete data on capital market performance and liquidity.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Demonstrates healthy transaction volumes."
+  },
+  "a2860b642588": {
+   "relevant": true,
+   "headline": "Brent Oil Slides to 94 Dollars Amid Political Shifts",
+   "summary": "Global oil benchmarks dropped to near two-month lows following political updates in the US and geopolitical uncertainty surrounding Iran. Market sentiment reacted quickly to the changing political landscape.",
+   "why": "Oil price movements influence overall economic sentiment and liquidity in the region.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Shifts broader regional economic sentiment."
+  },
+  "9be3913641f6": {
+   "relevant": true,
+   "headline": "Understanding Dubai Escrow Accounts for Off-Plan Buyers",
+   "summary": "Dubai's escrow system ensures that funds paid by purchasers for off-plan properties remain legally protected. This regulatory framework safeguards buyer investments throughout construction.",
+   "why": "It reassures buyers regarding the safety of their investments in uncompleted projects.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Reinforces buyer confidence in off-plan purchases."
+  },
+  "e0100e7f6fc5": {
+   "relevant": true,
+   "headline": "Abu Dhabi Golden Visa Criteria for Top University Graduates",
+   "summary": "The emirate outlines specific entry criteria for graduates from top global universities seeking a Golden Visa. The program targets high-achieving individuals from around the world.",
+   "why": "It clarifies the requirements for foreign graduates seeking long-term stability.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Details specific pathways for residency."
+  },
+  "2813aac24c4b": {
+   "relevant": false,
+   "headline": "Sharjah Court Clears Villa Co-Owner in Rental Fraud Case",
+   "summary": "A Sharjah court acquitted a villa co-owner involved in a rental fraud dispute. The case centered around an amount of AED 104,000.",
+   "why": "This is a legal dispute and court verdict rather than a market-moving real estate trend.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Single court case with no broader market impact."
+  },
+  "1b84cfc665c7": {
+   "relevant": false,
+   "headline": "Asset Homez Honoured as Top-Performing Broker by Alef Group",
+   "summary": "Alef Group recognized Asset Homez for their strong performance in the local property sector. This marks another milestone for the brokerage in the UAE market.",
+   "why": "This is a corporate award and PR announcement rather than actionable market news.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Company award with no effect on buyers or investors."
+  },
+  "f442bf74cc61": {
+   "relevant": true,
+   "headline": "Dubai Introduces New Rent Now Pay Later Option for Tenants",
+   "summary": "Dubai has introduced a fresh financing service allowing tenants to defer rent payments. This initiative aims to ease rental payment burdens across the emirate.",
+   "why": "Flexible payment schemes directly impact tenant cash flow and rental affordability.",
+   "category": "Rates & mortgages",
+   "impact": "Medium",
+   "impact_reason": "Improves tenant liquidity and alters rental payment methods."
+  },
+  "9dfed07beb43": {
+   "relevant": true,
+   "headline": "DECA Unveils Lorévia Collection and Announces Dh3B Development Pipeline",
+   "summary": "DECA Developments revealed its new residential collection and waterfront address during a major event in Dubai. The firm also outlined an ambitious expansion strategy worth Dh3 billion.",
+   "why": "New project launches and developer pipelines directly expand residential supply options.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Adds new residential supply and highlights developer expansion."
+  },
+  "b5c466f6afc2": {
+   "relevant": true,
+   "headline": "Geopolitical Tensions Rise as Brent Oil Drops to $93",
+   "summary": "Regional security developments involve reported tanker incidents near Qatar amid international mediation efforts. Meanwhile, global Brent oil prices have declined to $93.",
+   "why": "Macroeconomic shifts and regional security can influence investor sentiment and market stability.",
+   "category": "Macro & geopolitics",
+   "impact": "High",
+   "impact_reason": "Macro events and oil price shifts affect investor sentiment."
+  },
+  "efc5633fe6cd": {
+   "relevant": false,
+   "headline": "How Syrian Expat Built fäm Properties Into a Giant",
+   "summary": "An editorial profile details the journey of Firas Al Msaddi in growing fäm Properties. It outlines the path to becoming a major brokerage in Dubai.",
+   "why": "This is an executive profile piece lacking direct news value for property transactions.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Personality profile with no direct impact on market conditions."
+  },
+  "f18bc94307e2": {
+   "relevant": false,
+   "headline": "Meraas Showcases Dubai Design Week 2026 Installations",
+   "summary": "Meraas is presenting future concepts for the design district during Dubai Design Week 2026. The showcase highlights creative urban planning initiatives.",
+   "why": "Design exhibitions and cultural events do not constitute direct property market news.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Design exhibition with no direct bearing on property transactions."
+  },
+  "ac5860ffe2f0": {
+   "relevant": true,
+   "headline": "Dubai Tenant Faces Eviction Over Unpaid Commercial Rent",
+   "summary": "A commercial tenant in Dubai is facing eviction due to unpaid rent totaling Dh2.4 million. Legal actions are proceeding regarding the outstanding balance.",
+   "why": "Commercial lease defaults and eviction disputes reflect ongoing landlord-tenant legal enforcement.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Individual legal dispute without systemic market consequences."
   }
  }
 }

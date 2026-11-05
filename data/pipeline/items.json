@@ -1963,5 +1963,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"9dfed07beb43": {
+"id": "9dfed07beb43",
+"title": "DECA Unveils Lorévia Collection and Announces Dh3B Development Pipeline",
+"link": "https://gulfnews.com/business/corporate-news/deca-launches-lor%C3%A9via-collection-and-announces-dh3b-development-pipeline-1.500736692",
+"source": "Gulf News",
+"category": "Developer news",
+"published": "2026-11-05T10:17+04:00",
+"first_seen": "2026-11-05",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": "Lorévia Collection",
+"developer": "DECA Developments",
+"location": "Dubai",
+"type": "residential developments",
+"launch_date": "5 November 2026",
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
