@@ -16,7 +16,7 @@
    "headline": "Top University Graduates Qualify for UAE Golden Visa",
    "summary": "Alumni from the world's leading 100 universities are now eligible for a 10-year residency in the UAE. This pathway encourages top global talent to settle long-term.",
    "why": "It attracts skilled professionals who may become long-term property investors.",
-   "age_hours": 1.0,
+   "age_hours": 2.2,
    "topic": "golden visa"
   },
   {
@@ -29,7 +29,7 @@
    "tags": [
     "Mena"
    ],
-   "teaser": "Tanker struck by two projectiles off Qatar: UKMTO A tanker was struck by two unidentified projectiles about 50 nautical miles north of Madinat ash Shamal, Qatar, according to the UK Maritime Trade Operations (UKMTO). The incident took place at 11.20pm UTC on Wednesday (3.20am UAE time on Thursday), and the UKMTO said the report has been verified. The status of the crew, the extent of the damage an",
+   "teaser": "Iranians burn giant poster of Trump and Netanyahu, demand revenge Following the drubbing of US President Donald Trump's Republican Party in the midterm elections, Iranians set fire to a giant poster featuring the American leader and his allies at a rally in Tehran. In the capital's central Enghelab square, crowds gathered to observe the burning of the poster which also featured his Vice President ",
    "category": "Macro & geopolitics",
    "impact": "High",
    "impact_reason": "Macro events and oil price shifts affect investor sentiment.",
@@ -37,7 +37,7 @@
    "headline": "Geopolitical Tensions Rise as Brent Oil Drops to $93",
    "summary": "Regional security developments involve reported tanker incidents near Qatar amid international mediation efforts. Meanwhile, global Brent oil prices have declined to $93.",
    "why": "Macroeconomic shifts and regional security can influence investor sentiment and market stability.",
-   "age_hours": 6.1,
+   "age_hours": 7.3,
    "topic": "oil"
   },
   {
@@ -59,7 +59,7 @@
    "headline": "Foreign University Graduates Eligible for UAE Golden Visa",
    "summary": "Graduates from international universities can secure a 10-year UAE residency. The initiative welcomes skilled global talent into the country.",
    "why": "It opens new residency options for international professionals looking to relocate.",
-   "age_hours": 7.9,
+   "age_hours": 9.0,
    "topic": "golden visa"
   },
   {
@@ -78,7 +78,7 @@
    "headline": "Dubai South Housing Demand Surges Past Previous Records",
    "summary": "Studio apartments are leading a massive housing boom in Dubai South. Rental prices have more than doubled as sales surpassed annual records in just eight months.",
    "why": "It highlights rapid growth and high rental yields in a key emerging district.",
-   "age_hours": 2.4,
+   "age_hours": 3.5,
    "topic": "rents"
   },
   {
@@ -97,7 +97,7 @@
    "headline": "Abu Dhabi Property Sales Surge 30 Percent in October",
    "summary": "Property transactions in Abu Dhabi reached AED 13 billion during October. Buyer demand remains notably robust across the capital.",
    "why": "It signals strong market momentum and high investor confidence in Abu Dhabi.",
-   "age_hours": 0.6,
+   "age_hours": 1.8,
    "topic": "abu dhabi",
    "more": 2
   },
@@ -117,7 +117,7 @@
    "headline": "Abu Dhabi Residential Sales Reach AED 12.97 Billion in October",
    "summary": "Residential unit sales in Abu Dhabi increased by over 30 percent in October 2026. Total transactional value neared the 13 billion dirham mark.",
    "why": "It provides concrete data on capital market performance and liquidity.",
-   "age_hours": 0.9,
+   "age_hours": 2.1,
    "topic": "abu dhabi"
   },
   {
@@ -136,30 +136,9 @@
    "headline": "Dubai Introduces New Rent Now Pay Later Option for Tenants",
    "summary": "Dubai has introduced a fresh financing service allowing tenants to defer rent payments. This initiative aims to ease rental payment burdens across the emirate.",
    "why": "Flexible payment schemes directly impact tenant cash flow and rental affordability.",
-   "age_hours": 2.0,
+   "age_hours": 3.1,
    "topic": "rent",
    "more": 1
-  },
-  {
-   "id": "9dfed07beb43",
-   "title": "DECA launches Lor\u00e9via Collection and announces Dh3B development pipeline",
-   "link": "https://gulfnews.com/business/corporate-news/deca-launches-lor%C3%A9via-collection-and-announces-dh3b-development-pipeline-1.500736692",
-   "source": "Gulf News",
-   "kind": "outlet",
-   "published": "2026-11-05T10:17+04:00",
-   "tags": [
-    "Corporate-News"
-   ],
-   "teaser": "Prominent real estate industry leaders were among the first to discover DECA\u2019s new residential collection, its first waterfront address and ambitious expansion plans at The Grand Unveiling in Dubai. Dubai, UAE \u2013 5 November 2026 \u2013 DECA Developments has marked a significant milestone in its growth with the official launch of Lor\u00e9via Collection , a selective series of premium residential developments",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Adds new residential supply and highlights developer expansion.",
-   "watch": false,
-   "headline": "DECA Unveils Lor\u00e9via Collection and Announces Dh3B Development Pipeline",
-   "summary": "DECA Developments revealed its new residential collection and waterfront address during a major event in Dubai. The firm also outlined an ambitious expansion strategy worth Dh3 billion.",
-   "why": "New project launches and developer pipelines directly expand residential supply options.",
-   "age_hours": 3.6,
-   "topic": "Developer news"
   },
   {
    "id": "a2860b642588",
@@ -177,7 +156,7 @@
    "headline": "Brent Oil Slides to 94 Dollars Amid Political Shifts",
    "summary": "Global oil benchmarks dropped to near two-month lows following political updates in the US and geopolitical uncertainty surrounding Iran. Market sentiment reacted quickly to the changing political landscape.",
    "why": "Oil price movements influence overall economic sentiment and liquidity in the region.",
-   "age_hours": 16.9,
+   "age_hours": 18.0,
    "topic": "oil"
   },
   {
@@ -196,17 +175,36 @@
    "headline": "Understanding Dubai Escrow Accounts for Off-Plan Buyers",
    "summary": "Dubai's escrow system ensures that funds paid by purchasers for off-plan properties remain legally protected. This regulatory framework safeguards buyer investments throughout construction.",
    "why": "It reassures buyers regarding the safety of their investments in uncompleted projects.",
-   "age_hours": 6.1,
+   "age_hours": 7.3,
    "topic": "Regulation & fees"
+  },
+  {
+   "id": "ac5860ffe2f0",
+   "title": "Dubai tenant faces eviction over Dh2.4m unpaid commercial rent",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeXVaYzExdUtiYzkzQ05NVWFENGlEWGNqT1JaQmllVV9LZkdTVlJkdWUyZ2U5OVVZV0tzVGxfVlRJWFZSS2pXcUtPTkpRdVpERV9rNTQ1OG5NX3gtSng3VkI5clM4U2FLZUxyaEVkcWVIY19oU29zQlljYU1vbXVNZDNia01tLURpMUxjUG4zY2hRSUJaNXViTTdPZmtiZndlMFo5d0k0SnlDQkQwRl90NGs3QnFsbmh4WnfSAboBQVVfeXFMT3l1WmMxMXVLYmM5M0NOTVVhRDRpRFhjak9SWkJpZVVfS2ZHU1ZSZHVlMmdlOTlVWVdLc1RsX1ZUSVhWUktqV3FLT05KUXVaREVfazU0NThuTV94LUp4N1ZCOXJTOFNhS2VMcmhFZHFlSGNfaFNvc0JZY2FNb211TWQzYmtNbS1EaTFMY1BuM2NoUUlCWjV1Yk03T2ZrYmZ3ZTBaOXdJNEp5Q0JEMEZfdDRrN0JxbG5oeFp3?oc=5",
+   "source": "Gulf News",
+   "kind": "search",
+   "published": "2026-11-04T15:32+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Individual legal dispute without systemic market consequences.",
+   "watch": false,
+   "headline": "Dubai Tenant Faces Eviction Over Unpaid Commercial Rent",
+   "summary": "A commercial tenant in Dubai is facing eviction due to unpaid rent totaling Dh2.4 million. Legal actions are proceeding regarding the outstanding balance.",
+   "why": "Commercial lease defaults and eviction disputes reflect ongoing landlord-tenant legal enforcement.",
+   "age_hours": 23.5,
+   "topic": "rent"
   }
  ],
  "window_hours": 24,
  "count_relevant": 21,
- "count_fetched": 269,
+ "count_fetched": 277,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
- "mode": "AI summaries for 17 of 24 stories; rules for the rest (gemini: HTTPError: 503 Server Error: Service Unavailable for url: https://generativelanguage.google)",
- "as_of": "2026-11-05T13:51+04:00",
- "saved_at": "2026-11-05T13:52+04:00"
+ "mode": "AI summaries for 16 of 24 stories; rules for the rest (gemini: HTTPError: 503 Server Error: Service Unavailable for url: https://generativelanguage.google)",
+ "as_of": "2026-11-05T15:02+04:00",
+ "saved_at": "2026-11-05T15:03+04:00"
 }
