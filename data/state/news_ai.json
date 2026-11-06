@@ -271,6 +271,15 @@
    "category": "Supply & market reports",
    "impact": "Medium",
    "impact_reason": "Indicates ongoing strength in leasing demand and pricing."
+  },
+  "eb392fdbf4bc": {
+   "relevant": false,
+   "headline": "Dubai Police close 33 illegal residential nurseries",
+   "summary": "Authorities shut down unlicensed childcare facilities operating in residential properties and arrested 34 individuals. These operations failed to meet safety and legal standards.",
+   "why": "This news is about illegal childcare operations rather than property, mortgages, or the real estate market.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Unrelated to property market."
   }
  }
 }
