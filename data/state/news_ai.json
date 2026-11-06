@@ -280,6 +280,33 @@
    "category": "Regulation & fees",
    "impact": "Low",
    "impact_reason": "Unrelated to property market."
+  },
+  "2e335b7f44ee": {
+   "relevant": true,
+   "headline": "Anarock study highlights growing Indian investor interest in Dubai South",
+   "summary": "A new Anarock study reveals that Indian buyers are closely monitoring Dubai South's rapid real estate growth. The area continues to attract strong attention due to its expanding infrastructure and high investment potential.",
+   "why": "It highlights international capital flows and buyer sentiment from India into a major Dubai district.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Boosts buyer sentiment and investment flows into Dubai South."
+  },
+  "a26ae35d9001": {
+   "relevant": false,
+   "headline": "Türkiye targets $500 billion energy investment by 2040",
+   "summary": "Türkiye plans to invest $500 billion in its energy sector by 2040 to boost capacity and renewables. The roadmap focuses on electrification, nuclear power, and domestic oil and gas production.",
+   "why": "The news is about Turkish energy policy and has no connection to UAE real estate or the local economy.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Not relevant to UAE property markets."
+  },
+  "dccea71e188d": {
+   "relevant": true,
+   "headline": "Top developers prepare to exhibit at Abu Dhabi IREIS 2026",
+   "summary": "Leading real estate developers are getting ready to showcase their latest property portfolios at the upcoming IREIS 2026 event in Abu Dhabi. The exhibition serves as a major platform for highlighting new residential and commercial projects.",
+   "why": "It previews upcoming property showcases that drive developer sales and market activity in the UAE.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Highlights upcoming project launches and developer sales opportunities."
   }
  }
 }
