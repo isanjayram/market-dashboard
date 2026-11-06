@@ -307,6 +307,15 @@
    "category": "Developer news",
    "impact": "Medium",
    "impact_reason": "Highlights upcoming project launches and developer sales opportunities."
+  },
+  "9c6b5438a287": {
+   "relevant": false,
+   "headline": "Leadrat Expands Operations into Abu Dhabi",
+   "summary": "Real estate technology firm Leadrat has entered the Abu Dhabi market. This move grows its footprint across the UAE property tech sector.",
+   "why": "This news covers a company expansion rather than property markets, mortgages, or macroeconomic policy.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "It is a corporate expansion with no direct market effect."
   }
  }
 }

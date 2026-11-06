@@ -16,7 +16,7 @@
    "headline": "Anarock study highlights growing Indian investor interest in Dubai South",
    "summary": "A new Anarock study reveals that Indian buyers are closely monitoring Dubai South's rapid real estate growth. The area continues to attract strong attention due to its expanding infrastructure and high investment potential.",
    "why": "It highlights international capital flows and buyer sentiment from India into a major Dubai district.",
-   "age_hours": 2.7,
+   "age_hours": 3.0,
    "topic": "Macro & geopolitics"
   },
   {
@@ -35,7 +35,7 @@
    "headline": "Top developers prepare to exhibit at Abu Dhabi IREIS 2026",
    "summary": "Leading real estate developers are getting ready to showcase their latest property portfolios at the upcoming IREIS 2026 event in Abu Dhabi. The exhibition serves as a major platform for highlighting new residential and commercial projects.",
    "why": "It previews upcoming property showcases that drive developer sales and market activity in the UAE.",
-   "age_hours": 3.8,
+   "age_hours": 4.2,
    "topic": "abu dhabi"
   },
   {
@@ -54,7 +54,7 @@
    "headline": "Dubai to launch new transport payment cards in November",
    "summary": "New nol-Jaywan cards will soon be introduced for the Metro, taxis, and parking across the city. This update aims to streamline public transit and commuter payments.",
    "why": "Transport updates improve connectivity and community accessibility for residents.",
-   "age_hours": 12.7,
+   "age_hours": 13.0,
    "topic": "metro"
   },
   {
@@ -76,7 +76,7 @@
    "headline": "Emaar Properties records 5.6% Q3 profit increase",
    "summary": "The developer posted higher third-quarter earnings driven by strong revenue and new project sales. Backlog growth helped offset regional market uncertainties.",
    "why": "Financial results of major developers reflect broader real estate sector strength.",
-   "age_hours": 22.3,
+   "age_hours": 22.6,
    "topic": "emaar",
    "more": 2
   },
@@ -101,7 +101,7 @@
    "headline": "Dubai publishes official 10-year Golden Visa family permit costs",
    "summary": "Authorities have outlined the exact pricing for investor family residency permits under the 10-year Golden Visa scheme. This provides clear financial planning for foreign property investors.",
    "why": "Visa costs directly impact foreign investor budgeting and long-term residency plans.",
-   "age_hours": 17.8,
+   "age_hours": 18.2,
    "topic": "golden visa"
   },
   {
@@ -120,7 +120,7 @@
    "headline": "Growing number of Dubai tenants transitioning to property ownership",
    "summary": "An increasing share of residents are shifting from renting to buying homes in the emirate. High rental costs are prompting long-term tenants to secure mortgages.",
    "why": "Tenant behavior shifts signal changing market demand towards residential purchases.",
-   "age_hours": 9.2,
+   "age_hours": 9.5,
    "topic": "Macro & geopolitics"
   },
   {
@@ -139,7 +139,7 @@
    "headline": "Dubai rental market approaches new milestone with massive contract registrations",
    "summary": "The emirate recorded nearly 340,000 rental contracts, pointing to a continuously expanding housing sector. Leasing demand remains exceptionally strong across residential areas.",
    "why": "Leasing volume data tracks rental sector health and tenant movement.",
-   "age_hours": 15.8,
+   "age_hours": 16.1,
    "topic": "Supply & market reports"
   },
   {
@@ -158,7 +158,7 @@
    "headline": "Emaar announces massive dividend as annual property profits climb",
    "summary": "The developer declared a large special dividend following an 18 percent rise in yearly profit. Total earnings reached impressive multi-billion dollar figures.",
    "why": "Corporate earnings reports indicate strong liquidity and developer performance.",
-   "age_hours": 16.2,
+   "age_hours": 16.6,
    "topic": "emaar"
   },
   {
@@ -180,7 +180,7 @@
    "headline": "Abu Dhabi property market growth outpaces Dubai",
    "summary": "Recent data reveals that the two emirates are experiencing diverging real estate cycles. Abu Dhabi is currently showing faster relative growth metrics.",
    "why": "Comparative emirate data helps investors allocate funds across different UAE regions.",
-   "age_hours": 14.2,
+   "age_hours": 14.5,
    "topic": "abu dhabi"
   },
   {
@@ -199,17 +199,17 @@
    "headline": "Tenant evicted in Dubai over massive rent arrears",
    "summary": "Authorities removed a tenant from a Dubai property after accumulating 2.4 million dirhams in unpaid rent. This highlights strict enforcement of lease agreements.",
    "why": "It demonstrates legal enforcement regarding rental payment defaults.",
-   "age_hours": 21.8,
+   "age_hours": 22.2,
    "topic": "rent"
   }
  ],
  "window_hours": 24,
  "count_relevant": 16,
- "count_fetched": 297,
+ "count_fetched": 293,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
- "mode": "AI summaries (saved from an earlier run)",
- "as_of": "2026-11-06T16:11+04:00",
- "saved_at": "2026-11-06T16:11+04:00"
+ "mode": "AI summaries (gemini)",
+ "as_of": "2026-11-06T16:31+04:00",
+ "saved_at": "2026-11-06T16:31+04:00"
 }
