@@ -335,5 +335,50 @@
 "impact_reason": "General market context",
 "watch": false,
 "topic": "Supply & market reports"
+},
+{
+"id": "9fd3faadee1d",
+"headline": "Growing number of Dubai tenants transitioning to property ownership",
+"summary": "An increasing share of residents are shifting from renting to buying homes in the emirate. High rental costs are prompting long-term tenants to secure mortgages.",
+"why": "Tenant behavior shifts signal changing market demand towards residential purchases.",
+"source": "Gulf News",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQWRScTNTbTlCOFRNd3dJZHozODJHVXhzdE1aUUNmLXJqemlqdGRaN2NVVjNuSjBfVkRSalFuR0FKNDJXWkMzTXlNanJ3ZUZRa21YT1VRdjVTdTNEZDlZbHZWdlBHYlRqTzNfN3RWYllKdHpzN0kwZnN5OVBCbnUxSm9QVmd3Tmp2MFhQUmJ5V0hBeWNlYjNPd0xBNmwwTGtmMFHSAbQBQVVfeXFMT2JlSmRNZThsYm5IdV8tRmU2Z2t5bzZSWnpWZ19IRDFXcVlKeFdQZTdsWE9BNmRKVlFhOFQtQ3UwbDNfVmNTamNXS0E5X2oxWlhiaVZrOUI3aHc2V3lHVjI3NjdjSFFsam5JOXp5MGlsUXNWWDV0MllUVGxBN1ZvUnNYMnpZXzU0T0hJbVVZM0JwMTdQR2hIUlM3QlhNOF9PYzJocnhrTEp5aUhhOGRiQ1NYUHZr?oc=5",
+"published": "2026-11-06T07:00+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "Highlights a growing shift towards residential property ownership.",
+"watch": false,
+"topic": "Macro & geopolitics"
+},
+{
+"id": "1497a168ba27",
+"headline": "Abu Dhabi property market growth outpaces Dubai",
+"summary": "Recent data reveals that the two emirates are experiencing diverging real estate cycles. Abu Dhabi is currently showing faster relative growth metrics.",
+"why": "Comparative emirate data helps investors allocate funds across different UAE regions.",
+"source": "EnterpriseAM",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYzRURC1ZdnZ5NEhIV0NyQXpyamhDSklCRDRpcF9kdWRUWmhtRldRek83WHZlOFROb2ExNFlCam9RSDFJbTJBalpBUzd5bGN3M1hDY2dxclpZRmFlaWo3X05kRlZfdVRMcGZNN29SWk1HczllQ2J1Q0dMdEprVGJQYVlBb0VvM2stcVlSTGdTRDZRMk5lb3QxR2dST056cnJK?oc=5",
+"published": "2026-11-06T02:00+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "Provides regional market comparison for investors.",
+"watch": false,
+"also": [
+"EnterpriseAM"
+],
+"topic": "abu dhabi"
+},
+{
+"id": "cd69111f7f06",
+"headline": "Emaar plans to delist construction subsidiary",
+"summary": "Emaar intends to take its construction division private following a recent buyout proposal. This move changes the corporate structure of a major Dubai developer.",
+"why": "It reflects corporate restructuring within a leading local developer.",
+"source": "www.marketscreener.com",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOHZ3RGlLZjJ1UV9YOTE5OFdZaUVzQjhDUmRjM3dHeE1fVU5XblVEV0w4NjF0WmNqS29CbUpqV2RSdGYxamNBY0djWHNydjduYllVcXAtbXFOUktORklsZHdpX2ZETlFUR29Za1FiYkhyNXdFNEU4cXlCSURwMm1pVTNObnVFaW9JODFkM3FhdUFnRkdMYVU1M1pZOFc0bWR0VVhoWjF1YkowRk5hMEVZdkRVeklYeDBjaVE?oc=5",
+"published": "2026-11-06T00:19+04:00",
+"category": "Developer news",
+"impact": "Low",
+"impact_reason": "Internal corporate restructuring with minimal direct buyer impact.",
+"watch": false,
+"topic": "emaar"
 }
 ]
