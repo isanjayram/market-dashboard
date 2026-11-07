@@ -22,32 +22,26 @@
    "headline": "Wall Street rebounds while rate hike concerns persist",
    "summary": "US markets recovered following a tech sell-off, though strong jobs data sparked fears of upcoming Federal Reserve rate hikes. These global monetary shifts can indirectly influence local mortgage costs and investor sentiment.",
    "why": "Global interest rate trends affect Dubai mortgage pricing and borrowing costs.",
-   "age_hours": 15.1,
+   "age_hours": 17.3,
    "topic": "Rates & mortgages"
   },
   {
-   "id": "6c9c6ed713e7",
+   "id": "3886616a7067",
    "title": "Dubai property buyers find more choice, better deals",
-   "link": "https://gulfnews.com/business/property/dubai-property-buyers-find-more-choice-better-deals-1.500737222",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVlF5YVU5SXllaE9vVTVaQk91amtFSkM0MFEtcmtJaWRRS0d0YnVKdVR0bnlxRU5EdEg0OVFSN0JWa1BkR0V6N0ptUjdtN1U5ZVJTaFIwcmdKcjZBOTBvS3FkcEpYUGtSdmVwU0luejVjUWc3MjBrQlROU0cyWmc5WjRmc0tQdmVBdXl6dnNJUjl6QmMySzJRQk0zWnBRdlRoclpoetIBtwFBVV95cUxNM2cyRmdHV1VhUXhpTTJOT3JXWWlNdXFuM1QxYm40eDk0VExkSE0zSmJma1VIR3BLeGJ0bGtfNEV5bzliN2VBUmg1OFZOeW12Z0p2ZEFVVTVlTWNjYlR6Y2l4Qmx6M2VKYVZNeTIzTHJJVjEwYkFraWo4M2NONndvNXBFYVhZYjBKWkQ5Sjlfb0lBN21vVFhhc2NvMGo2TmM1cVBZbGFvLUMtWDU5QjFFSWxNSWdxZzA?oc=5",
    "source": "Gulf News",
-   "kind": "outlet",
+   "kind": "search",
    "published": "2026-11-07T07:30+04:00",
-   "tags": [
-    "Property",
-    "UAE"
-   ],
-   "teaser": "Dubai: Buying a home in Dubai is becoming an increasingly attractive option for residents and investors, with more properties to choose from, flexible payment plans and greater opportunities to negotiate favourable deals. Property experts say buyers are now in a stronger position to compare homes, explore different communities and negotiate terms that suit their budgets. Developers are also introd",
+   "tags": [],
+   "teaser": "",
    "category": "Supply & market reports",
    "impact": "Medium",
-   "impact_reason": "Indicates shifting buyer conditions.",
+   "impact_reason": "Shifts in buyer options and deal terms affect sentiment.",
    "watch": false,
-   "also": [
-    "Gulf News"
-   ],
-   "headline": "Dubai Buyers Benefit From Greater Choice and Flexibility",
-   "summary": "Property purchasers in Dubai are finding more inventory and flexible payment plans. Buyers currently enjoy enhanced negotiating power in the market.",
-   "why": "Details changing dynamics for active buyers.",
-   "age_hours": 3.6,
+   "headline": "Dubai buyers benefit from increased options and better deals",
+   "summary": "Purchasers in Dubai now encounter a wider selection of properties and improved pricing terms.",
+   "why": "Shifts in buyer choices and pricing directly influence local market sentiment and deal-making.",
+   "age_hours": 5.8,
    "topic": "Supply & market reports"
   },
   {
@@ -69,8 +63,27 @@
    "headline": "Managing off-plan property delays in Dubai",
    "summary": "Buyers facing construction delays on their off-plan purchases need to understand when project postponements signal serious risks. Developers pushing past handover dates create uncertainty for resident buyers relying on timely completion.",
    "why": "Off-plan delays directly impact buyer timelines and financial planning.",
-   "age_hours": 13.1,
+   "age_hours": 15.2,
    "topic": "Developer news"
+  },
+  {
+   "id": "30878a59aaae",
+   "title": "Abu Dhabi Real Estate Centre records 76.1% year-on-year increase in transaction value, reaching AED171.2bn+ during first 9 months of 2026",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWWNxVndvaFo3dVNnYUVaVTAwdmlWTUl3aUZTLVd2dl81a3VSaVR0WS0zOThYTWp3cTdudzYtbkZnVXdGRlBuVzgwX1pURm82U1RDOHo3Q21nZjhmZk1yOUxKQ2NVNV9TWHUtQjNEVkN4UDFvNXNXV01FWUZEYzRucXFjZXlWdTUwQWs5YVdVRC1zQ3dXdHM3MXZoaVRkelRJWUkxRUl4RHRFN3VXY2NXM1JWNnQ4Y3ZvNjhYdFVyZ293ZFdBdjFTbXNqYURNZEwwZThmUGpQM2xyVlpOTGdacXlCMXZIYVJfVzNFeFAyTkZYbzhGUDhXcmdodE0tZjVVVGRzZWV0VmE?oc=5",
+   "source": "\u0645\u0643\u062a\u0628 \u0623\u0628\u0648\u0638\u0628\u064a \u0627\u0644\u0625\u0639\u0644\u0627\u0645\u064a",
+   "kind": "search",
+   "published": "2026-11-07T13:05+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "High transaction growth reflects strong regional market activity.",
+   "watch": false,
+   "headline": "Abu Dhabi property transactions surge 76% to AED171.2bn",
+   "summary": "The Abu Dhabi Real Estate Centre reported significant year-on-year growth during the first nine months of 2026.",
+   "why": "Substantial transaction growth indicates robust regional market activity and investor confidence.",
+   "age_hours": 0.2,
+   "topic": "abu dhabi"
   },
   {
    "id": "36a8913a9508",
@@ -88,7 +101,7 @@
    "headline": "October Sales and Rentals Drive Dubai Property Momentum",
    "summary": "Dubai's real estate sector maintained its upward trajectory throughout October. Both rental and sales figures showed continued growth.",
    "why": "Highlights ongoing market strength.",
-   "age_hours": 3.7,
+   "age_hours": 5.8,
    "topic": "Supply & market reports"
   },
   {
@@ -110,7 +123,7 @@
    "headline": "Dubai outlines family sponsorship fees for Golden Visa investors",
    "summary": "Authorities have established specific charges for Golden Visa investors wishing to sponsor their family members for a decade. This clarifies the total costs associated with long-term residency in the emirate.",
    "why": "Residency fees directly impact investor expenses and relocation planning.",
-   "age_hours": 18.7,
+   "age_hours": 20.8,
    "topic": "golden visa"
   },
   {
@@ -133,7 +146,7 @@
    "headline": "Costs revealed for Golden Visa parents' residence permits",
    "summary": "Pricing details have been released regarding ten-year residence permits for the parents of Golden Visa investors. Understanding these expenses helps buyers calculate the true cost of bringing family to Dubai.",
    "why": "New fee announcements affect the overall cost of long-term family residency.",
-   "age_hours": 19.1,
+   "age_hours": 21.2,
    "topic": "golden visa"
   },
   {
@@ -152,7 +165,7 @@
    "headline": "Anarock Study Highlights Dubai South Investment Appeal for Indians",
    "summary": "A recent study by Anarock explores why Indian investors are focusing on Dubai South. The area is gaining traction for its booming real estate opportunities.",
    "why": "Tracks cross-border investor interest from India.",
-   "age_hours": 21.6,
+   "age_hours": 23.8,
    "topic": "Macro & geopolitics"
   },
   {
@@ -171,17 +184,17 @@
    "headline": "Major Developers to Exhibit at Abu Dhabi IREIS 2026",
    "summary": "Leading developers will display their upcoming real estate portfolios at the upcoming IREIS event in Abu Dhabi.",
    "why": "Previews upcoming developer showcases and projects.",
-   "age_hours": 11.1,
+   "age_hours": 13.2,
    "topic": "abu dhabi"
   }
  ],
  "window_hours": 24,
- "count_relevant": 12,
- "count_fetched": 278,
+ "count_relevant": 11,
+ "count_fetched": 273,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-07T11:08+04:00",
- "saved_at": "2026-11-07T11:08+04:00"
+ "as_of": "2026-11-07T13:16+04:00",
+ "saved_at": "2026-11-07T13:16+04:00"
 }

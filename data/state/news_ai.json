@@ -298,6 +298,51 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Criminal incident with no effect on the property market."
+  },
+  "5a291fdf8315": {
+   "relevant": false,
+   "headline": "Dubai communities issue fireworks safety warnings for Diwali",
+   "summary": "Management firms remind residents that unauthorized fireworks are illegal.",
+   "why": "This is a seasonal community advisory rather than a market-moving real estate policy.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Only a community reminder with no direct market impact."
+  },
+  "827d8e8ae73a": {
+   "relevant": false,
+   "headline": "Rio Ferdinand lists UK home for sale",
+   "summary": "The former footballer has put his British property on the market.",
+   "why": "Celebrity real estate news outside Dubai has no bearing on local market dynamics.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Celebrity real estate activity unrelated to local market."
+  },
+  "3886616a7067": {
+   "relevant": true,
+   "headline": "Dubai buyers benefit from increased options and better deals",
+   "summary": "Purchasers in Dubai now encounter a wider selection of properties and improved pricing terms.",
+   "why": "Shifts in buyer choices and pricing directly influence local market sentiment and deal-making.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Shifts in buyer options and deal terms affect sentiment."
+  },
+  "30878a59aaae": {
+   "relevant": true,
+   "headline": "Abu Dhabi property transactions surge 76% to AED171.2bn",
+   "summary": "The Abu Dhabi Real Estate Centre reported significant year-on-year growth during the first nine months of 2026.",
+   "why": "Substantial transaction growth indicates robust regional market activity and investor confidence.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "High transaction growth reflects strong regional market activity."
+  },
+  "bdcacac733bb": {
+   "relevant": false,
+   "headline": "Partners Group launches French rental push and Abu Dhabi pact",
+   "summary": "The firm has initiated a rental strategy in France alongside an Abu Dhabi partnership.",
+   "why": "Global corporate fund activities do not directly alter domestic property conditions or buyer costs.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Global corporate activities with no direct local impact."
   }
  }
 }
