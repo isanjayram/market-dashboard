@@ -22,7 +22,7 @@
    "headline": "Wall Street rebounds while rate hike concerns persist",
    "summary": "US markets recovered following a tech sell-off, though strong jobs data sparked fears of upcoming Federal Reserve rate hikes. These global monetary shifts can indirectly influence local mortgage costs and investor sentiment.",
    "why": "Global interest rate trends affect Dubai mortgage pricing and borrowing costs.",
-   "age_hours": 19.1,
+   "age_hours": 19.4,
    "topic": "Rates & mortgages"
   },
   {
@@ -39,32 +39,39 @@
    "impact_reason": "Indicates strong ongoing sector demand and market health.",
    "watch": false,
    "also": [
+    "The National",
     "The National (property)"
    ],
    "headline": "Abu Dhabi Property Deals Surge 76% in Nine Months",
    "summary": "Abu Dhabi recorded Dh171.26 billion in real estate transactions during the first nine months of 2026. This reflects strong momentum despite regional uncertainties.",
    "why": "Shows rapid growth in transaction values within the UAE property market.",
-   "age_hours": 0.3,
+   "age_hours": 0.6,
    "topic": "abu dhabi",
    "more": 1
   },
   {
-   "id": "629372f61d31",
+   "id": "83347762a536",
    "title": "Abu Dhabi Real Estate transactions surge 76% to Dh171.26 billion in 2026",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMmRad0tIWlBKeG1oQy1BSjN1NURtbnk5TFBZTzlid3dvT0lxd255RHpYSUpfUXFtM0tRVFJwQndaSDI4eVZYellETVlhbFA0QzdXaklvX0NTMDJqRDNJbG51SF9kb0hXc3dSZS1NODl1QlJ3LWo5VEFnRUFvV1hmN1F4cFZTUDAtWmtYaXlZbFhoMVdUQVByT3Mwd2RBT055cUxkLTVjVlc2NFJFcERVU0l4cVYtZUZo0gHLAUFVX3lxTE5xbmlJekFyaFJZY0hlZGlOWm11REV4TnNWQUJrMGFBb3BNUmJjalZ0bHdKbzFjNXJnTldwSnYxVzNhRlZJczV2VHlfR2UwWTBVbDA5VzZsSE0xdmltbkZsNElPY0Iyd3EwR09XWFE5X05PaWhrYXB1aWpxOVdrSi1lYVl5UmZIN2UxTi1hZEZVdUZlbGZfWnJ3d2tFeDVWUlBpbmpoNjZVN25ZMkF5cV9LX01mbXljeXA1ZGp2UkFZbkgzWV96b0V3cVVR?oc=5",
+   "link": "https://gulfnews.com/uae/abu-dhabi/abu-dhabi-real-estate-transactions-surge-76-to-dh17126-billion-in-2026-1.500739456",
    "source": "Gulf News",
-   "kind": "search",
+   "kind": "outlet",
    "published": "2026-11-07T14:37+04:00",
-   "tags": [],
-   "teaser": "",
+   "tags": [
+    "Abu Dhabi",
+    "Property"
+   ],
+   "teaser": "The Abu Dhabi Real Estate Centre (ADREC) has announced its real estate transaction figures for the first nine months of 2026, with values increasing across all reported categories. Total transactions reached Dh171.26 billion across 38,483 exchanges, representing a 76.1 per cent increase in value and a 32.8 per cent rise in transaction volume compared to the same period in 2025, when total transact",
    "category": "Supply & market reports",
    "impact": "Medium",
-   "impact_reason": "Reflects positive performance and robust market activity.",
+   "impact_reason": "Demonstrates strong market growth and rising investor confidence.",
    "watch": false,
-   "headline": "Abu Dhabi Real Estate Transactions Reach Dh171.26 Billion",
-   "summary": "Property transactions in Abu Dhabi surged by 76 percent to reach Dh171.26 billion in 2026.",
-   "why": "Highlights significant yearly growth in the local real estate sector.",
-   "age_hours": 0.5,
+   "also": [
+    "Gulf News"
+   ],
+   "headline": "Abu Dhabi property transactions surge 76% in nine months",
+   "summary": "Total transactions in the emirate reached Dh171.26 billion across 38,483 exchanges during the first three quarters of 2026. All reported categories saw significant increases in overall value.",
+   "why": "This strong market growth highlights rising investor confidence and capital inflows into Abu Dhabi's property sector.",
+   "age_hours": 0.7,
    "topic": "abu dhabi"
   },
   {
@@ -83,7 +90,7 @@
    "headline": "Dubai buyers benefit from increased options and better deals",
    "summary": "Purchasers in Dubai now encounter a wider selection of properties and improved pricing terms.",
    "why": "Shifts in buyer choices and pricing directly influence local market sentiment and deal-making.",
-   "age_hours": 7.6,
+   "age_hours": 7.9,
    "topic": "Supply & market reports"
   },
   {
@@ -105,7 +112,7 @@
    "headline": "Managing off-plan property delays in Dubai",
    "summary": "Buyers facing construction delays on their off-plan purchases need to understand when project postponements signal serious risks. Developers pushing past handover dates create uncertainty for resident buyers relying on timely completion.",
    "why": "Off-plan delays directly impact buyer timelines and financial planning.",
-   "age_hours": 17.1,
+   "age_hours": 17.3,
    "topic": "Developer news"
   },
   {
@@ -124,7 +131,7 @@
    "headline": "October Sales and Rentals Drive Dubai Property Momentum",
    "summary": "Dubai's real estate sector maintained its upward trajectory throughout October. Both rental and sales figures showed continued growth.",
    "why": "Highlights ongoing market strength.",
-   "age_hours": 7.7,
+   "age_hours": 7.9,
    "topic": "Supply & market reports"
   },
   {
@@ -146,7 +153,7 @@
    "headline": "Dubai outlines family sponsorship fees for Golden Visa investors",
    "summary": "Authorities have established specific charges for Golden Visa investors wishing to sponsor their family members for a decade. This clarifies the total costs associated with long-term residency in the emirate.",
    "why": "Residency fees directly impact investor expenses and relocation planning.",
-   "age_hours": 22.7,
+   "age_hours": 22.9,
    "topic": "golden visa"
   },
   {
@@ -169,17 +176,17 @@
    "headline": "Costs revealed for Golden Visa parents' residence permits",
    "summary": "Pricing details have been released regarding ten-year residence permits for the parents of Golden Visa investors. Understanding these expenses helps buyers calculate the true cost of bringing family to Dubai.",
    "why": "New fee announcements affect the overall cost of long-term family residency.",
-   "age_hours": 23.1,
+   "age_hours": 23.3,
    "topic": "golden visa"
   }
  ],
  "window_hours": 24,
  "count_relevant": 11,
- "count_fetched": 276,
+ "count_fetched": 272,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-07T15:08+04:00",
- "saved_at": "2026-11-07T15:08+04:00"
+ "as_of": "2026-11-07T15:21+04:00",
+ "saved_at": "2026-11-07T15:22+04:00"
 }

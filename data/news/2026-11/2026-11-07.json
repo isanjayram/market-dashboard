@@ -335,5 +335,22 @@
 "impact_reason": "Reflects positive performance and robust market activity.",
 "watch": false,
 "topic": "abu dhabi"
+},
+{
+"id": "83347762a536",
+"headline": "Abu Dhabi property transactions surge 76% in nine months",
+"summary": "Total transactions in the emirate reached Dh171.26 billion across 38,483 exchanges during the first three quarters of 2026. All reported categories saw significant increases in overall value.",
+"why": "This strong market growth highlights rising investor confidence and capital inflows into Abu Dhabi's property sector.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/uae/abu-dhabi/abu-dhabi-real-estate-transactions-surge-76-to-dh17126-billion-in-2026-1.500739456",
+"published": "2026-11-07T14:37+04:00",
+"category": "Supply & market reports",
+"impact": "Medium",
+"impact_reason": "Demonstrates strong market growth and rising investor confidence.",
+"watch": false,
+"also": [
+"Gulf News"
+],
+"topic": "abu dhabi"
 }
 ]

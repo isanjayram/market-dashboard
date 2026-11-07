@@ -361,6 +361,24 @@
    "category": "Supply & market reports",
    "impact": "Medium",
    "impact_reason": "Reflects positive performance and robust market activity."
+  },
+  "83347762a536": {
+   "relevant": true,
+   "headline": "Abu Dhabi property transactions surge 76% in nine months",
+   "summary": "Total transactions in the emirate reached Dh171.26 billion across 38,483 exchanges during the first three quarters of 2026. All reported categories saw significant increases in overall value.",
+   "why": "This strong market growth highlights rising investor confidence and capital inflows into Abu Dhabi's property sector.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Demonstrates strong market growth and rising investor confidence."
+  },
+  "83e81833dccf": {
+   "relevant": false,
+   "headline": "Diwali safety notices",
+   "summary": "Residential communities in Dubai are issuing safety alerts regarding fireworks for the Diwali celebrations.",
+   "why": "This is a community lifestyle notice unrelated to property investments, market trends, or regulations.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Community safety notice with no market impact."
   }
  }
 }
