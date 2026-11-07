@@ -217,6 +217,78 @@
    "category": "Developer news",
    "impact": "Low",
    "impact_reason": "Internal corporate restructuring has minimal direct impact on buyers."
+  },
+  "089c0d52895b": {
+   "relevant": true,
+   "headline": "Top 100 University Graduates Eligible for UAE Golden Visa",
+   "summary": "Graduates from the world's top 100 universities can now secure a 10-year residency in the UAE. This program encourages skilled professionals to settle long-term.",
+   "why": "Expands residency eligibility for international talent.",
+   "category": "Regulation & fees",
+   "impact": "High",
+   "impact_reason": "Boosts long-term resident buyer pool."
+  },
+  "36a8913a9508": {
+   "relevant": true,
+   "headline": "October Sales and Rentals Drive Dubai Property Momentum",
+   "summary": "Dubai's real estate sector maintained its upward trajectory throughout October. Both rental and sales figures showed continued growth.",
+   "why": "Highlights ongoing market strength.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects steady market demand and performance."
+  },
+  "3e952328cd3b": {
+   "relevant": true,
+   "headline": "Anarock Study Highlights Dubai South Investment Appeal for Indians",
+   "summary": "A recent study by Anarock explores why Indian investors are focusing on Dubai South. The area is gaining traction for its booming real estate opportunities.",
+   "why": "Tracks cross-border investor interest from India.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Provides regional market insights."
+  },
+  "28fccdb3e2bc": {
+   "relevant": false,
+   "headline": "Rio Ferdinand Lists UK Mansion",
+   "summary": "Former footballer Rio Ferdinand has listed his UK home for sale after moving to Dubai.",
+   "why": "Celebrity lifestyle news with no direct market impact.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Celebrity real estate move."
+  },
+  "6c9c6ed713e7": {
+   "relevant": true,
+   "headline": "Dubai Buyers Benefit From Greater Choice and Flexibility",
+   "summary": "Property purchasers in Dubai are finding more inventory and flexible payment plans. Buyers currently enjoy enhanced negotiating power in the market.",
+   "why": "Details changing dynamics for active buyers.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Indicates shifting buyer conditions."
+  },
+  "c509e2c22b17": {
+   "relevant": true,
+   "headline": "Major Developers to Exhibit at Abu Dhabi IREIS 2026",
+   "summary": "Leading developers will display their upcoming real estate portfolios at the upcoming IREIS event in Abu Dhabi.",
+   "why": "Previews upcoming developer showcases and projects.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Showcases new project marketing events."
+  },
+  "f442bf74cc61": {
+   "relevant": true,
+   "headline": "Dubai Introduces Rent Now, Pay Later Option for Tenants",
+   "summary": "A new service allows tenants in Dubai to defer or stagger their rental payments. This initiative aims to ease cash flow for renters.",
+   "why": "Changes leasing terms and tenant affordability.",
+   "category": "Regulation & fees",
+   "impact": "High",
+   "impact_reason": "Improves tenant cash flow and leasing flexibility."
+  },
+  "526503ea116d": {
+   "relevant": false,
+   "headline": "Francis Alfred Discusses Buyer Preferences in Dubai",
+   "summary": "An industry opinion piece explores current trends in what property buyers demand in Dubai.",
+   "why": "Agent opinion piece without hard news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Opinion piece without new data."
   }
  }
 }
