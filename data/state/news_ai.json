@@ -343,6 +343,24 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Global corporate activities with no direct local impact."
+  },
+  "1433fb11b5b2": {
+   "relevant": true,
+   "headline": "Abu Dhabi Property Deals Surge 76% in Nine Months",
+   "summary": "Abu Dhabi recorded Dh171.26 billion in real estate transactions during the first nine months of 2026. This reflects strong momentum despite regional uncertainties.",
+   "why": "Shows rapid growth in transaction values within the UAE property market.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Indicates strong ongoing sector demand and market health."
+  },
+  "629372f61d31": {
+   "relevant": true,
+   "headline": "Abu Dhabi Real Estate Transactions Reach Dh171.26 Billion",
+   "summary": "Property transactions in Abu Dhabi surged by 76 percent to reach Dh171.26 billion in 2026.",
+   "why": "Highlights significant yearly growth in the local real estate sector.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects positive performance and robust market activity."
   }
  }
 }
