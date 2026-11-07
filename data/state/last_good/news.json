@@ -22,7 +22,7 @@
    "headline": "Wall Street rebounds while rate hike concerns persist",
    "summary": "US markets recovered following a tech sell-off, though strong jobs data sparked fears of upcoming Federal Reserve rate hikes. These global monetary shifts can indirectly influence local mortgage costs and investor sentiment.",
    "why": "Global interest rate trends affect Dubai mortgage pricing and borrowing costs.",
-   "age_hours": 14.8,
+   "age_hours": 15.1,
    "topic": "Rates & mortgages"
   },
   {
@@ -47,7 +47,7 @@
    "headline": "Dubai Buyers Benefit From Greater Choice and Flexibility",
    "summary": "Property purchasers in Dubai are finding more inventory and flexible payment plans. Buyers currently enjoy enhanced negotiating power in the market.",
    "why": "Details changing dynamics for active buyers.",
-   "age_hours": 3.3,
+   "age_hours": 3.6,
    "topic": "Supply & market reports"
   },
   {
@@ -69,7 +69,7 @@
    "headline": "Managing off-plan property delays in Dubai",
    "summary": "Buyers facing construction delays on their off-plan purchases need to understand when project postponements signal serious risks. Developers pushing past handover dates create uncertainty for resident buyers relying on timely completion.",
    "why": "Off-plan delays directly impact buyer timelines and financial planning.",
-   "age_hours": 12.7,
+   "age_hours": 13.1,
    "topic": "Developer news"
   },
   {
@@ -88,7 +88,7 @@
    "headline": "October Sales and Rentals Drive Dubai Property Momentum",
    "summary": "Dubai's real estate sector maintained its upward trajectory throughout October. Both rental and sales figures showed continued growth.",
    "why": "Highlights ongoing market strength.",
-   "age_hours": 3.3,
+   "age_hours": 3.7,
    "topic": "Supply & market reports"
   },
   {
@@ -110,7 +110,7 @@
    "headline": "Dubai outlines family sponsorship fees for Golden Visa investors",
    "summary": "Authorities have established specific charges for Golden Visa investors wishing to sponsor their family members for a decade. This clarifies the total costs associated with long-term residency in the emirate.",
    "why": "Residency fees directly impact investor expenses and relocation planning.",
-   "age_hours": 18.3,
+   "age_hours": 18.7,
    "topic": "golden visa"
   },
   {
@@ -133,7 +133,7 @@
    "headline": "Costs revealed for Golden Visa parents' residence permits",
    "summary": "Pricing details have been released regarding ten-year residence permits for the parents of Golden Visa investors. Understanding these expenses helps buyers calculate the true cost of bringing family to Dubai.",
    "why": "New fee announcements affect the overall cost of long-term family residency.",
-   "age_hours": 18.7,
+   "age_hours": 19.1,
    "topic": "golden visa"
   },
   {
@@ -152,7 +152,7 @@
    "headline": "Anarock Study Highlights Dubai South Investment Appeal for Indians",
    "summary": "A recent study by Anarock explores why Indian investors are focusing on Dubai South. The area is gaining traction for its booming real estate opportunities.",
    "why": "Tracks cross-border investor interest from India.",
-   "age_hours": 21.3,
+   "age_hours": 21.6,
    "topic": "Macro & geopolitics"
   },
   {
@@ -171,17 +171,17 @@
    "headline": "Major Developers to Exhibit at Abu Dhabi IREIS 2026",
    "summary": "Leading developers will display their upcoming real estate portfolios at the upcoming IREIS event in Abu Dhabi.",
    "why": "Previews upcoming developer showcases and projects.",
-   "age_hours": 10.7,
+   "age_hours": 11.1,
    "topic": "abu dhabi"
   }
  ],
  "window_hours": 24,
  "count_relevant": 12,
- "count_fetched": 275,
+ "count_fetched": 278,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-07T10:46+04:00",
- "saved_at": "2026-11-07T10:46+04:00"
+ "as_of": "2026-11-07T11:08+04:00",
+ "saved_at": "2026-11-07T11:08+04:00"
 }

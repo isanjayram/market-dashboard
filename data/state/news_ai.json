@@ -289,6 +289,15 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Opinion piece without new data."
+  },
+  "c268572ba9d1": {
+   "relevant": false,
+   "headline": "Fugitive property fraudster hiding in Dubai dies after fall",
+   "summary": "A wanted criminal who spent years evading authorities in Dubai and Bali died following a fall from his London home.",
+   "why": "This is a crime story about an individual rather than Dubai real estate market news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Criminal incident with no effect on the property market."
   }
  }
 }
