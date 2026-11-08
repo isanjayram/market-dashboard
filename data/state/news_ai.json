@@ -334,6 +334,24 @@
    "category": "Developer news",
    "impact": "Low",
    "impact_reason": "Standard promotional real estate exhibition announcement."
+  },
+  "d441378ddc00": {
+   "relevant": false,
+   "headline": "Riyadh housing secures SAR 1.1 billion investment",
+   "summary": "Reportage Saudi Arabia commits SAR 1.1 billion to build new family homes in Riyadh. The funding aims to address increasing demand for modern residential properties.",
+   "why": "This news focuses on the Saudi Arabian property market rather than Dubai.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Regional investment outside Dubai."
+  },
+  "4f45fca4ccbe": {
+   "relevant": false,
+   "headline": "UAE developers to exhibit at IREIS 2026",
+   "summary": "Major property developers from the UAE will showcase their latest real estate projects at the upcoming IREIS 2026 exhibition.",
+   "why": "This is an event announcement with no direct impact on Dubai's local market conditions.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Exhibition announcement."
   }
  }
 }

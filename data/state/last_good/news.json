@@ -20,9 +20,9 @@
    "headline": "Abu Dhabi property deals top Dh171 billion in nine months",
    "summary": "Abu Dhabi's real estate market experienced a strong surge in activity. Total transaction values crossed significant milestones during the period.",
    "why": "It reports major sales volume increases in the UAE capital.",
-   "age_hours": 20.2,
+   "age_hours": 21.4,
    "topic": "abu dhabi",
-   "more": 3
+   "more": 2
   },
   {
    "id": "f9f197d16c29",
@@ -47,7 +47,7 @@
    "headline": "Abu Dhabi property transactions increase by 76.1% in nine months",
    "summary": "Total real estate transaction values in Abu Dhabi reached AED 171.26 billion. The sharp rise underscores sustained investor demand.",
    "why": "It provides official market performance figures for the capital.",
-   "age_hours": 20.3,
+   "age_hours": 21.5,
    "topic": "abu dhabi"
   },
   {
@@ -69,7 +69,7 @@
    "headline": "Dubai outlines eligible family members for retiree 5-year Golden Visas",
    "summary": "Authorities have specified which relatives can secure residence permits via retirees holding the 5-year Golden Visa. This update clarifies sponsorship rules for aging investors.",
    "why": "It clarifies residency eligibility rules for family members of retirees.",
-   "age_hours": 19.2,
+   "age_hours": 20.4,
    "topic": "golden visa"
   },
   {
@@ -88,7 +88,7 @@
    "headline": "UAE clarifies family residency status upon a Golden Visa holder's death",
    "summary": "Guidelines have been released explaining procedures for family members when a primary Golden Visa holder passes away. This provides legal certainty for dependents.",
    "why": "It outlines important residency regulations for dependents of visa holders.",
-   "age_hours": 19.9,
+   "age_hours": 21.2,
    "topic": "golden visa"
   },
   {
@@ -107,7 +107,7 @@
    "headline": "Proptech Association and Changer Club invest in Dubai real estate tech",
    "summary": "Two groups are partnering to fund technological innovations supporting Dubai's property sector. These investments target the next phase of market development.",
    "why": "It highlights technology investments shaping the local property sector.",
-   "age_hours": 6.1,
+   "age_hours": 7.4,
    "topic": "Macro & geopolitics"
   },
   {
@@ -126,17 +126,17 @@
    "headline": "Dubai property market sees increased choices and competitive offers",
    "summary": "Buyers in Dubai now face a wider selection of properties alongside competitive pricing offers. Market conditions are shifting to provide more options.",
    "why": "It reflects current buyer conditions and inventory variety.",
-   "age_hours": 16.1,
+   "age_hours": 17.3,
    "topic": "Supply & market reports"
   }
  ],
  "window_hours": 24,
- "count_relevant": 14,
- "count_fetched": 255,
+ "count_relevant": 12,
+ "count_fetched": 259,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-08T13:31+04:00",
- "saved_at": "2026-11-08T13:31+04:00"
+ "as_of": "2026-11-08T14:46+04:00",
+ "saved_at": "2026-11-08T14:46+04:00"
 }
