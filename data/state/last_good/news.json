@@ -20,7 +20,7 @@
    "headline": "Abu Dhabi property deals top Dh171 billion in nine months",
    "summary": "Abu Dhabi's real estate market experienced a strong surge in activity. Total transaction values crossed significant milestones during the period.",
    "why": "It reports major sales volume increases in the UAE capital.",
-   "age_hours": 17.9,
+   "age_hours": 20.2,
    "topic": "abu dhabi",
    "more": 3
   },
@@ -41,14 +41,13 @@
     "TradeArabia",
     "Zawya",
     "UA.NEWS",
-    "\u0645\u0643\u062a\u0628 \u0623\u0628\u0648\u0638\u0628\u064a \u0627\u0644\u0625\u0639\u0644\u0627\u0645\u064a",
     "Gulf Today",
     "Emirates 24|7"
    ],
    "headline": "Abu Dhabi property transactions increase by 76.1% in nine months",
    "summary": "Total real estate transaction values in Abu Dhabi reached AED 171.26 billion. The sharp rise underscores sustained investor demand.",
    "why": "It provides official market performance figures for the capital.",
-   "age_hours": 18.0,
+   "age_hours": 20.3,
    "topic": "abu dhabi"
   },
   {
@@ -70,7 +69,7 @@
    "headline": "Dubai outlines eligible family members for retiree 5-year Golden Visas",
    "summary": "Authorities have specified which relatives can secure residence permits via retirees holding the 5-year Golden Visa. This update clarifies sponsorship rules for aging investors.",
    "why": "It clarifies residency eligibility rules for family members of retirees.",
-   "age_hours": 16.9,
+   "age_hours": 19.2,
    "topic": "golden visa"
   },
   {
@@ -89,7 +88,7 @@
    "headline": "UAE clarifies family residency status upon a Golden Visa holder's death",
    "summary": "Guidelines have been released explaining procedures for family members when a primary Golden Visa holder passes away. This provides legal certainty for dependents.",
    "why": "It outlines important residency regulations for dependents of visa holders.",
-   "age_hours": 17.7,
+   "age_hours": 19.9,
    "topic": "golden visa"
   },
   {
@@ -108,27 +107,8 @@
    "headline": "Proptech Association and Changer Club invest in Dubai real estate tech",
    "summary": "Two groups are partnering to fund technological innovations supporting Dubai's property sector. These investments target the next phase of market development.",
    "why": "It highlights technology investments shaping the local property sector.",
-   "age_hours": 3.9,
+   "age_hours": 6.1,
    "topic": "Macro & geopolitics"
-  },
-  {
-   "id": "ccce96e30e98",
-   "title": "Dubai tenants receive fire safety notice over candles, incense, fireworks ahead of Diwali",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTWRRWEtjTFVSS1Y1QWJMcDlFdHBuX2x0VUItay13N2c3RWJaSE9xY1RHSURyUzNhZWhpbHRPZlJzLUt3eFRTT05NZUFkS0xhQUUyeU52ekl5NThMMUtqYVVWcjRRVm5KSXh2TnowREJIS2lQYlEycklDaG9jdTFFXzJPdW5wTHhzbzJ6NFg1OWxBNmVzMzMyUDlKcVFZUdIBngFBVV95cUxQTWRRWEtjTFVSS1Y1QWJMcDlFdHBuX2x0VUItay13N2c3RWJaSE9xY1RHSURyUzNhZWhpbHRPZlJzLUt3eFRTT05NZUFkS0xhQUUyeU52ekl5NThMMUtqYVVWcjRRVm5KSXh2TnowREJIS2lQYlEycklDaG9jdTFFXzJPdW5wTHhzbzJ6NFg1OWxBNmVzMzMyUDlKcVFZUQ?oc=5",
-   "source": "Khaleej Times",
-   "kind": "search",
-   "published": "2026-11-07T12:29+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Reminds residents of existing safety protocols.",
-   "watch": false,
-   "headline": "Dubai tenants warned about fire safety rules",
-   "summary": "Authorities issued fire safety guidelines to residents regarding candles and incense. The notice comes ahead of upcoming festive celebrations.",
-   "why": "Tenants need to be aware of safety regulations to avoid penalties and accidents.",
-   "age_hours": 22.8,
-   "topic": "Regulation & fees"
   },
   {
    "id": "8dac1953577e",
@@ -146,17 +126,17 @@
    "headline": "Dubai property market sees increased choices and competitive offers",
    "summary": "Buyers in Dubai now face a wider selection of properties alongside competitive pricing offers. Market conditions are shifting to provide more options.",
    "why": "It reflects current buyer conditions and inventory variety.",
-   "age_hours": 13.8,
+   "age_hours": 16.1,
    "topic": "Supply & market reports"
   }
  ],
  "window_hours": 24,
- "count_relevant": 15,
+ "count_relevant": 14,
  "count_fetched": 255,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-08T11:17+04:00",
- "saved_at": "2026-11-08T11:17+04:00"
+ "as_of": "2026-11-08T13:31+04:00",
+ "saved_at": "2026-11-08T13:31+04:00"
 }
