@@ -289,6 +289,42 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Criminal asset forfeiture without market impact."
+  },
+  "ccce96e30e98": {
+   "relevant": true,
+   "headline": "Dubai tenants warned about fire safety rules",
+   "summary": "Authorities issued fire safety guidelines to residents regarding candles and incense. The notice comes ahead of upcoming festive celebrations.",
+   "why": "Tenants need to be aware of safety regulations to avoid penalties and accidents.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Reminds residents of existing safety protocols."
+  },
+  "a26ae35d9001": {
+   "relevant": false,
+   "headline": "Turkey targets massive energy investments",
+   "summary": "Turkey announced a long-term energy investment roadmap aiming for $500 billion by 2040.",
+   "why": "This is about Turkey's national energy sector rather than UAE real estate.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "No direct link to local property markets."
+  },
+  "eb392fdbf4bc": {
+   "relevant": true,
+   "headline": "Illegal nurseries shut down in Dubai residences",
+   "summary": "Police closed thirty-three unlicensed childcare facilities operating inside residential buildings. Authorities arrested several individuals involved in running these unauthorized operations.",
+   "why": "Highlights enforcement actions regarding commercial activities within residential properties.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Enforces building use regulations without affecting general market supply."
+  },
+  "02f916bc9420": {
+   "relevant": false,
+   "headline": "Aldar sponsors golf tournament in Abu Dhabi",
+   "summary": "Aldar takes the title role for the opening of the Race to Dubai Play-Offs.",
+   "why": "This is a sports sponsorship and marketing event, not real estate news.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Sponsorship activities do not impact property buyers or market fundamentals."
   }
  }
 }

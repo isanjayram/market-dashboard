@@ -203,5 +203,33 @@
 "impact_reason": "Offers general market observation without hard data.",
 "watch": false,
 "topic": "Supply & market reports"
+},
+{
+"id": "ccce96e30e98",
+"headline": "Dubai tenants warned about fire safety rules",
+"summary": "Authorities issued fire safety guidelines to residents regarding candles and incense. The notice comes ahead of upcoming festive celebrations.",
+"why": "Tenants need to be aware of safety regulations to avoid penalties and accidents.",
+"source": "Khaleej Times",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTWRRWEtjTFVSS1Y1QWJMcDlFdHBuX2x0VUItay13N2c3RWJaSE9xY1RHSURyUzNhZWhpbHRPZlJzLUt3eFRTT05NZUFkS0xhQUUyeU52ekl5NThMMUtqYVVWcjRRVm5KSXh2TnowREJIS2lQYlEycklDaG9jdTFFXzJPdW5wTHhzbzJ6NFg1OWxBNmVzMzMyUDlKcVFZUdIBngFBVV95cUxQTWRRWEtjTFVSS1Y1QWJMcDlFdHBuX2x0VUItay13N2c3RWJaSE9xY1RHSURyUzNhZWhpbHRPZlJzLUt3eFRTT05NZUFkS0xhQUUyeU52ekl5NThMMUtqYVVWcjRRVm5KSXh2TnowREJIS2lQYlEycklDaG9jdTFFXzJPdW5wTHhzbzJ6NFg1OWxBNmVzMzMyUDlKcVFZUQ?oc=5",
+"published": "2026-11-07T12:29+04:00",
+"category": "Regulation & fees",
+"impact": "Low",
+"impact_reason": "Reminds residents of existing safety protocols.",
+"watch": false,
+"topic": "Regulation & fees"
+},
+{
+"id": "eb392fdbf4bc",
+"headline": "Illegal nurseries shut down in Dubai residences",
+"summary": "Police closed thirty-three unlicensed childcare facilities operating inside residential buildings. Authorities arrested several individuals involved in running these unauthorized operations.",
+"why": "Highlights enforcement actions regarding commercial activities within residential properties.",
+"source": "The National",
+"link": "https://www.thenationalnews.com/news/uae/2026/11/06/dubai-police-shut-down-33-illegal-nurseries-operating-in-residential-buildings/",
+"published": "2026-11-06T13:48+04:00",
+"category": "Regulation & fees",
+"impact": "Low",
+"impact_reason": "Enforces building use regulations without affecting general market supply.",
+"watch": false,
+"topic": "Regulation & fees"
 }
 ]
