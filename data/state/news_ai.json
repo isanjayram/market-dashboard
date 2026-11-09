@@ -199,6 +199,78 @@
    "category": "Supply & market reports",
    "impact": "Medium",
    "impact_reason": "Demonstrates significant capital growth in the emirate."
+  },
+  "8e4ce61684cf": {
+   "relevant": true,
+   "headline": "BlackBrick Property expands Dubai real estate ambitions internationally",
+   "summary": "BlackBrick Property is taking its Dubai real estate ambitions to a global scale with an international launch.",
+   "why": "It shows local developers expanding their reach abroad.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Highlights broader international expansion by a local property firm."
+  },
+  "d355b83b1efa": {
+   "relevant": true,
+   "headline": "Kasumigaseki Properties launches new sales centre in Dubai",
+   "summary": "Kasumigaseki Properties Development has unveiled a custom, in-house designed sales centre in Dubai.",
+   "why": "It demonstrates ongoing investment in local developer sales infrastructure.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Reflects new sales infrastructure investments in the market."
+  },
+  "1433fb11b5b2": {
+   "relevant": true,
+   "headline": "Abu Dhabi property transactions surge 76% to Dh171bn",
+   "summary": "Abu Dhabi's real estate deal values spiked by over three quarters in the first nine months of 2026. Momentum held steady despite wider uncertainties.",
+   "why": "It provides significant market performance data for the UAE capital.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Shows massive capital growth in the regional property sector."
+  },
+  "6b6fa802814c": {
+   "relevant": false,
+   "headline": "India Affordable Housing Market and Digital Platforms",
+   "summary": "A look at India's affordable housing sector and digital property platforms.",
+   "why": "The news focuses on India rather than the UAE property market.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Irrelevant to local Dubai real estate operations."
+  },
+  "b5dfe06baaa8": {
+   "relevant": false,
+   "headline": "Sharjah Chamber highlights global brand attraction plans",
+   "summary": "Sharjah Chamber outlines plans to attract global brands across retail, real estate, and hospitality.",
+   "why": "The article is too broad and lacks specific real estate market data.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Too broad to impact current property buyer decisions."
+  },
+  "060ea3ae9eab": {
+   "relevant": false,
+   "headline": "DET and Dubai Future Foundation launch Intellectual Property Clinics",
+   "summary": "New strategy-first intellectual property clinics aim to help Emirati founders protect and grow brands.",
+   "why": "The report focuses on brand IP protection rather than real estate.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Pertains to business brand protection, not property."
+  },
+  "92a4655bbdc7": {
+   "relevant": false,
+   "headline": "Cultural destinations reshape Abu Dhabi property market",
+   "summary": "Cultural destinations are playing a key role in reshaping the property market in Abu Dhabi.",
+   "why": "It is a general lifestyle and cultural opinion piece.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Offers general commentary without hard market metrics."
+  },
+  "a102191b35a8": {
+   "relevant": true,
+   "headline": "Abu Dhabi property transactions rise to $46.66bln",
+   "summary": "The total value of Abu Dhabi real estate transactions increased by 76.1% during the first nine months.",
+   "why": "It delivers important financial metrics on regional market growth.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Demonstrates strong transaction growth across the UAE."
   }
  }
 }
