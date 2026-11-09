@@ -352,6 +352,33 @@
    "category": "Macro & geopolitics",
    "impact": "Medium",
    "impact_reason": "Indicates growing foreign capital and regional market confidence."
+  },
+  "a926f4a2e5f0": {
+   "relevant": true,
+   "headline": "Emaar launches AED 12bn Dubai Creek Harbour office district",
+   "summary": "Emaar has introduced a massive new commercial hub named Dubai Square at Dubai Creek Harbour. The project carries an estimated value of AED 12 billion.",
+   "why": "It introduces significant new commercial inventory to a major master community.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Adds major commercial supply to the market."
+  },
+  "91665a9e5574": {
+   "relevant": true,
+   "headline": "Maserati plans branded residential island project in Dubai",
+   "summary": "Maserati is developing a branded residential community featuring 840 homes on the World Islands. This project brings ultra-luxury branded real estate to a unique offshore location.",
+   "why": "It expands the luxury branded residence segment in Dubai.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Expands luxury branded supply in Dubai."
+  },
+  "a96e50100029": {
+   "relevant": true,
+   "headline": "New residential deliveries showcase maturity of Dubai's property sector",
+   "summary": "Recent residential completions by Arabian Gulf Properties highlight the growing maturity and variety within Dubai's housing market. These new units add further depth to current supply metrics.",
+   "why": "It reflects ongoing supply evolution and market stabilization.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects ongoing market maturity and supply growth."
   }
  }
 }

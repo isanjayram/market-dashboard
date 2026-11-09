@@ -2029,5 +2029,32 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"a926f4a2e5f0": {
+"id": "a926f4a2e5f0",
+"title": "Emaar launches AED 12bn Dubai Creek Harbour office district",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWG1ROUhfc052bnVOTUk0N2cxR1BJZjRxV0VCd1Rub2NRbHNkUGdlQV9VazlPRFhJTXRjd2wzeFdpb3ZGQ2NxeWtjRE03Uk5Xei02UndhMUNFOGFIc3c5RzZWcnIydHltdEV4X3hwOXFtUG52VHVFRHJCYkJiaWF4ckJLaUx6VFhpX1BRSU9NbXZtSVlJNC05TVhKVzNrYmZEdUlWU0R6RjFNM0I1VkMwbGNIWUFpYTg4OWV2MlZueElscWJRSy1BRkln?oc=5",
+"source": "Construction Week Online",
+"category": "Developer news",
+"published": "2026-11-09T14:25+04:00",
+"first_seen": "2026-11-09",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": {
+"name": "Dubai Metro Blue Line",
+"status": "under construction; opens 9 Sep 2029 (14 stations)",
+"source": "Khaleej Times",
+"url": "https://www.khaleejtimes.com/uae/transport/dubai-metro-blue-line-to-be-completed-september-9-2029-rta-announces"
+},
+"fields": {
+"project": "Dubai Creek Harbour office district",
+"developer": "Emaar",
+"location": "Dubai Creek Harbour",
+"type": "office district",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
