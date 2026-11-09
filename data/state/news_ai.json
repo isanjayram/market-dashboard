@@ -379,6 +379,33 @@
    "category": "Supply & market reports",
    "impact": "Medium",
    "impact_reason": "Reflects ongoing market maturity and supply growth."
+  },
+  "e3588de6b933": {
+   "relevant": true,
+   "headline": "IREIS 2026 Launches as UAE Property Market Accelerates",
+   "summary": "The property exhibition has commenced in Abu Dhabi. It highlights the ongoing acceleration of the UAE real estate sector.",
+   "why": "This event reflects broader market sentiment and investment activity across the Emirates.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "General exhibition news with limited direct market change."
+  },
+  "3af003822bea": {
+   "relevant": true,
+   "headline": "October 2026 Trends Highlight Dubai's Property Performance",
+   "summary": "New insights outline the latest movements in Dubai's real estate sector for October 2026. These trends provide a clear picture of current market activity.",
+   "why": "Understanding monthly trends helps agents advise clients on current pricing and demand.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Provides valuable market data for industry professionals."
+  },
+  "00090c5cfd9b": {
+   "relevant": true,
+   "headline": "PRYPCO Expands Dubai Operations Into Mortgages and Tokenization",
+   "summary": "The firm is growing its footprint in Dubai's real estate ecosystem. Its new services range from traditional home loans to digital property tokens.",
+   "why": "Diversified financing and tokenization options impact how buyers access property investment.",
+   "category": "Rates & mortgages",
+   "impact": "Medium",
+   "impact_reason": "Expands financing and investment avenues for buyers."
   }
  }
 }
