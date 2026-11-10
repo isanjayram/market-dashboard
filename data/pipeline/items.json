@@ -2127,5 +2127,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"4f1eebb06020": {
+"id": "4f1eebb06020",
+"title": "Nakheel and BEYOND lead large-scale property launches in Dubai",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ1hTQW4tRmdQdDBFSkhUbkJKRWVTanU4MVZEZDNPSk9fSGdyNmtScWF5cURBSGM0SnhZN3NQb0VtdFl4TldEU081RmdoSTF0M2VobjljMU9XNjZVRU1JZXdXYkhOejRPeDBScUVFYU8xZGFRS09maWFiLWQ0YmoyendGV1M5ajJXNDkxdFVvcURLbDR2c2JJMzJn?oc=5",
+"source": "Dubai Chronicle",
+"category": "Developer news",
+"published": "2026-11-10T11:48+04:00",
+"first_seen": "2026-11-10",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": "Dubai",
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

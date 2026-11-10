@@ -379,6 +379,78 @@
    "category": "Supply & market reports",
    "impact": "High",
    "impact_reason": "Directly influences long-term property demand and market sentiment."
+  },
+  "6ca10c6525bb": {
+   "relevant": true,
+   "headline": "New pedestrian bridge opens near Burj Khalifa Metro station",
+   "summary": "A 110-metre walkway now links the Coca-Cola Arena directly to the Dubai Mall Metro station. The RTA built this bridge to enhance local pedestrian access.",
+   "why": "Better pedestrian access improves overall neighborhood convenience and appeal.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Enhances community connectivity and transit convenience."
+  },
+  "ece9cff870d0": {
+   "relevant": true,
+   "headline": "New bridge connects Dubai Mall Metro to Coca-Cola Arena",
+   "summary": "A fresh 110-metre bridge now links the Dubai Mall Metro station directly with the Coca-Cola Arena. This project improves walkability in the busy district.",
+   "why": "Infrastructure upgrades generally boost the attractiveness of surrounding real estate.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Improves area walkability and transit access."
+  },
+  "cee20d5d1d14": {
+   "relevant": true,
+   "headline": "BEYOND Developments launches AED 3 billion SHIONE at Dubai Islands",
+   "summary": "BEYOND Developments has introduced SHIONE, a massive twin-building residential project situated at SIORA on Dubai Islands. Valued at AED 3 billion, it adds significant inventory to the coastal market.",
+   "why": "Large luxury project launches signal strong developer confidence and expand supply.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Adds major residential inventory to the market."
+  },
+  "d108343b3922": {
+   "relevant": true,
+   "headline": "Dubai updates visa policies and relaxes property investor criteria",
+   "summary": "Dubai has revised its visa framework for 2026 by expanding visa-on-arrival options and easing property-related residency rules. These adjustments aim to attract more international investors and residents.",
+   "why": "Easier property visa rules directly encourage foreign real estate investment.",
+   "category": "Regulation & fees",
+   "impact": "High",
+   "impact_reason": "Eases property investor eligibility and boosts buyer interest."
+  },
+  "105844503c04": {
+   "relevant": true,
+   "headline": "Better transport links drive strong demand at Jumeirah Golf Estates",
+   "summary": "Jumeirah Golf Estates is seeing rising property demand alongside recent transport improvements in the area. Portal data highlights steady buyer interest and asking prices across the community.",
+   "why": "Infrastructure upgrades often translate to higher property demand and values.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects how infrastructure drives localized property demand."
+  },
+  "2c71dd576fa9": {
+   "relevant": false,
+   "headline": "UAE agent closes major deal in first month",
+   "summary": "A real estate agent in the UAE successfully closed a high-value transaction within her first month on the job.",
+   "why": "This is a human interest career story without broader market news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Human interest story with no broader market impact."
+  },
+  "4f1eebb06020": {
+   "relevant": true,
+   "headline": "Nakheel and BEYOND lead large-scale property launches in Dubai",
+   "summary": "Major developers like Nakheel and BEYOND are driving a market trend back toward large-scale projects. These substantial developments expand options for buyers across the emirate.",
+   "why": "Large project launches reflect developer confidence and shape upcoming housing supply.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Indicates a market shift toward large-scale developments."
+  },
+  "730b9a546621": {
+   "relevant": false,
+   "headline": "Guide published for owners selling property fast in UAE",
+   "summary": "A resource has been released offering tips for property owners who need to sell real estate quickly in the UAE.",
+   "why": "This is promotional advice rather than hard market data or regulation.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Promotional content offering general selling tips."
   }
  }
 }
