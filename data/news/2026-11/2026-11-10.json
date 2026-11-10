@@ -320,5 +320,132 @@
 "impact_reason": "Improves area walkability and transit access.",
 "watch": false,
 "topic": "metro"
+},
+{
+"id": "c6f661aa2a52",
+"headline": "Emaar Launches $3.27 Billion Office District at Dubai Creek Harbour",
+"summary": "Emaar has introduced a massive new commercial office district within Dubai Creek Harbour.",
+"why": "New commercial districts alter the supply dynamics of Dubai's business real estate.",
+"source": "Zawya",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSWdJblBCaDdlYjhTNlZIcHRURjRqQlprbEdaOXd2Mjh1REx0U3dNUWM3eUE0Qy1fd21raS1qQV9PeVphaDcxYlJHQkpDeVp3MktZQVU4b09QRjlYaGJRRGJZVnhHOE5QcHJMY0g0Q1RjUjN4elZwS0hObkhXSXJsVFhwaGx3ZXFSNF8yQ2llX1Z1c0lYWThYcEg4bm1WUUticWNMNjQ3UmZsa3VzeEx4MkdoV0lONThSRTNNTWs2dw?oc=5",
+"published": "2026-11-10T07:46+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Increases commercial real estate supply in Dubai.",
+"watch": true,
+"also": [
+"Zawya",
+"Construction Week Online"
+],
+"topic": "emaar"
+},
+{
+"id": "b6ff86c9aa12",
+"headline": "Dubai Approves $3 Billion Metro Extension to Al Maktoum Airport",
+"summary": "Sheikh Hamdan endorsed major infrastructure projects worth over AED11 billion. This includes extending the metro line to Al Maktoum International Airport City by 2031.",
+"why": "Major transit expansions significantly boost nearby property values and development potential.",
+"source": "Economy Middle East",
+"link": "https://economymiddleeast.com/news/sheikh-hamdan-approves-strategic-projects-worth-over-3-billion-metro-extension-to-al-maktoum-international-airport-city/?utm_source=rss&utm_medium=rss&utm_campaign=sheikh-hamdan-approves-strategic-projects-worth-over-3-billion-metro-extension-to-al-maktoum-international-airport-city",
+"published": "2026-11-10T13:58+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Boosts long-term property values and transport connectivity.",
+"watch": false,
+"more": 1,
+"topic": "airport"
+},
+{
+"id": "3ae889818b38",
+"headline": "Brent Crude Drops Below $90 Amid Easing Tensions",
+"summary": "Oil prices dipped under $90 a barrel for the first time since August following remarks by US leadership regarding regional stability. Market benchmarks recovered slightly after the initial slide.",
+"why": "Oil price movements influence overall economic sentiment and investor confidence in the UAE.",
+"source": "The National",
+"link": "https://www.thenationalnews.com/business/energy/2026/11/10/brent-falls-below-90-a-barrel-for-the-first-time-since-august/",
+"published": "2026-11-10T13:56+04:00",
+"category": "Macro & geopolitics",
+"impact": "Medium",
+"impact_reason": "Shifts regional economic sentiment and investor confidence.",
+"watch": false,
+"more": 3,
+"topic": "Macro & geopolitics"
+},
+{
+"id": "f642437ccca3",
+"headline": "Route 2020 Metro Line to Reach Al Maktoum Airport by 2031",
+"summary": "Dubai leadership greenlit transport initiatives totalling upwards of Dh11 billion. The planned metro extension aims to link the city directly to the emerging airport hub.",
+"why": "Improved connectivity enhances the real estate appeal of southern Dubai districts.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/uae/dubai/dubai-metro-to-extend-to-al-maktoum-airport-city-by-2031-1.500742291",
+"published": "2026-11-10T13:26+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Enhances appeal of southern real estate corridors.",
+"watch": false,
+"topic": "airport"
+},
+{
+"id": "0dae19d23759",
+"headline": "Nakheel Launches Palm Springs Mega Development Near Palm Jebel Ali",
+"summary": "Nakheel introduced a vast 3.8 million square metre residential master community. The project will accommodate 50,000 residents with a diverse mix of villas, townhouses, and apartments.",
+"why": "Large master community launches signal sustained developer confidence and expand housing supply.",
+"source": "The National",
+"link": "https://www.thenationalnews.com/business/property/2026/11/10/nakheel-unveils-mega-development-for-50000-residents-in-dubai/",
+"published": "2026-11-10T12:53+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Expands housing supply and highlights developer confidence.",
+"watch": false,
+"also": [
+"The National",
+"The National",
+"The National (property)"
+],
+"topic": "nakheel"
+},
+{
+"id": "868d5b540ae0",
+"headline": "Dubai Metro Route to Connect With Al Maktoum Airport",
+"summary": "Authorities announced a Dh11 billion infrastructure package that brings the metro network to Al Maktoum Airport City.",
+"why": "Infrastructure expansion directly impacts future urban growth and property demand.",
+"source": "Travels Dubai",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQV9YN0Qtb20wY0R2ZnpxZldNOUZIc2hOSGFlR09KMHV3Q1ZHUlkyNzFwWUw4V2lzYU90dms4Mlp4VzRkZkVzM1JJYWdqVDV3bWlXNTFBUDZjdjdmdXBCc3cxVFRDczJMSEpBOTBIcWdKNlcxOHEwWXlDejZLLWx5aC0tOXRWalBOcU1TWFhHRDNDME9vdTdNUHd0UmJjcU9Y?oc=5",
+"published": "2026-11-10T13:37+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Drives future urban growth and property demand.",
+"watch": false,
+"topic": "airport"
+},
+{
+"id": "6e1fb2e06c70",
+"headline": "Beyond Developments Launches Shione Project on Dubai Islands",
+"summary": "Beyond Developments has officially introduced its new residential offering named Shione located at Dubai Islands.",
+"why": "New residential launches add to the growing inventory of coastal properties in Dubai.",
+"source": "Middle East Construction News",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV1dKV2o1VjhFTm13SVpTdUZPNzQwNkVacXN1eXhMcmRDT0dNZFZkNVBIWDljTHFZX0QySDFEWWctRjZMRVhsaUlMeUNVNzRvTFpRem9zTjZxakEtQ0tGejd2d2RRUG9sWU9hYVRUVGdsSURzMVpiRDVVSWNQQ1NZT2lramdkTHM1RkctTlFuYw?oc=5",
+"published": "2026-11-10T10:26+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Adds new coastal residential inventory to the market.",
+"watch": false,
+"also": [
+"MEP Middle East",
+"Zawya"
+],
+"topic": "Developer news"
+},
+{
+"id": "27e03736724e",
+"headline": "UAE Property and Industrial Firms Eye Public Listings",
+"summary": "The capital markets regulator reported growing interest from local property and industrial companies regarding initial public offerings.",
+"why": "Increased public listings reflect corporate health and financial market liquidity.",
+"source": "Khaleej Times",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUW5aYzFub2FDa1ZLT1dhdEcxaktSX2NIMXlPb09ETUk2UDIwbFFfc2NKRXhjbUREZ0VpUzczUkpleGNabW1jZTl5Zm9oR3dGSUhuYmlUYlBlUGUzSF9GMzFreDBpb1lmby1LdzZSdE9pRUNGRDhRQkFDS1gwc2o5OHVCSGkxWFpGeGpzc1g4eWdsMHlaVkNEb2VGbUYwWXA2S3NPNG56dDlTREU5alh3YmM4MV9TZGtSY0hBOV9UazRNSi1x0gHEAUFVX3lxTE1RblpjMW5vYUNrVktPV2F0RzFqS1JfY0gxeU9vT0RNSTZQMjBsUV9zY0pFeGNtRERnRWlTNzNSSmV4Y1ptbWNlOXlmb2hHd0ZJSG5iaVRiUGVQZTNIX0YzMWt4MGlvWWZvLUt3NlJ0T2lFQ0ZEOFFCQUNLWDBzajk4dUJIaTFYWkZ4anNzWDh5Z2wweVpWQ0RvZUZtRjBZcDZLc080bnp0OVNERTlqWHdiYzgxX1Nka1JjSEE5X1RrNE1KLXE?oc=5",
+"published": "2026-11-10T12:16+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "Reflects corporate health without directly altering buyer costs.",
+"watch": false,
+"topic": "Macro & geopolitics"
 }
 ]

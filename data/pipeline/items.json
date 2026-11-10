@@ -2149,5 +2149,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"b6ff86c9aa12": {
+"id": "b6ff86c9aa12",
+"title": "Dubai Approves $3 Billion Metro Extension to Al Maktoum Airport",
+"link": "https://economymiddleeast.com/news/sheikh-hamdan-approves-strategic-projects-worth-over-3-billion-metro-extension-to-al-maktoum-international-airport-city/?utm_source=rss&utm_medium=rss&utm_campaign=sheikh-hamdan-approves-strategic-projects-worth-over-3-billion-metro-extension-to-al-maktoum-international-airport-city",
+"source": "Economy Middle East",
+"category": "Infrastructure",
+"published": "2026-11-10T13:58+04:00",
+"first_seen": "2026-11-10",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
