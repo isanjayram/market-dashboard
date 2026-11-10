@@ -18,7 +18,7 @@
    "headline": "Dubai tenants can now split rental payments into smaller instalments",
    "summary": "Eligible residents in select large residential communities can avoid large upfront payments. A new scheme allows renters to break down their financial obligations.",
    "why": "It eases immediate cash flow burdens for tenants living in Dubai Residential communities.",
-   "age_hours": 0.3,
+   "age_hours": 1.3,
    "topic": "rent"
   },
   {
@@ -37,7 +37,7 @@
    "headline": "Dubai updates visa policies and relaxes property investor criteria",
    "summary": "Dubai has revised its visa framework for 2026 by expanding visa-on-arrival options and easing property-related residency rules. These adjustments aim to attract more international investors and residents.",
    "why": "Easier property visa rules directly encourage foreign real estate investment.",
-   "age_hours": 4.6,
+   "age_hours": 5.6,
    "topic": "Regulation & fees"
   },
   {
@@ -60,7 +60,7 @@
    "headline": "Emaar Launches $3.27 Billion Office District at Dubai Creek Harbour",
    "summary": "Emaar has introduced a massive new commercial office district within Dubai Creek Harbour.",
    "why": "New commercial districts alter the supply dynamics of Dubai's business real estate.",
-   "age_hours": 8.0,
+   "age_hours": 9.0,
    "topic": "emaar"
   },
   {
@@ -79,13 +79,13 @@
    "headline": "Dubai Metro expansion to Al Maktoum Airport confirmed for 2031",
    "summary": "Authorities have revealed the opening date for the new metro route. This project will significantly improve transit links to the airport area.",
    "why": "It enhances long-term connectivity and accessibility for an emerging major airport hub.",
-   "age_hours": 1.0,
+   "age_hours": 1.9,
    "topic": "airport",
-   "more": 2
+   "more": 3
   },
   {
    "id": "d612532be955",
-   "title": "Sheikh Hamdan approves Dubai Metro line to Al Maktoum International Airport",
+   "title": "Dubai to launch Metro line to Al Maktoum Airport to boost connectivity",
    "link": "https://www.thenationalnews.com/news/uae/2026/11/10/sheikh-hamdan-approves-dubai-metro-line-to-al-maktoum-international-airport-city/",
    "source": "The National",
    "kind": "outlet",
@@ -96,14 +96,10 @@
    "impact": "Medium",
    "impact_reason": "Major infrastructure greenlight boosts regional appeal and connectivity.",
    "watch": false,
-   "also": [
-    "Economy Middle East",
-    "ARN News Centre"
-   ],
    "headline": "Dubai Metro line to Al Maktoum International Airport approved",
    "summary": "Crown Prince Sheikh Hamdan approved the metro expansion linking the network to the airport. Operations are scheduled to begin in 2031.",
    "why": "It officially greenlights a massive infrastructure milestone that will boost regional connectivity.",
-   "age_hours": 1.4,
+   "age_hours": 2.3,
    "topic": "airport"
   },
   {
@@ -122,9 +118,9 @@
    "headline": "Brent Crude Drops Below $90 Amid Easing Tensions",
    "summary": "Oil prices dipped under $90 a barrel for the first time since August following remarks by US leadership regarding regional stability. Market benchmarks recovered slightly after the initial slide.",
    "why": "Oil price movements influence overall economic sentiment and investor confidence in the UAE.",
-   "age_hours": 1.9,
+   "age_hours": 2.8,
    "topic": "Macro & geopolitics",
-   "more": 7
+   "more": 10
   },
   {
    "id": "0dae19d23759",
@@ -147,7 +143,7 @@
    "headline": "Nakheel Launches Palm Springs Mega Development Near Palm Jebel Ali",
    "summary": "Nakheel introduced a vast 3.8 million square metre residential master community. The project will accommodate 50,000 residents with a diverse mix of villas, townhouses, and apartments.",
    "why": "Large master community launches signal sustained developer confidence and expand housing supply.",
-   "age_hours": 2.9,
+   "age_hours": 3.9,
    "topic": "nakheel"
   },
   {
@@ -166,9 +162,9 @@
    "headline": "Maserati Island launched as Dubai's first Maserati branded residential project",
    "summary": "Maserati and SAMANA COLLECTA have partnered to introduce a branded residential destination. The development brings luxury automotive branding into the local property market.",
    "why": "It introduces a new branded luxury real estate offering to Dubai's property landscape.",
-   "age_hours": 3.7,
+   "age_hours": 4.7,
    "topic": "Developer news",
-   "more": 2
+   "more": 1
   },
   {
    "id": "6ca10c6525bb",
@@ -190,7 +186,7 @@
    "headline": "New pedestrian bridge opens near Burj Khalifa Metro station",
    "summary": "A 110-metre walkway now links the Coca-Cola Arena directly to the Dubai Mall Metro station. The RTA built this bridge to enhance local pedestrian access.",
    "why": "Better pedestrian access improves overall neighborhood convenience and appeal.",
-   "age_hours": 5.5,
+   "age_hours": 6.4,
    "topic": "metro"
   },
   {
@@ -209,17 +205,17 @@
    "headline": "Abu Dhabi Real Estate Sales Double Driven by Foreign Buyers",
    "summary": "Property transactions in Abu Dhabi climbed to $32.5 billion. Overseas investment into the emirate spiked by 131 percent.",
    "why": "It highlights major capital growth and high overseas interest in the capital's real estate sector.",
-   "age_hours": 10.6,
+   "age_hours": 11.6,
    "topic": "abu dhabi"
   }
  ],
  "window_hours": 24,
- "count_relevant": 28,
- "count_fetched": 286,
+ "count_relevant": 31,
+ "count_fetched": 293,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-10T15:47+04:00",
- "saved_at": "2026-11-10T15:47+04:00"
+ "as_of": "2026-11-10T16:44+04:00",
+ "saved_at": "2026-11-10T16:44+04:00"
 }

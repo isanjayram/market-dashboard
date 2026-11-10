@@ -199,11 +199,11 @@
    },
    {
     "worth": 8000000.0,
-    "area": "Majan",
-    "type": "4BR villa",
+    "area": "Business Bay",
+    "type": "2BR apartment",
     "reg": "ready",
-    "project": "Albarari Ixora Villas",
-    "sqft": 2368
+    "project": "The Opus By Omniyat",
+    "sqft": 2774
    }
   ],
   "largest_land": {
@@ -1590,5 +1590,5 @@
   "fetched_at": "2026-11-10T09:23+04:00",
   "test": false
  },
- "saved_at": "2026-11-10T15:47+04:00"
+ "saved_at": "2026-11-10T16:43+04:00"
 }

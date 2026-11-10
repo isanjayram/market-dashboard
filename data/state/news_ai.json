@@ -577,6 +577,24 @@
    "category": "Developer news",
    "impact": "Medium",
    "impact_reason": "Adds significant new residential supply to waterfront market."
+  },
+  "b9951a13bc7c": {
+   "relevant": true,
+   "headline": "UAE local stocks rise with banking and real estate support",
+   "summary": "Local equities are climbing higher, bolstered by strength in the banking and property sectors.",
+   "why": "It reflects positive market sentiment across the real estate and financial sectors.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "General market growth with minimal direct transactional impact."
+  },
+  "78a8cde33426": {
+   "relevant": false,
+   "headline": "Panel discussion on the future of GCC logistics real estate",
+   "summary": "Industry experts are gathering to discuss the evolution of the logistics property sector in the GCC.",
+   "why": "It focuses on a panel event rather than actionable market news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Event discussion without direct market changes."
   }
  }
 }
