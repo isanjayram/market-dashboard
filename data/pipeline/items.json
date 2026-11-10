@@ -2056,5 +2056,76 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"ecf0a36e9022": {
+"id": "ecf0a36e9022",
+"title": "Emaar Launches $3.27 Billion Office District at Creek Harbour",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPR3ROWTNIOUNMaXRQZTNRcHZieFhKb0VvSTZkcjNlcVZyUlNWMmFRUk9YRWZhN1JwVlBXUXJGNjdZcHRlRER6VkM0SF9KNXBybERJY3JkanNLX1dEODFMR0R1eVE1LTRsWm9FcnNKcnViVnEzUUpwWnAwMzRZSUJoMlVCM2k1Uksyc2p5UkJnYWtjMWMwdmpMU0VSR0ZuOW1LRmh1S0RNOU9Cb0J6NmR6QXcwMmVPT0M5eGhlZno1V18yZUpWZENvSmREMjBkSW80SjFvUk04WjhDUQ?oc=5",
+"source": "TradingView",
+"category": "Developer news",
+"published": "2026-11-10T07:45+04:00",
+"first_seen": "2026-11-10",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": {
+"name": "Dubai Metro Blue Line",
+"status": "under construction; opens 9 Sep 2029 (14 stations)",
+"source": "Khaleej Times",
+"url": "https://www.khaleejtimes.com/uae/transport/dubai-metro-blue-line-to-be-completed-september-9-2029-rta-announces"
+},
+"fields": {
+"project": "Office District at Creek Harbour",
+"developer": "Emaar",
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"1ecb06581e22": {
+"id": "1ecb06581e22",
+"title": "BlackBrick Property expands Dubai real estate internationally",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR1FpYTAtTTZIQ2h5ajJtemtCenF5eUlsLXFOdmtsdmViWEhiLUdrZXY1OXhXZFFzTWUzcFhObzFTb2xXS2UyM3pHWjhiY2lpbXJRRVU0SWdvYnlQT19qRi1wOVZwRnczNXp2d294cFpTQ0ZyRXl2WU1sU0R6bUpXRmplMEt3VHNSUlROaVFmeWxzVktxN3JOcklTWmtOb0NOaEltZzN2b2ZjUHNTajFvT2t5SF9CWWtVdkZxTE1KZU0yMFhLWmVkTFFn?oc=5",
+"source": "Arabian Business",
+"category": "Developer news",
+"published": "2026-11-09T11:37+04:00",
+"first_seen": "2026-11-10",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": "BlackBrick Property",
+"location": "Dubai",
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"906e27b9308d": {
+"id": "906e27b9308d",
+"title": "New Pedestrian Bridge Connects Dubai Metro to Arena",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS1dhSU9zdUNURjdRTHAxNEdOLTRyX0E3N1NKMFAwT1pTb3JQWU5qTWxqSGYzWkQ2SXhhSElXVGJxSWI3YmJqcVZUTWxpVEFHRklNaFJzSXBvRnRwSlVlaW50RlpfMXJJQ1FGMnpOUVNycmNGbGtqRlFQaGwxNHdUT0NqV0ozMVpJZUI1MFV3SEVmSlNoUkRocDlzeHVkM1ZqdnloV2Nld3hRMzk0Y3dQaA?oc=5",
+"source": "ARN News Centre",
+"category": "Infrastructure",
+"published": "2026-11-09T18:48+04:00",
+"first_seen": "2026-11-10",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": "Dubai",
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

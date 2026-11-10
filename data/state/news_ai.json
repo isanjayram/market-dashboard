@@ -1,150 +1,4 @@
 {
- "2026-11-08": {
-  "a58adb06d365": {
-   "relevant": true,
-   "headline": "Dubai outlines eligible family members for retiree 5-year Golden Visas",
-   "summary": "Authorities have specified which relatives can secure residence permits via retirees holding the 5-year Golden Visa. This update clarifies sponsorship rules for aging investors.",
-   "why": "It clarifies residency eligibility rules for family members of retirees.",
-   "category": "Regulation & fees",
-   "impact": "Medium",
-   "impact_reason": "Affects retiree family residency eligibility."
-  },
-  "0f93e077c735": {
-   "relevant": true,
-   "headline": "UAE clarifies family residency status upon a Golden Visa holder's death",
-   "summary": "Guidelines have been released explaining procedures for family members when a primary Golden Visa holder passes away. This provides legal certainty for dependents.",
-   "why": "It outlines important residency regulations for dependents of visa holders.",
-   "category": "Regulation & fees",
-   "impact": "Medium",
-   "impact_reason": "Clarifies legal residency rules for dependents."
-  },
-  "c6e843b2e591": {
-   "relevant": true,
-   "headline": "Abu Dhabi property transactions surge 76% to AED 171.26 billion",
-   "summary": "The capital's real estate sector witnessed massive growth over a nine-month period. Deal values jumped significantly compared to previous figures.",
-   "why": "It highlights robust market growth and rising property demand.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Demonstrates strong capital market growth."
-  },
-  "4f52c0a0eaad": {
-   "relevant": true,
-   "headline": "Proptech Association and Changer Club invest in Dubai real estate tech",
-   "summary": "Two groups are partnering to fund technological innovations supporting Dubai's property sector. These investments target the next phase of market development.",
-   "why": "It highlights technology investments shaping the local property sector.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Focuses on tech investments rather than direct market changes."
-  },
-  "7cb2fb3535a8": {
-   "relevant": false,
-   "headline": "UAE car rental companies must install vehicle trackers under new rules",
-   "summary": "Car rental businesses nationwide must fit approved trackers and register on a unified platform by January 2027.",
-   "why": "The news pertains to car rental regulations rather than real estate.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Irrelevant to property or mortgage markets."
-  },
-  "b3fb975de631": {
-   "relevant": true,
-   "headline": "Abu Dhabi property deals top Dh171 billion in nine months",
-   "summary": "Abu Dhabi's real estate market experienced a strong surge in activity. Total transaction values crossed significant milestones during the period.",
-   "why": "It reports major sales volume increases in the UAE capital.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Reflects strong regional property sales data."
-  },
-  "f9f197d16c29": {
-   "relevant": true,
-   "headline": "Abu Dhabi property transactions increase by 76.1% in nine months",
-   "summary": "Total real estate transaction values in Abu Dhabi reached AED 171.26 billion. The sharp rise underscores sustained investor demand.",
-   "why": "It provides official market performance figures for the capital.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Highlights positive market growth data."
-  },
-  "8dac1953577e": {
-   "relevant": true,
-   "headline": "Dubai property market sees increased choices and competitive offers",
-   "summary": "Buyers in Dubai now face a wider selection of properties alongside competitive pricing offers. Market conditions are shifting to provide more options.",
-   "why": "It reflects current buyer conditions and inventory variety.",
-   "category": "Supply & market reports",
-   "impact": "Low",
-   "impact_reason": "Offers general market observation without hard data."
-  },
-  "7acb01e6c28d": {
-   "relevant": false,
-   "headline": "Fugitive UK fraudster ordered to forfeit Dubai assets",
-   "summary": "A convicted fraudster hiding in Dubai must surrender extensive local property and luxury vehicles.",
-   "why": "This is a criminal case rather than real estate news affecting the broader market.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Criminal asset forfeiture without market impact."
-  },
-  "ccce96e30e98": {
-   "relevant": true,
-   "headline": "Dubai tenants warned about fire safety rules",
-   "summary": "Authorities issued fire safety guidelines to residents regarding candles and incense. The notice comes ahead of upcoming festive celebrations.",
-   "why": "Tenants need to be aware of safety regulations to avoid penalties and accidents.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Reminds residents of existing safety protocols."
-  },
-  "a26ae35d9001": {
-   "relevant": false,
-   "headline": "Turkey targets massive energy investments",
-   "summary": "Turkey announced a long-term energy investment roadmap aiming for $500 billion by 2040.",
-   "why": "This is about Turkey's national energy sector rather than UAE real estate.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "No direct link to local property markets."
-  },
-  "eb392fdbf4bc": {
-   "relevant": true,
-   "headline": "Illegal nurseries shut down in Dubai residences",
-   "summary": "Police closed thirty-three unlicensed childcare facilities operating inside residential buildings. Authorities arrested several individuals involved in running these unauthorized operations.",
-   "why": "Highlights enforcement actions regarding commercial activities within residential properties.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Enforces building use regulations without affecting general market supply."
-  },
-  "02f916bc9420": {
-   "relevant": false,
-   "headline": "Aldar sponsors golf tournament in Abu Dhabi",
-   "summary": "Aldar takes the title role for the opening of the Race to Dubai Play-Offs.",
-   "why": "This is a sports sponsorship and marketing event, not real estate news.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Sponsorship activities do not impact property buyers or market fundamentals."
-  },
-  "9ec87a4f323c": {
-   "relevant": false,
-   "headline": "UAE developers to exhibit properties at IREIS 2026",
-   "summary": "Major property companies plan to display their real estate projects at the upcoming IREIS 2026 exhibition.",
-   "why": "This is a promotional event announcement without direct impact on regulations, rates, or major market shifts.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Standard promotional real estate exhibition announcement."
-  },
-  "d441378ddc00": {
-   "relevant": false,
-   "headline": "Riyadh housing secures SAR 1.1 billion investment",
-   "summary": "Reportage Saudi Arabia commits SAR 1.1 billion to build new family homes in Riyadh. The funding aims to address increasing demand for modern residential properties.",
-   "why": "This news focuses on the Saudi Arabian property market rather than Dubai.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Regional investment outside Dubai."
-  },
-  "4f45fca4ccbe": {
-   "relevant": false,
-   "headline": "UAE developers to exhibit at IREIS 2026",
-   "summary": "Major property developers from the UAE will showcase their latest real estate projects at the upcoming IREIS 2026 exhibition.",
-   "why": "This is an event announcement with no direct impact on Dubai's local market conditions.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Exhibition announcement."
-  }
- },
  "2026-11-09": {
   "3c210a4041cf": {
    "relevant": true,
@@ -406,6 +260,125 @@
    "category": "Rates & mortgages",
    "impact": "Medium",
    "impact_reason": "Expands financing and investment avenues for buyers."
+  }
+ },
+ "2026-11-10": {
+  "f16d20f3675a": {
+   "relevant": true,
+   "headline": "Abu Dhabi Real Estate Sales Double Driven by Foreign Buyers",
+   "summary": "Property transactions in Abu Dhabi climbed to $32.5 billion. Overseas investment into the emirate spiked by 131 percent.",
+   "why": "It highlights major capital growth and high overseas interest in the capital's real estate sector.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Indicates strong market growth and rising foreign capital."
+  },
+  "225e5ee36fb8": {
+   "relevant": true,
+   "headline": "Dubai Property Transactions Rise 18 Percent in October",
+   "summary": "Dubai recorded $9.5 billion in property sales during October. The market is showing a strong rebound in transaction volumes.",
+   "why": "It shows continuing buyer demand and steady market recovery in Dubai.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects positive investor sentiment and robust transactional activity."
+  },
+  "14c327ad0320": {
+   "relevant": true,
+   "headline": "Kasumigaseki Properties Opens New Dubai Sales Centre",
+   "summary": "Kasumigaseki Properties has introduced a new sales facility in Dubai. The launch aims to cater to the local property clientele.",
+   "why": "It marks another international firm expanding its operations within the local market.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Represents standard business expansion without immediate market disruption."
+  },
+  "906e27b9308d": {
+   "relevant": true,
+   "headline": "New Pedestrian Bridge Connects Dubai Metro to Arena",
+   "summary": "A recently opened pedestrian bridge now links the Dubai Mall Metro Station directly to the Coca-Cola Arena.",
+   "why": "Improved connectivity enhances the appeal and accessibility of surrounding real estate.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Enhances local connectivity without changing property laws or prices."
+  },
+  "5f6e2f2841ba": {
+   "relevant": true,
+   "headline": "Dubai Introduces $1,572 Fee for Golden Visa Investor Parents",
+   "summary": "Authorities have established a new fee of $1,572 for parents of Golden Visa investors. This adds an extra cost for families utilizing the residency scheme.",
+   "why": "It directly increases out-of-pocket expenses for investors sponsoring their parents under the visa program.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Directly impacts investor expenses and visa sponsorship costs."
+  },
+  "ecf0a36e9022": {
+   "relevant": true,
+   "headline": "Emaar Launches $3.27 Billion Office District at Creek Harbour",
+   "summary": "Emaar has announced plans for a massive new office district in Dubai Creek Harbour. The project is valued at $3.27 billion.",
+   "why": "It introduces significant commercial supply by a major developer in a key master community.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Expands commercial inventory in a major waterfront development."
+  },
+  "7e1fc5bc98fd": {
+   "relevant": false,
+   "headline": "Dubai Court Orders Sons to Vacate Father's Villa",
+   "summary": "A local court ruled that three sons must leave their father's property due to a lack of residency permission.",
+   "why": "It is a private legal family dispute rather than a market-moving economic or real estate news item.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Isolated legal dispute with no broader market impact."
+  },
+  "1f424e85665e": {
+   "relevant": true,
+   "headline": "IREIS 2026 Launches as UAE Property Boom Accelerates",
+   "summary": "The property boom in the UAE is gathering pace as the IREIS 2026 exhibition begins in Abu Dhabi. The event highlights growing momentum across the sector.",
+   "why": "It signals continued optimism and promotional activity within the national property market.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Exhibition launch reflects existing sentiment without altering fundamentals."
+  },
+  "65a4608fc94e": {
+   "relevant": true,
+   "headline": "Dubai Experiencing Severe Shortage of Student Housing",
+   "summary": "The city currently lacks adequate accommodation options for its growing student population. This gap highlights a potential new niche for residential investors.",
+   "why": "It identifies an emerging investment niche in the rental market.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Highlights a new residential investment opportunity."
+  },
+  "f7d5c93345c8": {
+   "relevant": false,
+   "headline": "Free Guide Published for Fast Property Sales in UAE",
+   "summary": "A new guide has been released to help local owners sell their homes quickly.",
+   "why": "It is promotional material rather than market news.",
+   "category": "Supply & market reports",
+   "impact": "Low",
+   "impact_reason": "It is promotional content with no broader market impact."
+  },
+  "82cddf02fadd": {
+   "relevant": false,
+   "headline": "Raj Khaleel Wins Best Real Estate Agent Award",
+   "summary": "An agent has received a five-star award at the Arabian Property Awards.",
+   "why": "Awards and agent accolades are excluded from the news digest.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Industry awards do not affect property values or policies."
+  },
+  "0d2bd8b2097c": {
+   "relevant": false,
+   "headline": "DET and Foundation Launch IP Clinics for Emirati Founders",
+   "summary": "New clinics have been introduced to assist local founders with intellectual property branding.",
+   "why": "The initiative focuses on business branding rather than real estate.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Intellectual property clinics do not impact real estate."
+  },
+  "8e619d27ede6": {
+   "relevant": true,
+   "headline": "Dubai Population Reaches 4.8 Million, Boosting Housing Demand",
+   "summary": "The emirate has recorded a population milestone of 4.8 million residents. This growth directly drives sustained housing demand across the local market.",
+   "why": "Population growth is a key driver of property demand.",
+   "category": "Supply & market reports",
+   "impact": "High",
+   "impact_reason": "Directly influences long-term property demand and market sentiment."
   }
  }
 }
