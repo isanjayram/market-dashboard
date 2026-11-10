@@ -595,6 +595,24 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Event discussion without direct market changes."
+  },
+  "4168bc9b4230": {
+   "relevant": false,
+   "headline": "Sharjah boosts family housing support and raises marriage grant limits",
+   "summary": "The emirate approved housing aid for over a thousand families. It also increased the financial limit for marriage grants.",
+   "why": "This is a social welfare policy update rather than real estate or investment news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Social welfare update with no direct real estate impact."
+  },
+  "471cd393279c": {
+   "relevant": true,
+   "headline": "PRYPCO expands operations across Dubai's property and mortgage sector",
+   "summary": "The local platform is growing its services ranging from traditional mortgages to modern property tokens.",
+   "why": "It highlights new financing and investment channels for Dubai property buyers.",
+   "category": "Rates & mortgages",
+   "impact": "Medium",
+   "impact_reason": "Expands financing and investment access for property buyers."
   }
  }
 }
