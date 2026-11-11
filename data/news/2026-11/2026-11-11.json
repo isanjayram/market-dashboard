@@ -882,5 +882,20 @@
 "Zawya"
 ],
 "topic": "mortgage"
+},
+{
+"id": "3de84ce0b426",
+"headline": "UAE Corporate Tax Revenue Reaches Dh46.5 Billion in 2025",
+"summary": "The Federal Tax Authority reported a 34 percent increase in corporate tax collections for 2025. This rise reflects improved compliance across businesses operating within the country.",
+"why": "It reflects broader UAE fiscal growth and economic health, which directly influences investor sentiment in the property sector.",
+"source": "The National",
+"link": "https://www.thenationalnews.com/business/economy/2026/11/11/uae-corporate-tax-revenue-jumps-by-a-third-to-dh465bn-in-2025/",
+"published": "2026-11-11T15:35+04:00",
+"category": "Macro & geopolitics",
+"impact": "Medium",
+"impact_reason": "Reflects broader economic growth impacting investor sentiment.",
+"watch": false,
+"more": 7,
+"topic": "Macro & geopolitics"
 }
 ]
