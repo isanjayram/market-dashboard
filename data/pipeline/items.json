@@ -2171,5 +2171,125 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"5a3d9b07e201": {
+"id": "5a3d9b07e201",
+"title": "DWC Metro link enhances appeal for Dubai South property buyers",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSkpRdFZxZlc0QkJOcjhRcW16Y3FURjYzc2ZRME8wcWJac05ueDc4dUZRczh3cTBNeldSaTRqSWhFM3c1OWJqYzJnN1FPak5YWUxydktPZVk4NXJXekJ0bTJaSTUxanZ2RDVSQ1ZsMnhJMVdrYUlZc1g3V0QtZ0dDaDNLbGpROE1KWWxmOGtuVUoza2wxNW5TLThFUDROUVdhWjU4QldNV3dsbFM3R0RKejRNT0k2OHBJV0HSAcwBQVVfeXFMTXlvMERhNFhzQVlGU3daeGVZcFVkVmVnUjQ3S0E3UU9VekRzQ251dEJlaTRlUTRJc3dlS0ZoRm1BVFMtQmx6MVZ1MUtVeFpDOE00UTc2YVZTV3RQcG80X0FWdFJhQlBOTlNGMGJud2h5bjczRFVSRTlpbjNybzdwQzZHWEJkakZrbnlYd0lzaENkdkxtcVlNRTRrV1JxaXRaVVlsZWpobzdSb1BjZE1zbWpvUnI2eW9xN0gxNnpob01lNFhieTQ3LWRoeXYz?oc=5",
+"source": "Gulf News",
+"category": "Infrastructure",
+"published": "2026-11-11T04:44+04:00",
+"first_seen": "2026-11-11",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": {
+"name": "Al Maktoum International Airport expansion",
+"status": "AED 128bn terminal approved 28 Apr 2024; first phase due 2032",
+"source": "Dubai Media Office",
+"url": "https://mediaoffice.ae/en/news/2024/april/28-04/al-maktoum-international-airport"
+},
+"fields": {
+"project": null,
+"developer": null,
+"location": "Dubai South",
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"c6f661aa2a52": {
+"id": "c6f661aa2a52",
+"title": "Emaar Launches $3.27 Billion Office District at Dubai Creek Harbour",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSWdJblBCaDdlYjhTNlZIcHRURjRqQlprbEdaOXd2Mjh1REx0U3dNUWM3eUE0Qy1fd21raS1qQV9PeVphaDcxYlJHQkpDeVp3MktZQVU4b09QRjlYaGJRRGJZVnhHOE5QcHJMY0g0Q1RjUjN4elZwS0hObkhXSXJsVFhwaGx3ZXFSNF8yQ2llX1Z1c0lYWThYcEg4bm1WUUticWNMNjQ3UmZsa3VzeEx4MkdoV0lONThSRTNNTWs2dw?oc=5",
+"source": "Zawya",
+"category": "Developer news",
+"published": "2026-11-10T07:46+04:00",
+"first_seen": "2026-11-11",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": {
+"name": "Dubai Metro Blue Line",
+"status": "under construction; opens 9 Sep 2029 (14 stations)",
+"source": "Khaleej Times",
+"url": "https://www.khaleejtimes.com/uae/transport/dubai-metro-blue-line-to-be-completed-september-9-2029-rta-announces"
+},
+"fields": {
+"project": "Office District",
+"developer": "Emaar",
+"location": "Dubai Creek Harbour",
+"type": "Office District",
+"launch_date": null,
+"handover": null,
+"starting_price": "$3.27 Billion",
+"payment_plan": null
+}
+},
+"9cddafc220dc": {
+"id": "9cddafc220dc",
+"title": "Nakheel launches massive new residential community for 50,000 residents",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSDdSa2l0T1VXWmF5WkpWMG1GS3JPNGoyY3Z1Z1I0ZF9fMEwwd1M2Y2k5aUYzQlRSUW90WWw0aUpNeGlzUVBCMUN1T1lMc1ZMeFlfcWNfQlc5dmVhNGhwdnpEQUVvaU9weVRicjZVczJ0OXQ3QUwyS0haZEtLYnFDWmtPYmhQVFhnOXl6ejhPMm5TbmRWNHdjMG5ZTUxlVnM2SllxTDlnajdXMFk?oc=5",
+"source": "Zawya",
+"category": "Developer news",
+"published": "2026-11-11T07:29+04:00",
+"first_seen": "2026-11-11",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": "Nakheel",
+"location": null,
+"type": "residential community",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"f2bbfb8cf849": {
+"id": "f2bbfb8cf849",
+"title": "Opening date announced for new Dubai Metro route to Al Maktoum Airport",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU25UQ3JsWFQ0SXdKV19ReFJCN1Rwb1JPTHVuMnItdllWbzM3ZlR6RG1SYnI4ckVBWDU3U0t1ai1KNmc0M3BIZjJTdlROOW9JZDN3dzh3SE14MUIyNWk5R2tJdVBldEszSGR6QkdUa3FoVmJSemhmZUdoelRPd0lIV0V6UmpmZ3pLUVdpaGdNLWU0OWJsRmt6TzJPOHI5WFYwaWVMRnFDMEFnVGd6aXhMWVFpQXFSUQ?oc=5",
+"source": "Gulf Business",
+"category": "Infrastructure",
+"published": "2026-11-10T14:50+04:00",
+"first_seen": "2026-11-11",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": "Al Maktoum Airport",
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"49680e8bef3c": {
+"id": "49680e8bef3c",
+"title": "Maserati Island launched as Dubai's first Maserati branded residential project",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRk5fUGk4cTdCN093bVRyQ2VTaDV0UTdMMWxadTNNckcyQU1USHZhVTV1YzZDTTJmWHVRNkpCaHJrTU40QnFWODFxSURVSDY0dk03cHp4ZnNLMC1lb2hyTDJxcFdpV1cwa3RNX0lUZUwyeUd2UmFUMTdwa3Nwb1dmVUdmQTYySURwRlpyMG53VjJCZUpvVE43UGZTbTJ1ZlE0Q0dMN0lDWGlxX3Nkbm5McFJlZk5SaDZMZERDUHpiR1I3NTVNX19OTDdsVERrZ1laak1mUExYX3pCYVQybDRHcWNQaF9sQlZ2cWfSAfIBQVVfeXFMT1FfMGNGVEd2VmZNRm9NMHFlWllSc3dxTEtqMk9QTmx1MXJ6NkJuUFliNi1vd0xIZUV4NkJhNnpVaHk2N3oxWVdJSW95NDZhV2wtR19kVElhSDA4ZHlBOWRvWmFBVkVPdlB0NW1iQmZ6bGlOZDd6bW9RVjlLbVdQZWRXNmk5OUhVeUFWcGJuMkEtLV9KZFhTZE5sN09vZkV5RDRjVTZ6LTh1RE4xU0VIZkVteXYzMlA3WDFiNzZDYk1tUFNlX2xFUl9tNHAwTlhYNEd1UWxLdV9vV25EMmIycks3WlN1bHFTc3J4RWg2aml1T3c?oc=5",
+"source": "Khaleej Times",
+"category": "Developer news",
+"published": "2026-11-10T12:04+04:00",
+"first_seen": "2026-11-11",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": "Maserati Island",
+"developer": null,
+"location": "Dubai",
+"type": "residential project",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
