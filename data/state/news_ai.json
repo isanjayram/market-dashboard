@@ -577,6 +577,60 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Event announcement with minimal direct impact on Dubai."
+  },
+  "bbef9be2a720": {
+   "relevant": true,
+   "headline": "Dubai home values tick up as ready sales surge",
+   "summary": "Residential capital values increased by 0.1 percent in October, breaking a months-long correction trend. Meanwhile, transactions for ready homes saw a significant jump of nearly 24 percent.",
+   "why": "It provides critical monthly pricing and sales volume trends for property professionals.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Highlights improving market stability and ready-property demand."
+  },
+  "7b2b8ec04606": {
+   "relevant": true,
+   "headline": "Dubai property sales surge to Dh34.8 billion",
+   "summary": "Total property sales in Dubai recorded an 18 percent increase, reaching Dh34.8 billion. The figure reflects robust transactional activity across the local real estate sector.",
+   "why": "It shows strong overall transactional momentum in the local property market.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Indicates strong capital inflow and high transaction volumes."
+  },
+  "8f0c52fd5ac7": {
+   "relevant": true,
+   "headline": "Dubai extends 10-year Golden Visas to private educators",
+   "summary": "Outstanding teachers and school leaders in the private education sector are now eligible for Dubai's 10-year residency Golden Visa.",
+   "why": "Residency rule changes directly influence long-term buyer demographics and housing demand.",
+   "category": "Regulation & fees",
+   "impact": "High",
+   "impact_reason": "Expands long-term residency eligibility for a new demographic."
+  },
+  "3104fae0d28c": {
+   "relevant": false,
+   "headline": "Why Indian Investors Are Exploring Dubai’s Property Market",
+   "summary": "An expert perspective discusses the reasons behind Indian investors exploring opportunities in Palm Jebel Ali.",
+   "why": "It is an agent opinion piece lacking hard market data or new regulations.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Opinion piece offering no new market-moving data."
+  },
+  "311a66f09eb5": {
+   "relevant": true,
+   "headline": "BEYOND launches $817 million SHIONE project on Dubai Islands",
+   "summary": "BEYOND Developments introduced SHIONE, an AED3 billion twin-building residential community featuring 603 homes on Island B of the SIORA beachfront masterplan.",
+   "why": "Major new project launches alter inventory levels and competitive dynamics for developers.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Adds significant new residential supply to the market."
+  },
+  "ecf670eaf2f0": {
+   "relevant": true,
+   "headline": "US capital anticipated to flow into Dubai real estate",
+   "summary": "American investors are reportedly preparing to allocate capital toward Dubai property following political shifts in the United States.",
+   "why": "Inbound foreign capital shifts can influence buyer demand and high-end property pricing.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Signals potential new international buyer segments entering Dubai."
   }
  }
 }
