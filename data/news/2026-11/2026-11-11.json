@@ -665,5 +665,116 @@
 "impact_reason": "General market context",
 "watch": false,
 "topic": "Macro & geopolitics"
+},
+{
+"id": "cbc65b7c9060",
+"headline": "New Metro and Rail Links Planned for Al Maktoum Airport",
+"summary": "Transport infrastructure is expanding to connect Al Maktoum International Airport with the wider city. A major Dh2 billion Dubai Metro extension forms part of these transit plans.",
+"why": "Major transit expansions heavily influence long-term residential and commercial property values in connected zones.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/living-in-uae/transport/dubai-al-maktoum-airport-metro-rail-links-1.500743592",
+"published": "2026-11-11T13:29+04:00",
+"category": "Infrastructure",
+"impact": "High",
+"impact_reason": "Major transport upgrades significantly enhance surrounding property values and demand.",
+"watch": false,
+"more": 3,
+"topic": "airport"
+},
+{
+"id": "f419c3d265ca",
+"headline": "Dubai mortgage market surpasses AED 150 billion",
+"summary": "The emirate's mortgage sector has crossed the AED 150 billion milestone amid evolving market dynamics.",
+"why": "It shows significant lending activity in the property sector.",
+"source": "Zawya",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMWJEaWl0SnA2RFg1N0JlZFJLeFRHVmY4ZDRwUks2clZLRHBjOGpQMndTZ0pveXhvRzl6ZVNYMS1paGx5cERNWVJkZ3Vmdlg2M2ZTOXNVVGZmOWZsazd4OVluUFYwckJKazNkM1laYWhvQ2EwTHhMM3J4a3NFeEJyMXkyRllrY2t6TXA0RTI5UTJMZ0ltOVJsSUxMRVYzRzJxbUZZYWpEWjNOVUJyb1BqQ3JZdm5WRC1yZmQyWWJ5VENNa2FtNktOQ0RtNDRfOGs?oc=5",
+"published": "2026-11-11T13:34+04:00",
+"category": "Rates & mortgages",
+"impact": "Medium",
+"impact_reason": "Reflects strong financing volumes and shifts in market dynamics.",
+"watch": false,
+"also": [
+"Gulf Daily News (Bahrain)"
+],
+"topic": "mortgage"
+},
+{
+"id": "14694e7e04bc",
+"headline": "UAE Corporate Tax Collections Rise 34% to Dh46.5 Billion",
+"summary": "Federal tax revenues increased as corporate filings and timely payments grew. The FTA reported the total collection for financial periods ending in 2025.",
+"why": "It tracks the broader macroeconomic environment and business regulatory costs in the UAE.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/business/corporate-tax/uae-corporate-tax-collections-jump-34-to-dh465-billion-as-more-businesses-file-on-time-1.500743596",
+"published": "2026-11-11T13:19+04:00",
+"category": "Macro & geopolitics",
+"impact": "Medium",
+"impact_reason": "Reflects broader business conditions without altering property taxes directly.",
+"watch": false,
+"more": 8,
+"topic": "Macro & geopolitics"
+},
+{
+"id": "628e980d0bfd",
+"headline": "Dubai Approves Dh11 Billion Plan for Community Facilities and Metro Link",
+"summary": "The emirate has greenlit an extensive development plan featuring new community amenities and airport transit connections. This investment aims to improve connectivity and urban living standards.",
+"why": "Government spending on community and transport infrastructure directly drives real estate development.",
+"source": "Gulf Business",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNVBEVDVZb0FFd2VldGpfLVBzemNicGtIeDNZV1BDVFZkbEx5anl1YWdpM1FlUGVHUF90TS1wRVk5NDFRdEF0c0h2WUNMdHBTSk5ZUWhJVDd4VEdxVVBMYjlZVXlpbTZ2Q2FFQVg1Y2ZvSFF6cDE0RlJ0MzRONTAyRVZ0MWFPTlUwN0RIdUhudnZReDhPc1FaTUQ5UWotaS1qQnFCbjdUZnkxS1d1R3pUYU5yWE5QdzlCWTZtdGYyVXRrd2FQaFRMZjlIWEoxbkVz?oc=5",
+"published": "2026-11-11T09:51+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Large infrastructure investments elevate community attractiveness and development potentia",
+"watch": false,
+"also": [
+"Gulf Business"
+],
+"topic": "airport"
+},
+{
+"id": "12d571cd6645",
+"headline": "IREIS 2026 highlights Abu Dhabi real estate growth",
+"summary": "The upcoming exhibition will place a major focus on the expanding property sector in Abu Dhabi.",
+"why": "It highlights regional real estate exhibition trends.",
+"source": "Khaleej Times",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeVhLcEU5SDloOFI5Y3BYaGtWQmhfWU9lbDdlWEM2Rk5fQnJyN2VfbXlWcWtiZE9lTnMxclJyV1czX285eUtDcGtqeEkza1RVV3llNXNBalA2S3B3c3BQUjBESzBQN1B5VDR2N2hSZ29Eek8taU5HQXBDOVFpMFNCb3JhLUhTWFdNWDFHYXprM0tCR2d1LUFSZ0xpNXFrMllhY29KUzg1ODF2UUli0gG0AUFVX3lxTE1DTUkwWjltWTQ1eHU3OG9PN0tSTDhhYndCV25hT1lxaWxSd2d1Z3NSYXN3YzE3QnZCS1VmQUt4NWZ0Y2VjQmpPcUpsbE1ja2FBV1p2RUpuQW03ZkJvdmdoaW54WDJfVlBXWWs4ZmEtS0IwOEtEdmRQZXYzbzJaM1A0M2ZJbVo4czNqbnhmRVlfcGlEUHE1MHM1cmVqMm8yVWhOSlVmQzlUOHVVU2dmOW00UHFGWQ?oc=5",
+"published": "2026-11-11T12:16+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "Event announcement with minimal direct impact on Dubai.",
+"watch": false,
+"topic": "abu dhabi"
+},
+{
+"id": "4463a374edd2",
+"headline": "Nakheel Unveils Palm Springs, A 3.8 M Sq m Residential Masterplan In Southern Dubai!",
+"summary": "",
+"why": "new launches or results change the options and prices you can offer clients.",
+"source": "Curly Tales",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY3RoNjhBb2psSU9VSU5JQmROaV9TZlMxNlFqcWRBT3RsUzhGRlh4WjBUbmJLdm4yYVdNM1M5dG4zLV9YcnltYkRSaUl4ZEVYVHA3dE5NVkNteTd6VHAtb1liaTRBb0ZZWTI3eHk0T1RPXzlRVWs4a0t1d2Q2enlxMU5GVFpYVDFEQV9XVFhlWkVwTldaWFduYzhUM0ZnUGZhbGxaWndFWDI2UGdseFNQZWl3Sm5sMDVKbGRNVTZLUzdnMlRhSHfSAcsBQVVfeXFMTnQtQnRqMmdzMlFnbG8wY0ozaXlYSmFpODJuTTRFSVpZQjV2TDQ0OV84dmplSjhBc0VoVHFKMGh6MjlLcFRQemFDeDZqanlvbnRhTy1hSUYwMDE0cFFSS1hEb01EUURFQnI5UzNFcmJ5bWV1UmRNalgybkJyOEhIV19Db2YwSjVqbE5iM085VHhzX1UxVExfX0lnZkZwR05IanlEZElSQVI5bVpPTFJ5d3FGRm9DdklHZGFQMElURlhua2UzdEliVmkyd3M?oc=5",
+"published": "2026-11-11T12:44+04:00",
+"category": "Developer news",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": false,
+"also": [
+"Big News Network.com",
+"Curly Tales",
+"www.wam.ae"
+],
+"topic": "nakheel"
+},
+{
+"id": "d66854dd7dcd",
+"headline": "Dubai real estate rentals maintain record pace",
+"summary": "",
+"why": "fresh data on prices or supply, useful context when discussing value and timing.",
+"source": "News of Bahrain",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeEN4TW5pejFkSDRja09jYzlDS0MxUDJuenIwS1JGaTh2bFZXUlFoSjBGbkZQbjNhb0xTenVwS2I2VWRSTXdIRDhyR2pkVElsVkhaQTdPU2JESUJrSTRQUXlYLTdtWk90d1JCbGhULWp4M2pOMWNmV2ZpcDRWTHJmb2JWOEZJalAwX2RvS01pRGY?oc=5",
+"published": "2026-11-11T11:22+04:00",
+"category": "Supply & market reports",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": false,
+"topic": "Supply & market reports"
 }
 ]

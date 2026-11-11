@@ -1,6 +1,56 @@
 {
  "top": [
   {
+   "id": "cbc65b7c9060",
+   "title": "Dubai's Al Maktoum Airport: All the new Metro and rail links explained",
+   "link": "https://gulfnews.com/living-in-uae/transport/dubai-al-maktoum-airport-metro-rail-links-1.500743592",
+   "source": "Gulf News",
+   "kind": "outlet",
+   "published": "2026-11-11T13:29+04:00",
+   "tags": [
+    "Living-Transport",
+    "Transport",
+    "Dubai"
+   ],
+   "teaser": "Dubai: Getting to Al Maktoum International Airport (DWC) is set to become easier, with several major rail and public transport projects planned to connect the expanding airport to the rest of Dubai and beyond. The latest announcement is a Dh2 billion Dubai Metro extension , which will bring two new stations to Al Maktoum International Airport City by 2031. The project is part of more than Dh11 bil",
+   "category": "Infrastructure",
+   "impact": "High",
+   "impact_reason": "Major transport upgrades significantly enhance surrounding property values and demand.",
+   "watch": false,
+   "headline": "New Metro and Rail Links Planned for Al Maktoum Airport",
+   "summary": "Transport infrastructure is expanding to connect Al Maktoum International Airport with the wider city. A major Dh2 billion Dubai Metro extension forms part of these transit plans.",
+   "why": "Major transit expansions heavily influence long-term residential and commercial property values in connected zones.",
+   "age_hours": 0.4,
+   "topic": "airport",
+   "more": 3
+  },
+  {
+   "id": "49e7109c7cb5",
+   "title": "Dubai property sales jump 18% to Dh34.8 billion",
+   "link": "https://gulfnews.com/business/property/dubai-property-sales-jump-18-to-dh348-billion-1.500742615",
+   "source": "Gulf News",
+   "kind": "outlet",
+   "published": "2026-11-11T10:05+04:00",
+   "tags": [
+    "Property",
+    "UAE"
+   ],
+   "teaser": "Dubai: Dubai\u2019s property market recorded a strong performance in October, with sales value jumping 18 per cent to Dh34.8 billion as more buyers entered the market and demand for residential properties strengthened. The latest figures from the Dubai Land Department (DLD), analysed by Property Finder, show that the number of property transactions increased by 5 per cent to 11,883, marking the first m",
+   "category": "Supply & market reports",
+   "impact": "High",
+   "impact_reason": "Directly indicates strong market performance and buyer confidence.",
+   "watch": false,
+   "also": [
+    "Gulf News",
+    "Gulf News"
+   ],
+   "headline": "October Dubai Property Sales Surge 18% to Reach Dh34.8 Billion",
+   "summary": "Dubai's real estate sector saw robust growth as residential demand strengthened. Official figures from the Dubai Land Department highlight rising buyer participation.",
+   "why": "Transaction volume and value metrics are vital indicators of local property market health.",
+   "age_hours": 3.8,
+   "topic": "Supply & market reports"
+  },
+  {
    "id": "d22ebabf0a73",
    "title": "Gold prices rise to $4,055.73 after sharp losses as Fed rate hike expectations weigh",
    "link": "https://economymiddleeast.com/news/gold-prices-rise-to-4055-73-after-sharp-losses-as-fed-rate-hike-expectations-weigh/?utm_source=rss&utm_medium=rss&utm_campaign=gold-prices-rise-to-4055-73-after-sharp-losses-as-fed-rate-hike-expectations-weigh",
@@ -17,12 +67,12 @@
    "teaser": "Gold prices edged higher on Wednesday after falling nearly 3 percent in the previous session, although gains remained limited as stronger-than-expected U.S. inflation data reinforced expectations of an interest rate increase by the Federal Reserve next month. As of 5:23 GMT, spot gold rose 0.57 percent to $4,055.73 per ounce, recovering slightly after dropping nearly [\u2026] The post Gold prices rise ",
    "category": "Rates & mortgages",
    "impact": "High",
-   "impact_reason": "Could change mortgage costs",
+   "impact_reason": "Shifts global borrowing costs and financing sentiment for real estate.",
    "watch": false,
-   "headline": "Gold prices rise to $4,055.73 after sharp losses as Fed rate hike expectations weigh",
-   "summary": "",
-   "why": "mortgage costs and affordability for financed buyers may shift.",
-   "age_hours": 1.8,
+   "headline": "Gold Prices Rebound Following U.S. Inflation Data and Fed Expectations",
+   "summary": "Spot gold recovered slightly after recent losses triggered by strong U.S. inflation figures. Markets anticipate a potential Federal Reserve interest rate increase.",
+   "why": "Global interest rate expectations directly influence mortgage costs and liquidity for property buyers.",
+   "age_hours": 3.9,
    "topic": "Rates & mortgages"
   },
   {
@@ -36,12 +86,12 @@
    "teaser": "",
    "category": "Infrastructure",
    "impact": "Medium",
-   "impact_reason": "Infrastructure that can move area demand",
+   "impact_reason": "Improves local area appeal and boosts demand for nearby real estate.",
    "watch": true,
-   "headline": "Dubai South signs hotel apartment deal after Metro expansion confirmed",
-   "summary": "",
-   "why": "infrastructure can shift which areas buyers favour over time (analysis, not a forecast).",
-   "age_hours": 1.5,
+   "headline": "Dubai South Secures New Hotel Apartment Agreement Following Metro Expansion",
+   "summary": "A new hospitality deal was finalized for Dubai South after the confirmation of the Metro expansion. This project enhances accommodation options near the transport corridor.",
+   "why": "Transport links and hospitality projects significantly boost local property values and rental demand.",
+   "age_hours": 3.7,
    "topic": "metro",
    "more": 1
   },
@@ -61,40 +111,58 @@
    "headline": "DWC Metro link enhances appeal for Dubai South property buyers",
    "summary": "The planned metro extension makes Dubai South properties more attractive to purchasers and renters alike.",
    "why": "Transport links directly boost area desirability and property values.",
-   "age_hours": 7.0,
+   "age_hours": 9.1,
    "topic": "metro"
   },
   {
-   "id": "49e7109c7cb5",
-   "title": "Dubai property sales jump 18% to Dh34.8 billion",
-   "link": "https://gulfnews.com/business/property/dubai-property-sales-jump-18-to-dh348-billion-1.500742615",
-   "source": "Gulf News",
-   "kind": "outlet",
-   "published": "2026-11-11T10:05+04:00",
-   "tags": [
-    "Property",
-    "UAE"
-   ],
-   "teaser": "Dubai: Dubai\u2019s property market recorded a strong performance in October, with sales value jumping 18 per cent to Dh34.8 billion as more buyers entered the market and demand for residential properties strengthened. The latest figures from the Dubai Land Department (DLD), analysed by Property Finder, show that the number of property transactions increased by 5 per cent to 11,883, marking the first m",
-   "category": "Developer news",
+   "id": "f419c3d265ca",
+   "title": "Dubai\u2019s mortgage market tops AED 150bln as property market dynamics shift",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMWJEaWl0SnA2RFg1N0JlZFJLeFRHVmY4ZDRwUks2clZLRHBjOGpQMndTZ0pveXhvRzl6ZVNYMS1paGx5cERNWVJkZ3Vmdlg2M2ZTOXNVVGZmOWZsazd4OVluUFYwckJKazNkM1laYWhvQ2EwTHhMM3J4a3NFeEJyMXkyRllrY2t6TXA0RTI5UTJMZ0ltOVJsSUxMRVYzRzJxbUZZYWpEWjNOVUJyb1BqQ3JZdm5WRC1yZmQyWWJ5VENNa2FtNktOQ0RtNDRfOGs?oc=5",
+   "source": "Zawya",
+   "kind": "search",
+   "published": "2026-11-11T13:34+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Rates & mortgages",
    "impact": "Medium",
-   "impact_reason": "New launch or developer update",
+   "impact_reason": "Reflects strong financing volumes and shifts in market dynamics.",
    "watch": false,
    "also": [
-    "Gulf News",
-    "Gulf News"
+    "Gulf Daily News (Bahrain)"
    ],
-   "headline": "Dubai property sales jump 18% to Dh34.8 billion",
-   "summary": "",
-   "why": "new launches or results change the options and prices you can offer clients.",
-   "age_hours": 1.7,
-   "topic": "Developer news",
-   "more": 1
+   "headline": "Dubai mortgage market surpasses AED 150 billion",
+   "summary": "The emirate's mortgage sector has crossed the AED 150 billion milestone amid evolving market dynamics.",
+   "why": "It shows significant lending activity in the property sector.",
+   "age_hours": 0.3,
+   "topic": "mortgage"
   },
   {
-   "id": "c82a21e9d978",
+   "id": "14694e7e04bc",
+   "title": "UAE corporate tax collections jump 34% to Dh46.5 billion as more businesses file on time",
+   "link": "https://gulfnews.com/business/corporate-tax/uae-corporate-tax-collections-jump-34-to-dh465-billion-as-more-businesses-file-on-time-1.500743596",
+   "source": "Gulf News",
+   "kind": "outlet",
+   "published": "2026-11-11T13:19+04:00",
+   "tags": [
+    "Corporate Tax",
+    "Tax News"
+   ],
+   "teaser": "Dubai: The UAE collected Dh46.52 billion in corporate tax for financial periods ending in 2025, a 33.9% increase from Dh34.75 billion a year earlier, as more businesses filed their tax returns and paid their dues on time, according to figures released by the Federal Tax Authority (FTA) on Wednesday. The latest figures bring total corporate tax collections to approximately Dh81.27 billion for tax p",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Reflects broader business conditions without altering property taxes directly.",
+   "watch": false,
+   "headline": "UAE Corporate Tax Collections Rise 34% to Dh46.5 Billion",
+   "summary": "Federal tax revenues increased as corporate filings and timely payments grew. The FTA reported the total collection for financial periods ending in 2025.",
+   "why": "It tracks the broader macroeconomic environment and business regulatory costs in the UAE.",
+   "age_hours": 0.6,
+   "topic": "Macro & geopolitics",
+   "more": 8
+  },
+  {
+   "id": "628e980d0bfd",
    "title": "Dubai approves over Dhs11bn plan for community facilities, includes new airport Metro link",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeWRFRjRHTDFsaGIxb1BCSXY5eEpqWktLa0N0Smhfczl2c3pudXI1YWd6eHNLX3g3X0tSZjEybE94a0JjTnU3eloySXU2c3JtRFlSVnFfZzI1aVNFVkJRam5WR1ZSM25wbFlvRWlCclo5RkdvbW9oLUE0Y1lJWW9tWmJkSUFrQnhNNklPRU1tUWt1alRLNVZ2bnBkazdZM1N4WXRVcU9IaG1ocWt5b05tTHM5anJONElwMndOX25IcGJRS2ZfdFJ5Rm1fY00xT3M?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNVBEVDVZb0FFd2VldGpfLVBzemNicGtIeDNZV1BDVFZkbEx5anl1YWdpM1FlUGVHUF90TS1wRVk5NDFRdEF0c0h2WUNMdHBTSk5ZUWhJVDd4VEdxVVBMYjlZVXlpbTZ2Q2FFQVg1Y2ZvSFF6cDE0RlJ0MzRONTAyRVZ0MWFPTlUwN0RIdUhudnZReDhPc1FaTUQ5UWotaS1qQnFCbjdUZnkxS1d1R3pUYU5yWE5QdzlCWTZtdGYyVXRrd2FQaFRMZjlIWEoxbkVz?oc=5",
    "source": "Gulf Business",
    "kind": "search",
    "published": "2026-11-11T09:51+04:00",
@@ -102,17 +170,16 @@
    "teaser": "",
    "category": "Infrastructure",
    "impact": "Medium",
-   "impact_reason": "Infrastructure that can move area demand",
+   "impact_reason": "Large infrastructure investments elevate community attractiveness and development potentia",
    "watch": false,
    "also": [
     "Gulf Business"
    ],
-   "headline": "Dubai approves over Dhs11bn plan for community facilities, includes new airport Metro link",
-   "summary": "",
-   "why": "infrastructure can shift which areas buyers favour over time (analysis, not a forecast).",
-   "age_hours": 1.9,
-   "topic": "airport",
-   "more": 4
+   "headline": "Dubai Approves Dh11 Billion Plan for Community Facilities and Metro Link",
+   "summary": "The emirate has greenlit an extensive development plan featuring new community amenities and airport transit connections. This investment aims to improve connectivity and urban living standards.",
+   "why": "Government spending on community and transport infrastructure directly drives real estate development.",
+   "age_hours": 4.0,
+   "topic": "airport"
   },
   {
    "id": "809c4b3bc6e0",
@@ -130,52 +197,8 @@
    "headline": "US inflation surge points towards upcoming Federal Reserve rate hike",
    "summary": "Hotter consumer price data increases pressure on the Fed to lift rates, potentially impacting borrowing costs globally.",
    "why": "Global interest rate trends directly influence UAE mortgage rates due to the currency peg.",
-   "age_hours": 11.7,
+   "age_hours": 13.8,
    "topic": "federal reserve"
-  },
-  {
-   "id": "fd2fdf0c56e0",
-   "title": "Dubai office transactions grow 11.5 percent in Q3 2026 as sales prices gain 8.9 percent",
-   "link": "https://economymiddleeast.com/news/dubai-office-transactions-grow-11-5-percent-in-q3-2026-as-sales-prices-gain-8-9-percent/?utm_source=rss&utm_medium=rss&utm_campaign=dubai-office-transactions-grow-11-5-percent-in-q3-2026-as-sales-prices-gain-8-9-percent",
-   "source": "Economy Middle East",
-   "kind": "outlet",
-   "published": "2026-11-10T18:27+04:00",
-   "tags": [
-    "business",
-    "Dubai",
-    "dubai real estate",
-    "investment",
-    "Property"
-   ],
-   "teaser": "Office sales prices in Dubai climbed to an average AED2,005 per square foot in Q3 2026 \u2013 an increase of 8.9 percent compared to the same period last year, according to the latest report by Cavendish Maxwell. Investors spent AED4.3 billion across 1,100 office transactions from July to September this year, with Downtown Jebel Ali [\u2026] The post Dubai office transactions grow 11.5 percent in Q3 2026 as",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Reflects growing commercial property values and investor activity.",
-   "watch": false,
-   "headline": "Dubai office transactions and prices rise in Q3 2026",
-   "summary": "Office sales prices reached AED2,005 per square foot as transaction volumes climbed significantly in the third quarter.",
-   "why": "Commercial property performance indicates broader economic health and investor confidence.",
-   "age_hours": 17.3,
-   "topic": "Supply & market reports"
-  },
-  {
-   "id": "5ae64d8f7eef",
-   "title": "Dubai Metro to reach Al Maktoum Airport: New route opening date revealed",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdlNMQ2wwd2tBaWFFM0d6a3dwdXY2UmZQdXNYSENzUGE5eWduQkVBNjFlOUFMQVA1Smd4NXBHUHFEc0xzZUdMUmJ4dVRwRFpTSGxkd0xienRZOEdySHVxUUxsbTZCaVJaLTAweTZEQjZOaFhTeGtDRjc5UVBuOXVDVjNnU3JBWU5IS0loV01hRFgwaHVUeHdUYkNoc2I5VUg2MmJ4X1ZWNUVIRUEyWmNtTGRUM24?oc=5",
-   "source": "Gulf Business",
-   "kind": "search",
-   "published": "2026-11-10T14:50+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Improves long-term accessibility and connectivity for the area.",
-   "watch": false,
-   "headline": "Dubai Metro expansion to Al Maktoum Airport confirmed for 2031",
-   "summary": "Authorities have revealed the opening date for the new metro route. This project will significantly improve transit links to the airport area.",
-   "why": "It enhances long-term connectivity and accessibility for an emerging major airport hub.",
-   "age_hours": 20.9,
-   "topic": "airport"
   },
   {
    "id": "3ae889818b38",
@@ -193,44 +216,17 @@
    "headline": "Brent Crude Drops Below $90 Amid Easing Tensions",
    "summary": "Oil prices dipped under $90 a barrel for the first time since August following remarks by US leadership regarding regional stability. Market benchmarks recovered slightly after the initial slide.",
    "why": "Oil price movements influence overall economic sentiment and investor confidence in the UAE.",
-   "age_hours": 21.8,
-   "topic": "Macro & geopolitics",
-   "more": 10
-  },
-  {
-   "id": "0dae19d23759",
-   "title": "Nakheel unveils mega development for 50,000 residents in Dubai",
-   "link": "https://www.thenationalnews.com/business/property/2026/11/10/nakheel-unveils-mega-development-for-50000-residents-in-dubai/",
-   "source": "The National",
-   "kind": "outlet",
-   "published": "2026-11-10T12:53+04:00",
-   "tags": [],
-   "teaser": "Dubai\u2019s Nakheel has unveiled a new master development next to Palm Jebel Ali as property developers continue to launch housing projects despite Iran war-driven uncertainty. Palm Springs, a 3.8 million-square-metre residential masterplan, will have a mix of villas, townhouses and apartments, Nakheel said on Tuesday. It will also have education, health care, sport and leisure facilities across 15 ne",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Expands housing supply and highlights developer confidence.",
-   "watch": false,
-   "also": [
-    "The National",
-    "The National",
-    "The National (property)",
-    "MEP Middle East",
-    "MEP Middle East"
-   ],
-   "headline": "Nakheel Launches Palm Springs Mega Development Near Palm Jebel Ali",
-   "summary": "Nakheel introduced a vast 3.8 million square metre residential master community. The project will accommodate 50,000 residents with a diverse mix of villas, townhouses, and apartments.",
-   "why": "Large master community launches signal sustained developer confidence and expand housing supply.",
-   "age_hours": 22.9,
-   "topic": "nakheel"
+   "age_hours": 23.9,
+   "topic": "Macro & geopolitics"
   }
  ],
  "window_hours": 24,
- "count_relevant": 37,
- "count_fetched": 306,
+ "count_relevant": 36,
+ "count_fetched": 316,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
- "mode": "AI summaries for 17 of 24 stories; rules for the rest (gemini: JSONDecodeError: Expecting ':' delimiter: line 10 column 13 (char 434))",
- "as_of": "2026-11-11T11:44+04:00",
- "saved_at": "2026-11-11T11:44+04:00"
+ "mode": "AI summaries (gemini)",
+ "as_of": "2026-11-11T13:52+04:00",
+ "saved_at": "2026-11-11T13:52+04:00"
 }

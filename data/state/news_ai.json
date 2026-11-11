@@ -478,6 +478,105 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Irrelevant to property transactions and mortgages."
+  },
+  "14694e7e04bc": {
+   "relevant": true,
+   "headline": "UAE Corporate Tax Collections Rise 34% to Dh46.5 Billion",
+   "summary": "Federal tax revenues increased as corporate filings and timely payments grew. The FTA reported the total collection for financial periods ending in 2025.",
+   "why": "It tracks the broader macroeconomic environment and business regulatory costs in the UAE.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Reflects broader business conditions without altering property taxes directly."
+  },
+  "d22ebabf0a73": {
+   "relevant": true,
+   "headline": "Gold Prices Rebound Following U.S. Inflation Data and Fed Expectations",
+   "summary": "Spot gold recovered slightly after recent losses triggered by strong U.S. inflation figures. Markets anticipate a potential Federal Reserve interest rate increase.",
+   "why": "Global interest rate expectations directly influence mortgage costs and liquidity for property buyers.",
+   "category": "Rates & mortgages",
+   "impact": "High",
+   "impact_reason": "Shifts global borrowing costs and financing sentiment for real estate."
+  },
+  "d9a12307a531": {
+   "relevant": true,
+   "headline": "Dubai South Secures New Hotel Apartment Agreement Following Metro Expansion",
+   "summary": "A new hospitality deal was finalized for Dubai South after the confirmation of the Metro expansion. This project enhances accommodation options near the transport corridor.",
+   "why": "Transport links and hospitality projects significantly boost local property values and rental demand.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Improves local area appeal and boosts demand for nearby real estate."
+  },
+  "cbc65b7c9060": {
+   "relevant": true,
+   "headline": "New Metro and Rail Links Planned for Al Maktoum Airport",
+   "summary": "Transport infrastructure is expanding to connect Al Maktoum International Airport with the wider city. A major Dh2 billion Dubai Metro extension forms part of these transit plans.",
+   "why": "Major transit expansions heavily influence long-term residential and commercial property values in connected zones.",
+   "category": "Infrastructure",
+   "impact": "High",
+   "impact_reason": "Major transport upgrades significantly enhance surrounding property values and demand."
+  },
+  "49e7109c7cb5": {
+   "relevant": true,
+   "headline": "October Dubai Property Sales Surge 18% to Reach Dh34.8 Billion",
+   "summary": "Dubai's real estate sector saw robust growth as residential demand strengthened. Official figures from the Dubai Land Department highlight rising buyer participation.",
+   "why": "Transaction volume and value metrics are vital indicators of local property market health.",
+   "category": "Supply & market reports",
+   "impact": "High",
+   "impact_reason": "Directly indicates strong market performance and buyer confidence."
+  },
+  "628e980d0bfd": {
+   "relevant": true,
+   "headline": "Dubai Approves Dh11 Billion Plan for Community Facilities and Metro Link",
+   "summary": "The emirate has greenlit an extensive development plan featuring new community amenities and airport transit connections. This investment aims to improve connectivity and urban living standards.",
+   "why": "Government spending on community and transport infrastructure directly drives real estate development.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Large infrastructure investments elevate community attractiveness and development potential."
+  },
+  "069160f772b3": {
+   "relevant": true,
+   "headline": "Danube Properties Reports 14% Sales Increase Amid Market Shifts",
+   "summary": "The developer achieved higher sales figures despite broader market fluctuations. Leadership attributes the growth to sustained buyer demand.",
+   "why": "Developer performance metrics reflect current off-plan appetite and builder resilience.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Highlights individual developer strength within the broader market."
+  },
+  "97bc0ec50388": {
+   "relevant": true,
+   "headline": "UAE Updates Golden Visa Rules for Relatives of Retired Foreigners",
+   "summary": "Authorities clarified which family members of foreign retirees are eligible for UAE residence permits. This adjustment broadens the scope of the Golden Visa scheme.",
+   "why": "Residency rules directly impact foreign investor retention and long-term property buying decisions.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Expands residency eligibility, supporting long-term property buyer retention."
+  },
+  "916aa231fa8d": {
+   "relevant": false,
+   "headline": "Indian investors explore emerging Dubai property sectors",
+   "summary": "An industry perspective highlights growing interest from India in specific areas like Palm Jebel Ali and Emaar South.",
+   "why": "This is an agent opinion piece with no hard news.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Opinion piece with no direct market impact."
+  },
+  "f419c3d265ca": {
+   "relevant": true,
+   "headline": "Dubai mortgage market surpasses AED 150 billion",
+   "summary": "The emirate's mortgage sector has crossed the AED 150 billion milestone amid evolving market dynamics.",
+   "why": "It shows significant lending activity in the property sector.",
+   "category": "Rates & mortgages",
+   "impact": "Medium",
+   "impact_reason": "Reflects strong financing volumes and shifts in market dynamics."
+  },
+  "12d571cd6645": {
+   "relevant": true,
+   "headline": "IREIS 2026 highlights Abu Dhabi real estate growth",
+   "summary": "The upcoming exhibition will place a major focus on the expanding property sector in Abu Dhabi.",
+   "why": "It highlights regional real estate exhibition trends.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Event announcement with minimal direct impact on Dubai."
   }
  }
 }
