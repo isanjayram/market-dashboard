@@ -395,5 +395,62 @@
 "impact_reason": "General market context",
 "watch": false,
 "topic": "Macro & geopolitics"
+},
+{
+"id": "9c8dbbe35266",
+"headline": "US Dollar Hits 19-Month High Amid Fed Hike Expectations",
+"summary": "The greenback surged against major currencies following stubborn US inflation data. Federal Reserve comments point toward upcoming interest rate increases.",
+"why": "A stronger dollar directly impacts Dubai's pegged dirham and foreign investment flows.",
+"source": "Economy Middle East",
+"link": "https://economymiddleeast.com/news/u-s-dollar-rises-to-19-month-high-as-yen-nears-160-on-fed-hike-bets-and-boj-caution/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-dollar-rises-to-19-month-high-as-yen-nears-160-on-fed-hike-bets-and-boj-caution",
+"published": "2026-11-12T12:04+04:00",
+"category": "Rates & mortgages",
+"impact": "High",
+"impact_reason": "Affects pegged currency strength and international buyer purchasing power.",
+"watch": false,
+"more": 1,
+"topic": "Rates & mortgages"
+},
+{
+"id": "0e16c04701c6",
+"headline": "Dubai Overhauls 2026 Visa Rules With Relaxed Property Criteria",
+"summary": "Dubai has introduced comprehensive updates to its 2026 visa regulations. Changes feature expanded entry access and easier property investment criteria.",
+"why": "New visa criteria directly alter investment incentives for foreign property buyers.",
+"source": "Business Today",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOV0dEOWo4Mmp0ekFiRkFWMkctdk9TNXZycjFwVVAzZVVJTzlPVXozM0U1YTE5NWg0cWloS3B5ODJJRy05QzhMSVd3czR6VUx3bUdOU2ZFZHpOSnJ1anZRNUdmb1FteFNCWHk0Tl9JVjVGWm55YWtjTEJ2N2JFcW93cnRWS3Q4OXphcnQ1bF8wTUZvV2F5ZlYxd0dYMDZpMUZrT2pyaWMzeWtwWUU4ZFlYRTNVWmVzY3VCMWh1X3BMc1c0OXVZVVVnaTlDNEstVnQ4WDRqd003OHBXbnNxRUw5Vnk0cE5ndUF5dGdR0gHwAUFVX3lxTE5IVVlGWVlhRVRPS1VuOWs2aEItVno4OE5jX09vUWJBemFJb08yQXpaRjB0Q1lPVjg3aVMxMnM4Z20xR3YzN1Fpc29RMWtZSlJ2NUFzejVGMW1obVlKQWRuczhPSE1rTlhpdUh6QzAwb095OVNaT1RoT1paTkJQZEFnM1RkSnZ0bEZ6d3NLZHBqeUZpUldtMmJ1ZEpQREJuT2hlUmthQ2c5dkdXclJOMFU4NjM0Y29EUDF1R3F3RDhHdDBab2g4STB3QlByYlpvaHJzbGJ4UHlfbmFabzE4ZHpHTFZYeUFvUGotN2tIa2hvaA?oc=5",
+"published": "2026-11-12T11:52+04:00",
+"category": "Regulation & fees",
+"impact": "High",
+"impact_reason": "Directly impacts investor eligibility and residency-linked property demand.",
+"watch": false,
+"topic": "Regulation & fees"
+},
+{
+"id": "af0b5537ca4a",
+"headline": "Retail Gold Prices Fall Below Dh480 Per Gram in UAE",
+"summary": "Global bullion prices dropped for three consecutive sessions below $4,000 per ounce. UAE retail prices tracked this downward international slide.",
+"why": "Shifts in precious metals reflect broader economic trends affecting investor sentiment.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/business/retail/dubai-gold-drops-for-a-third-day-24k-below-dh480-per-gram-1.500744581",
+"published": "2026-11-12T11:34+04:00",
+"category": "Rates & mortgages",
+"impact": "Medium",
+"impact_reason": "Reflects broader macroeconomic shifts impacting general investor sentiment.",
+"watch": false,
+"topic": "Rates & mortgages"
+},
+{
+"id": "49b582d2ec07",
+"headline": "OPEC+ Crude Production Jumps as Saudi Output Rebounds",
+"summary": "Total OPEC+ crude production rose by over two million barrels daily in October. Saudi Arabian output led the recovery as Gulf producers restored supplies.",
+"why": "Oil production levels drive regional economic health and government spending power.",
+"source": "Economy Middle East",
+"link": "https://economymiddleeast.com/news/opec-oil-output-jumps-2-04-million-bpd-to-41-23-million-as-saudi-production-rebounds-to-10-56-million-bpd/?utm_source=rss&utm_medium=rss&utm_campaign=opec-oil-output-jumps-2-04-million-bpd-to-41-23-million-as-saudi-production-rebounds-to-10-56-million-bpd",
+"published": "2026-11-12T11:54+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "Broader economic indicator with indirect regional market effects.",
+"watch": false,
+"topic": "oil"
 }
 ]

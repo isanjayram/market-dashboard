@@ -433,6 +433,42 @@
    "category": "Supply & market reports",
    "impact": "High",
    "impact_reason": "Major supply expansion forecast could alter future property prices."
+  },
+  "9c8dbbe35266": {
+   "relevant": true,
+   "headline": "US Dollar Hits 19-Month High Amid Fed Hike Expectations",
+   "summary": "The greenback surged against major currencies following stubborn US inflation data. Federal Reserve comments point toward upcoming interest rate increases.",
+   "why": "A stronger dollar directly impacts Dubai's pegged dirham and foreign investment flows.",
+   "category": "Rates & mortgages",
+   "impact": "High",
+   "impact_reason": "Affects pegged currency strength and international buyer purchasing power."
+  },
+  "af0b5537ca4a": {
+   "relevant": true,
+   "headline": "Retail Gold Prices Fall Below Dh480 Per Gram in UAE",
+   "summary": "Global bullion prices dropped for three consecutive sessions below $4,000 per ounce. UAE retail prices tracked this downward international slide.",
+   "why": "Shifts in precious metals reflect broader economic trends affecting investor sentiment.",
+   "category": "Rates & mortgages",
+   "impact": "Medium",
+   "impact_reason": "Reflects broader macroeconomic shifts impacting general investor sentiment."
+  },
+  "49b582d2ec07": {
+   "relevant": true,
+   "headline": "OPEC+ Crude Production Jumps as Saudi Output Rebounds",
+   "summary": "Total OPEC+ crude production rose by over two million barrels daily in October. Saudi Arabian output led the recovery as Gulf producers restored supplies.",
+   "why": "Oil production levels drive regional economic health and government spending power.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Broader economic indicator with indirect regional market effects."
+  },
+  "0e16c04701c6": {
+   "relevant": true,
+   "headline": "Dubai Overhauls 2026 Visa Rules With Relaxed Property Criteria",
+   "summary": "Dubai has introduced comprehensive updates to its 2026 visa regulations. Changes feature expanded entry access and easier property investment criteria.",
+   "why": "New visa criteria directly alter investment incentives for foreign property buyers.",
+   "category": "Regulation & fees",
+   "impact": "High",
+   "impact_reason": "Directly impacts investor eligibility and residency-linked property demand."
   }
  }
 }
