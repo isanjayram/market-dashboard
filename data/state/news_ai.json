@@ -577,6 +577,33 @@
    "category": "Developer news",
    "impact": "Low",
    "impact_reason": "Media interview containing no actionable market news."
+  },
+  "4c440d147a0d": {
+   "relevant": true,
+   "headline": "Emaar malls and hotels hit by regional conflict",
+   "summary": "Emaar founder Mohamed Alabbar reports a ten percent drop in mall footfall. Hotel occupancy also fell sharply due to the ongoing Iran war.",
+   "why": "It shows how geopolitical tensions can directly impact Dubai's retail and hospitality sectors.",
+   "category": "Macro & geopolitics",
+   "impact": "High",
+   "impact_reason": "Shifts regional sentiment and consumer spending."
+  },
+  "375419d62e22": {
+   "relevant": false,
+   "headline": "Turkey central bank raises inflation forecasts",
+   "summary": "Turkey's central bank increased its inflation forecasts for 2026 and 2027.",
+   "why": "The news relates to Turkey's economy rather than Dubai property or UAE markets.",
+   "category": "Rates & mortgages",
+   "impact": "Low",
+   "impact_reason": "No direct effect on Dubai real estate."
+  },
+  "337d3b06d522": {
+   "relevant": true,
+   "headline": "Beyond unveils residential community on Dubai Islands",
+   "summary": "Developer Beyond has introduced an 816 million dollar twin-building residential project on Dubai Islands.",
+   "why": "New residential launches directly increase housing supply and buyer options in the local market.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Expands local residential supply."
   }
  }
 }

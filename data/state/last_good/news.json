@@ -1,23 +1,26 @@
 {
  "top": [
   {
-   "id": "9c8dbbe35266",
-   "title": "U.S. dollar rises to 19-month high as yen nears 160 on Fed hike bets and BOJ caution",
-   "link": "https://economymiddleeast.com/news/u-s-dollar-rises-to-19-month-high-as-yen-nears-160-on-fed-hike-bets-and-boj-caution/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-dollar-rises-to-19-month-high-as-yen-nears-160-on-fed-hike-bets-and-boj-caution",
-   "source": "Economy Middle East",
+   "id": "4c440d147a0d",
+   "title": "Emaar\u2019s mall footfall down 10 per cent due to Iran war, says Alabbar",
+   "link": "https://www.thenationalnews.com/business/property/2026/11/12/emaars-mall-footfall-down-10-per-cent-due-to-iran-war-says-alabbar/",
+   "source": "The National",
    "kind": "outlet",
-   "published": "2026-11-12T12:04+04:00",
+   "published": "2026-11-12T16:43+04:00",
    "tags": [],
-   "teaser": "The U.S. dollar climbed to a 19-month high against major currencies on Thursday as stronger-than-expected U.S. inflation and hawkish Federal Reserve comments fueled expectations of further interest rate increases, while the Japanese yen weakened toward the closely watched 160-per-dollar level. The dollar index, which measures the greenback against a basket of major currencies, gained 0.15 [\u2026] The ",
-   "category": "Rates & mortgages",
+   "teaser": "Footfall and retail sales at Emaar\u2019s malls have fallen by about 10 per cent and hotel occupancy has dropped sharply as the Iran war weighs on tourism and consumer spending in Dubai, Emaar founder Mohamed Alabbar said on Thursday. \u201cIn our mall business, we are 10 per cent less in traffic. We were growing 10 per cent per year for the last five years,\u201d Mr Alabbar told the Bloomberg Invest event in Du",
+   "category": "Macro & geopolitics",
    "impact": "High",
-   "impact_reason": "Affects pegged currency strength and international buyer purchasing power.",
+   "impact_reason": "Shifts regional sentiment and consumer spending.",
    "watch": false,
-   "headline": "US Dollar Hits 19-Month High Amid Fed Hike Expectations",
-   "summary": "The greenback surged against major currencies following stubborn US inflation data. Federal Reserve comments point toward upcoming interest rate increases.",
-   "why": "A stronger dollar directly impacts Dubai's pegged dirham and foreign investment flows.",
-   "age_hours": 3.8,
-   "topic": "Rates & mortgages"
+   "also": [
+    "The National (property)"
+   ],
+   "headline": "Emaar malls and hotels hit by regional conflict",
+   "summary": "Emaar founder Mohamed Alabbar reports a ten percent drop in mall footfall. Hotel occupancy also fell sharply due to the ongoing Iran war.",
+   "why": "It shows how geopolitical tensions can directly impact Dubai's retail and hospitality sectors.",
+   "age_hours": 0.1,
+   "topic": "emaar"
   },
   {
    "id": "5a5be96ef02f",
@@ -39,31 +42,8 @@
    "headline": "Arada and Alya team up for $1.63bn pipeline",
    "summary": "Arada and Alya Developments plan to co-invest in high-end real estate across the UAE and Saudi Arabia. The partnership is facilitated through Arada's newly launched investment platform.",
    "why": "This signals significant new luxury project pipelines and cross-border investment activity.",
-   "age_hours": 1.1,
+   "age_hours": 2.1,
    "topic": "arada"
-  },
-  {
-   "id": "650eab50aaf6",
-   "title": "UK\u2019s Cheval Collection launches Dubai project in expansion push",
-   "link": "https://www.thenationalnews.com/business/property/2026/11/11/uks-cheval-collection-launches-new-dubai-project-in-expansion-push/",
-   "source": "The National",
-   "kind": "outlet",
-   "published": "2026-11-11T16:24+04:00",
-   "tags": [],
-   "teaser": "Cheval Collection , the UK-based luxury hospitality firm, has launched a development in Dubai, with plans to expand in the UAE and the region as property demand increases. The project in Dubai South will have 98 serviced hotel apartments ranging from studios to three-bedroom units, and 95 one-, two-, and three-bedroom branded residences. It is scheduled to open in 2030. Cheval South Bay is the fou",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Expands luxury serviced apartment supply in Dubai South.",
-   "watch": true,
-   "also": [
-    "The National (property)"
-   ],
-   "headline": "UK's Cheval Collection launches new Dubai South project",
-   "summary": "British luxury hospitality firm Cheval Collection is expanding in the UAE with a new serviced apartment development in Dubai South featuring nearly two hundred units.",
-   "why": "New hospitality project expansion increases Dubai's serviced apartment supply.",
-   "age_hours": 23.5,
-   "topic": "Developer news",
-   "more": 1
   },
   {
    "id": "be72ec3022d9",
@@ -81,31 +61,9 @@
    "headline": "Abu Dhabi property prices surge by up to 31 percent",
    "summary": "Property values in Abu Dhabi have experienced significant annual increases, with prices rising as much as 31%.",
    "why": "It provides critical valuation data for the UAE property market.",
-   "age_hours": 3.8,
+   "age_hours": 4.8,
    "topic": "abu dhabi",
    "more": 3
-  },
-  {
-   "id": "af0b5537ca4a",
-   "title": "Gold drops for a third day, 24K below Dh480 per gram",
-   "link": "https://gulfnews.com/business/retail/dubai-gold-drops-for-a-third-day-24k-below-dh480-per-gram-1.500744581",
-   "source": "Gulf News",
-   "kind": "outlet",
-   "published": "2026-11-12T11:34+04:00",
-   "tags": [
-    "Retail",
-    "Your Money"
-   ],
-   "teaser": "Dubai: Global gold fell for a third straight session on November 12 and held below $4,000 an ounce. Stubborn US inflation and hawkish remarks from Federal Reserve officials have convinced traders that an interest-rate hike is coming next month. In the UAE retail prices followed the global slide. 24-karat gold costs Dh479.25 a gram, down Dh3.75 from Dh483.00 yesterday. 22-karat dropped Dh3.50 to Dh",
-   "category": "Rates & mortgages",
-   "impact": "Medium",
-   "impact_reason": "Reflects broader macroeconomic shifts impacting general investor sentiment.",
-   "watch": false,
-   "headline": "Retail Gold Prices Fall Below Dh480 Per Gram in UAE",
-   "summary": "Global bullion prices dropped for three consecutive sessions below $4,000 per ounce. UAE retail prices tracked this downward international slide.",
-   "why": "Shifts in precious metals reflect broader economic trends affecting investor sentiment.",
-   "age_hours": 4.3,
-   "topic": "Rates & mortgages"
   },
   {
    "id": "d7ef845aa566",
@@ -126,7 +84,7 @@
    "headline": "Two ordered to repay AED22.9m in fraud case",
    "summary": "A Dubai court has ordered two individuals to return nearly twenty three million dirhams following a local property fraud case.",
    "why": "Legal enforcement against fraud impacts market regulation and transparency.",
-   "age_hours": 5.8,
+   "age_hours": 6.8,
    "topic": "Regulation & fees"
   },
   {
@@ -145,31 +103,26 @@
    "headline": "Dubai mortgage market exceeds 41 billion dollars amid shifts",
    "summary": "Total volume in Dubai's mortgage sector has crossed $41 billion as underlying market dynamics continue to evolve.",
    "why": "Mortgage volume data directly impacts buyer financing and banking liquidity.",
-   "age_hours": 8.5,
+   "age_hours": 9.5,
    "topic": "mortgage"
   },
   {
-   "id": "0e3d53fbe6e1",
+   "id": "cca5b329e46b",
    "title": "Global investors converge on IREIS 2026, as Abu Dhabi property transactions surge to Dh171 billion",
-   "link": "https://gulfnews.com/uae/abu-dhabi/global-investors-converge-on-ireis-2026-as-abu-dhabi-property-transactions-surge-to-dh171-billion-1.500744323",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUldSSlNGeko3Q2IxOU1KTkJuR3h0ZXFLSXRQY3lucUUtVWo4TGl5ZmlnRGYwWHdadHBQWEMweldWb2xsWTltZzRYZzZ2NXdublRpTUpDbU42TVM4OWtyQ2s4alFxM29tRFlMT3VHdEt5MGpWUjJWRkNHMEU5anlHY2hGV201Qkg2RWU2NnBwbWRVRVFZZ2cybTU3b0NjeTQ0TDVDRTF0WGJDTWg5WTBidDNaR1JfRmpuZTEyaHlkMkpFS3NHMXJNdWNsLS14TjdHNmlXOWcxLW9hOTJh0gHvAUFVX3lxTE9qSnpQUmtJUDZ2VDM3Q0dzM1FaUEctWWhGNHNTTzBCMkUxMDV1REdjS1p4V0RmaXZCLXBPT25WbEIwSkcwVjhhaTY5LW5ZNTNBS1hvRkJCY0FBX29WVm8yY0RfQkVnVnhxRW5vRHlXMnF6Rng3Wlo1dXlSYmJXMGNBZDdLZy04dFFLWmZmWWhQaldmSDFfLW9vM3d6VlVKb1pUWldIOHlwWVBHNlJjNWFnel9YdXFLMXRtel9sbjFSUGxoVkZDZFFGV2Jod2FDbkVoU1NHdzc4WmF5V3o2b0I0M21jeWlQUVNQMkoyd25Z?oc=5",
    "source": "Gulf News",
-   "kind": "outlet",
+   "kind": "search",
    "published": "2026-11-12T07:00+04:00",
-   "tags": [
-    "Abu Dhabi"
-   ],
-   "teaser": "Abu Dhabi : As Abu Dhabi\u2019s property market posts some of its strongest figures on record, the International Real Estate and Investment Show (IREIS) 2026 was held at the Abu Dhabi National Exhibition Centre (ADNEC), bringing UAE developers face to face with international brokers and investors looking at the capital. The three-day exhibition and conference were inaugurated by Amer Al Ahbabi, Chairma",
+   "tags": [],
+   "teaser": "",
    "category": "Supply & market reports",
    "impact": "Medium",
-   "impact_reason": "Highlights strong regional investment activity.",
+   "impact_reason": "Highlights strong buyer demand and capital inflows.",
    "watch": false,
-   "also": [
-    "Gulf News"
-   ],
-   "headline": "Abu Dhabi property deals reach Dh171 billion at IREIS 2026",
-   "summary": "Global investors gathered at IREIS 2026 following record-breaking property transaction figures in Abu Dhabi. The event connected local developers with international brokers and buyers.",
-   "why": "It reports major capital inflows and market growth in the UAE capital.",
-   "age_hours": 8.9,
+   "headline": "Global Investors Flock to IREIS 2026 as Abu Dhabi Deals Hit Dh171 Billion",
+   "summary": "International investors gathered for IREIS 2026 following a massive surge in Abu Dhabi property transactions reaching Dh171 billion.",
+   "why": "Capital inflows into the capital signal robust ongoing demand for UAE real estate.",
+   "age_hours": 9.8,
    "topic": "abu dhabi"
   },
   {
@@ -191,7 +144,7 @@
    "headline": "Dubai warehouse rents rise amid industrial leasing surge",
    "summary": "Industrial leasing activity climbed significantly as available supply tightened, pushing warehouse rental prices higher.",
    "why": "Higher industrial rents and a supply squeeze directly impact commercial real estate costs.",
-   "age_hours": 14.4,
+   "age_hours": 15.4,
    "topic": "rents"
   },
   {
@@ -210,17 +163,56 @@
    "headline": "Dubai Records $41 Billion in Mortgages as Off-Plan Sales Slow",
    "summary": "Dubai's property market registered significant mortgage volumes while experiencing a slowdown in off-plan transactions.",
    "why": "Mortgage trends reveal shifts in how buyers choose to finance their property purchases.",
-   "age_hours": 16.4,
+   "age_hours": 17.4,
    "topic": "Developer news"
+  },
+  {
+   "id": "fc31c4934bce",
+   "title": "Danube sells out Gauri Khan-designed \u20b950-crore penthouses on launch day in Dubai | Real Estate News",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVzNrb0ExN19GTmJpOTY5UVdTbDRyYWxXbG13czU4czZjanpBclZQcHAxTnVyR0FTQkcwQ3M3aVFUOFVaSGtVcVJ6aFRibUpxdkh1S2VZVDNaQ1ozYlcwOTNzbkdBNkNRTWFEcDdZUHV4UXVkM2VMa0h1NHpsYTh2WjZoTU5UbUhsd0ZMdmlnOXNrTmdpaWh3YU5jY09lRHAtcHVub296NDRTZV91MkVQYmk5TkwzX1ZBTXNWNDllQzdqcmJ1aTN1cTBSdzFaVy1SeDR4bEM1ZGQ1M03SAeABQVVfeXFMTVR0TWdwQmlGN1JfZ2pIZ3RUVkF1RkRjdEM2WHBhN1hmaTV5b3JkSXV1TkVJSGFWZkxkSldweXBQSUpjdmJIalVJVzN0QTd0R1JZQUs5dS01ZWtwWW8yZVcyaTQyaXFoMzZzM1NtYzhpVG45aHdsNTV5d1NVRG9NR3BnMmgyRFlvRXRWSm1Oa0RuMVJNdEJucFc0cll4TGN5aXdOTUc3dUc0a0E4UjRleVpZU2tsWjkxcXNBdUpPRy05NWhpM3NkQjF0X05NNUxrLWtiblRjMno0a1E3X3Z5SEI?oc=5",
+   "source": "Hindustan Times",
+   "kind": "search",
+   "published": "2026-11-12T10:26+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Reflects robust demand for luxury real estate.",
+   "watch": false,
+   "headline": "Danube Sells Out Luxury Penthouses in Dubai on Launch Day",
+   "summary": "Luxury penthouses designed by Gauri Khan sold out completely on their launch day in Dubai.",
+   "why": "Rapid sell-outs of high-end projects showcase strong appetite for luxury developments.",
+   "age_hours": 6.4,
+   "topic": "Developer news"
+  },
+  {
+   "id": "dddad954c698",
+   "title": "Why Indian Investors Are Exploring Dubai\u2019s Real Estate Market",
+   "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOTVdydExMZ1JVYzlhQzdCSnYwbUlHZGxvZC05dkpLUkszbUc5SHNWS0swVFZHcmdmVk5uZVRhcDg0LUNZZjV1R0l0YVRnMkFNZ1pHUmtld3h0Vng5TFk0cG5Oajh6YjBTeWwzdmlSUGFkMk9sM3JfbG1DTm9QSzlUU3c3QmRoQ3NmdkJfVjEwdEdFYWxZN0drTEZ4MENycTJnRTJKWnF5Z2cwV0hpdWIzc2w4cGVtck9BTGxGX1JlcTUwbHBXQnFxbXdqSm8zemJKckt0YkdZaEFhVENENDVmNU9acGJNT0VpdXl3bXV0U1QybkZaUnMzbjhPWnMtYWJETUt3Umd0RU5hWk5ib1VTMHQ2RkotY1VKSXl0NFNRZkhXQWFfc1Rqa3hHdFJ6SjVZTEZReEZR?oc=5",
+   "source": "ABP Live English",
+   "kind": "search",
+   "published": "2026-11-12T14:21+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Reflects ongoing foreign buyer interest without changing local regulations.",
+   "watch": true,
+   "headline": "Indian buyers increasingly target Dubai property market",
+   "summary": "Indian investors are showing strong interest in acquiring Dubai real estate properties. This highlights the emirate's enduring appeal to foreign capital.",
+   "why": "It highlights shifts in cross-border buyer demand affecting local sales.",
+   "age_hours": 2.5,
+   "topic": "Macro & geopolitics",
+   "more": 1
   }
  ],
  "window_hours": 24,
- "count_relevant": 28,
- "count_fetched": 307,
+ "count_relevant": 27,
+ "count_fetched": 301,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-12T15:51+04:00",
- "saved_at": "2026-11-12T15:51+04:00"
+ "as_of": "2026-11-12T16:50+04:00",
+ "saved_at": "2026-11-12T16:50+04:00"
 }

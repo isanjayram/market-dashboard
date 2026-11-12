@@ -637,5 +637,36 @@
 "impact_reason": "General market context",
 "watch": false,
 "topic": "abu dhabi"
+},
+{
+"id": "4c440d147a0d",
+"headline": "Emaar malls and hotels hit by regional conflict",
+"summary": "Emaar founder Mohamed Alabbar reports a ten percent drop in mall footfall. Hotel occupancy also fell sharply due to the ongoing Iran war.",
+"why": "It shows how geopolitical tensions can directly impact Dubai's retail and hospitality sectors.",
+"source": "The National",
+"link": "https://www.thenationalnews.com/business/property/2026/11/12/emaars-mall-footfall-down-10-per-cent-due-to-iran-war-says-alabbar/",
+"published": "2026-11-12T16:43+04:00",
+"category": "Macro & geopolitics",
+"impact": "High",
+"impact_reason": "Shifts regional sentiment and consumer spending.",
+"watch": false,
+"also": [
+"The National (property)"
+],
+"topic": "emaar"
+},
+{
+"id": "97130b28e05d",
+"headline": "Oman’s property market stumbles as mortgage values fall",
+"summary": "",
+"why": "mortgage costs and affordability for financed buyers may shift.",
+"source": "Arabian Gulf Business Insight | AGBI",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRmY2UGFxaFF4RF9INzFDNWJ1VHcwZ0JfYVhVS1lFc3J4ZnA2WUh1ekt4UjRGclcybVlRa1pfdlJ0WVNPYW56WUl0TGJXdzFHVXRrQXVKNzdGdWlBdElPTWRWVmpRZXVveHRWNy1jcjIxTkZQWnJuYTJhMkZiSHkwOHA1RGQ4Y2ZyOWYyY2VubkFSaUxwUVlOOUhSNnVvdG02ektnbTR4ckw?oc=5",
+"published": "2026-11-12T04:00+04:00",
+"category": "Rates & mortgages",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": false,
+"topic": "mortgage"
 }
 ]
