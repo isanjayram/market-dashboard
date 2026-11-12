@@ -469,6 +469,78 @@
    "category": "Regulation & fees",
    "impact": "High",
    "impact_reason": "Directly impacts investor eligibility and residency-linked property demand."
+  },
+  "38cae5ef23a9": {
+   "relevant": false,
+   "headline": "Shah Rukh Khan emotional at Dubai property launch",
+   "summary": "Bollywood star Shah Rukh Khan spoke about his childhood at a Dubai real estate event.",
+   "why": "This is a celebrity-focused lifestyle piece with no direct real estate market news.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "No direct market impact."
+  },
+  "0e3d53fbe6e1": {
+   "relevant": true,
+   "headline": "Abu Dhabi property deals reach Dh171 billion at IREIS 2026",
+   "summary": "Global investors gathered at IREIS 2026 following record-breaking property transaction figures in Abu Dhabi. The event connected local developers with international brokers and buyers.",
+   "why": "It reports major capital inflows and market growth in the UAE capital.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Highlights strong regional investment activity."
+  },
+  "9132c9178559": {
+   "relevant": false,
+   "headline": "Shah Rukh Khan hosts event with Karan Johar and Rizwan Sajan",
+   "summary": "Shah Rukh Khan and Karan Johar appeared together at a Dubai property launch.",
+   "why": "This item is purely about celebrity appearances rather than property market fundamentals.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Celebrity event with no market data."
+  },
+  "5d6db6ba855d": {
+   "relevant": true,
+   "headline": "Nakheel launches Palm Springs community in Dubai South",
+   "summary": "Nakheel has announced the new Palm Springs development in Dubai South, designed to accommodate 50,000 residents.",
+   "why": "This is a major master community launch affecting future Dubai housing supply.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Adds significant new housing supply."
+  },
+  "88cd28a38997": {
+   "relevant": false,
+   "headline": "Mystery shopper test reveals blind spots among Dubai brokers",
+   "summary": "A test involving forty Dubai real estate brokers exposed significant service gaps.",
+   "why": "This is an agent opinion and service critique rather than market news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Focuses on agent performance rather than market economics."
+  },
+  "be72ec3022d9": {
+   "relevant": true,
+   "headline": "Abu Dhabi property prices surge by up to 31 percent",
+   "summary": "Property values in Abu Dhabi have experienced significant annual increases, with prices rising as much as 31%.",
+   "why": "It provides critical valuation data for the UAE property market.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects strong capital appreciation in the capital."
+  },
+  "899b0e8caa41": {
+   "relevant": true,
+   "headline": "Dubai mortgage market exceeds 41 billion dollars amid shifts",
+   "summary": "Total volume in Dubai's mortgage sector has crossed $41 billion as underlying market dynamics continue to evolve.",
+   "why": "Mortgage volume data directly impacts buyer financing and banking liquidity.",
+   "category": "Rates & mortgages",
+   "impact": "Medium",
+   "impact_reason": "Shows strong financing activity in the sector."
+  },
+  "2aa78f75181c": {
+   "relevant": false,
+   "headline": "Shah Rukh Khan discusses property launch with Karan Johar",
+   "summary": "Shah Rukh Khan spoke about property ownership at the launch event for Shahrukhz Residences by Danube.",
+   "why": "This is primarily a celebrity promotional event without broader market news.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Promotional event for a branded project."
   }
  }
 }
