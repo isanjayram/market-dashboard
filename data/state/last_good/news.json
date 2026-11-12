@@ -16,8 +16,31 @@
    "headline": "US Dollar Hits 19-Month High Amid Fed Hike Expectations",
    "summary": "The greenback surged against major currencies following stubborn US inflation data. Federal Reserve comments point toward upcoming interest rate increases.",
    "why": "A stronger dollar directly impacts Dubai's pegged dirham and foreign investment flows.",
-   "age_hours": 2.3,
+   "age_hours": 3.8,
    "topic": "Rates & mortgages"
+  },
+  {
+   "id": "5a5be96ef02f",
+   "title": "Arada and Alya target $1.63bn property pipeline across UAE and Saudi Arabia",
+   "link": "https://www.thenationalnews.com/business/property/2026/11/12/arada-and-alya-target-163bn-property-pipeline-across-uae-and-saudi-arabia/",
+   "source": "The National",
+   "kind": "outlet",
+   "published": "2026-11-12T14:45+04:00",
+   "tags": [],
+   "teaser": "UAE developer Arada has teamed up with Alya Developments to explore co-investment opportunities in premium property in the Emirates and Saudi Arabia, following the former's entry into the kingdom. Arada's newly established investment management platform, Arada Capital, and Alya signed a preliminary agreement to explore premium developments in the Emirates and Saudi Arabia under a potential Dh6 bil",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Expands luxury housing supply through major strategic investments.",
+   "watch": true,
+   "also": [
+    "The National",
+    "The National (property)"
+   ],
+   "headline": "Arada and Alya team up for $1.63bn pipeline",
+   "summary": "Arada and Alya Developments plan to co-invest in high-end real estate across the UAE and Saudi Arabia. The partnership is facilitated through Arada's newly launched investment platform.",
+   "why": "This signals significant new luxury project pipelines and cross-border investment activity.",
+   "age_hours": 1.1,
+   "topic": "arada"
   },
   {
    "id": "650eab50aaf6",
@@ -38,7 +61,7 @@
    "headline": "UK's Cheval Collection launches new Dubai South project",
    "summary": "British luxury hospitality firm Cheval Collection is expanding in the UAE with a new serviced apartment development in Dubai South featuring nearly two hundred units.",
    "why": "New hospitality project expansion increases Dubai's serviced apartment supply.",
-   "age_hours": 22.0,
+   "age_hours": 23.5,
    "topic": "Developer news",
    "more": 1
   },
@@ -58,9 +81,9 @@
    "headline": "Abu Dhabi property prices surge by up to 31 percent",
    "summary": "Property values in Abu Dhabi have experienced significant annual increases, with prices rising as much as 31%.",
    "why": "It provides critical valuation data for the UAE property market.",
-   "age_hours": 2.3,
+   "age_hours": 3.8,
    "topic": "abu dhabi",
-   "more": 2
+   "more": 3
   },
   {
    "id": "af0b5537ca4a",
@@ -81,7 +104,7 @@
    "headline": "Retail Gold Prices Fall Below Dh480 Per Gram in UAE",
    "summary": "Global bullion prices dropped for three consecutive sessions below $4,000 per ounce. UAE retail prices tracked this downward international slide.",
    "why": "Shifts in precious metals reflect broader economic trends affecting investor sentiment.",
-   "age_hours": 2.8,
+   "age_hours": 4.3,
    "topic": "Rates & mortgages"
   },
   {
@@ -103,7 +126,7 @@
    "headline": "Two ordered to repay AED22.9m in fraud case",
    "summary": "A Dubai court has ordered two individuals to return nearly twenty three million dirhams following a local property fraud case.",
    "why": "Legal enforcement against fraud impacts market regulation and transparency.",
-   "age_hours": 4.3,
+   "age_hours": 5.8,
    "topic": "Regulation & fees"
   },
   {
@@ -122,7 +145,7 @@
    "headline": "Dubai mortgage market exceeds 41 billion dollars amid shifts",
    "summary": "Total volume in Dubai's mortgage sector has crossed $41 billion as underlying market dynamics continue to evolve.",
    "why": "Mortgage volume data directly impacts buyer financing and banking liquidity.",
-   "age_hours": 7.0,
+   "age_hours": 8.5,
    "topic": "mortgage"
   },
   {
@@ -146,7 +169,7 @@
    "headline": "Abu Dhabi property deals reach Dh171 billion at IREIS 2026",
    "summary": "Global investors gathered at IREIS 2026 following record-breaking property transaction figures in Abu Dhabi. The event connected local developers with international brokers and buyers.",
    "why": "It reports major capital inflows and market growth in the UAE capital.",
-   "age_hours": 7.4,
+   "age_hours": 8.9,
    "topic": "abu dhabi"
   },
   {
@@ -168,7 +191,7 @@
    "headline": "Dubai warehouse rents rise amid industrial leasing surge",
    "summary": "Industrial leasing activity climbed significantly as available supply tightened, pushing warehouse rental prices higher.",
    "why": "Higher industrial rents and a supply squeeze directly impact commercial real estate costs.",
-   "age_hours": 12.9,
+   "age_hours": 14.4,
    "topic": "rents"
   },
   {
@@ -187,37 +210,17 @@
    "headline": "Dubai Records $41 Billion in Mortgages as Off-Plan Sales Slow",
    "summary": "Dubai's property market registered significant mortgage volumes while experiencing a slowdown in off-plan transactions.",
    "why": "Mortgage trends reveal shifts in how buyers choose to finance their property purchases.",
-   "age_hours": 14.9,
+   "age_hours": 16.4,
    "topic": "Developer news"
-  },
-  {
-   "id": "3de84ce0b426",
-   "title": "UAE corporate tax revenue jumps by a third to Dh46.5bn in 2025",
-   "link": "https://www.thenationalnews.com/business/economy/2026/11/11/uae-corporate-tax-revenue-jumps-by-a-third-to-dh465bn-in-2025/",
-   "source": "The National",
-   "kind": "outlet",
-   "published": "2026-11-11T15:35+04:00",
-   "tags": [],
-   "teaser": "Corporate tax revenue collected by the UAE rose by nearly 34 per cent in 2025, amid a rise in on-time compliance. The Federal Tax Authority collected approximately Dh46.5 billion ($12.7 billion) in corporate tax for periods ending in the 2025 financial year, up from Dh34.75 billion a year earlier. That brought total revenue collected from the introduction of corporate tax to the end of 2025 to Dh8",
-   "category": "Macro & geopolitics",
-   "impact": "Medium",
-   "impact_reason": "Reflects broader economic growth impacting investor sentiment.",
-   "watch": false,
-   "headline": "UAE Corporate Tax Revenue Reaches Dh46.5 Billion in 2025",
-   "summary": "The Federal Tax Authority reported a 34 percent increase in corporate tax collections for 2025. This rise reflects improved compliance across businesses operating within the country.",
-   "why": "It reflects broader UAE fiscal growth and economic health, which directly influences investor sentiment in the property sector.",
-   "age_hours": 22.8,
-   "topic": "Macro & geopolitics",
-   "more": 2
   }
  ],
  "window_hours": 24,
- "count_relevant": 26,
- "count_fetched": 300,
+ "count_relevant": 28,
+ "count_fetched": 307,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-12T14:21+04:00",
- "saved_at": "2026-11-12T14:21+04:00"
+ "as_of": "2026-11-12T15:51+04:00",
+ "saved_at": "2026-11-12T15:51+04:00"
 }

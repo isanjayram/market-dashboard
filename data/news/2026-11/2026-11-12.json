@@ -562,5 +562,80 @@
 "www.wam.ae"
 ],
 "topic": "nakheel"
+},
+{
+"id": "5a5be96ef02f",
+"headline": "Arada and Alya team up for $1.63bn pipeline",
+"summary": "Arada and Alya Developments plan to co-invest in high-end real estate across the UAE and Saudi Arabia. The partnership is facilitated through Arada's newly launched investment platform.",
+"why": "This signals significant new luxury project pipelines and cross-border investment activity.",
+"source": "The National",
+"link": "https://www.thenationalnews.com/business/property/2026/11/12/arada-and-alya-target-163bn-property-pipeline-across-uae-and-saudi-arabia/",
+"published": "2026-11-12T14:45+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Expands luxury housing supply through major strategic investments.",
+"watch": true,
+"also": [
+"The National",
+"The National (property)"
+],
+"topic": "arada"
+},
+{
+"id": "dddad954c698",
+"headline": "Indian buyers increasingly target Dubai property market",
+"summary": "Indian investors are showing strong interest in acquiring Dubai real estate properties. This highlights the emirate's enduring appeal to foreign capital.",
+"why": "It highlights shifts in cross-border buyer demand affecting local sales.",
+"source": "ABP Live English",
+"link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOTVdydExMZ1JVYzlhQzdCSnYwbUlHZGxvZC05dkpLUkszbUc5SHNWS0swVFZHcmdmVk5uZVRhcDg0LUNZZjV1R0l0YVRnMkFNZ1pHUmtld3h0Vng5TFk0cG5Oajh6YjBTeWwzdmlSUGFkMk9sM3JfbG1DTm9QSzlUU3c3QmRoQ3NmdkJfVjEwdEdFYWxZN0drTEZ4MENycTJnRTJKWnF5Z2cwV0hpdWIzc2w4cGVtck9BTGxGX1JlcTUwbHBXQnFxbXdqSm8zemJKckt0YkdZaEFhVENENDVmNU9acGJNT0VpdXl3bXV0U1QybkZaUnMzbjhPWnMtYWJETUt3Umd0RU5hWk5ib1VTMHQ2RkotY1VKSXl0NFNRZkhXQWFfc1Rqa3hHdFJ6SjVZTEZReEZR?oc=5",
+"published": "2026-11-12T14:21+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "Reflects ongoing foreign buyer interest without changing local regulations.",
+"watch": true,
+"more": 1,
+"topic": "Macro & geopolitics"
+},
+{
+"id": "51bac0f711ee",
+"headline": "Binghatti profits surge 65% to Dh4.4 billion",
+"summary": "Binghatti Holding's net profit jumped significantly, beating its full-year 2025 target by September. Revenues also climbed sharply as active construction progressed on projects.",
+"why": "Strong developer financials indicate robust market demand and reliable project delivery timelines.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/business/property/binghatti-profit-up-65-to-dh44b-tops-full-year-2025-1.500744929",
+"published": "2026-11-12T15:21+04:00",
+"category": "Developer news",
+"impact": "Low",
+"impact_reason": "Demonstrates strong developer financials and steady project delivery.",
+"watch": false,
+"topic": "binghatti"
+},
+{
+"id": "337d3b06d522",
+"headline": "Beyond launches $816mln twin-building residential community on Dubai Islands",
+"summary": "",
+"why": "can move investor sentiment; expect questions about where the market is heading.",
+"source": "Zawya",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZGY4UHNiRGJEQjlkT051VURBMkdTT1hVNDFNcnNESXpNZktHSGZWUlVqalQzbkRtdkp5NmhDWU03NDhVLVNVMk4tQWp2R1VyMUdRY0VYVjI1VjNEYm85Zk8zdHVDb3NMV28wQ05wWWpOdl9tU3VNQ0pzalFEQy1WNElTMnltQjZZWEUwNmRWZE5ZNm9rZHVMcmc5UkVZbkRDSDRSUEdQTURtc1RUVG1nMHcwT1E5UExwUnVQU1F1dE9VZFQwQlE3N3Nn?oc=5",
+"published": "2026-11-11T07:46+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": false,
+"topic": "Macro & geopolitics"
+},
+{
+"id": "7db868a8e9e8",
+"headline": "How Aldar is building a new Abu Dhabi dining destination at Saadiyat Grove",
+"summary": "",
+"why": "new launches or results change the options and prices you can offer clients.",
+"source": "Caterer Middle East",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTh2UE9TNnctRkFqU3c5eklDS09ka3hnaW0wWjdqRWVFaDBIeGFJTm1wdVItNnZ6Y21ZMzVGSWp4TVBrOE1yYzJ6V1lkMno0bWVScmZXclVvWFlDTktkQ1Q1N2dNVVhZSzA5dXE3YUVONDQyNUNoQ1JrU3FoS1lZLWZPZHZwNGVsc3lGaW5CbkI0czNtbnhuSG9UNUJyd1JmMFNZcERvRU9uT2tPRmxBdHByNlpaTXpj?oc=5",
+"published": "2026-11-12T15:27+04:00",
+"category": "Developer news",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": false,
+"topic": "abu dhabi"
 }
 ]

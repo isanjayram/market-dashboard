@@ -541,6 +541,42 @@
    "category": "Developer news",
    "impact": "Low",
    "impact_reason": "Promotional event for a branded project."
+  },
+  "5a5be96ef02f": {
+   "relevant": true,
+   "headline": "Arada and Alya team up for $1.63bn pipeline",
+   "summary": "Arada and Alya Developments plan to co-invest in high-end real estate across the UAE and Saudi Arabia. The partnership is facilitated through Arada's newly launched investment platform.",
+   "why": "This signals significant new luxury project pipelines and cross-border investment activity.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Expands luxury housing supply through major strategic investments."
+  },
+  "dddad954c698": {
+   "relevant": true,
+   "headline": "Indian buyers increasingly target Dubai property market",
+   "summary": "Indian investors are showing strong interest in acquiring Dubai real estate properties. This highlights the emirate's enduring appeal to foreign capital.",
+   "why": "It highlights shifts in cross-border buyer demand affecting local sales.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Reflects ongoing foreign buyer interest without changing local regulations."
+  },
+  "51bac0f711ee": {
+   "relevant": true,
+   "headline": "Binghatti profits surge 65% to Dh4.4 billion",
+   "summary": "Binghatti Holding's net profit jumped significantly, beating its full-year 2025 target by September. Revenues also climbed sharply as active construction progressed on projects.",
+   "why": "Strong developer financials indicate robust market demand and reliable project delivery timelines.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Demonstrates strong developer financials and steady project delivery."
+  },
+  "43236af105f0": {
+   "relevant": false,
+   "headline": "Watch Damac Group on Dubai, Real Estate, Global Growth in 2026",
+   "summary": "A video interview discussing Damac Group's outlook on Dubai real estate and global growth.",
+   "why": "This is a media interview lacking hard news announcements.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Media interview containing no actionable market news."
   }
  }
 }
