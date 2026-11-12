@@ -1,357 +1,4 @@
 {
- "2026-11-10": {
-  "f16d20f3675a": {
-   "relevant": true,
-   "headline": "Abu Dhabi Real Estate Sales Double Driven by Foreign Buyers",
-   "summary": "Property transactions in Abu Dhabi climbed to $32.5 billion. Overseas investment into the emirate spiked by 131 percent.",
-   "why": "It highlights major capital growth and high overseas interest in the capital's real estate sector.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Indicates strong market growth and rising foreign capital."
-  },
-  "225e5ee36fb8": {
-   "relevant": true,
-   "headline": "Dubai Property Transactions Rise 18 Percent in October",
-   "summary": "Dubai recorded $9.5 billion in property sales during October. The market is showing a strong rebound in transaction volumes.",
-   "why": "It shows continuing buyer demand and steady market recovery in Dubai.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Reflects positive investor sentiment and robust transactional activity."
-  },
-  "14c327ad0320": {
-   "relevant": true,
-   "headline": "Kasumigaseki Properties Opens New Dubai Sales Centre",
-   "summary": "Kasumigaseki Properties has introduced a new sales facility in Dubai. The launch aims to cater to the local property clientele.",
-   "why": "It marks another international firm expanding its operations within the local market.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Represents standard business expansion without immediate market disruption."
-  },
-  "906e27b9308d": {
-   "relevant": true,
-   "headline": "New Pedestrian Bridge Connects Dubai Metro to Arena",
-   "summary": "A recently opened pedestrian bridge now links the Dubai Mall Metro Station directly to the Coca-Cola Arena.",
-   "why": "Improved connectivity enhances the appeal and accessibility of surrounding real estate.",
-   "category": "Infrastructure",
-   "impact": "Low",
-   "impact_reason": "Enhances local connectivity without changing property laws or prices."
-  },
-  "5f6e2f2841ba": {
-   "relevant": true,
-   "headline": "Dubai Introduces $1,572 Fee for Golden Visa Investor Parents",
-   "summary": "Authorities have established a new fee of $1,572 for parents of Golden Visa investors. This adds an extra cost for families utilizing the residency scheme.",
-   "why": "It directly increases out-of-pocket expenses for investors sponsoring their parents under the visa program.",
-   "category": "Regulation & fees",
-   "impact": "Medium",
-   "impact_reason": "Directly impacts investor expenses and visa sponsorship costs."
-  },
-  "ecf0a36e9022": {
-   "relevant": true,
-   "headline": "Emaar Launches $3.27 Billion Office District at Creek Harbour",
-   "summary": "Emaar has announced plans for a massive new office district in Dubai Creek Harbour. The project is valued at $3.27 billion.",
-   "why": "It introduces significant commercial supply by a major developer in a key master community.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Expands commercial inventory in a major waterfront development."
-  },
-  "7e1fc5bc98fd": {
-   "relevant": false,
-   "headline": "Dubai Court Orders Sons to Vacate Father's Villa",
-   "summary": "A local court ruled that three sons must leave their father's property due to a lack of residency permission.",
-   "why": "It is a private legal family dispute rather than a market-moving economic or real estate news item.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Isolated legal dispute with no broader market impact."
-  },
-  "1f424e85665e": {
-   "relevant": true,
-   "headline": "IREIS 2026 Launches as UAE Property Boom Accelerates",
-   "summary": "The property boom in the UAE is gathering pace as the IREIS 2026 exhibition begins in Abu Dhabi. The event highlights growing momentum across the sector.",
-   "why": "It signals continued optimism and promotional activity within the national property market.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Exhibition launch reflects existing sentiment without altering fundamentals."
-  },
-  "65a4608fc94e": {
-   "relevant": true,
-   "headline": "Dubai Experiencing Severe Shortage of Student Housing",
-   "summary": "The city currently lacks adequate accommodation options for its growing student population. This gap highlights a potential new niche for residential investors.",
-   "why": "It identifies an emerging investment niche in the rental market.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Highlights a new residential investment opportunity."
-  },
-  "f7d5c93345c8": {
-   "relevant": false,
-   "headline": "Free Guide Published for Fast Property Sales in UAE",
-   "summary": "A new guide has been released to help local owners sell their homes quickly.",
-   "why": "It is promotional material rather than market news.",
-   "category": "Supply & market reports",
-   "impact": "Low",
-   "impact_reason": "It is promotional content with no broader market impact."
-  },
-  "82cddf02fadd": {
-   "relevant": false,
-   "headline": "Raj Khaleel Wins Best Real Estate Agent Award",
-   "summary": "An agent has received a five-star award at the Arabian Property Awards.",
-   "why": "Awards and agent accolades are excluded from the news digest.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Industry awards do not affect property values or policies."
-  },
-  "0d2bd8b2097c": {
-   "relevant": false,
-   "headline": "DET and Foundation Launch IP Clinics for Emirati Founders",
-   "summary": "New clinics have been introduced to assist local founders with intellectual property branding.",
-   "why": "The initiative focuses on business branding rather than real estate.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Intellectual property clinics do not impact real estate."
-  },
-  "8e619d27ede6": {
-   "relevant": true,
-   "headline": "Dubai Population Reaches 4.8 Million, Boosting Housing Demand",
-   "summary": "The emirate has recorded a population milestone of 4.8 million residents. This growth directly drives sustained housing demand across the local market.",
-   "why": "Population growth is a key driver of property demand.",
-   "category": "Supply & market reports",
-   "impact": "High",
-   "impact_reason": "Directly influences long-term property demand and market sentiment."
-  },
-  "6ca10c6525bb": {
-   "relevant": true,
-   "headline": "New pedestrian bridge opens near Burj Khalifa Metro station",
-   "summary": "A 110-metre walkway now links the Coca-Cola Arena directly to the Dubai Mall Metro station. The RTA built this bridge to enhance local pedestrian access.",
-   "why": "Better pedestrian access improves overall neighborhood convenience and appeal.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Enhances community connectivity and transit convenience."
-  },
-  "ece9cff870d0": {
-   "relevant": true,
-   "headline": "New bridge connects Dubai Mall Metro to Coca-Cola Arena",
-   "summary": "A fresh 110-metre bridge now links the Dubai Mall Metro station directly with the Coca-Cola Arena. This project improves walkability in the busy district.",
-   "why": "Infrastructure upgrades generally boost the attractiveness of surrounding real estate.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Improves area walkability and transit access."
-  },
-  "cee20d5d1d14": {
-   "relevant": true,
-   "headline": "BEYOND Developments launches AED 3 billion SHIONE at Dubai Islands",
-   "summary": "BEYOND Developments has introduced SHIONE, a massive twin-building residential project situated at SIORA on Dubai Islands. Valued at AED 3 billion, it adds significant inventory to the coastal market.",
-   "why": "Large luxury project launches signal strong developer confidence and expand supply.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Adds major residential inventory to the market."
-  },
-  "d108343b3922": {
-   "relevant": true,
-   "headline": "Dubai updates visa policies and relaxes property investor criteria",
-   "summary": "Dubai has revised its visa framework for 2026 by expanding visa-on-arrival options and easing property-related residency rules. These adjustments aim to attract more international investors and residents.",
-   "why": "Easier property visa rules directly encourage foreign real estate investment.",
-   "category": "Regulation & fees",
-   "impact": "High",
-   "impact_reason": "Eases property investor eligibility and boosts buyer interest."
-  },
-  "105844503c04": {
-   "relevant": true,
-   "headline": "Better transport links drive strong demand at Jumeirah Golf Estates",
-   "summary": "Jumeirah Golf Estates is seeing rising property demand alongside recent transport improvements in the area. Portal data highlights steady buyer interest and asking prices across the community.",
-   "why": "Infrastructure upgrades often translate to higher property demand and values.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Reflects how infrastructure drives localized property demand."
-  },
-  "2c71dd576fa9": {
-   "relevant": false,
-   "headline": "UAE agent closes major deal in first month",
-   "summary": "A real estate agent in the UAE successfully closed a high-value transaction within her first month on the job.",
-   "why": "This is a human interest career story without broader market news.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Human interest story with no broader market impact."
-  },
-  "4f1eebb06020": {
-   "relevant": true,
-   "headline": "Nakheel and BEYOND lead large-scale property launches in Dubai",
-   "summary": "Major developers like Nakheel and BEYOND are driving a market trend back toward large-scale projects. These substantial developments expand options for buyers across the emirate.",
-   "why": "Large project launches reflect developer confidence and shape upcoming housing supply.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Indicates a market shift toward large-scale developments."
-  },
-  "730b9a546621": {
-   "relevant": false,
-   "headline": "Guide published for owners selling property fast in UAE",
-   "summary": "A resource has been released offering tips for property owners who need to sell real estate quickly in the UAE.",
-   "why": "This is promotional advice rather than hard market data or regulation.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Promotional content offering general selling tips."
-  },
-  "b6ff86c9aa12": {
-   "relevant": true,
-   "headline": "Dubai Approves $3 Billion Metro Extension to Al Maktoum Airport",
-   "summary": "Sheikh Hamdan endorsed major infrastructure projects worth over AED11 billion. This includes extending the metro line to Al Maktoum International Airport City by 2031.",
-   "why": "Major transit expansions significantly boost nearby property values and development potential.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Boosts long-term property values and transport connectivity."
-  },
-  "3ae889818b38": {
-   "relevant": true,
-   "headline": "Brent Crude Drops Below $90 Amid Easing Tensions",
-   "summary": "Oil prices dipped under $90 a barrel for the first time since August following remarks by US leadership regarding regional stability. Market benchmarks recovered slightly after the initial slide.",
-   "why": "Oil price movements influence overall economic sentiment and investor confidence in the UAE.",
-   "category": "Macro & geopolitics",
-   "impact": "Medium",
-   "impact_reason": "Shifts regional economic sentiment and investor confidence."
-  },
-  "f642437ccca3": {
-   "relevant": true,
-   "headline": "Route 2020 Metro Line to Reach Al Maktoum Airport by 2031",
-   "summary": "Dubai leadership greenlit transport initiatives totalling upwards of Dh11 billion. The planned metro extension aims to link the city directly to the emerging airport hub.",
-   "why": "Improved connectivity enhances the real estate appeal of southern Dubai districts.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Enhances appeal of southern real estate corridors."
-  },
-  "0dae19d23759": {
-   "relevant": true,
-   "headline": "Nakheel Launches Palm Springs Mega Development Near Palm Jebel Ali",
-   "summary": "Nakheel introduced a vast 3.8 million square metre residential master community. The project will accommodate 50,000 residents with a diverse mix of villas, townhouses, and apartments.",
-   "why": "Large master community launches signal sustained developer confidence and expand housing supply.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Expands housing supply and highlights developer confidence."
-  },
-  "868d5b540ae0": {
-   "relevant": true,
-   "headline": "Dubai Metro Route to Connect With Al Maktoum Airport",
-   "summary": "Authorities announced a Dh11 billion infrastructure package that brings the metro network to Al Maktoum Airport City.",
-   "why": "Infrastructure expansion directly impacts future urban growth and property demand.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Drives future urban growth and property demand."
-  },
-  "c6f661aa2a52": {
-   "relevant": true,
-   "headline": "Emaar Launches $3.27 Billion Office District at Dubai Creek Harbour",
-   "summary": "Emaar has introduced a massive new commercial office district within Dubai Creek Harbour.",
-   "why": "New commercial districts alter the supply dynamics of Dubai's business real estate.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Increases commercial real estate supply in Dubai."
-  },
-  "27e03736724e": {
-   "relevant": true,
-   "headline": "UAE Property and Industrial Firms Eye Public Listings",
-   "summary": "The capital markets regulator reported growing interest from local property and industrial companies regarding initial public offerings.",
-   "why": "Increased public listings reflect corporate health and financial market liquidity.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Reflects corporate health without directly altering buyer costs."
-  },
-  "6e1fb2e06c70": {
-   "relevant": true,
-   "headline": "Beyond Developments Launches Shione Project on Dubai Islands",
-   "summary": "Beyond Developments has officially introduced its new residential offering named Shione located at Dubai Islands.",
-   "why": "New residential launches add to the growing inventory of coastal properties in Dubai.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Adds new coastal residential inventory to the market."
-  },
-  "5ae64d8f7eef": {
-   "relevant": true,
-   "headline": "Dubai Metro expansion to Al Maktoum Airport confirmed for 2031",
-   "summary": "Authorities have revealed the opening date for the new metro route. This project will significantly improve transit links to the airport area.",
-   "why": "It enhances long-term connectivity and accessibility for an emerging major airport hub.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Improves long-term accessibility and connectivity for the area."
-  },
-  "d612532be955": {
-   "relevant": true,
-   "headline": "Dubai Metro line to Al Maktoum International Airport approved",
-   "summary": "Crown Prince Sheikh Hamdan approved the metro expansion linking the network to the airport. Operations are scheduled to begin in 2031.",
-   "why": "It officially greenlights a massive infrastructure milestone that will boost regional connectivity.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Major infrastructure greenlight boosts regional appeal and connectivity."
-  },
-  "49680e8bef3c": {
-   "relevant": true,
-   "headline": "Maserati Island launched as Dubai's first Maserati branded residential project",
-   "summary": "Maserati and SAMANA COLLECTA have partnered to introduce a branded residential destination. The development brings luxury automotive branding into the local property market.",
-   "why": "It introduces a new branded luxury real estate offering to Dubai's property landscape.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Introduces a new branded luxury offering to the market."
-  },
-  "3249fc70b2d8": {
-   "relevant": false,
-   "headline": "Sharjah Executive Council approves housing support for 1,100 families",
-   "summary": "Sharjah authorities have approved housing assistance for 1,100 local families.",
-   "why": "It is a localized social welfare housing initiative outside the Dubai private property market.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Local social welfare housing with no private market impact."
-  },
-  "a4226a570815": {
-   "relevant": true,
-   "headline": "Dubai tenants can now split rental payments into smaller instalments",
-   "summary": "Eligible residents in select large residential communities can avoid large upfront payments. A new scheme allows renters to break down their financial obligations.",
-   "why": "It eases immediate cash flow burdens for tenants living in Dubai Residential communities.",
-   "category": "Regulation & fees",
-   "impact": "High",
-   "impact_reason": "Significantly alters tenant cash flow management and leasing terms."
-  },
-  "33177be64d22": {
-   "relevant": true,
-   "headline": "Beyond launches $816 million twin-building community on Dubai Islands",
-   "summary": "A new residential project valued at $816 million has been introduced on Dubai Islands. The development features twin buildings by Beyond.",
-   "why": "It adds substantial new residential inventory to an expanding island waterfront market.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Adds significant new residential supply to waterfront market."
-  },
-  "b9951a13bc7c": {
-   "relevant": true,
-   "headline": "UAE local stocks rise with banking and real estate support",
-   "summary": "Local equities are climbing higher, bolstered by strength in the banking and property sectors.",
-   "why": "It reflects positive market sentiment across the real estate and financial sectors.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "General market growth with minimal direct transactional impact."
-  },
-  "78a8cde33426": {
-   "relevant": false,
-   "headline": "Panel discussion on the future of GCC logistics real estate",
-   "summary": "Industry experts are gathering to discuss the evolution of the logistics property sector in the GCC.",
-   "why": "It focuses on a panel event rather than actionable market news.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Event discussion without direct market changes."
-  },
-  "4168bc9b4230": {
-   "relevant": false,
-   "headline": "Sharjah boosts family housing support and raises marriage grant limits",
-   "summary": "The emirate approved housing aid for over a thousand families. It also increased the financial limit for marriage grants.",
-   "why": "This is a social welfare policy update rather than real estate or investment news.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Social welfare update with no direct real estate impact."
-  },
-  "471cd393279c": {
-   "relevant": true,
-   "headline": "PRYPCO expands operations across Dubai's property and mortgage sector",
-   "summary": "The local platform is growing its services ranging from traditional mortgages to modern property tokens.",
-   "why": "It highlights new financing and investment channels for Dubai property buyers.",
-   "category": "Rates & mortgages",
-   "impact": "Medium",
-   "impact_reason": "Expands financing and investment access for property buyers."
-  }
- },
  "2026-11-11": {
   "5a3d9b07e201": {
    "relevant": true,
@@ -640,6 +287,152 @@
    "category": "Macro & geopolitics",
    "impact": "Medium",
    "impact_reason": "Reflects broader economic growth impacting investor sentiment."
+  }
+ },
+ "2026-11-12": {
+  "29969a12a3da": {
+   "relevant": true,
+   "headline": "Gold Dips Under $4,000 Amid Strong Dollar and Rate Hike Bets",
+   "summary": "Spot gold dropped to $3,972.34 as a 19-month dollar high and expected Fed rate increases lowered appeal. Stronger US monetary tightening expectations continue to pressure precious metals.",
+   "why": "Shifts in global interest rate expectations directly influence borrowing costs and investor sentiment in real estate.",
+   "category": "Rates & mortgages",
+   "impact": "High",
+   "impact_reason": "Affects global financing costs and investor liquidity."
+  },
+  "589b79b0960b": {
+   "relevant": true,
+   "headline": "UAE Corporate Tax Revenue Reaches $12.7 Billion",
+   "summary": "Collections for the 2025 financial year surged 33.9 percent to AED46.52 billion. Filing compliance across the country reached an impressive 91 percent.",
+   "why": "Corporate tax growth reflects the changing fiscal landscape for businesses operating in the UAE.",
+   "category": "Regulation & fees",
+   "impact": "High",
+   "impact_reason": "Directly impacts corporate operating costs and business sentiment."
+  },
+  "cca5b329e46b": {
+   "relevant": true,
+   "headline": "Global Investors Flock to IREIS 2026 as Abu Dhabi Deals Hit Dh171 Billion",
+   "summary": "International investors gathered for IREIS 2026 following a massive surge in Abu Dhabi property transactions reaching Dh171 billion.",
+   "why": "Capital inflows into the capital signal robust ongoing demand for UAE real estate.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Highlights strong buyer demand and capital inflows."
+  },
+  "110004a4f039": {
+   "relevant": true,
+   "headline": "Dubai Records $41 Billion in Mortgages as Off-Plan Sales Slow",
+   "summary": "Dubai's property market registered significant mortgage volumes while experiencing a slowdown in off-plan transactions.",
+   "why": "Mortgage trends reveal shifts in how buyers choose to finance their property purchases.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Shows changing financing preferences in the market."
+  },
+  "84c80cf24724": {
+   "relevant": true,
+   "headline": "UAE Hiring Jumps 16 Percent With Real Estate Jobs Up 20 Percent",
+   "summary": "Recruitment across the country strengthened since April, led by a 20 percent surge in real estate employment alongside engineering and healthcare recoveries.",
+   "why": "Job growth in property directly correlates with rising housing demand and economic expansion.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Job growth drives new housing demand."
+  },
+  "46a270908d89": {
+   "relevant": true,
+   "headline": "Dubai Property Sales Rise 18 Percent to Reach Dh34.8 Billion",
+   "summary": "Dubai property sales experienced strong growth, totaling Dh34.8 billion during the period.",
+   "why": "Transaction volume increases indicate sustained buyer confidence in the emirate's property sector.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Demonstrates healthy transaction volumes and market activity."
+  },
+  "fc31c4934bce": {
+   "relevant": true,
+   "headline": "Danube Sells Out Luxury Penthouses in Dubai on Launch Day",
+   "summary": "Luxury penthouses designed by Gauri Khan sold out completely on their launch day in Dubai.",
+   "why": "Rapid sell-outs of high-end projects showcase strong appetite for luxury developments.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Reflects robust demand for luxury real estate."
+  },
+  "7bfe38784eb9": {
+   "relevant": true,
+   "headline": "Aldar and ADIB Launch Co-Branded Darna Covered Cards in Abu Dhabi",
+   "summary": "Aldar and Abu Dhabi Islamic Bank have partnered to introduce new co-branded Darna covered cards.",
+   "why": "Financial partnerships provide buyers with specialized payment and financing options in the market.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Offers new financial products for property buyers."
+  },
+  "c4b6665d5c8b": {
+   "relevant": false,
+   "headline": "Shah Rukh Khan talks dream home at Dubai launch",
+   "summary": "Bollywood actor Shah Rukh Khan discussed his ideal residence during a property event in Dubai.",
+   "why": "This is a celebrity and lifestyle piece rather than substantive real estate news.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Celebrity lifestyle piece with no market impact."
+  },
+  "650eab50aaf6": {
+   "relevant": true,
+   "headline": "UK's Cheval Collection launches new Dubai South project",
+   "summary": "British luxury hospitality firm Cheval Collection is expanding in the UAE with a new serviced apartment development in Dubai South featuring nearly two hundred units.",
+   "why": "New hospitality project expansion increases Dubai's serviced apartment supply.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Expands luxury serviced apartment supply in Dubai South."
+  },
+  "057f8a5a206b": {
+   "relevant": false,
+   "headline": "Indian investors explore Dubai's property market opportunities",
+   "summary": "An industry perspective highlights why Indian buyers are looking at emerging areas like Palm Jebel Ali and Dubai South.",
+   "why": "This is an agent opinion and commentary piece with no new factual developments.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Opinion piece offering no new market facts."
+  },
+  "215df1219202": {
+   "relevant": false,
+   "headline": "Sheikh Hamdan honors inaugural Dubai-it Award winners",
+   "summary": "Crown Prince Sheikh Hamdan recognized thirteen winners across government and business sectors for their achievements.",
+   "why": "This is an awards ceremony piece unrelated to property or the economy.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Awards ceremony announcement with no real estate relevance."
+  },
+  "d7ef845aa566": {
+   "relevant": true,
+   "headline": "Two ordered to repay AED22.9m in fraud case",
+   "summary": "A Dubai court has ordered two individuals to return nearly twenty three million dirhams following a local property fraud case.",
+   "why": "Legal enforcement against fraud impacts market regulation and transparency.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Reinforces regulatory oversight and investor legal protection."
+  },
+  "55276433c4d3": {
+   "relevant": true,
+   "headline": "Dubai warehouse rents rise amid industrial leasing surge",
+   "summary": "Industrial leasing activity climbed significantly as available supply tightened, pushing warehouse rental prices higher.",
+   "why": "Higher industrial rents and a supply squeeze directly impact commercial real estate costs.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects rising commercial leasing costs due to supply shortages."
+  },
+  "63bb4c34e0fb": {
+   "relevant": true,
+   "headline": "Nakheel unveils mega development for 50,000 Dubai residents",
+   "summary": "Master developer Nakheel has introduced a massive new community project designed to house fifty thousand people in Dubai.",
+   "why": "A major new master development significantly shifts future residential supply and buyer options.",
+   "category": "Developer news",
+   "impact": "High",
+   "impact_reason": "Large-scale community launch significantly increases future housing supply."
+  },
+  "6ef476e501c0": {
+   "relevant": true,
+   "headline": "S&P forecasts 20% Dubai residential supply rise by 2028",
+   "summary": "Standard & Poor's reports that Dubai's housing stock will expand by twenty percent over the next few years, which may cause prices to drop.",
+   "why": "Market supply forecasts and potential price corrections directly influence buyer sentiment and investment timing.",
+   "category": "Supply & market reports",
+   "impact": "High",
+   "impact_reason": "Major supply expansion forecast could alter future property prices."
   }
  }
 }

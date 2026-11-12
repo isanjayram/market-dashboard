@@ -2291,5 +2291,76 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"63bb4c34e0fb": {
+"id": "63bb4c34e0fb",
+"title": "Nakheel unveils mega development for 50,000 Dubai residents",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOelgzZ0RHcm1iM3ZDdm83ckR0QnR2VUszS0RTVzBmeENkd0U0Q2tyWk1vUFA2cDNLU3RTN1RVQk9pVlNaRFlyWUNJWURpbTYySm5ZaVVhQmlScE1VbXF3MkNUUlF5QVpHOFU2MEZZVnlGemtCTWxONmp3M0pSRjdreTVKQjYzY2FEX05vb1pjc3loQTJJWGxNNDNFVm9fVWFYVllIM1ltZ2d3cDdEdnVmTDhFeUdqbm9jRldTbzhoU00?oc=5",
+"source": "The National",
+"category": "Developer news",
+"published": "2026-11-10T13:03+04:00",
+"first_seen": "2026-11-12",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": "Nakheel",
+"location": "Dubai",
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"650eab50aaf6": {
+"id": "650eab50aaf6",
+"title": "UK's Cheval Collection launches new Dubai South project",
+"link": "https://www.thenationalnews.com/business/property/2026/11/11/uks-cheval-collection-launches-new-dubai-project-in-expansion-push/",
+"source": "The National",
+"category": "Developer news",
+"published": "2026-11-11T16:24+04:00",
+"first_seen": "2026-11-12",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": {
+"name": "Al Maktoum International Airport expansion",
+"status": "AED 128bn terminal approved 28 Apr 2024; first phase due 2032",
+"source": "Dubai Media Office",
+"url": "https://mediaoffice.ae/en/news/2024/april/28-04/al-maktoum-international-airport"
+},
+"fields": {
+"project": "Cheval South Bay",
+"developer": "Cheval Collection",
+"location": "Dubai South",
+"type": "serviced hotel apartments and branded residences",
+"launch_date": null,
+"handover": "2030",
+"starting_price": null,
+"payment_plan": null
+}
+},
+"7bfe38784eb9": {
+"id": "7bfe38784eb9",
+"title": "Aldar and ADIB Launch Co-Branded Darna Covered Cards in Abu Dhabi",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOW5HTUM3NVowcG03U3IwRlB1WnV1UEJYVkNuYzFHdDBBRE02T2tmT2h5SDcyYVR0SjNvcEFrR2tYa3FaRDl1ckttZjRhdmtFRmRRY21rVmhsQzRPS3VDZS1MZkJRQ3VqTGhJTnZ6X244YTNrU0NuZ2lYZWtOOE9MZlFwME4zSUNadGp6ZkotSHdFdUlTX09qVHJR?oc=5",
+"source": "The Fintech Times",
+"category": "Developer news",
+"published": "2026-11-12T10:00+04:00",
+"first_seen": "2026-11-12",
+"kind": "Off-plan launch",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": "Aldar",
+"location": "Abu Dhabi",
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
