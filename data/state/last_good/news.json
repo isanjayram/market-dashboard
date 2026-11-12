@@ -19,7 +19,7 @@
    "headline": "Emaar malls and hotels hit by regional conflict",
    "summary": "Emaar founder Mohamed Alabbar reports a ten percent drop in mall footfall. Hotel occupancy also fell sharply due to the ongoing Iran war.",
    "why": "It shows how geopolitical tensions can directly impact Dubai's retail and hospitality sectors.",
-   "age_hours": 0.1,
+   "age_hours": 0.6,
    "topic": "emaar"
   },
   {
@@ -42,7 +42,7 @@
    "headline": "Arada and Alya team up for $1.63bn pipeline",
    "summary": "Arada and Alya Developments plan to co-invest in high-end real estate across the UAE and Saudi Arabia. The partnership is facilitated through Arada's newly launched investment platform.",
    "why": "This signals significant new luxury project pipelines and cross-border investment activity.",
-   "age_hours": 2.1,
+   "age_hours": 2.6,
    "topic": "arada"
   },
   {
@@ -61,7 +61,7 @@
    "headline": "Abu Dhabi property prices surge by up to 31 percent",
    "summary": "Property values in Abu Dhabi have experienced significant annual increases, with prices rising as much as 31%.",
    "why": "It provides critical valuation data for the UAE property market.",
-   "age_hours": 4.8,
+   "age_hours": 5.3,
    "topic": "abu dhabi",
    "more": 3
   },
@@ -84,7 +84,7 @@
    "headline": "Two ordered to repay AED22.9m in fraud case",
    "summary": "A Dubai court has ordered two individuals to return nearly twenty three million dirhams following a local property fraud case.",
    "why": "Legal enforcement against fraud impacts market regulation and transparency.",
-   "age_hours": 6.8,
+   "age_hours": 7.2,
    "topic": "Regulation & fees"
   },
   {
@@ -103,7 +103,7 @@
    "headline": "Dubai mortgage market exceeds 41 billion dollars amid shifts",
    "summary": "Total volume in Dubai's mortgage sector has crossed $41 billion as underlying market dynamics continue to evolve.",
    "why": "Mortgage volume data directly impacts buyer financing and banking liquidity.",
-   "age_hours": 9.5,
+   "age_hours": 9.9,
    "topic": "mortgage"
   },
   {
@@ -122,7 +122,7 @@
    "headline": "Global Investors Flock to IREIS 2026 as Abu Dhabi Deals Hit Dh171 Billion",
    "summary": "International investors gathered for IREIS 2026 following a massive surge in Abu Dhabi property transactions reaching Dh171 billion.",
    "why": "Capital inflows into the capital signal robust ongoing demand for UAE real estate.",
-   "age_hours": 9.8,
+   "age_hours": 10.3,
    "topic": "abu dhabi"
   },
   {
@@ -144,7 +144,7 @@
    "headline": "Dubai warehouse rents rise amid industrial leasing surge",
    "summary": "Industrial leasing activity climbed significantly as available supply tightened, pushing warehouse rental prices higher.",
    "why": "Higher industrial rents and a supply squeeze directly impact commercial real estate costs.",
-   "age_hours": 15.4,
+   "age_hours": 15.8,
    "topic": "rents"
   },
   {
@@ -163,8 +163,9 @@
    "headline": "Dubai Records $41 Billion in Mortgages as Off-Plan Sales Slow",
    "summary": "Dubai's property market registered significant mortgage volumes while experiencing a slowdown in off-plan transactions.",
    "why": "Mortgage trends reveal shifts in how buyers choose to finance their property purchases.",
-   "age_hours": 17.4,
-   "topic": "Developer news"
+   "age_hours": 17.9,
+   "topic": "Developer news",
+   "more": 1
   },
   {
    "id": "fc31c4934bce",
@@ -182,7 +183,7 @@
    "headline": "Danube Sells Out Luxury Penthouses in Dubai on Launch Day",
    "summary": "Luxury penthouses designed by Gauri Khan sold out completely on their launch day in Dubai.",
    "why": "Rapid sell-outs of high-end projects showcase strong appetite for luxury developments.",
-   "age_hours": 6.4,
+   "age_hours": 6.9,
    "topic": "Developer news"
   },
   {
@@ -201,18 +202,18 @@
    "headline": "Indian buyers increasingly target Dubai property market",
    "summary": "Indian investors are showing strong interest in acquiring Dubai real estate properties. This highlights the emirate's enduring appeal to foreign capital.",
    "why": "It highlights shifts in cross-border buyer demand affecting local sales.",
-   "age_hours": 2.5,
+   "age_hours": 3.0,
    "topic": "Macro & geopolitics",
    "more": 1
   }
  ],
  "window_hours": 24,
  "count_relevant": 27,
- "count_fetched": 301,
+ "count_fetched": 299,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-12T16:50+04:00",
- "saved_at": "2026-11-12T16:50+04:00"
+ "as_of": "2026-11-12T17:19+04:00",
+ "saved_at": "2026-11-12T17:19+04:00"
 }

@@ -66,16 +66,16 @@
     "value": 211969110.0
    },
    {
-    "area": "Business Bay",
-    "dld_area": "Business Bay",
-    "deals": 122,
-    "value": 395376026.0
-   },
-   {
     "area": "Palm Deira",
     "dld_area": "Palm Deira",
     "deals": 122,
     "value": 810201912.0
+   },
+   {
+    "area": "Business Bay",
+    "dld_area": "Business Bay",
+    "deals": 122,
+    "value": 395376026.0
    },
    {
     "area": "Meydan Racecourse Community",
@@ -1590,5 +1590,5 @@
   "fetched_at": "2026-11-12T11:30+04:00",
   "test": false
  },
- "saved_at": "2026-11-12T16:50+04:00"
+ "saved_at": "2026-11-12T17:19+04:00"
 }
