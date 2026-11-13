@@ -534,5 +534,47 @@
 "impact_reason": "Adds new supply to the market.",
 "watch": false,
 "topic": "nakheel"
+},
+{
+"id": "c7d97b4f0bae",
+"headline": "Federal Reserve cuts 2027 rate meetings to seven",
+"summary": "The U.S. central bank is reducing its scheduled rate decisions for 2027. One meeting will be dedicated entirely to monetary strategy.",
+"why": "Changes to Fed meeting schedules can influence global interest rate expectations and mortgage pricing.",
+"source": "Economy Middle East",
+"link": "https://economymiddleeast.com/news/fed-cuts-2027-rate-decisions-to-7-as-warsh-shifts-one-meeting-to-policy-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=fed-cuts-2027-rate-decisions-to-7-as-warsh-shifts-one-meeting-to-policy-strategy",
+"published": "2026-11-13T14:23+04:00",
+"category": "Rates & mortgages",
+"impact": "Medium",
+"impact_reason": "Shifts global rate timelines.",
+"watch": false,
+"topic": "Rates & mortgages"
+},
+{
+"id": "baaf6b2c456e",
+"headline": "PropDirect launches AI assistant Hala for Dubai agents",
+"summary": "PropDirect has introduced its UAE-built AI property assistant, debuting the tool for brokerages and agents in Dubai.",
+"why": "New property tech tools can improve agent efficiency and client servicing in the local market.",
+"source": "Zawya",
+"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaDk0bUZCS2gxMUFYWGVsTDUtUmxPanhUek9YNTBMNGZlc0FWZ21rQXYyQnpYR01PVDM0Y0IyVzA5NWFIQmpxNWxqb3B1MFNyWEVDcHFGUFhNUlFRRVMzX1lfN2h1ZVliU2tWVlJvdl8tZnpYdWJwc0NfWGdPRWx0Q2FRZXB3OHZTUk9KYTlPLWZEeEhLRVFNRnVqd3hRUG1JV1EySlB2NXVIU0lsY3pPMmhLWGpoZXVFNmk4VnRWQXpyeUY3TTRfdXVUX3Y5SEU2UndfbUdCdVJNLVhUd3VNRnpHMjU2YTduQ2VjUFBjTU1Jd1Rx?oc=5",
+"published": "2026-11-13T14:02+04:00",
+"category": "Developer news",
+"impact": "Low",
+"impact_reason": "Introduces new agent technology.",
+"watch": false,
+"topic": "Developer news"
+},
+{
+"id": "bff7600e62ae",
+"headline": "Binghatti and Loft connect Kano investors with Dubai property",
+"summary": "Developers are collaborating with Keys Connect to link investors from Kano directly to Dubai's luxury real estate sector.",
+"why": "Cross-border marketing partnerships help drive foreign capital and investment into Dubai luxury property.",
+"source": "THISDAYLIVE",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOckJkX0M2b2dlelZGWno0ZUNRT0Vpemd4VGh1UWdQLUlsS29nZUlKdk1OS0wzVnFXWnBCZ05CLWRRM3czYXR0WnVYbmt5LV9aS0ZicFEzX0FIbEJNTVNNemRRNk5Nd2FDbC1NaFhqT1dPZVNldk5MbndPZEFGMFRUMzR6UjRxNGtnOHdlWklTdlNGZ0ZZdk44Y0syUjJfMzZUOEtKSHNXVENjZktHb3FxZHllNlg1ZmpJSUE?oc=5",
+"published": "2026-11-13T14:54+04:00",
+"category": "Developer news",
+"impact": "Low",
+"impact_reason": "Targets foreign buyers for luxury properties.",
+"watch": false,
+"topic": "binghatti"
 }
 ]

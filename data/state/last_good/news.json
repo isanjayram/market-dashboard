@@ -16,9 +16,9 @@
    "headline": "Abu Dhabi Court Fines Scammer in Golden Visa Case",
    "summary": "An Abu Dhabi court penalized a fraudster involved in a Golden Visa scheme. The offender must pay AED 13,600.",
    "why": "It protects investors and maintains trust in residency programs.",
-   "age_hours": 1.1,
+   "age_hours": 2.7,
    "topic": "abu dhabi",
-   "more": 3
+   "more": 2
   },
   {
    "id": "849488918a3f",
@@ -36,7 +36,7 @@
    "headline": "Dubai Court Orders Millions Returned in Visa Scam",
    "summary": "Conmen in Dubai were ordered by a court to return AED 4.7 million to an investor. The ruling addresses fraudulent Golden Visa activities.",
    "why": "It reinforces legal protections for real estate investors.",
-   "age_hours": 8.0,
+   "age_hours": 9.6,
    "topic": "golden visa"
   },
   {
@@ -58,31 +58,32 @@
    "headline": "Emaar malls and hotels hit by regional conflict",
    "summary": "Emaar founder Mohamed Alabbar reports a ten percent drop in mall footfall. Hotel occupancy also fell sharply due to the ongoing Iran war.",
    "why": "It shows how geopolitical tensions can directly impact Dubai's retail and hospitality sectors.",
-   "age_hours": 21.3,
+   "age_hours": 22.9,
    "topic": "emaar"
   },
   {
-   "id": "5a5be96ef02f",
-   "title": "Arada and Alya target $1.63bn property pipeline across UAE and Saudi Arabia",
-   "link": "https://www.thenationalnews.com/business/property/2026/11/12/arada-and-alya-target-163bn-property-pipeline-across-uae-and-saudi-arabia/",
-   "source": "The National",
+   "id": "c7d97b4f0bae",
+   "title": "Fed cuts 2027 rate decisions to 7 as Warsh shifts one meeting to policy strategy",
+   "link": "https://economymiddleeast.com/news/fed-cuts-2027-rate-decisions-to-7-as-warsh-shifts-one-meeting-to-policy-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=fed-cuts-2027-rate-decisions-to-7-as-warsh-shifts-one-meeting-to-policy-strategy",
+   "source": "Economy Middle East",
    "kind": "outlet",
-   "published": "2026-11-12T14:45+04:00",
-   "tags": [],
-   "teaser": "UAE developer Arada has teamed up with Alya Developments to explore co-investment opportunities in premium property in the Emirates and Saudi Arabia, following the former's entry into the kingdom. Arada's newly established investment management platform, Arada Capital, and Alya signed a preliminary agreement to explore premium developments in the Emirates and Saudi Arabia under a potential Dh6 bil",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Expands luxury housing supply through major strategic investments.",
-   "watch": true,
-   "also": [
-    "The National",
-    "The National (property)"
+   "published": "2026-11-13T14:23+04:00",
+   "tags": [
+    "business",
+    "Central Bank",
+    "interest rate",
+    "United States"
    ],
-   "headline": "Arada and Alya team up for $1.63bn pipeline",
-   "summary": "Arada and Alya Developments plan to co-invest in high-end real estate across the UAE and Saudi Arabia. The partnership is facilitated through Arada's newly launched investment platform.",
-   "why": "This signals significant new luxury project pipelines and cross-border investment activity.",
-   "age_hours": 23.3,
-   "topic": "arada"
+   "teaser": "The Federal Reserve will reduce the number of scheduled interest-rate decisions to seven in 2027, setting aside its October meeting exclusively for broader monetary-policy strategy discussions in a significant change to the central bank\u2019s meeting structure. The Federal Open Market Committee will still hold eight regularly scheduled meetings next year, but its October 26\u201327 meeting [\u2026] The post Fed",
+   "category": "Rates & mortgages",
+   "impact": "Medium",
+   "impact_reason": "Shifts global rate timelines.",
+   "watch": false,
+   "headline": "Federal Reserve cuts 2027 rate meetings to seven",
+   "summary": "The U.S. central bank is reducing its scheduled rate decisions for 2027. One meeting will be dedicated entirely to monetary strategy.",
+   "why": "Changes to Fed meeting schedules can influence global interest rate expectations and mortgage pricing.",
+   "age_hours": 1.2,
+   "topic": "Rates & mortgages"
   },
   {
    "id": "303b0dc178b6",
@@ -100,7 +101,7 @@
    "headline": "Select Dubai Communities See Rents Drop by 14 Percent",
    "summary": "New housing supply entering the market caused rental rates to decline in specific areas. This shift offers some relief to tenants after prolonged increases.",
    "why": "It shows shifting rental dynamics due to new supply.",
-   "age_hours": 8.0,
+   "age_hours": 9.6,
    "topic": "rents"
   },
   {
@@ -122,7 +123,7 @@
    "headline": "Dubai Leads Global Super-Prime Property Sales in Q3 2026",
    "summary": "The emirate secured the top global spot for high-end luxury real estate transactions. It recorded 86 sales exceeding $10 million, outperforming other major international cities.",
    "why": "It underscores strong luxury market demand.",
-   "age_hours": 10.0,
+   "age_hours": 11.6,
    "topic": "Supply & market reports"
   },
   {
@@ -144,28 +145,8 @@
    "headline": "Dubai Nears $170 Billion in Real Estate Transactions",
    "summary": "The local property sector approaches significant transaction milestones as the wider region experiences growth. Abu Dhabi also posted a substantial surge in trading activity.",
    "why": "It tracks overall market transaction volumes.",
-   "age_hours": 10.1,
+   "age_hours": 11.7,
    "topic": "abu dhabi"
-  },
-  {
-   "id": "3b3b0497866d",
-   "title": "Dubai ready property sales hit highest level at Dh10.1 billion",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWDNTWWg1a0FHLVBFYkh0bmt5ODVoeDNWWDdoaE5jVjlMQVZJYU5YTVNkZWlJelhLODV1M01SaXpkSTdiZzU5cHJIZlpEbFZNcC1oZDlhZmg0bGZ2anRUOHd2dmtoZnB1MGY4ZjlpbW43amxsTGd2cDEySlcwUEhhRHU4VUxmbU9GVEJ1VzMwU0tEUHVmNzByZTU1ZEt0Nm9H0gGoAUFVX3lxTFBMWmNZOWhpcEpLajlKUE9IdjFGWU9OM3ZBQkhuQ2pnemZmRVBKellkVWIzWkZVSTNDcGpGVXZRYUhvLWlzWF9fM3BtNWJSSXZ5ZTJ3X0MzX1hXRHlSM29Na2k2SURvd3hmMlA2cjdONlNVU0RVa19pS3BXSnROdDgwQVkyd1JKczAzQ1Jmc1FBREEtSkRLOGxUOXZscWNfTGxneUJuSG1aNQ?oc=5",
-   "source": "Khaleej Times",
-   "kind": "search",
-   "published": "2026-11-12T15:04+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Indicates high buyer preference for completed assets.",
-   "watch": false,
-   "headline": "Ready Property Sales in Dubai Reach Dh10.1 Billion",
-   "summary": "Completed real estate transactions hit peak levels according to recent market tracking data. Buyers showed strong preference for ready units over off-plan projects.",
-   "why": "It reports record sales for ready properties.",
-   "age_hours": 23.0,
-   "topic": "Developer news",
-   "more": 1
   },
   {
    "id": "f12ec6b160b2",
@@ -183,7 +164,7 @@
    "headline": "Downtown Dubai Rents Drop 14 Percent",
    "summary": "Rental prices in Downtown Dubai experienced a 14 percent annual decline. This brings potential relief for tenants in the area.",
    "why": "It shows shifting rental dynamics in prime communities.",
-   "age_hours": 0.2,
+   "age_hours": 1.8,
    "topic": "rents"
   },
   {
@@ -202,17 +183,39 @@
    "headline": "Dubai fraudsters ordered to pay AED 4.7 million",
    "summary": "Two individuals must refund AED 4.7 million after selling a fake Golden Visa to an investor. The court ruling cracks down on residency-related real estate scams.",
    "why": "It protects investor confidence by penalizing fraudulent residency schemes.",
-   "age_hours": 2.4,
+   "age_hours": 3.9,
    "topic": "golden visa"
+  },
+  {
+   "id": "15b2e150c6cb",
+   "title": "UAE real estate sector maintains strong momentum, growing global confidence",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdTFIZksxYjcza0I3TmNCRHZzQWNhdEFsczd0REcycFdYVERpSFdFaThYTmh0T0tHck8yWklPX01RR2FtNTR0bXM4dTNvNjZSMXdEemVvNnBDOUoxT0cweGpOX2dYaFdSbHBDT25mQk0zRU10OEtLci1CZ2FPVVpUckNSTDNSTEhfMmoxLTcwSi1DVldURGU4ZmxmaDJsNHQ3a0N4c01idHJCYUtCYW9UZnBVekVXNy11S2hv?oc=5",
+   "source": "Gulf Today",
+   "kind": "search",
+   "published": "2026-11-13T10:09+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Demonstrates sustained global investment confidence.",
+   "watch": false,
+   "also": [
+    "Gulf Today"
+   ],
+   "headline": "UAE Property Sector Keeps Strong Growth Momentum",
+   "summary": "The UAE real estate market continues to display robust momentum. Global confidence in the property sector remains elevated.",
+   "why": "It highlights sustained international interest in local real estate.",
+   "age_hours": 5.4,
+   "topic": "Supply & market reports"
   }
  ],
  "window_hours": 24,
- "count_relevant": 22,
- "count_fetched": 269,
+ "count_relevant": 20,
+ "count_fetched": 265,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-13T14:02+04:00",
- "saved_at": "2026-11-13T14:02+04:00"
+ "as_of": "2026-11-13T15:34+04:00",
+ "saved_at": "2026-11-13T15:35+04:00"
 }

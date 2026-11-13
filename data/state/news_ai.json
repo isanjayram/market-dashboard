@@ -541,6 +541,33 @@
    "category": "Developer news",
    "impact": "Medium",
    "impact_reason": "Adds new supply to the market."
+  },
+  "c7d97b4f0bae": {
+   "relevant": true,
+   "headline": "Federal Reserve cuts 2027 rate meetings to seven",
+   "summary": "The U.S. central bank is reducing its scheduled rate decisions for 2027. One meeting will be dedicated entirely to monetary strategy.",
+   "why": "Changes to Fed meeting schedules can influence global interest rate expectations and mortgage pricing.",
+   "category": "Rates & mortgages",
+   "impact": "Medium",
+   "impact_reason": "Shifts global rate timelines."
+  },
+  "baaf6b2c456e": {
+   "relevant": true,
+   "headline": "PropDirect launches AI assistant Hala for Dubai agents",
+   "summary": "PropDirect has introduced its UAE-built AI property assistant, debuting the tool for brokerages and agents in Dubai.",
+   "why": "New property tech tools can improve agent efficiency and client servicing in the local market.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Introduces new agent technology."
+  },
+  "bff7600e62ae": {
+   "relevant": true,
+   "headline": "Binghatti and Loft connect Kano investors with Dubai property",
+   "summary": "Developers are collaborating with Keys Connect to link investors from Kano directly to Dubai's luxury real estate sector.",
+   "why": "Cross-border marketing partnerships help drive foreign capital and investment into Dubai luxury property.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Targets foreign buyers for luxury properties."
   }
  }
 }
