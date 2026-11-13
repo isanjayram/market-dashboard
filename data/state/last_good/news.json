@@ -16,7 +16,7 @@
    "headline": "Abu Dhabi Court Fines Scammer in Golden Visa Case",
    "summary": "An Abu Dhabi court penalized a fraudster involved in a Golden Visa scheme. The offender must pay AED 13,600.",
    "why": "It protects investors and maintains trust in residency programs.",
-   "age_hours": 2.7,
+   "age_hours": 3.4,
    "topic": "abu dhabi",
    "more": 2
   },
@@ -36,7 +36,7 @@
    "headline": "Dubai Court Orders Millions Returned in Visa Scam",
    "summary": "Conmen in Dubai were ordered by a court to return AED 4.7 million to an investor. The ruling addresses fraudulent Golden Visa activities.",
    "why": "It reinforces legal protections for real estate investors.",
-   "age_hours": 9.6,
+   "age_hours": 10.3,
    "topic": "golden visa"
   },
   {
@@ -58,7 +58,7 @@
    "headline": "Emaar malls and hotels hit by regional conflict",
    "summary": "Emaar founder Mohamed Alabbar reports a ten percent drop in mall footfall. Hotel occupancy also fell sharply due to the ongoing Iran war.",
    "why": "It shows how geopolitical tensions can directly impact Dubai's retail and hospitality sectors.",
-   "age_hours": 22.9,
+   "age_hours": 23.6,
    "topic": "emaar"
   },
   {
@@ -82,7 +82,7 @@
    "headline": "Federal Reserve cuts 2027 rate meetings to seven",
    "summary": "The U.S. central bank is reducing its scheduled rate decisions for 2027. One meeting will be dedicated entirely to monetary strategy.",
    "why": "Changes to Fed meeting schedules can influence global interest rate expectations and mortgage pricing.",
-   "age_hours": 1.2,
+   "age_hours": 1.9,
    "topic": "Rates & mortgages"
   },
   {
@@ -101,7 +101,7 @@
    "headline": "Select Dubai Communities See Rents Drop by 14 Percent",
    "summary": "New housing supply entering the market caused rental rates to decline in specific areas. This shift offers some relief to tenants after prolonged increases.",
    "why": "It shows shifting rental dynamics due to new supply.",
-   "age_hours": 9.6,
+   "age_hours": 10.3,
    "topic": "rents"
   },
   {
@@ -123,7 +123,7 @@
    "headline": "Dubai Leads Global Super-Prime Property Sales in Q3 2026",
    "summary": "The emirate secured the top global spot for high-end luxury real estate transactions. It recorded 86 sales exceeding $10 million, outperforming other major international cities.",
    "why": "It underscores strong luxury market demand.",
-   "age_hours": 11.6,
+   "age_hours": 12.3,
    "topic": "Supply & market reports"
   },
   {
@@ -145,7 +145,7 @@
    "headline": "Dubai Nears $170 Billion in Real Estate Transactions",
    "summary": "The local property sector approaches significant transaction milestones as the wider region experiences growth. Abu Dhabi also posted a substantial surge in trading activity.",
    "why": "It tracks overall market transaction volumes.",
-   "age_hours": 11.7,
+   "age_hours": 12.4,
    "topic": "abu dhabi"
   },
   {
@@ -164,7 +164,7 @@
    "headline": "Downtown Dubai Rents Drop 14 Percent",
    "summary": "Rental prices in Downtown Dubai experienced a 14 percent annual decline. This brings potential relief for tenants in the area.",
    "why": "It shows shifting rental dynamics in prime communities.",
-   "age_hours": 1.8,
+   "age_hours": 2.5,
    "topic": "rents"
   },
   {
@@ -183,7 +183,7 @@
    "headline": "Dubai fraudsters ordered to pay AED 4.7 million",
    "summary": "Two individuals must refund AED 4.7 million after selling a fake Golden Visa to an investor. The court ruling cracks down on residency-related real estate scams.",
    "why": "It protects investor confidence by penalizing fraudulent residency schemes.",
-   "age_hours": 3.9,
+   "age_hours": 4.7,
    "topic": "golden visa"
   },
   {
@@ -205,17 +205,17 @@
    "headline": "UAE Property Sector Keeps Strong Growth Momentum",
    "summary": "The UAE real estate market continues to display robust momentum. Global confidence in the property sector remains elevated.",
    "why": "It highlights sustained international interest in local real estate.",
-   "age_hours": 5.4,
+   "age_hours": 6.2,
    "topic": "Supply & market reports"
   }
  ],
  "window_hours": 24,
  "count_relevant": 20,
- "count_fetched": 265,
+ "count_fetched": 267,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-13T15:34+04:00",
- "saved_at": "2026-11-13T15:35+04:00"
+ "as_of": "2026-11-13T16:18+04:00",
+ "saved_at": "2026-11-13T16:18+04:00"
 }
