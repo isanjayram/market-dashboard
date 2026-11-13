@@ -424,6 +424,60 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Contains no factual news or market data."
+  },
+  "0c3b738e1834": {
+   "relevant": true,
+   "headline": "Dubai fraudsters ordered to pay AED 4.7 million",
+   "summary": "Two individuals must refund AED 4.7 million after selling a fake Golden Visa to an investor. The court ruling cracks down on residency-related real estate scams.",
+   "why": "It protects investor confidence by penalizing fraudulent residency schemes.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Protects buyers and reinforces residency security."
+  },
+  "349b7c74baac": {
+   "relevant": true,
+   "headline": "Dubai and Abu Dhabi lead the UAE property boom",
+   "summary": "Investment and development are accelerating across Dubai and Abu Dhabi. Both emirates continue to drive the nation's ongoing real estate expansion.",
+   "why": "It highlights sustained sector growth driven by the two main emirates.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Reflects overall market strength and buyer demand."
+  },
+  "f1faa4dc14e0": {
+   "relevant": true,
+   "headline": "UAE property sector sustains robust global momentum",
+   "summary": "The domestic real estate market maintains strong activity levels. International confidence in the property sector remains high.",
+   "why": "It confirms continued overseas interest supporting local property values.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "General market sentiment update."
+  },
+  "a777a1a40f41": {
+   "relevant": true,
+   "headline": "Dubai event targets Filipino investors for rental yields",
+   "summary": "A three-day open house invites Filipino investors to explore steady rental returns in Dubai. The event focuses on showcasing income-generating property opportunities.",
+   "why": "It targets specific foreign investor demographics to boost sales.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Marketing event for targeted foreign buyers."
+  },
+  "8727cd940e89": {
+   "relevant": true,
+   "headline": "Dubai developer plans major Bangkok landmark project",
+   "summary": "Mohamed Alabbar is planning a major landmark in Bangkok. The vision could potentially include building the world's tallest structure.",
+   "why": "It tracks international expansion moves by prominent Dubai developers.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Involves overseas development rather than local supply."
+  },
+  "2dc5d5b85864": {
+   "relevant": true,
+   "headline": "Abu Dhabi property market thrives as IREIS opens",
+   "summary": "The property market in Abu Dhabi is growing as the IREIS 2026 exhibition begins. The event showcases ongoing development and investment activity.",
+   "why": "It highlights regional growth tied to property exhibitions.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Exhibition news with limited direct local impact."
   }
  }
 }
