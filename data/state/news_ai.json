@@ -577,6 +577,15 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Marketing event with minimal local market impact."
+  },
+  "4b597f67fbcb": {
+   "relevant": false,
+   "headline": "Dubai Residential REIT Stock Overview",
+   "summary": "Financial market data and historical quotes are available for the Dubai Residential REIT stock.",
+   "why": "This is a stock market quote page rather than a property market news item.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Stock market data has no direct market impact."
   }
  }
 }
