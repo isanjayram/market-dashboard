@@ -2362,5 +2362,54 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"5d6db6ba855d": {
+"id": "5d6db6ba855d",
+"title": "Nakheel launches Palm Springs community in Dubai South",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWZ1UW1ITjVBRGZpR1d3TTZaUUNfLUNwdFVFNXhRYllHamxDU3NodWQtQ19TNEtZT0xONXU3RGtaNzJnTTExdEtWRnFld0w5N3FzcFU5azhySzMxWGRhQk9wT055ZWxDcl9MY2FlZzE2cnR0TmFXZkkwTEZ2djJUT29kejhKRGNPWTdfZ2FEOVkzN20wNEJTUWE1NlZ5VjVwaTRfM1hRSWxtWWU4WWpV0gG_AUFVX3lxTE5kSFMxM01sUmQ5bkV6VGJabk9VT1dBTjVubnVnSmxJRE53cDMzVXF5LTQ0cE11YVF0bmpPbTVZX1NIOVJXeEpkTERFdU9LcXdrNmJtbFlzS2xIQzJkZFRHR1o1bFFnWjhKbGczX0FuX1ZJbWRMUFdCbm5qMHQxam5wZUI1VzVkVmY4Zi12S09tRnM2RnBHRFJLc0ptX0pYNXdRWElmTmN1Rjl0aktvWWJYa01HRGlEbEVtWnd1Nk8w?oc=5",
+"source": "Gulf News",
+"category": "Developer news",
+"published": "2026-11-11T12:09+04:00",
+"first_seen": "2026-11-13",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": {
+"name": "Al Maktoum International Airport expansion",
+"status": "AED 128bn terminal approved 28 Apr 2024; first phase due 2032",
+"source": "Dubai Media Office",
+"url": "https://mediaoffice.ae/en/news/2024/april/28-04/al-maktoum-international-airport"
+},
+"fields": {
+"project": "Palm Springs community",
+"developer": "Nakheel",
+"location": "Dubai South",
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"fc31c4934bce": {
+"id": "fc31c4934bce",
+"title": "Danube Sells Out Luxury Penthouses in Dubai on Launch Day",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVzNrb0ExN19GTmJpOTY5UVdTbDRyYWxXbG13czU4czZjanpBclZQcHAxTnVyR0FTQkcwQ3M3aVFUOFVaSGtVcVJ6aFRibUpxdkh1S2VZVDNaQ1ozYlcwOTNzbkdBNkNRTWFEcDdZUHV4UXVkM2VMa0h1NHpsYTh2WjZoTU5UbUhsd0ZMdmlnOXNrTmdpaWh3YU5jY09lRHAtcHVub296NDRTZV91MkVQYmk5TkwzX1ZBTXNWNDllQzdqcmJ1aTN1cTBSdzFaVy1SeDR4bEM1ZGQ1M03SAeABQVVfeXFMTVR0TWdwQmlGN1JfZ2pIZ3RUVkF1RkRjdEM2WHBhN1hmaTV5b3JkSXV1TkVJSGFWZkxkSldweXBQSUpjdmJIalVJVzN0QTd0R1JZQUs5dS01ZWtwWW8yZVcyaTQyaXFoMzZzM1NtYzhpVG45aHdsNTV5d1NVRG9NR3BnMmgyRFlvRXRWSm1Oa0RuMVJNdEJucFc0cll4TGN5aXdOTUc3dUc0a0E4UjRleVpZU2tsWjkxcXNBdUpPRy05NWhpM3NkQjF0X05NNUxrLWtiblRjMno0a1E3X3Z5SEI?oc=5",
+"source": "Hindustan Times",
+"category": "Developer news",
+"published": "2026-11-12T10:26+04:00",
+"first_seen": "2026-11-13",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": "Danube",
+"location": "Dubai",
+"type": "Luxury Penthouses",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
