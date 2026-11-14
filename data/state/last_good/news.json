@@ -23,58 +23,28 @@
    "headline": "UAE Property Transactions Surge on Strong Investment Demand",
    "summary": "Official figures show the UAE property market growing through 2026. Diverse international investors continue to support development activity across the emirates.",
    "why": "It reflects strong macroeconomic growth and investor demand across the UAE.",
-   "age_hours": 19.5,
+   "age_hours": 20.9,
    "topic": "Supply & market reports"
   },
   {
-   "id": "348b598123fc",
+   "id": "b970e3644da3",
    "title": "Gargash: Fitch rating shows UAE economy\u2019s strength during regional crisis",
-   "link": "https://gulfnews.com/business/gargash-fitch-rating-shows-uae-economys-strength-during-regional-crisis-1.500747025",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTThOZmdCb0YxbG9MU0RmVFBfVWp1NHpZSEd3R0VQN1lKSUxqeXc2WEI4TDVWV25OM1RWUm5pQjd4UjNJRTV3d3B4SmhzZVBWZ2JfaXh4TlZBWWZZS2hXVzlJZTMzZHIyQWJIclVibU1UMWtPeHFKYm9OTFFkT2hfZERWY1ZrOGZFTWJiejlIUTdfNUVjLUQxaGdGT1JYTi1zbU9CcVBzQjJxakpOdHRlTzR2WdIBwwFBVV95cUxNckItVUtQN0lNMUdhRVp3cXB6LXV1UnJJbzMwcXZwRXNhUnZ6VExDWjV0eVdxTUwtVXJCUURDV1l6dk5aM3ppendDUzdyeXFrSnEwcGY2Smc1ZXhON3VhTWpCOHNTWDljblQ3cjJldURjZDJEbHk0bHZoYm01dU40LUJTTlNjdDRfY1JETnVhX0g1a21lRnJrT2JpZHVvOHVac3pLQmhxdGdnWGo1Xy1jcUd6TG5DUEZkZURZbzNsdC1qQWc?oc=5",
    "source": "Gulf News",
-   "kind": "outlet",
+   "kind": "search",
    "published": "2026-11-14T09:35+04:00",
-   "tags": [
-    "Business",
-    "Abu Dhabi"
-   ],
-   "teaser": "Abu Dhabi: Dr Anwar Gargash, diplomatic adviser to the UAE President, has welcomed the country's strong sovereign credit rating from Fitch Ratings, saying it underscores the resilience of the national economy and the strength of its financial position despite the ongoing regional crisis. In a post on X, Gargash highlighted the UAE's robust public finances, substantial sovereign assets and economic",
+   "tags": [],
+   "teaser": "",
    "category": "Macro & geopolitics",
    "impact": "Medium",
-   "impact_reason": "Boosts investor confidence in the economy.",
+   "impact_reason": "Boosts investor sentiment in the wider market.",
    "watch": false,
-   "also": [
-    "Gulf News"
-   ],
-   "headline": "Fitch rating highlights UAE economic resilience",
-   "summary": "Dr Anwar Gargash welcomed the strong sovereign credit rating from Fitch Ratings. He noted it demonstrates the financial stability of the national economy during regional crises.",
-   "why": "Sovereign ratings reinforce overall investor confidence in the UAE market.",
-   "age_hours": 3.9,
+   "headline": "Fitch Rating Highlights UAE Economic Resilience",
+   "summary": "Officials note that the latest Fitch rating demonstrates the robust health of the UAE economy amid regional instability.",
+   "why": "It reflects broader economic stability that supports overall property market confidence.",
+   "age_hours": 5.4,
    "topic": "Macro & geopolitics",
-   "more": 1
-  },
-  {
-   "id": "c7d97b4f0bae",
-   "title": "Fed cuts 2027 rate decisions to 7 as Warsh shifts one meeting to policy strategy",
-   "link": "https://economymiddleeast.com/news/fed-cuts-2027-rate-decisions-to-7-as-warsh-shifts-one-meeting-to-policy-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=fed-cuts-2027-rate-decisions-to-7-as-warsh-shifts-one-meeting-to-policy-strategy",
-   "source": "Economy Middle East",
-   "kind": "outlet",
-   "published": "2026-11-13T14:23+04:00",
-   "tags": [
-    "business",
-    "Central Bank",
-    "interest rate",
-    "United States"
-   ],
-   "teaser": "The Federal Reserve will reduce the number of scheduled interest-rate decisions to seven in 2027, setting aside its October meeting exclusively for broader monetary-policy strategy discussions in a significant change to the central bank\u2019s meeting structure. The Federal Open Market Committee will still hold eight regularly scheduled meetings next year, but its October 26\u201327 meeting [\u2026] The post Fed",
-   "category": "Rates & mortgages",
-   "impact": "Medium",
-   "impact_reason": "Shifts global rate timelines.",
-   "watch": false,
-   "headline": "Federal Reserve cuts 2027 rate meetings to seven",
-   "summary": "The U.S. central bank is reducing its scheduled rate decisions for 2027. One meeting will be dedicated entirely to monetary strategy.",
-   "why": "Changes to Fed meeting schedules can influence global interest rate expectations and mortgage pricing.",
-   "age_hours": 23.1,
-   "topic": "Rates & mortgages"
+   "more": 2
   },
   {
    "id": "595baf66ae51",
@@ -92,7 +62,7 @@
    "headline": "Dubai Property Sales Hit AED 12.43 Billion in a Week",
    "summary": "Dubai recorded 12.43 billion dirhams worth of property transactions in just seven days. This highlights ongoing robust activity across the emirate's property sector.",
    "why": "It provides a clear quantitative indicator of weekly market liquidity and buyer demand in Dubai.",
-   "age_hours": 0.8,
+   "age_hours": 2.3,
    "topic": "Supply & market reports"
   },
   {
@@ -111,9 +81,8 @@
    "headline": "Danube Sells Out Luxury Dubai Penthouses on Launch Day",
    "summary": "Danube's new Dubai penthouses, associated with Shah Rukh and Gauri Khan, sold out instantly on launch day for \u20b950 crore.",
    "why": "It highlights continued high demand for branded luxury properties in Dubai.",
-   "age_hours": 17.3,
-   "topic": "Developer news",
-   "more": 1
+   "age_hours": 18.8,
+   "topic": "Developer news"
   },
   {
    "id": "0a8568131b42",
@@ -131,27 +100,8 @@
    "headline": "Zedor Enters Dubai Market With Ventana Residences Launch",
    "summary": "Developer Zedor is entering the residential sector in Dubai by launching Ventana Residences. This project marks the company's first real estate development in the emirate.",
    "why": "It introduces a new residential supply and developer to the local market.",
-   "age_hours": 19.4,
+   "age_hours": 20.9,
    "topic": "Developer news"
-  },
-  {
-   "id": "f12ec6b160b2",
-   "title": "Good news for Dubai renters as Downtown rents slide 14% from last year",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSENBaWVFTFIzNVp6dVAwbTZURnRtSUlqVjY5ZFpMTUd0X0hlYmxBOTRadFZGUmpNa3JkYjU1Q2N6M1pnOVk5V1lzY1ROd01FTlVnZTdSeGhWSmZJaktISWV5QndSY2xnXzdyd3VpLUItWWxJR1ZMblUyQkNGRDExZjBZU1ktYlMxZ2dNWUgwVWJEanI4NnJibGNhcEJjeUdJMmxoTmstNm9zVEhz?oc=5",
-   "source": "The Global Filipino Magazine",
-   "kind": "search",
-   "published": "2026-11-13T13:48+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Reflects shifting rental affordability in prime areas.",
-   "watch": false,
-   "headline": "Downtown Dubai Rents Drop 14 Percent",
-   "summary": "Rental prices in Downtown Dubai experienced a 14 percent annual decline. This brings potential relief for tenants in the area.",
-   "why": "It shows shifting rental dynamics in prime communities.",
-   "age_hours": 23.7,
-   "topic": "rents"
   },
   {
    "id": "889fc2059b91",
@@ -169,7 +119,7 @@
    "headline": "Palm Jumeirah Luxury Villas Mortgaged for Dhs98 Million",
    "summary": "Two high-end villas located on Dubai's Palm Jumeirah were recently mortgaged for a total of 98 million dirhams.",
    "why": "It demonstrates high-value financing activity within prime Dubai real estate.",
-   "age_hours": 18.8,
+   "age_hours": 20.3,
    "topic": "Macro & geopolitics"
   },
   {
@@ -194,17 +144,17 @@
    "headline": "Binghatti Group Advances Development Projects Amid Market Growth",
    "summary": "Binghatti Holding reports that its ongoing construction projects remain on schedule. The developer emphasizes disciplined execution amid shifting market dynamics.",
    "why": "It provides insight into construction progress from a major Dubai developer.",
-   "age_hours": 19.6,
+   "age_hours": 21.1,
    "topic": "binghatti"
   }
  ],
  "window_hours": 24,
- "count_relevant": 17,
- "count_fetched": 260,
+ "count_relevant": 15,
+ "count_fetched": 258,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-14T13:27+04:00",
- "saved_at": "2026-11-14T13:27+04:00"
+ "as_of": "2026-11-14T14:56+04:00",
+ "saved_at": "2026-11-14T14:56+04:00"
 }

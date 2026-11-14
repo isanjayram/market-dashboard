@@ -424,6 +424,24 @@
    "category": "Supply & market reports",
    "impact": "Medium",
    "impact_reason": "Reflects strong weekly market activity and investor demand."
+  },
+  "b970e3644da3": {
+   "relevant": true,
+   "headline": "Fitch Rating Highlights UAE Economic Resilience",
+   "summary": "Officials note that the latest Fitch rating demonstrates the robust health of the UAE economy amid regional instability.",
+   "why": "It reflects broader economic stability that supports overall property market confidence.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Boosts investor sentiment in the wider market."
+  },
+  "d309bc019410": {
+   "relevant": true,
+   "headline": "Dubai Investments Reports Strong Nine-Month Profit Surge",
+   "summary": "Dubai Investments saw its profit climb to $280.4 million, driven largely by successful real estate activities.",
+   "why": "It shows strong financial performance in the local property development sector.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Reflects corporate earnings rather than broad market changes."
   }
  }
 }
