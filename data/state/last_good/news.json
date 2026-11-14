@@ -23,7 +23,7 @@
    "headline": "UAE Property Transactions Surge on Strong Investment Demand",
    "summary": "Official figures show the UAE property market growing through 2026. Diverse international investors continue to support development activity across the emirates.",
    "why": "It reflects strong macroeconomic growth and investor demand across the UAE.",
-   "age_hours": 21.6,
+   "age_hours": 21.8,
    "topic": "Supply & market reports"
   },
   {
@@ -42,7 +42,7 @@
    "headline": "Fitch Rating Highlights UAE Economic Resilience",
    "summary": "Officials note that the latest Fitch rating demonstrates the robust health of the UAE economy amid regional instability.",
    "why": "It reflects broader economic stability that supports overall property market confidence.",
-   "age_hours": 6.0,
+   "age_hours": 6.2,
    "topic": "Macro & geopolitics",
    "more": 2
   },
@@ -62,7 +62,7 @@
    "headline": "Dubai Property Sales Hit AED 12.43 Billion in a Week",
    "summary": "Dubai recorded 12.43 billion dirhams worth of property transactions in just seven days. This highlights ongoing robust activity across the emirate's property sector.",
    "why": "It provides a clear quantitative indicator of weekly market liquidity and buyer demand in Dubai.",
-   "age_hours": 2.9,
+   "age_hours": 3.2,
    "topic": "Supply & market reports"
   },
   {
@@ -81,7 +81,7 @@
    "headline": "Danube Sells Out Luxury Dubai Penthouses on Launch Day",
    "summary": "Danube's new Dubai penthouses, associated with Shah Rukh and Gauri Khan, sold out instantly on launch day for \u20b950 crore.",
    "why": "It highlights continued high demand for branded luxury properties in Dubai.",
-   "age_hours": 19.4,
+   "age_hours": 19.7,
    "topic": "Developer news"
   },
   {
@@ -100,7 +100,7 @@
    "headline": "Zedor Enters Dubai Market With Ventana Residences Launch",
    "summary": "Developer Zedor is entering the residential sector in Dubai by launching Ventana Residences. This project marks the company's first real estate development in the emirate.",
    "why": "It introduces a new residential supply and developer to the local market.",
-   "age_hours": 21.5,
+   "age_hours": 21.7,
    "topic": "Developer news"
   },
   {
@@ -119,7 +119,7 @@
    "headline": "Palm Jumeirah Luxury Villas Mortgaged for Dhs98 Million",
    "summary": "Two high-end villas located on Dubai's Palm Jumeirah were recently mortgaged for a total of 98 million dirhams.",
    "why": "It demonstrates high-value financing activity within prime Dubai real estate.",
-   "age_hours": 20.9,
+   "age_hours": 21.2,
    "topic": "Macro & geopolitics"
   },
   {
@@ -144,7 +144,7 @@
    "headline": "Binghatti Group Advances Development Projects Amid Market Growth",
    "summary": "Binghatti Holding reports that its ongoing construction projects remain on schedule. The developer emphasizes disciplined execution amid shifting market dynamics.",
    "why": "It provides insight into construction progress from a major Dubai developer.",
-   "age_hours": 21.7,
+   "age_hours": 22.0,
    "topic": "binghatti"
   }
  ],
@@ -155,6 +155,6 @@
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (saved from an earlier run)",
- "as_of": "2026-11-14T15:34+04:00",
- "saved_at": "2026-11-14T15:34+04:00"
+ "as_of": "2026-11-14T15:48+04:00",
+ "saved_at": "2026-11-14T15:48+04:00"
 }
