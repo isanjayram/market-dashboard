@@ -415,6 +415,15 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Celebrity lifestyle piece with zero market relevance."
+  },
+  "595baf66ae51": {
+   "relevant": true,
+   "headline": "Dubai Property Sales Hit AED 12.43 Billion in a Week",
+   "summary": "Dubai recorded 12.43 billion dirhams worth of property transactions in just seven days. This highlights ongoing robust activity across the emirate's property sector.",
+   "why": "It provides a clear quantitative indicator of weekly market liquidity and buyer demand in Dubai.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects strong weekly market activity and investor demand."
   }
  }
 }

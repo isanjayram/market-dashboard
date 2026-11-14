@@ -1,25 +1,6 @@
 {
  "top": [
   {
-   "id": "31668da36ef8",
-   "title": "Abu Dhabi court orders conman to pay AED13,600 in Golden Visa scam",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTzgyVFBEck83ZHRpMklKTGladDhaUFlDLVVCWS13QlM3WXR2MHBkSkZaOUpFUGk0UE1UTzJ0UnpoNnBRY2p1a3NQMHNKaEpBUkp6cjhGVVRhN0ljanJoSEJZNWNqOUhFZjVVYndhclJtT01OcTVqU2JYVmJmYjl6eVNVSkQ2RDRETG1WMDFzb2MzdkxLaDRucG9BaHp6OEhKVTdpTNIBvwFBVV95cUxQZm8xTzZYdGE2LUZsSjllOWFFTmkzeVRYeklIdk5BZ2I5REtIMEhyaXRWUjlPMC01dXNETnE4U2JwYjNlQVlYYWRzWkJZNEtJN1lHYl9nLXBhNlRTMFZ6SzkxeEZyR0xmT05ydjk4NE1uNmRoVDBGaERldXBOaVZqeWZ6dFk5RF9McXRPSFZGc2ZpM1JqTzlEY3ZzdVNoTkFZWVdSNEQySzR4WXlXX3c5TU11NWZTencwdkg1U0FNQQ?oc=5",
-   "source": "Emirates 24|7",
-   "kind": "search",
-   "published": "2026-11-13T12:54+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Regulation & fees",
-   "impact": "High",
-   "impact_reason": "Protects investor confidence in residency programs.",
-   "watch": false,
-   "headline": "Abu Dhabi Court Fines Scammer in Golden Visa Case",
-   "summary": "An Abu Dhabi court penalized a fraudster involved in a Golden Visa scheme. The offender must pay AED 13,600.",
-   "why": "It protects investors and maintains trust in residency programs.",
-   "age_hours": 22.7,
-   "topic": "abu dhabi"
-  },
-  {
    "id": "82525650615f",
    "title": "UAE real estate transactions surge across emirates as investment demand strengthens",
    "link": "https://economymiddleeast.com/news/uae-real-estate-transactions-surge-across-emirates-as-investment-demand-strengthens/?utm_source=rss&utm_medium=rss&utm_campaign=uae-real-estate-transactions-surge-across-emirates-as-investment-demand-strengthens",
@@ -42,7 +23,7 @@
    "headline": "UAE Property Transactions Surge on Strong Investment Demand",
    "summary": "Official figures show the UAE property market growing through 2026. Diverse international investors continue to support development activity across the emirates.",
    "why": "It reflects strong macroeconomic growth and investor demand across the UAE.",
-   "age_hours": 17.6,
+   "age_hours": 19.5,
    "topic": "Supply & market reports"
   },
   {
@@ -67,7 +48,7 @@
    "headline": "Fitch rating highlights UAE economic resilience",
    "summary": "Dr Anwar Gargash welcomed the strong sovereign credit rating from Fitch Ratings. He noted it demonstrates the financial stability of the national economy during regional crises.",
    "why": "Sovereign ratings reinforce overall investor confidence in the UAE market.",
-   "age_hours": 2.0,
+   "age_hours": 3.9,
    "topic": "Macro & geopolitics",
    "more": 1
   },
@@ -92,8 +73,27 @@
    "headline": "Federal Reserve cuts 2027 rate meetings to seven",
    "summary": "The U.S. central bank is reducing its scheduled rate decisions for 2027. One meeting will be dedicated entirely to monetary strategy.",
    "why": "Changes to Fed meeting schedules can influence global interest rate expectations and mortgage pricing.",
-   "age_hours": 21.2,
+   "age_hours": 23.1,
    "topic": "Rates & mortgages"
+  },
+  {
+   "id": "595baf66ae51",
+   "title": "Within a week.. AED 12.43 billion in Dubai real estate transactions",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSzVveHg5aThMcmVQelRrRjhsaEo4bEFDNEo4c0IzeGpxU3NNWC13SnZyTTY4LUNyQ0tZZ1hXNHJVYnB3SXZTWVJLczlwaEZpNV9waWdzR2JVTzEyalpRSVBPZmVZRUIxSHhhZnpyWnFSMDhHbEtOdUxhSlFCVE9ELURMZnQ3N3QxVVFtblRNTWFmd1loY2JGRTNpY2g3RXByTHlUQXBDU3lrX2Qzc3hOUHlrbmFuN0hYWUNsR2pfbHVfNTd1R0ltMTU1R1JYQQ?oc=5",
+   "source": "\u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+   "kind": "search",
+   "published": "2026-11-14T12:39+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects strong weekly market activity and investor demand.",
+   "watch": false,
+   "headline": "Dubai Property Sales Hit AED 12.43 Billion in a Week",
+   "summary": "Dubai recorded 12.43 billion dirhams worth of property transactions in just seven days. This highlights ongoing robust activity across the emirate's property sector.",
+   "why": "It provides a clear quantitative indicator of weekly market liquidity and buyer demand in Dubai.",
+   "age_hours": 0.8,
+   "topic": "Supply & market reports"
   },
   {
    "id": "ab0826963600",
@@ -111,7 +111,7 @@
    "headline": "Danube Sells Out Luxury Dubai Penthouses on Launch Day",
    "summary": "Danube's new Dubai penthouses, associated with Shah Rukh and Gauri Khan, sold out instantly on launch day for \u20b950 crore.",
    "why": "It highlights continued high demand for branded luxury properties in Dubai.",
-   "age_hours": 15.5,
+   "age_hours": 17.3,
    "topic": "Developer news",
    "more": 1
   },
@@ -131,7 +131,7 @@
    "headline": "Zedor Enters Dubai Market With Ventana Residences Launch",
    "summary": "Developer Zedor is entering the residential sector in Dubai by launching Ventana Residences. This project marks the company's first real estate development in the emirate.",
    "why": "It introduces a new residential supply and developer to the local market.",
-   "age_hours": 17.5,
+   "age_hours": 19.4,
    "topic": "Developer news"
   },
   {
@@ -150,27 +150,8 @@
    "headline": "Downtown Dubai Rents Drop 14 Percent",
    "summary": "Rental prices in Downtown Dubai experienced a 14 percent annual decline. This brings potential relief for tenants in the area.",
    "why": "It shows shifting rental dynamics in prime communities.",
-   "age_hours": 21.8,
+   "age_hours": 23.7,
    "topic": "rents"
-  },
-  {
-   "id": "0c3b738e1834",
-   "title": "Two Dubai fraudsters must pay AED4.7 million for selling investor a fake Golden Visa",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa3pMaVRCUTIxRFJ6Wl96N1pPMHJrakVsbUtZUFpIUXg4dnoyX0FfeTByeG1XWXNjdzc5WVhRMUhwU2RIVDBTcmI1R2loc2d5QUhreFM2Z2VmeDdUZzlYYTZtd0cxWFAtd3FUSGppV2FDaXFrRmFSWWcxdTdjQm5zdVYyWWFmaFBzNmpJcFVpaDlGWnNwUjVheTNXbmZDWlVHdFN3eEVocE1VY0NFV3dNU0JYODRGb083UHoyc1c2YnI?oc=5",
-   "source": "The Global Filipino Magazine",
-   "kind": "search",
-   "published": "2026-11-13T11:38+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Regulation & fees",
-   "impact": "Medium",
-   "impact_reason": "Protects buyers and reinforces residency security.",
-   "watch": false,
-   "headline": "Dubai fraudsters ordered to pay AED 4.7 million",
-   "summary": "Two individuals must refund AED 4.7 million after selling a fake Golden Visa to an investor. The court ruling cracks down on residency-related real estate scams.",
-   "why": "It protects investor confidence by penalizing fraudulent residency schemes.",
-   "age_hours": 24.0,
-   "topic": "golden visa"
   },
   {
    "id": "889fc2059b91",
@@ -188,7 +169,7 @@
    "headline": "Palm Jumeirah Luxury Villas Mortgaged for Dhs98 Million",
    "summary": "Two high-end villas located on Dubai's Palm Jumeirah were recently mortgaged for a total of 98 million dirhams.",
    "why": "It demonstrates high-value financing activity within prime Dubai real estate.",
-   "age_hours": 17.0,
+   "age_hours": 18.8,
    "topic": "Macro & geopolitics"
   },
   {
@@ -213,17 +194,17 @@
    "headline": "Binghatti Group Advances Development Projects Amid Market Growth",
    "summary": "Binghatti Holding reports that its ongoing construction projects remain on schedule. The developer emphasizes disciplined execution amid shifting market dynamics.",
    "why": "It provides insight into construction progress from a major Dubai developer.",
-   "age_hours": 17.8,
+   "age_hours": 19.6,
    "topic": "binghatti"
   }
  ],
  "window_hours": 24,
- "count_relevant": 16,
- "count_fetched": 257,
+ "count_relevant": 17,
+ "count_fetched": 260,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-14T11:36+04:00",
- "saved_at": "2026-11-14T11:36+04:00"
+ "as_of": "2026-11-14T13:27+04:00",
+ "saved_at": "2026-11-14T13:27+04:00"
 }
