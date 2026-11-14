@@ -275,5 +275,23 @@
 "impact_reason": "Involves overseas development rather than local supply.",
 "watch": false,
 "topic": "Developer news"
+},
+{
+"id": "348b598123fc",
+"headline": "Fitch rating highlights UAE economic resilience",
+"summary": "Dr Anwar Gargash welcomed the strong sovereign credit rating from Fitch Ratings. He noted it demonstrates the financial stability of the national economy during regional crises.",
+"why": "Sovereign ratings reinforce overall investor confidence in the UAE market.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/business/gargash-fitch-rating-shows-uae-economys-strength-during-regional-crisis-1.500747025",
+"published": "2026-11-14T09:35+04:00",
+"category": "Macro & geopolitics",
+"impact": "Medium",
+"impact_reason": "Boosts investor confidence in the economy.",
+"watch": false,
+"also": [
+"Gulf News"
+],
+"more": 1,
+"topic": "Macro & geopolitics"
 }
 ]

@@ -16,7 +16,7 @@
    "headline": "Abu Dhabi Court Fines Scammer in Golden Visa Case",
    "summary": "An Abu Dhabi court penalized a fraudster involved in a Golden Visa scheme. The offender must pay AED 13,600.",
    "why": "It protects investors and maintains trust in residency programs.",
-   "age_hours": 18.6,
+   "age_hours": 22.7,
    "topic": "abu dhabi"
   },
   {
@@ -42,8 +42,34 @@
    "headline": "UAE Property Transactions Surge on Strong Investment Demand",
    "summary": "Official figures show the UAE property market growing through 2026. Diverse international investors continue to support development activity across the emirates.",
    "why": "It reflects strong macroeconomic growth and investor demand across the UAE.",
-   "age_hours": 13.5,
+   "age_hours": 17.6,
    "topic": "Supply & market reports"
+  },
+  {
+   "id": "348b598123fc",
+   "title": "Gargash: Fitch rating shows UAE economy\u2019s strength during regional crisis",
+   "link": "https://gulfnews.com/business/gargash-fitch-rating-shows-uae-economys-strength-during-regional-crisis-1.500747025",
+   "source": "Gulf News",
+   "kind": "outlet",
+   "published": "2026-11-14T09:35+04:00",
+   "tags": [
+    "Business",
+    "Abu Dhabi"
+   ],
+   "teaser": "Abu Dhabi: Dr Anwar Gargash, diplomatic adviser to the UAE President, has welcomed the country's strong sovereign credit rating from Fitch Ratings, saying it underscores the resilience of the national economy and the strength of its financial position despite the ongoing regional crisis. In a post on X, Gargash highlighted the UAE's robust public finances, substantial sovereign assets and economic",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Boosts investor confidence in the economy.",
+   "watch": false,
+   "also": [
+    "Gulf News"
+   ],
+   "headline": "Fitch rating highlights UAE economic resilience",
+   "summary": "Dr Anwar Gargash welcomed the strong sovereign credit rating from Fitch Ratings. He noted it demonstrates the financial stability of the national economy during regional crises.",
+   "why": "Sovereign ratings reinforce overall investor confidence in the UAE market.",
+   "age_hours": 2.0,
+   "topic": "Macro & geopolitics",
+   "more": 1
   },
   {
    "id": "c7d97b4f0bae",
@@ -66,7 +92,7 @@
    "headline": "Federal Reserve cuts 2027 rate meetings to seven",
    "summary": "The U.S. central bank is reducing its scheduled rate decisions for 2027. One meeting will be dedicated entirely to monetary strategy.",
    "why": "Changes to Fed meeting schedules can influence global interest rate expectations and mortgage pricing.",
-   "age_hours": 17.1,
+   "age_hours": 21.2,
    "topic": "Rates & mortgages"
   },
   {
@@ -85,9 +111,9 @@
    "headline": "Danube Sells Out Luxury Dubai Penthouses on Launch Day",
    "summary": "Danube's new Dubai penthouses, associated with Shah Rukh and Gauri Khan, sold out instantly on launch day for \u20b950 crore.",
    "why": "It highlights continued high demand for branded luxury properties in Dubai.",
-   "age_hours": 11.3,
+   "age_hours": 15.5,
    "topic": "Developer news",
-   "more": 2
+   "more": 1
   },
   {
    "id": "0a8568131b42",
@@ -105,7 +131,7 @@
    "headline": "Zedor Enters Dubai Market With Ventana Residences Launch",
    "summary": "Developer Zedor is entering the residential sector in Dubai by launching Ventana Residences. This project marks the company's first real estate development in the emirate.",
    "why": "It introduces a new residential supply and developer to the local market.",
-   "age_hours": 13.4,
+   "age_hours": 17.5,
    "topic": "Developer news"
   },
   {
@@ -124,7 +150,7 @@
    "headline": "Downtown Dubai Rents Drop 14 Percent",
    "summary": "Rental prices in Downtown Dubai experienced a 14 percent annual decline. This brings potential relief for tenants in the area.",
    "why": "It shows shifting rental dynamics in prime communities.",
-   "age_hours": 17.7,
+   "age_hours": 21.8,
    "topic": "rents"
   },
   {
@@ -143,52 +169,8 @@
    "headline": "Dubai fraudsters ordered to pay AED 4.7 million",
    "summary": "Two individuals must refund AED 4.7 million after selling a fake Golden Visa to an investor. The court ruling cracks down on residency-related real estate scams.",
    "why": "It protects investor confidence by penalizing fraudulent residency schemes.",
-   "age_hours": 19.8,
+   "age_hours": 24.0,
    "topic": "golden visa"
-  },
-  {
-   "id": "349b7c74baac",
-   "title": "Dubai, Abu Dhabi drive UAE real estate boom as investment and development gather pace",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdDNfZnl1aVpxbGhCQm5BUnUzQTVYd3BWYmk0S1lKUTAyVUVsUkhjN3lGVXJRZG5GMTdpYkp6MUFaTmJaWnIxT1JHTG1KTk5XS21iYnY2UUxoTEFuU0pNeUFuVFpTZWN5U3dGVVFpRGRiR1o3c3hfMjRIdkFHcG1IQTNwWmNpd1ViaFltR1lnZkJtX0syZVRhcGpXcUN0MDMyMlkxTlVRRERsZG9rTnpHQk4wU29hbGFxOGc?oc=5",
-   "source": "Travels Dubai",
-   "kind": "search",
-   "published": "2026-11-13T11:07+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Macro & geopolitics",
-   "impact": "Medium",
-   "impact_reason": "Reflects overall market strength and buyer demand.",
-   "watch": false,
-   "also": [
-    "Travels Dubai"
-   ],
-   "headline": "Dubai and Abu Dhabi lead the UAE property boom",
-   "summary": "Investment and development are accelerating across Dubai and Abu Dhabi. Both emirates continue to drive the nation's ongoing real estate expansion.",
-   "why": "It highlights sustained sector growth driven by the two main emirates.",
-   "age_hours": 20.4,
-   "topic": "abu dhabi"
-  },
-  {
-   "id": "15b2e150c6cb",
-   "title": "UAE real estate sector maintains strong momentum, growing global confidence",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdTFIZksxYjcza0I3TmNCRHZzQWNhdEFsczd0REcycFdYVERpSFdFaThYTmh0T0tHck8yWklPX01RR2FtNTR0bXM4dTNvNjZSMXdEemVvNnBDOUoxT0cweGpOX2dYaFdSbHBDT25mQk0zRU10OEtLci1CZ2FPVVpUckNSTDNSTEhfMmoxLTcwSi1DVldURGU4ZmxmaDJsNHQ3a0N4c01idHJCYUtCYW9UZnBVekVXNy11S2hv?oc=5",
-   "source": "Gulf Today",
-   "kind": "search",
-   "published": "2026-11-13T10:09+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Demonstrates sustained global investment confidence.",
-   "watch": false,
-   "also": [
-    "Gulf Today"
-   ],
-   "headline": "UAE Property Sector Keeps Strong Growth Momentum",
-   "summary": "The UAE real estate market continues to display robust momentum. Global confidence in the property sector remains elevated.",
-   "why": "It highlights sustained international interest in local real estate.",
-   "age_hours": 21.3,
-   "topic": "Supply & market reports"
   },
   {
    "id": "889fc2059b91",
@@ -206,18 +188,42 @@
    "headline": "Palm Jumeirah Luxury Villas Mortgaged for Dhs98 Million",
    "summary": "Two high-end villas located on Dubai's Palm Jumeirah were recently mortgaged for a total of 98 million dirhams.",
    "why": "It demonstrates high-value financing activity within prime Dubai real estate.",
-   "age_hours": 12.8,
-   "topic": "Macro & geopolitics",
-   "more": 1
+   "age_hours": 17.0,
+   "topic": "Macro & geopolitics"
+  },
+  {
+   "id": "a655e937eafe",
+   "title": "Binghatti Group on track with projects as it registers continued growth",
+   "link": "https://economymiddleeast.com/binghatti-group-on-track-with-projects-as-it-registers-continued-growth/?utm_source=rss&utm_medium=rss&utm_campaign=binghatti-group-on-track-with-projects-as-it-registers-continued-growth",
+   "source": "Economy Middle East",
+   "kind": "outlet",
+   "published": "2026-11-13T17:50+04:00",
+   "tags": [
+    "Real estate",
+    "business",
+    "dubai real estate",
+    "economy",
+    "Middle East"
+   ],
+   "teaser": "Binghatti Group\u2019s development projects remain on track with timely execution and disciplined growth remaining central to the company\u2019s strategy even as Dubai continues to experience changing market dynamics. Muhammad BinGhatti, Chairman of Binghatti Holding, said staying ahead of the market involves more than just launching new projects. He added that it also requires converting demand [\u2026] The pos",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Confirms standard operational updates from a local builder.",
+   "watch": false,
+   "headline": "Binghatti Group Advances Development Projects Amid Market Growth",
+   "summary": "Binghatti Holding reports that its ongoing construction projects remain on schedule. The developer emphasizes disciplined execution amid shifting market dynamics.",
+   "why": "It provides insight into construction progress from a major Dubai developer.",
+   "age_hours": 17.8,
+   "topic": "binghatti"
   }
  ],
  "window_hours": 24,
- "count_relevant": 19,
- "count_fetched": 251,
+ "count_relevant": 16,
+ "count_fetched": 257,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-14T07:28+04:00",
- "saved_at": "2026-11-14T07:28+04:00"
+ "as_of": "2026-11-14T11:36+04:00",
+ "saved_at": "2026-11-14T11:36+04:00"
 }

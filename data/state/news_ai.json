@@ -352,6 +352,69 @@
    "category": "Developer news",
    "impact": "Medium",
    "impact_reason": "New project launch increases housing supply and developer options."
+  },
+  "4c440d147a0d": {
+   "relevant": true,
+   "headline": "Emaar mall traffic drops 10 per cent due to conflict",
+   "summary": "Mohamed Alabbar reports a ten per cent decline in footfall and retail sales at Emaar malls. Hotel occupancy also fell sharply as regional conflict impacts tourism and spending.",
+   "why": "This indicates a direct impact on retail and tourism sentiment from regional tensions.",
+   "category": "Developer news",
+   "impact": "High",
+   "impact_reason": "Affects developer revenue and broader market sentiment."
+  },
+  "348b598123fc": {
+   "relevant": true,
+   "headline": "Fitch rating highlights UAE economic resilience",
+   "summary": "Dr Anwar Gargash welcomed the strong sovereign credit rating from Fitch Ratings. He noted it demonstrates the financial stability of the national economy during regional crises.",
+   "why": "Sovereign ratings reinforce overall investor confidence in the UAE market.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Boosts investor confidence in the economy."
+  },
+  "5a5be96ef02f": {
+   "relevant": true,
+   "headline": "Arada and Alya plan 1.63 billion dollar pipeline",
+   "summary": "Arada and Alya Developments formed a partnership to explore premium real estate investments. The collaboration focuses on projects across both the UAE and Saudi Arabia.",
+   "why": "New joint ventures expand the pipeline of upcoming developments in the region.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Signals active developer expansion and co-investment."
+  },
+  "5438ba9e9761": {
+   "relevant": false,
+   "headline": "UAE Property: Should I waive the tenant penalty?",
+   "summary": "An advice piece addressing whether a landlord should waive early termination fees for a tenant who lost their job.",
+   "why": "This is an agent advice column with no wider market news impact.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Individual advisory piece with no wider impact."
+  },
+  "63b7655aa630": {
+   "relevant": false,
+   "headline": "Free event shows OFWs how to become landlords",
+   "summary": "An event in Dubai and Abu Dhabi teaches overseas Filipino workers how to invest in property.",
+   "why": "This is an informational lifestyle and buyer seminar rather than hard news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Promotional event with no macroeconomic market impact."
+  },
+  "189e83d29f45": {
+   "relevant": false,
+   "headline": "Binghatti and Loft connect Kano investors to Dubai",
+   "summary": "Developers and partners connect investors from Kano to the Dubai luxury real estate market.",
+   "why": "This acts as a promotional marketing piece for specific developer sales.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Promotional sales event for specific developers."
+  },
+  "df330347e6a4": {
+   "relevant": false,
+   "headline": "Video inside Amir Khan and wife's Dubai property",
+   "summary": "A video tour showcases the luxury Dubai home of Amir Khan and his wife Faryal.",
+   "why": "This is a celebrity lifestyle feature with no real estate market news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Celebrity lifestyle piece with zero market relevance."
   }
  }
 }
