@@ -110,5 +110,22 @@
 "impact_reason": "Confirms standard operational updates from a local builder.",
 "watch": false,
 "topic": "binghatti"
+},
+{
+"id": "a9b1bfa0eb09",
+"headline": "Dubai Rental Disputes Centre achieves high clearance rate",
+"summary": "Dubai's Rental Disputes Centre reported a 94.8% appellate case clearance rate. The city is also introducing AI plans for judicial services.",
+"why": "It shows judicial efficiency in handling rental disputes in the local property market.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/business/dubai-unveils-ai-plans-for-judicial-services-reports-948-rental-appeals-clearance-rate-1.500748064",
+"published": "2026-11-15T13:58+04:00",
+"category": "Regulation & fees",
+"impact": "Low",
+"impact_reason": "Operational efficiency update with minimal direct market impact.",
+"watch": false,
+"also": [
+"Gulf News"
+],
+"topic": "Regulation & fees"
 }
 ]

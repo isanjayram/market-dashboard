@@ -16,7 +16,7 @@
    "headline": "Dubai property transactions hit $3.4 billion last week",
    "summary": "Dubai recorded $3.4 billion in property deals recently, featuring a notable $23 million Palm Jumeirah apartment sale.",
    "why": "It reflects strong ongoing weekly transaction volumes in the emirate's property market.",
-   "age_hours": 15.2,
+   "age_hours": 16.7,
    "topic": "Supply & market reports"
   },
   {
@@ -35,7 +35,7 @@
    "headline": "Dubai Metro expansion and mortgage market surge lead news",
    "summary": "Recent highlights include a growing mortgage sector alongside updates on Dubai Metro expansion and tower construction.",
    "why": "Financing conditions and transport expansions directly affect property demand and values.",
-   "age_hours": 12.0,
+   "age_hours": 13.6,
    "topic": "metro"
   },
   {
@@ -46,7 +46,7 @@
    "kind": "outlet",
    "published": "2026-11-14T17:24+04:00",
    "tags": [],
-   "teaser": "Fitch Ratings is expecting the UAE's economy to rise in 2026 and has maintained the country's high-grade credit rating, citing resilient fiscal buffers. Real gross domestic product in the Arab world's second-largest economy will grow by 0.5 per cent this year, despite an estimated 1.5 per cent contraction in non-oil GDP, the New York-based agency said on Friday. Analysts at Fitch said Dubai's real",
+   "teaser": "Fitch Ratings is expecting the UAE's economy to expand in 2026 and has maintained the country's high-grade credit rating, citing resilient fiscal buffers. Real gross domestic product in the Arab world's second-largest economy will grow by 0.5 per cent this year, despite an estimated 1.5 per cent contraction in non-oil GDP, the New York-based agency said on Friday. Analysts at Fitch said Dubai's re",
    "category": "Macro & geopolitics",
    "impact": "Medium",
    "impact_reason": "Strong national credit supports overall market confidence.",
@@ -54,17 +54,42 @@
    "headline": "Fitch predicts UAE GDP growth and keeps credit rating",
    "summary": "Fitch Ratings maintains the UAE's strong credit rating while projecting overall economic growth for the year.",
    "why": "Macroeconomic health and high credit ratings boost investor confidence in local real estate.",
-   "age_hours": 20.6,
+   "age_hours": 22.1,
    "topic": "Macro & geopolitics"
+  },
+  {
+   "id": "a9b1bfa0eb09",
+   "title": "Dubai unveils AI plans for judicial services, reports 94.8% rental appeals clearance rate",
+   "link": "https://gulfnews.com/business/dubai-unveils-ai-plans-for-judicial-services-reports-948-rental-appeals-clearance-rate-1.500748064",
+   "source": "Gulf News",
+   "kind": "outlet",
+   "published": "2026-11-15T13:58+04:00",
+   "tags": [
+    "Business",
+    "Dubai"
+   ],
+   "teaser": "Dubai: Dubai\u2019s Rental Disputes Centre has recorded an appellate case clearance rate of 94.8 per cent, according to figures reviewed by Sheikh Maktoum bin Mohammed bin Rashid Al Maktoum, First Deputy Ruler of Dubai, Deputy Prime Minister and Minister of Finance of the UAE. Sheikh Maktoum reviewed the centre\u2019s performance indicators, as well as the action plan of the Dubai Judicial Expertise Centre ",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Operational efficiency update with minimal direct market impact.",
+   "watch": false,
+   "also": [
+    "Gulf News"
+   ],
+   "headline": "Dubai Rental Disputes Centre achieves high clearance rate",
+   "summary": "Dubai's Rental Disputes Centre reported a 94.8% appellate case clearance rate. The city is also introducing AI plans for judicial services.",
+   "why": "It shows judicial efficiency in handling rental disputes in the local property market.",
+   "age_hours": 1.5,
+   "topic": "Regulation & fees"
   }
  ],
  "window_hours": 24,
  "count_relevant": 6,
- "count_fetched": 230,
+ "count_fetched": 240,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-15T13:57+04:00",
- "saved_at": "2026-11-15T13:57+04:00"
+ "as_of": "2026-11-15T15:30+04:00",
+ "saved_at": "2026-11-15T15:30+04:00"
 }
