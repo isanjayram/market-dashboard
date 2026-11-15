@@ -217,6 +217,24 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Speculative commentary with no direct market action."
+  },
+  "31668da36ef8": {
+   "relevant": false,
+   "headline": "Abu Dhabi court penalizes Golden Visa scammer",
+   "summary": "An Abu Dhabi court ordered a fraudster to pay AED13,600 following a Golden Visa scam.",
+   "why": "This is a crime report rather than a material real estate market update.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Minor legal case with no broader market impact."
+  },
+  "c7d97b4f0bae": {
+   "relevant": true,
+   "headline": "Federal Reserve reduces scheduled 2027 rate meetings to seven",
+   "summary": "The Fed will cut its 2027 rate decisions to seven, dedicating one October meeting entirely to monetary strategy. This adjustment alters the central bank's standard scheduling format.",
+   "why": "Global interest rate decisions directly influence Dubai mortgage pricing and borrowing costs.",
+   "category": "Rates & mortgages",
+   "impact": "Medium",
+   "impact_reason": "Alters global interest rate policy schedules."
   }
  }
 }

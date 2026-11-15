@@ -16,7 +16,7 @@
    "headline": "Dubai property transactions hit $3.4 billion last week",
    "summary": "Dubai recorded $3.4 billion in property deals recently, featuring a notable $23 million Palm Jumeirah apartment sale.",
    "why": "It reflects strong ongoing weekly transaction volumes in the emirate's property market.",
-   "age_hours": 13.0,
+   "age_hours": 13.5,
    "topic": "Supply & market reports"
   },
   {
@@ -35,7 +35,7 @@
    "headline": "Dubai Metro expansion and mortgage market surge lead news",
    "summary": "Recent highlights include a growing mortgage sector alongside updates on Dubai Metro expansion and tower construction.",
    "why": "Financing conditions and transport expansions directly affect property demand and values.",
-   "age_hours": 9.9,
+   "age_hours": 10.3,
    "topic": "metro"
   },
   {
@@ -54,7 +54,7 @@
    "headline": "Fitch predicts UAE GDP growth and keeps credit rating",
    "summary": "Fitch Ratings maintains the UAE's strong credit rating while projecting overall economic growth for the year.",
    "why": "Macroeconomic health and high credit ratings boost investor confidence in local real estate.",
-   "age_hours": 18.4,
+   "age_hours": 18.9,
    "topic": "Macro & geopolitics"
   },
   {
@@ -73,17 +73,17 @@
    "headline": "Dubai Property Sales Hit AED 12.43 Billion in a Week",
    "summary": "Dubai recorded 12.43 billion dirhams worth of property transactions in just seven days. This highlights ongoing robust activity across the emirate's property sector.",
    "why": "It provides a clear quantitative indicator of weekly market liquidity and buyer demand in Dubai.",
-   "age_hours": 23.2,
+   "age_hours": 23.6,
    "topic": "Supply & market reports"
   }
  ],
  "window_hours": 24,
- "count_relevant": 8,
- "count_fetched": 224,
+ "count_relevant": 7,
+ "count_fetched": 225,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-15T11:49+04:00",
- "saved_at": "2026-11-15T11:49+04:00"
+ "as_of": "2026-11-15T12:17+04:00",
+ "saved_at": "2026-11-15T12:17+04:00"
 }
