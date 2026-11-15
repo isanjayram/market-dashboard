@@ -1,42 +1,30 @@
 {
  "top": [
   {
-   "id": "f8aba6f27684",
-   "title": "Dubai real estate sector recorded $3.4bn of transactions last week, including $23m Palm Jumeirah apartment",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ2RPUng1S0ZVRVVGWnZKVGxhWmhqbHJsektlNENmTXdNazdaUEY2ZlhQeERnblIzczhjY2ppa19UNEFNeDNBUnFkdWozTUlHMVVSNFdObnhpdW1aeFZBWnZ0N0RVb0xIX1hkblRER1FmYWx4VHZnSW9BUGJtVDBtcHVKeDMyendHR194aVJUNGJmVjhQSThvaTlMM2M5azFXWXZ2N3ZZbFN1SnFhcmFhdTBpNTRMV0VZd2xzT0lBTm1VUjNPZU9kTEtmUGVmemVtX2xVaDlNRTlONXBCUWVJRw?oc=5",
-   "source": "Arabian Business",
-   "kind": "search",
-   "published": "2026-11-14T22:48+04:00",
-   "tags": [],
-   "teaser": "",
+   "id": "82525650615f",
+   "title": "UAE real estate transactions surge across emirates as investment demand strengthens",
+   "link": "https://economymiddleeast.com/news/uae-real-estate-transactions-surge-across-emirates-as-investment-demand-strengthens/?utm_source=rss&utm_medium=rss&utm_campaign=uae-real-estate-transactions-surge-across-emirates-as-investment-demand-strengthens",
+   "source": "Economy Middle East",
+   "kind": "outlet",
+   "published": "2026-11-13T18:00+04:00",
+   "tags": [
+    "Abu Dhabi",
+    "Dubai",
+    "investment",
+    "Property",
+    "Ras Al Khaimah",
+    "Sharjah"
+   ],
+   "teaser": "The UAE\u2019s real estate sector continued to record strong growth in 2026, with rising investment demand, expanding development activity and a diverse international investor base supporting market performance across the emirates. Recent data released by real estate authorities show significant increases in transaction values and volumes, alongside growing foreign investment and an expanding pipeline ",
    "category": "Supply & market reports",
    "impact": "Medium",
-   "impact_reason": "Shows strong transaction volumes and market activity.",
+   "impact_reason": "Indicates broad market growth and rising buyer demand.",
    "watch": true,
-   "headline": "Dubai property transactions hit $3.4 billion last week",
-   "summary": "Dubai recorded $3.4 billion in property deals recently, featuring a notable $23 million Palm Jumeirah apartment sale.",
-   "why": "It reflects strong ongoing weekly transaction volumes in the emirate's property market.",
-   "age_hours": 16.7,
+   "headline": "UAE Property Transactions Surge on Strong Investment Demand",
+   "summary": "Official figures show the UAE property market growing through 2026. Diverse international investors continue to support development activity across the emirates.",
+   "why": "It reflects strong macroeconomic growth and investor demand across the UAE.",
+   "age_hours": 46.0,
    "topic": "Supply & market reports"
-  },
-  {
-   "id": "37c2a9c8aefe",
-   "title": "UAE holiday dates confirmed, Jeddah Tower construction update, Dubai Metro expansion, mortgage market surge \u2013 10 things you missed this week",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOOVEtbVVhNDhTdFA2Z29SLW92R2dmVjh2Uk1JT1ZRT2Q5UGdlRlZ3MVVkTlRHTzN2aFNaUklfRXZOM21PX0w1UlNZVjY0X24xcFRRX1pCV0RKXzQ1VUowTWhseGFuaC0yX1FxVWtaSVlGdDlWendxbzUxc1lBcDhndU9OU2c4c3NpbjVDMWpTRm9ReTNRNFhRblJMRnJvVGg2YmhhVS1VenQzUl9najdhRFVFaS1JTkFTajVfczBUYWpXNkpGVlZsWmJtb2RvR3RnNkNBeE9zcGZjWmdXSmZTeThKR0taUV9Fei12cGtJdUdxeVExNjZpcVNiVmVNOHg2b0tVR04wcw?oc=5",
-   "source": "Arabian Business",
-   "kind": "search",
-   "published": "2026-11-15T01:57+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Rates & mortgages",
-   "impact": "Medium",
-   "impact_reason": "Indicates active mortgage lending and transit growth.",
-   "watch": false,
-   "headline": "Dubai Metro expansion and mortgage market surge lead news",
-   "summary": "Recent highlights include a growing mortgage sector alongside updates on Dubai Metro expansion and tower construction.",
-   "why": "Financing conditions and transport expansions directly affect property demand and values.",
-   "age_hours": 13.6,
-   "topic": "metro"
   },
   {
    "id": "35999654f2a2",
@@ -54,7 +42,7 @@
    "headline": "Fitch predicts UAE GDP growth and keeps credit rating",
    "summary": "Fitch Ratings maintains the UAE's strong credit rating while projecting overall economic growth for the year.",
    "why": "Macroeconomic health and high credit ratings boost investor confidence in local real estate.",
-   "age_hours": 22.1,
+   "age_hours": 22.6,
    "topic": "Macro & geopolitics"
   },
   {
@@ -73,23 +61,49 @@
    "impact": "Low",
    "impact_reason": "Operational efficiency update with minimal direct market impact.",
    "watch": false,
-   "also": [
-    "Gulf News"
-   ],
    "headline": "Dubai Rental Disputes Centre achieves high clearance rate",
    "summary": "Dubai's Rental Disputes Centre reported a 94.8% appellate case clearance rate. The city is also introducing AI plans for judicial services.",
    "why": "It shows judicial efficiency in handling rental disputes in the local property market.",
-   "age_hours": 1.5,
+   "age_hours": 2.0,
    "topic": "Regulation & fees"
+  },
+  {
+   "id": "a655e937eafe",
+   "title": "Binghatti Group on track with projects as it registers continued growth",
+   "link": "https://economymiddleeast.com/binghatti-group-on-track-with-projects-as-it-registers-continued-growth/?utm_source=rss&utm_medium=rss&utm_campaign=binghatti-group-on-track-with-projects-as-it-registers-continued-growth",
+   "source": "Economy Middle East",
+   "kind": "outlet",
+   "published": "2026-11-13T17:50+04:00",
+   "tags": [
+    "Real estate",
+    "business",
+    "dubai real estate",
+    "economy",
+    "Middle East"
+   ],
+   "teaser": "Binghatti Group\u2019s development projects remain on track with timely execution and disciplined growth remaining central to the company\u2019s strategy even as Dubai continues to experience changing market dynamics. Muhammad BinGhatti, Chairman of Binghatti Holding, said staying ahead of the market involves more than just launching new projects. He added that it also requires converting demand [\u2026] The pos",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Confirms standard operational updates from a local builder.",
+   "watch": false,
+   "headline": "Binghatti Group Advances Development Projects Amid Market Growth",
+   "summary": "Binghatti Holding reports that its ongoing construction projects remain on schedule. The developer emphasizes disciplined execution amid shifting market dynamics.",
+   "why": "It provides insight into construction progress from a major Dubai developer.",
+   "age_hours": 46.2,
+   "topic": "binghatti"
   }
  ],
- "window_hours": 24,
- "count_relevant": 6,
- "count_fetched": 240,
+ "window_hours": 48,
+ "count_relevant": 4,
+ "count_fetched": 170,
  "feed_errors": {
-  "Khaleej Times": "HTTPError"
+  "Khaleej Times": "HTTPError",
+  "News search: Dubai property": "HTTPError",
+  "News search: launches": "HTTPError",
+  "News search: rules and fees": "HTTPError",
+  "News search: Sharjah and Abu Dhabi": "HTTPError"
  },
- "mode": "AI summaries (gemini)",
- "as_of": "2026-11-15T15:30+04:00",
- "saved_at": "2026-11-15T15:30+04:00"
+ "mode": "AI summaries (saved from an earlier run)",
+ "as_of": "2026-11-15T16:00+04:00",
+ "saved_at": "2026-11-15T16:00+04:00"
 }
