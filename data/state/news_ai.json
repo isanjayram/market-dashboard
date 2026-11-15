@@ -1,267 +1,4 @@
 {
- "2026-11-13": {
-  "d55c843ed4e4": {
-   "relevant": true,
-   "headline": "Dubai Court Orders Fraudsters to Refund Dh4.7 Million",
-   "summary": "A local court penalised conmen involved in a residency scam to repay an investor millions. The ruling protects participants in the emirate's residency pathways.",
-   "why": "It highlights legal protections against residency fraud.",
-   "category": "Regulation & fees",
-   "impact": "High",
-   "impact_reason": "Protects investor confidence and addresses residency scams."
-  },
-  "303b0dc178b6": {
-   "relevant": true,
-   "headline": "Select Dubai Communities See Rents Drop by 14 Percent",
-   "summary": "New housing supply entering the market caused rental rates to decline in specific areas. This shift offers some relief to tenants after prolonged increases.",
-   "why": "It shows shifting rental dynamics due to new supply.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Reflects shifting rental pricing and housing supply."
-  },
-  "3aa997bb88ca": {
-   "relevant": true,
-   "headline": "Dubai Leads Global Super-Prime Property Sales in Q3 2026",
-   "summary": "The emirate secured the top global spot for high-end luxury real estate transactions. It recorded 86 sales exceeding $10 million, outperforming other major international cities.",
-   "why": "It underscores strong luxury market demand.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Highlights high-end market strength and global appeal."
-  },
-  "da24cce51e62": {
-   "relevant": true,
-   "headline": "Dubai Nears $170 Billion in Real Estate Transactions",
-   "summary": "The local property sector approaches significant transaction milestones as the wider region experiences growth. Abu Dhabi also posted a substantial surge in trading activity.",
-   "why": "It tracks overall market transaction volumes.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Demonstrates robust sector liquidity and transaction volume."
-  },
-  "7f7788de8b7b": {
-   "relevant": true,
-   "headline": "Fed Rates Projected to Hit 4.50 Percent in 2027",
-   "summary": "Persistent inflation figures led forecasters to anticipate further monetary tightening by the US central bank. This shift could influence borrowing costs globally, including the UAE.",
-   "why": "It signals potential changes in mortgage costs.",
-   "category": "Rates & mortgages",
-   "impact": "Medium",
-   "impact_reason": "Directly impacts future mortgage rates and borrowing costs."
-  },
-  "3b3b0497866d": {
-   "relevant": true,
-   "headline": "Ready Property Sales in Dubai Reach Dh10.1 Billion",
-   "summary": "Completed real estate transactions hit peak levels according to recent market tracking data. Buyers showed strong preference for ready units over off-plan projects.",
-   "why": "It reports record sales for ready properties.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Indicates high buyer preference for completed assets."
-  },
-  "0caf79be3e86": {
-   "relevant": true,
-   "headline": "Majority of Dubai Residents Maintain Trust in the City",
-   "summary": "A recent industry report indicates that 67 percent of residents keep or raise their confidence levels. Positive sentiment remains steady across the local populace.",
-   "why": "It measures ongoing consumer and resident confidence.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Measures buyer sentiment and market stability."
-  },
-  "fa35aedbe01e": {
-   "relevant": true,
-   "headline": "UAE Real Estate Maintains Momentum and Global Confidence",
-   "summary": "The domestic property landscape continues to exhibit robust performance and attracts international interest. Overall market sentiment remains highly optimistic.",
-   "why": "It provides a broad overview of sector confidence.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Offers general market commentary without specific metrics."
-  },
-  "6de7661c0ddc": {
-   "relevant": true,
-   "headline": "Binghatti Reports 65% Profit Surge on Strong Dubai Demand",
-   "summary": "Binghatti's profits jumped significantly due to high local real estate demand. The developer experienced strong financial growth across its portfolio.",
-   "why": "It reflects strong developer performance driven by high market demand.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Reflects corporate earnings rather than direct buyer costs."
-  },
-  "92751c851426": {
-   "relevant": true,
-   "headline": "Abu Dhabi Property Prices Climb by up to 31%",
-   "summary": "Property values in Abu Dhabi increased by as much as 31 percent. The surge highlights growing capital appreciation in the wider UAE market.",
-   "why": "It provides crucial market valuation data for regional investors.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Highlights significant market appreciation across the region."
-  },
-  "891febb8b11d": {
-   "relevant": false,
-   "headline": "9 Things Experienced Buyers Check Before Buying Property in Dubai",
-   "summary": "An article lists nine tips for experienced buyers looking at Dubai real estate.",
-   "why": "This is lifestyle or advisory content with no actual news value.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Contains no factual news or market data."
-  },
-  "0c3b738e1834": {
-   "relevant": true,
-   "headline": "Dubai fraudsters ordered to pay AED 4.7 million",
-   "summary": "Two individuals must refund AED 4.7 million after selling a fake Golden Visa to an investor. The court ruling cracks down on residency-related real estate scams.",
-   "why": "It protects investor confidence by penalizing fraudulent residency schemes.",
-   "category": "Regulation & fees",
-   "impact": "Medium",
-   "impact_reason": "Protects buyers and reinforces residency security."
-  },
-  "349b7c74baac": {
-   "relevant": true,
-   "headline": "Dubai and Abu Dhabi lead the UAE property boom",
-   "summary": "Investment and development are accelerating across Dubai and Abu Dhabi. Both emirates continue to drive the nation's ongoing real estate expansion.",
-   "why": "It highlights sustained sector growth driven by the two main emirates.",
-   "category": "Macro & geopolitics",
-   "impact": "Medium",
-   "impact_reason": "Reflects overall market strength and buyer demand."
-  },
-  "f1faa4dc14e0": {
-   "relevant": true,
-   "headline": "UAE property sector sustains robust global momentum",
-   "summary": "The domestic real estate market maintains strong activity levels. International confidence in the property sector remains high.",
-   "why": "It confirms continued overseas interest supporting local property values.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "General market sentiment update."
-  },
-  "a777a1a40f41": {
-   "relevant": true,
-   "headline": "Dubai event targets Filipino investors for rental yields",
-   "summary": "A three-day open house invites Filipino investors to explore steady rental returns in Dubai. The event focuses on showcasing income-generating property opportunities.",
-   "why": "It targets specific foreign investor demographics to boost sales.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Marketing event for targeted foreign buyers."
-  },
-  "8727cd940e89": {
-   "relevant": true,
-   "headline": "Dubai developer plans major Bangkok landmark project",
-   "summary": "Mohamed Alabbar is planning a major landmark in Bangkok. The vision could potentially include building the world's tallest structure.",
-   "why": "It tracks international expansion moves by prominent Dubai developers.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Involves overseas development rather than local supply."
-  },
-  "2dc5d5b85864": {
-   "relevant": true,
-   "headline": "Abu Dhabi property market thrives as IREIS opens",
-   "summary": "The property market in Abu Dhabi is growing as the IREIS 2026 exhibition begins. The event showcases ongoing development and investment activity.",
-   "why": "It highlights regional growth tied to property exhibitions.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Exhibition news with limited direct local impact."
-  },
-  "31668da36ef8": {
-   "relevant": true,
-   "headline": "Abu Dhabi Court Fines Scammer in Golden Visa Case",
-   "summary": "An Abu Dhabi court penalized a fraudster involved in a Golden Visa scheme. The offender must pay AED 13,600.",
-   "why": "It protects investors and maintains trust in residency programs.",
-   "category": "Regulation & fees",
-   "impact": "High",
-   "impact_reason": "Protects investor confidence in residency programs."
-  },
-  "849488918a3f": {
-   "relevant": true,
-   "headline": "Dubai Court Orders Millions Returned in Visa Scam",
-   "summary": "Conmen in Dubai were ordered by a court to return AED 4.7 million to an investor. The ruling addresses fraudulent Golden Visa activities.",
-   "why": "It reinforces legal protections for real estate investors.",
-   "category": "Regulation & fees",
-   "impact": "High",
-   "impact_reason": "Safeguards buyer funds and penalizes fraud."
-  },
-  "f12ec6b160b2": {
-   "relevant": true,
-   "headline": "Downtown Dubai Rents Drop 14 Percent",
-   "summary": "Rental prices in Downtown Dubai experienced a 14 percent annual decline. This brings potential relief for tenants in the area.",
-   "why": "It shows shifting rental dynamics in prime communities.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Reflects shifting rental affordability in prime areas."
-  },
-  "15b2e150c6cb": {
-   "relevant": true,
-   "headline": "UAE Property Sector Keeps Strong Growth Momentum",
-   "summary": "The UAE real estate market continues to display robust momentum. Global confidence in the property sector remains elevated.",
-   "why": "It highlights sustained international interest in local real estate.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Demonstrates sustained global investment confidence."
-  },
-  "7db868a8e9e8": {
-   "relevant": true,
-   "headline": "Aldar Develops New Dining Hub at Saadiyat Grove",
-   "summary": "Aldar is creating a fresh culinary destination at Saadiyat Grove in Abu Dhabi. The project aims to enhance lifestyle offerings.",
-   "why": "It showcases community-enhancing master developments by major builders.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Expands local lifestyle amenities."
-  },
-  "3f20c70558b2": {
-   "relevant": true,
-   "headline": "DFM and ADX Rally on Strong Capital Inflows",
-   "summary": "Local stock exchanges rallied as the UAE drew substantial global capital. High demand for real estate points to further market growth.",
-   "why": "It links broader financial markets to property sector strength.",
-   "category": "Macro & geopolitics",
-   "impact": "Medium",
-   "impact_reason": "Signals strong capital inflows into property."
-  },
-  "271c9b794962": {
-   "relevant": true,
-   "headline": "Nakheel Launches Palm Springs in Southern Dubai",
-   "summary": "Nakheel introduced Palm Springs within Dubai's southern growth corridor. The project expands the developer's residential portfolio.",
-   "why": "It highlights new project launches by major master developers.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Adds new supply to the market."
-  },
-  "c7d97b4f0bae": {
-   "relevant": true,
-   "headline": "Federal Reserve cuts 2027 rate meetings to seven",
-   "summary": "The U.S. central bank is reducing its scheduled rate decisions for 2027. One meeting will be dedicated entirely to monetary strategy.",
-   "why": "Changes to Fed meeting schedules can influence global interest rate expectations and mortgage pricing.",
-   "category": "Rates & mortgages",
-   "impact": "Medium",
-   "impact_reason": "Shifts global rate timelines."
-  },
-  "baaf6b2c456e": {
-   "relevant": true,
-   "headline": "PropDirect launches AI assistant Hala for Dubai agents",
-   "summary": "PropDirect has introduced its UAE-built AI property assistant, debuting the tool for brokerages and agents in Dubai.",
-   "why": "New property tech tools can improve agent efficiency and client servicing in the local market.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Introduces new agent technology."
-  },
-  "bff7600e62ae": {
-   "relevant": true,
-   "headline": "Binghatti and Loft connect Kano investors with Dubai property",
-   "summary": "Developers are collaborating with Keys Connect to link investors from Kano directly to Dubai's luxury real estate sector.",
-   "why": "Cross-border marketing partnerships help drive foreign capital and investment into Dubai luxury property.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Targets foreign buyers for luxury properties."
-  },
-  "089a08bb3f32": {
-   "relevant": false,
-   "headline": "Loft & Keys promotes Dubai real estate in Nigeria",
-   "summary": "A firm is showcasing Dubai property investment opportunities to buyers in Kano. The initiative aims to attract capital from the Nigerian market.",
-   "why": "This is a promotional marketing event rather than significant property market news.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Marketing event with minimal local market impact."
-  },
-  "4b597f67fbcb": {
-   "relevant": false,
-   "headline": "Dubai Residential REIT Stock Overview",
-   "summary": "Financial market data and historical quotes are available for the Dubai Residential REIT stock.",
-   "why": "This is a stock market quote page rather than a property market news item.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Stock market data has no direct market impact."
-  }
- },
  "2026-11-14": {
   "82525650615f": {
    "relevant": true,
@@ -442,6 +179,44 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Reflects corporate earnings rather than broad market changes."
+  }
+ },
+ "2026-11-15": {
+  "f8aba6f27684": {
+   "relevant": true,
+   "headline": "Dubai property transactions hit $3.4 billion last week",
+   "summary": "Dubai recorded $3.4 billion in property deals recently, featuring a notable $23 million Palm Jumeirah apartment sale.",
+   "why": "It reflects strong ongoing weekly transaction volumes in the emirate's property market.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Shows strong transaction volumes and market activity."
+  },
+  "37c2a9c8aefe": {
+   "relevant": true,
+   "headline": "Dubai Metro expansion and mortgage market surge lead news",
+   "summary": "Recent highlights include a growing mortgage sector alongside updates on Dubai Metro expansion and tower construction.",
+   "why": "Financing conditions and transport expansions directly affect property demand and values.",
+   "category": "Rates & mortgages",
+   "impact": "Medium",
+   "impact_reason": "Indicates active mortgage lending and transit growth."
+  },
+  "35999654f2a2": {
+   "relevant": true,
+   "headline": "Fitch predicts UAE GDP growth and keeps credit rating",
+   "summary": "Fitch Ratings maintains the UAE's strong credit rating while projecting overall economic growth for the year.",
+   "why": "Macroeconomic health and high credit ratings boost investor confidence in local real estate.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Strong national credit supports overall market confidence."
+  },
+  "d8c7bc067671": {
+   "relevant": false,
+   "headline": "Trump midterm setback and UAE housing market impact",
+   "summary": "An analysis explores whether political shifts abroad could influence the housing sector in the UAE.",
+   "why": "Opinion-based geopolitical commentary lacks direct local policy news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Speculative commentary with no direct market action."
   }
  }
 }
