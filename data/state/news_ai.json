@@ -235,6 +235,15 @@
    "category": "Rates & mortgages",
    "impact": "Medium",
    "impact_reason": "Alters global interest rate policy schedules."
+  },
+  "01c74af68bed": {
+   "relevant": false,
+   "headline": "Orla Properties opens new headquarters in Business Bay",
+   "summary": "Orla Properties has launched a new headquarters in Business Bay.",
+   "why": "This is a corporate office opening rather than a significant market-moving real estate news item.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Corporate office opening with no direct market impact."
   }
  }
 }
