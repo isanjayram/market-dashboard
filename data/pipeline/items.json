@@ -2455,5 +2455,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"a64db0882a6e": {
+"id": "a64db0882a6e",
+"title": "Emaar and ALAIN Launch Dhs8bn Abu Dhabi Residences",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUExZaEh5X25zQlBDdENlb1JicmRkdzRJZFY5aE1ES05KaUlpRTJfcm8yWVk5T08xU1JEdGlxVmxnRlpyNmhwVFllVkZOVVV2dC1laG1MZFFoMWdGc3Vvb1pCdUd2eWxQV0FsWG9WV0hyQWk5VDlLam1wNkJmX255NTEwa2dIbjBTcG0wdVd5ZXZkLW1IalBQei11ZjFzdkVMV2VEelV6eVlHbnQ0WXpVQlhkMGwzQnhoT1hRbUJlTnIxQQ?oc=5",
+"source": "Gulf Business",
+"category": "Developer news",
+"published": "2026-11-16T12:18+04:00",
+"first_seen": "2026-11-16",
+"kind": "Off-plan launch",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": "Emaar",
+"location": "Abu Dhabi",
+"type": "Residences",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
