@@ -2433,5 +2433,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"721b98377f3b": {
+"id": "721b98377f3b",
+"title": "Nakheel unveils new Palm Springs community development in Dubai",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ0cwTFVGMHByckRTb2pYNG4zY1otdmdoVjNNTWNWMmdvSmp2TEx5OU1oS25wdnRiSTd5RDRXZkl2V2hzX2VDUEhGdFpZSm94QVRiNm85SFV4c2w3OEZUOTQ3TWFqWkQwUnVJVDU3WDN1LTFFVnhKSTN5T0FwTloyZElLeTJQNmNPZW9yXzNCWnpMeVhqU0YtMDRtVVR6ZlEtbkE4SEQxMVltTENsSy1pbWdjeDl6Vmg0?oc=5",
+"source": "Hoodline",
+"category": "Developer news",
+"published": "2026-11-15T20:08+04:00",
+"first_seen": "2026-11-16",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": "Palm Springs",
+"developer": "Nakheel",
+"location": "Dubai",
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

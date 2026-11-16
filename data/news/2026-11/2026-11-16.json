@@ -100,5 +100,79 @@
 "impact_reason": "A single transaction failure with no wider regulatory change.",
 "watch": false,
 "topic": "Macro & geopolitics"
+},
+{
+"id": "ed8bb554c5e5",
+"headline": "Gold drops as surging dollar strengthens Federal Reserve rate-hike expectations",
+"summary": "Gold prices declined due to a surging U.S. dollar and rising Treasury yields. Investors now await policy signals from Fed Chair Kevin Warsh.",
+"why": "Shifts in U.S. monetary policy and global interest rates indirectly influence regional liquidity and mortgage pricing sentiment.",
+"source": "Economy Middle East",
+"link": "https://economymiddleeast.com/news/gold-slips-below-3870-as-dollar-hits-19-month-high-and-fed-rate-hike-bets-strengthen/?utm_source=rss&utm_medium=rss&utm_campaign=gold-slips-below-3870-as-dollar-hits-19-month-high-and-fed-rate-hike-bets-strengthen",
+"published": "2026-11-16T11:09+04:00",
+"category": "Rates & mortgages",
+"impact": "High",
+"impact_reason": "Affects global financing costs and broader investor sentiment.",
+"watch": false,
+"topic": "Rates & mortgages"
+},
+{
+"id": "eacb643d581d",
+"headline": "Al Ain Asset Management and Emaar partner for Dh8 billion projects",
+"summary": "Abu Dhabi's Al Ain Asset Management has joined forces with Emaar Hospitality to develop five property ventures worth Dh8 billion. The initial development on Al Ma will feature 452 apartments and luxury penthouses.",
+"why": "Major capital deployment by top developers directly expands regional housing supply and drives buyer interest.",
+"source": "The National (property)",
+"link": "https://www.thenationalnews.com/business/property/2026/11/16/abu-dhabis-al-ain-asset-management-and-emaar-team-up-for-dh8-billion-projects/",
+"published": "2026-11-16T11:57+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Substantial new project pipeline launched in Abu Dhabi.",
+"watch": false,
+"topic": "abu dhabi"
+},
+{
+"id": "5b928b708351",
+"headline": "Nisus Finance acquires pre-leased Dubai residential asset, boosting AUM",
+"summary": "Nisus Finance has acquired a pre-leased residential asset in Dubai, pushing its assets under management to $200 million.",
+"why": "Inflows of institutional capital into Dubai residential assets reflect strong investor confidence in local yields.",
+"source": "The Economic Times",
+"link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNDlUT0N1WUZyLXhNTHRSekFkSk1GZEV4SV9fQ0I0UjJKWUdJb3B4VkJWVVJ3blo3N2hnZ0FDNkhGR2M5N09QQ0NENWRKTVhvMHYxS2pUNHNjOUxTU19LdXRSblYta0dnMUNGZVFlYnY4MnJqSXh4REk5d3lIa0ZfNUJUNnJGdDIwUGRpR0I4WXk4RFR1bGlMWHhSdmQxWmJLVndKaDlLN3JoXzZEV05EeUhKb0VhRksyYkJXS2RIUGE4WXQ1UmZSb3VudjItNXFfOWpLSXk4NUM4MGVnMFlnRUlhdzU5YVlMUktiTjRyRkdQbV96TmhKV1NEUTVqX3N0elNMLUJiONIBjAJBVV95cUxQRUZ6YWlOYndWVTF5TmdFc2dfczBHTlBZNUlwMThSaDM5QnpsWnU2UnVHOUxNUE9SNXRXRHhNRW91SFVkOGx0bWJNS0dyR1lDWXlKaTU0TDJqOFlVQmQ3b0c1eFlHSks2QmZkRHpPSk9yZWxERmZocDRRRkZnc1VJQUZRdktBQWk0anN6Rl96bUctQnZPRWtxem1mOVZYQXNkRktKUV9QVnBUZEtOcUxiaUNuR0dSTlNqVUQ2bkhKNDZ3aWdjY3IxZDZPeEdjYzE5OG8xcjlzXy1uMy0xd1FhV0RncXYzUEVoc3V4ZmtHQm1XM2NPSjF4QTA3SHNSMGNJNTA5VXhOTlM4R295?oc=5",
+"published": "2026-11-16T11:29+04:00",
+"category": "Macro & geopolitics",
+"impact": "Medium",
+"impact_reason": "Highlights growing foreign institutional investment in Dubai housing.",
+"watch": false,
+"more": 4,
+"topic": "Macro & geopolitics"
+},
+{
+"id": "fc9d7a38a672",
+"headline": "Nisus Finance expands portfolio with Dubai Grade A residential asset acquisition",
+"summary": "Nisus Finance has expanded its holdings by acquiring Grade A residential property assets within Dubai.",
+"why": "Demonstrates sustained institutional appetite for premium residential property in the local market.",
+"source": "Realty Plus Magazine",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ1o0eVRMaHBWNk1ZYzgxNS15b1BFQW1FN2ZXLUY2bzJCZ1BiMzVBd0p1c3pESDExRjE2ay05Ml9oYUhlT3ptM1JJNmVSNlk3WU5ZdXk4QUhJbkR4dWF1U2ZjM25OSDVoSnhRTVZvd1laUDNmUVZ0SEtTSktLQmduX1RuZ3JEUjIzS0pHa044ZEkwRHlGY2FNRWVVYXd3anFVUWZIWEZseVVWUjk4NXVOSm5maFBKTkVIcmR1bFZuZms?oc=5",
+"published": "2026-11-16T08:24+04:00",
+"category": "Macro & geopolitics",
+"impact": "Medium",
+"impact_reason": "Signals strong institutional demand for prime Dubai real estate.",
+"watch": false,
+"topic": "Macro & geopolitics"
+},
+{
+"id": "721b98377f3b",
+"headline": "Nakheel unveils new Palm Springs community development in Dubai",
+"summary": "Nakheel has officially unveiled its latest residential neighborhood project named Palm Springs in Dubai.",
+"why": "New master community launches by major master developers directly shape future supply and buyer options.",
+"source": "Hoodline",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ0cwTFVGMHByckRTb2pYNG4zY1otdmdoVjNNTWNWMmdvSmp2TEx5OU1oS25wdnRiSTd5RDRXZkl2V2hzX2VDUEhGdFpZSm94QVRiNm85SFV4c2w3OEZUOTQ3TWFqWkQwUnVJVDU3WDN1LTFFVnhKSTN5T0FwTloyZElLeTJQNmNPZW9yXzNCWnpMeVhqU0YtMDRtVVR6ZlEtbkE4SEQxMVltTENsSy1pbWdjeDl6Vmg0?oc=5",
+"published": "2026-11-15T20:08+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "New community launch expands Dubai's residential pipeline.",
+"watch": false,
+"also": [
+"Hoodline"
+],
+"topic": "nakheel"
 }
 ]

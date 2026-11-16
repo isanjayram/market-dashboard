@@ -127,6 +127,69 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "A single transaction failure with no wider regulatory change."
+  },
+  "ed8bb554c5e5": {
+   "relevant": true,
+   "headline": "Gold drops as surging dollar strengthens Federal Reserve rate-hike expectations",
+   "summary": "Gold prices declined due to a surging U.S. dollar and rising Treasury yields. Investors now await policy signals from Fed Chair Kevin Warsh.",
+   "why": "Shifts in U.S. monetary policy and global interest rates indirectly influence regional liquidity and mortgage pricing sentiment.",
+   "category": "Rates & mortgages",
+   "impact": "High",
+   "impact_reason": "Affects global financing costs and broader investor sentiment."
+  },
+  "eacb643d581d": {
+   "relevant": true,
+   "headline": "Al Ain Asset Management and Emaar partner for Dh8 billion projects",
+   "summary": "Abu Dhabi's Al Ain Asset Management has joined forces with Emaar Hospitality to develop five property ventures worth Dh8 billion. The initial development on Al Ma will feature 452 apartments and luxury penthouses.",
+   "why": "Major capital deployment by top developers directly expands regional housing supply and drives buyer interest.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Substantial new project pipeline launched in Abu Dhabi."
+  },
+  "01a6edc43ca3": {
+   "relevant": false,
+   "headline": "06 Mall by Alef Group introduces Sharjah’s first and largest 3D advertising screen with CITIX MENA",
+   "summary": "06 Mall by Alef Group introduces Sharjah’s first and largest 3D advertising screen with CITIX MENA.",
+   "why": "Commercial advertising upgrades do not impact residential property markets or buyer costs.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Advertising screen installation holds no real estate relevance."
+  },
+  "adba9b5151bb": {
+   "relevant": false,
+   "headline": "How RERA Protects Homebuyers in India",
+   "summary": "How RERA Protects Homebuyers in India.",
+   "why": "Regulatory frameworks for property buyers in India are outside the scope of the Dubai property market.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Focuses on Indian real estate regulations."
+  },
+  "5b928b708351": {
+   "relevant": true,
+   "headline": "Nisus Finance acquires pre-leased Dubai residential asset, boosting AUM",
+   "summary": "Nisus Finance has acquired a pre-leased residential asset in Dubai, pushing its assets under management to $200 million.",
+   "why": "Inflows of institutional capital into Dubai residential assets reflect strong investor confidence in local yields.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Highlights growing foreign institutional investment in Dubai housing."
+  },
+  "fc9d7a38a672": {
+   "relevant": true,
+   "headline": "Nisus Finance expands portfolio with Dubai Grade A residential asset acquisition",
+   "summary": "Nisus Finance has expanded its holdings by acquiring Grade A residential property assets within Dubai.",
+   "why": "Demonstrates sustained institutional appetite for premium residential property in the local market.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Signals strong institutional demand for prime Dubai real estate."
+  },
+  "721b98377f3b": {
+   "relevant": true,
+   "headline": "Nakheel unveils new Palm Springs community development in Dubai",
+   "summary": "Nakheel has officially unveiled its latest residential neighborhood project named Palm Springs in Dubai.",
+   "why": "New master community launches by major master developers directly shape future supply and buyer options.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "New community launch expands Dubai's residential pipeline."
   }
  }
 }
