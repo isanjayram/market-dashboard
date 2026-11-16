@@ -343,6 +343,24 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Promotional profile piece with no actionable data."
+  },
+  "8dc7984ce01d": {
+   "relevant": true,
+   "headline": "Hong Kong overtakes Dubai in luxury property rankings",
+   "summary": "Hong Kong has taken back the top spot for luxury real estate globally. Dubai previously held the crown before this recent shift.",
+   "why": "It shows changing global wealth trends and competitive positioning for luxury property markets.",
+   "category": "Supply & market reports",
+   "impact": "Low",
+   "impact_reason": "Minor sentiment shift among global luxury real estate investors."
+  },
+  "eb986e47a413": {
+   "relevant": true,
+   "headline": "Nisus acquires 104-unit residential asset in Dubai",
+   "summary": "Nisus has successfully purchased a residential property consisting of 104 units in Dubai. This transaction highlights ongoing institutional investment in the local market.",
+   "why": "It demonstrates continued corporate interest and capital deployment in Dubai residential assets.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Single asset acquisition with limited broader market impact."
   }
  }
 }

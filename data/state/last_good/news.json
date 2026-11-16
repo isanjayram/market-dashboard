@@ -22,7 +22,7 @@
    "headline": "Abu Dhabi implements 0% rent freeze for tenants",
    "summary": "Abu Dhabi introduced a temporary rent freeze to protect tenants, impacting landlord yields and investor returns.",
    "why": "Rental regulations directly affect property yields and investor decision-making in the emirate.",
-   "age_hours": 0.8,
+   "age_hours": 1.1,
    "topic": "abu dhabi",
    "more": 3
   },
@@ -42,7 +42,7 @@
    "headline": "Brent crude forecasted to ease to $78 by 2027",
    "summary": "Global oil prices are projected to average $88 before dropping to $78 by late 2027 due to rising supply surpluses.",
    "why": "Macroeconomic oil price trends influence regional economic liquidity and investor sentiment in real estate.",
-   "age_hours": 0.8,
+   "age_hours": 1.1,
    "topic": "oil"
   },
   {
@@ -61,7 +61,7 @@
    "headline": "Emaar and ALAIN launch AED 8 billion Abu Dhabi residences",
    "summary": "Emaar Hospitality and ALAIN have partnered to introduce an AED 8 billion pipeline of branded residences in Abu Dhabi.",
    "why": "This expansion represents a massive new luxury supply pipeline in the capital.",
-   "age_hours": 1.0,
+   "age_hours": 1.4,
    "topic": "abu dhabi"
   },
   {
@@ -80,7 +80,7 @@
    "headline": "Nisus Finance acquires pre-leased Dubai residential asset, boosting AUM",
    "summary": "Nisus Finance has acquired a pre-leased residential asset in Dubai, pushing its assets under management to $200 million.",
    "why": "Inflows of institutional capital into Dubai residential assets reflect strong investor confidence in local yields.",
-   "age_hours": 5.4,
+   "age_hours": 5.7,
    "topic": "Macro & geopolitics",
    "more": 7
   },
@@ -100,9 +100,9 @@
    "headline": "Dubai Real Estate Prices Demonstrate Resilience in 2026",
    "summary": "Property values remain strong this year even though transaction numbers have cooled down. The market continues to show fundamental stability.",
    "why": "It provides crucial market intelligence regarding current price trends and transaction velocity.",
-   "age_hours": 22.0,
+   "age_hours": 22.3,
    "topic": "Supply & market reports",
-   "more": 1
+   "more": 2
   },
   {
    "id": "7e45e10a5e85",
@@ -120,7 +120,7 @@
    "headline": "Dubai off-plan luxury sales hit AED 77.93 billion",
    "summary": "Dubai registered AED 77.93 billion in luxury off-plan property sales during the first ten months of 2026.",
    "why": "It highlights robust investor confidence and strong capital flow into high-end developments.",
-   "age_hours": 0.5,
+   "age_hours": 0.8,
    "topic": "Supply & market reports"
   },
   {
@@ -142,7 +142,7 @@
    "headline": "Iran Conflict Disrupts Dubai Property Market Trends",
    "summary": "Regional tensions involving Iran are causing shifts in local real estate dynamics. Investors are closely monitoring geopolitical developments for potential market impacts.",
    "why": "Geopolitical conflict directly alters investor sentiment and regional capital flows into Dubai property.",
-   "age_hours": 5.5,
+   "age_hours": 5.8,
    "topic": "Macro & geopolitics"
   },
   {
@@ -164,17 +164,36 @@
    "headline": "Dubai Land Department Promotes Real Estate Globally",
    "summary": "The department is actively broadening the international visibility of the local property sector. These outreach efforts aim to attract more foreign investment.",
    "why": "Global promotion campaigns drive international buyer interest and capital inflow into Dubai real estate.",
-   "age_hours": 1.7,
+   "age_hours": 2.0,
    "topic": "Regulation & fees"
+  },
+  {
+   "id": "eb986e47a413",
+   "title": "Dubai Real Estate Acquisition: Nisus Buys 104-Unit Asset",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLWhBYi1MYnQzLXM0Zk5hRnE0X2lWT0RwbnlqVmxvLVY5Rmh6ejZucjY1TTBYYVdTenN2aEVxVmhaMzIwXy0zd3E1Nmo5VUNpQUhMdllNWjMwamR4Y0FwY1luMWtfVS1tTnVRLUVrUlV2Qm9aSm9MbUpDNnZiWUo5eVk4QWJDbHVLc1lBbEVB?oc=5",
+   "source": "Urban Acres",
+   "kind": "search",
+   "published": "2026-11-16T16:49+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Single asset acquisition with limited broader market impact.",
+   "watch": false,
+   "headline": "Nisus acquires 104-unit residential asset in Dubai",
+   "summary": "Nisus has successfully purchased a residential property consisting of 104 units in Dubai. This transaction highlights ongoing institutional investment in the local market.",
+   "why": "It demonstrates continued corporate interest and capital deployment in Dubai residential assets.",
+   "age_hours": 0.4,
+   "topic": "Developer news"
   }
  ],
  "window_hours": 24,
- "count_relevant": 20,
- "count_fetched": 282,
+ "count_relevant": 22,
+ "count_fetched": 284,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-16T16:51+04:00",
- "saved_at": "2026-11-16T16:51+04:00"
+ "as_of": "2026-11-16T17:11+04:00",
+ "saved_at": "2026-11-16T17:11+04:00"
 }
