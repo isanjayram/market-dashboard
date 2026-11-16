@@ -226,6 +226,51 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Encourages foreign investment without changing local regulations."
+  },
+  "71b33d5e513c": {
+   "relevant": true,
+   "headline": "Iran Conflict Disrupts Dubai Property Market Trends",
+   "summary": "Regional tensions involving Iran are causing shifts in local real estate dynamics. Investors are closely monitoring geopolitical developments for potential market impacts.",
+   "why": "Geopolitical conflict directly alters investor sentiment and regional capital flows into Dubai property.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Shifts investor sentiment and capital flows."
+  },
+  "5c59a02da6dc": {
+   "relevant": true,
+   "headline": "Dubai Real Estate Shows Signs of Gradual Recovery",
+   "summary": "Property markets alongside hiring and stocks indicate a tentative economic rebound. Indicators point to stabilized activity across these key sectors.",
+   "why": "Broader economic recovery signals improving fundamentals for the Dubai property sector.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Indicates early economic stabilization without immediate policy changes."
+  },
+  "8156d1427840": {
+   "relevant": true,
+   "headline": "FAMA Group Expands Staff and Student Housing Solutions",
+   "summary": "The provider offers a unified accommodation model managing over 8,000 apartments for firms and universities. This targets the growing influx of professionals and students arriving in the emirate.",
+   "why": "Corporate and student housing management affects niche rental supply and commercial leasing demand.",
+   "category": "Supply & market reports",
+   "impact": "Low",
+   "impact_reason": "Focuses on corporate housing portfolio management."
+  },
+  "0d6837ff8f1c": {
+   "relevant": true,
+   "headline": "Dubai Land Department Promotes Real Estate Globally",
+   "summary": "The department is actively broadening the international visibility of the local property sector. These outreach efforts aim to attract more foreign investment.",
+   "why": "Global promotion campaigns drive international buyer interest and capital inflow into Dubai real estate.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Aims to attract foreign investment through global outreach."
+  },
+  "0b6f045c94eb": {
+   "relevant": true,
+   "headline": "Nisus Finance Acquires Dubai Residential Asset",
+   "summary": "The firm purchased a Grade A residential property to support its UAE fund operations. Such transactions highlight ongoing institutional interest in prime local housing.",
+   "why": "Institutional property acquisitions validate asset values and reflect active fund deployment in Dubai.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Reflects institutional investment activity in prime housing."
   }
  }
 }
