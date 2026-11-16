@@ -321,5 +321,83 @@
 "VCCircle"
 ],
 "topic": "Macro & geopolitics"
+},
+{
+"id": "646b51464b33",
+"headline": "Abu Dhabi implements 0% rent freeze for tenants",
+"summary": "Abu Dhabi introduced a temporary rent freeze to protect tenants, impacting landlord yields and investor returns.",
+"why": "Rental regulations directly affect property yields and investor decision-making in the emirate.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/uae/abu-dhabi/abu-dhabis-0-rent-freeze-what-tenants-landlords-and-investors-need-to-know-1.500749160",
+"published": "2026-11-16T16:03+04:00",
+"category": "Regulation & fees",
+"impact": "High",
+"impact_reason": "Directly impacts rental yields and investor returns.",
+"watch": false,
+"also": [
+"Gulf News"
+],
+"more": 3,
+"topic": "abu dhabi"
+},
+{
+"id": "f57349bd97da",
+"headline": "Brent crude forecasted to ease to $78 by 2027",
+"summary": "Global oil prices are projected to average $88 before dropping to $78 by late 2027 due to rising supply surpluses.",
+"why": "Macroeconomic oil price trends influence regional economic liquidity and investor sentiment in real estate.",
+"source": "Economy Middle East",
+"link": "https://economymiddleeast.com/news/brent-seen-averaging-88-falling-to-78-by-end-2027-as-oil-surplus-reaches-2-million-bpd/?utm_source=rss&utm_medium=rss&utm_campaign=brent-seen-averaging-88-falling-to-78-by-end-2027-as-oil-surplus-reaches-2-million-bpd",
+"published": "2026-11-16T16:06+04:00",
+"category": "Macro & geopolitics",
+"impact": "Medium",
+"impact_reason": "Shifts regional liquidity and broad macroeconomic sentiment.",
+"watch": false,
+"topic": "oil"
+},
+{
+"id": "5d6f816b6552",
+"headline": "Emaar and ALAIN launch AED 8 billion Abu Dhabi residences",
+"summary": "Emaar Hospitality and ALAIN have partnered to introduce an AED 8 billion pipeline of branded residences in Abu Dhabi.",
+"why": "This expansion represents a massive new luxury supply pipeline in the capital.",
+"source": "Arabian Business",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdVRSQ204TFhjMUF0ZGRual9uNWNXT0wxQWF3MFhuM19zYUtON1FKcVNHcmFhdG9WQU03SExwbEsyTWw0TUotOGVEcXhfM1RrMUVLVUwxem5Sc2hJaFU4djNGbEloazJsNmpMS0oxN2Y1WGtYR1p4TmVUQWhfTkxqMUJETkUwLTJJMGYxeThxdFZUakhpdTMzaE83V0JFQmVNdjRTelJjNXQ0VUxjOEVuWTk1OXBPUzlWc2puMUNKSl9MX2hM?oc=5",
+"published": "2026-11-16T15:49+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Expands luxury supply pipeline in Abu Dhabi.",
+"watch": false,
+"topic": "abu dhabi"
+},
+{
+"id": "298331e74dd0",
+"headline": "Emaar announces $2bn branded residential pipeline in Abu Dhabi",
+"summary": "Emaar reveals a $2 billion expansion plan focusing on hospitality-branded residences in Abu Dhabi.",
+"why": "Large-scale developer pipelines alter the luxury residential landscape and housing supply.",
+"source": "TradeArabia",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSnBrbkZPRTB2OTNKMzUySE9vTTFKRFBxb3Brc2lLcENFWGZqNzdIOHJ3TnpkaXF5a2RuUWJrZjhKLW5FMUdSNXlhR0ZpM2thTTRQV1JaMEZkUzJQQmtTcDFEcFIxQ1cxSXMxMUFoTExIWGRidXFhRXhINE43ekpGeG80b09JX2FBaEotZ2VNUmNfQ0Y1OTJoc2FOTTZFZ241bzZnMzBaVHI1SS1ubnF5c2VDU2dHdw?oc=5",
+"published": "2026-11-16T13:45+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Increases branded residential supply in Abu Dhabi.",
+"watch": false,
+"also": [
+"Gulf Business",
+"TradeArabia"
+],
+"topic": "abu dhabi"
+},
+{
+"id": "7e45e10a5e85",
+"headline": "Dubai off-plan luxury sales hit AED 77.93 billion",
+"summary": "Dubai registered AED 77.93 billion in luxury off-plan property sales during the first ten months of 2026.",
+"why": "It highlights robust investor confidence and strong capital flow into high-end developments.",
+"source": "News of Bahrain",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORnQxNGl1Wl9EdkRWTXp6bXA1Yi1abF9SdXA5ajdHMDNIVjliaWNOZVRhUzJDSHczRjQ5WHlEYzB6bnVQdDg4SWV1RWRJZWtxVzR3TncyVnlpV3lhSTFlQnhIVmx0YnhpTGlyTmRTTDF4bkxaeV82OFBGVWE1LTdGM1FWRnpUZ3ZsbGhsVjBoUUdQZFZvZWVzdTYxQ1dWSklKRk9BN05yRktNMU1pTndmdE1SYTlWck9ZZkJrUEpMekd1T2gwbzhEaTlOWDVSbGpnWEtiRw?oc=5",
+"published": "2026-11-16T16:24+04:00",
+"category": "Supply & market reports",
+"impact": "Medium",
+"impact_reason": "Demonstrates strong investor appetite for luxury off-plan properties.",
+"watch": false,
+"topic": "Supply & market reports"
 }
 ]

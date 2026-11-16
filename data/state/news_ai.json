@@ -271,6 +271,78 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Reflects institutional investment activity in prime housing."
+  },
+  "5d6f816b6552": {
+   "relevant": true,
+   "headline": "Emaar and ALAIN launch AED 8 billion Abu Dhabi residences",
+   "summary": "Emaar Hospitality and ALAIN have partnered to introduce an AED 8 billion pipeline of branded residences in Abu Dhabi.",
+   "why": "This expansion represents a massive new luxury supply pipeline in the capital.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Expands luxury supply pipeline in Abu Dhabi."
+  },
+  "7e45e10a5e85": {
+   "relevant": true,
+   "headline": "Dubai off-plan luxury sales hit AED 77.93 billion",
+   "summary": "Dubai registered AED 77.93 billion in luxury off-plan property sales during the first ten months of 2026.",
+   "why": "It highlights robust investor confidence and strong capital flow into high-end developments.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Demonstrates strong investor appetite for luxury off-plan properties."
+  },
+  "bb73833b653f": {
+   "relevant": false,
+   "headline": "Shaping Sharjah’s Lifestyle Landscape: Alef Group projects",
+   "summary": "Alef Group highlights the development of 06 Mall and Al Mamsha in Sharjah.",
+   "why": "The item focuses on lifestyle mall development and community retail rather than core real estate market drivers.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Lifestyle retail news lacks direct market-wide impact."
+  },
+  "2fbe3c4e0616": {
+   "relevant": false,
+   "headline": "Belmazad partners for Egyptian real estate investment offerings",
+   "summary": "Belmazad and Global Appraisal Tech team up to manage property investment opportunities for Misr Abu Dhabi Real Estate.",
+   "why": "This corporate partnership deals with external Egyptian market operations rather than the UAE property sector.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Focuses on external Egyptian market transactions."
+  },
+  "f57349bd97da": {
+   "relevant": true,
+   "headline": "Brent crude forecasted to ease to $78 by 2027",
+   "summary": "Global oil prices are projected to average $88 before dropping to $78 by late 2027 due to rising supply surpluses.",
+   "why": "Macroeconomic oil price trends influence regional economic liquidity and investor sentiment in real estate.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Shifts regional liquidity and broad macroeconomic sentiment."
+  },
+  "646b51464b33": {
+   "relevant": true,
+   "headline": "Abu Dhabi implements 0% rent freeze for tenants",
+   "summary": "Abu Dhabi introduced a temporary rent freeze to protect tenants, impacting landlord yields and investor returns.",
+   "why": "Rental regulations directly affect property yields and investor decision-making in the emirate.",
+   "category": "Regulation & fees",
+   "impact": "High",
+   "impact_reason": "Directly impacts rental yields and investor returns."
+  },
+  "298331e74dd0": {
+   "relevant": true,
+   "headline": "Emaar announces $2bn branded residential pipeline in Abu Dhabi",
+   "summary": "Emaar reveals a $2 billion expansion plan focusing on hospitality-branded residences in Abu Dhabi.",
+   "why": "Large-scale developer pipelines alter the luxury residential landscape and housing supply.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Increases branded residential supply in Abu Dhabi."
+  },
+  "eee7563966b8": {
+   "relevant": false,
+   "headline": "Arif Patel shapes new generation of Dubai real estate",
+   "summary": "An opinion and profile piece regarding Arif Patel and real estate development approaches in Dubai.",
+   "why": "This is a promotional profile piece lacking specific actionable market news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Promotional profile piece with no actionable data."
   }
  }
 }
