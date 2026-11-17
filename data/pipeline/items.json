@@ -2499,5 +2499,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"254204fb3d7f": {
+"id": "254204fb3d7f",
+"title": "UAE Launches First Property Black Friday Sale Event",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91a0piYllvT0g2Vlo5czJEbktJejIxNTZOeEg1b0pfSV9QeV9NbDVqVkFvMzhRVzd2T0NhbGZSZGVnbmJPeklxN0VieTM1aDhfbks1blB0TTJkSlp1Z1JaYkdyNl9RU25QY3I1WmRRU25sUFB1WHdILUVlRHJWR00?oc=5",
+"source": "Arabian Business",
+"category": "Developer news",
+"published": "2026-11-17T10:33+04:00",
+"first_seen": "2026-11-17",
+"kind": "Off-plan launch",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": "UAE",
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
