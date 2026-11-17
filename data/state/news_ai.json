@@ -577,6 +577,24 @@
    "category": "Supply & market reports",
    "impact": "Low",
    "impact_reason": "Single corporate asset sale of minor scale."
+  },
+  "dac1cdfd68ca": {
+   "relevant": false,
+   "headline": "RTA provides free transport for Dubai Future Week 2026",
+   "summary": "The RTA is supplying free shuttle buses and transport choices for visitors attending the event.",
+   "why": "This is an event transportation update rather than property or market news.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Only affects event travel logistics."
+  },
+  "83e5feed0499": {
+   "relevant": true,
+   "headline": "Infrastructure to Drive Dubai Property Market",
+   "summary": "New infrastructure projects are expected to act as key catalysts for growth in the local real estate sector.",
+   "why": "It connects urban development directly to property market performance.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Boosts long-term market sentiment."
   }
  }
 }
