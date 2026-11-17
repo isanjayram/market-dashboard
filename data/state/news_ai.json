@@ -532,6 +532,51 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Human interest lifestyle piece."
+  },
+  "0053daaa0880": {
+   "relevant": true,
+   "headline": "UAE investors weigh gold, crypto, and property options",
+   "summary": "Local investors are exploring diverse asset classes including real estate, gold, and digital currencies. Market participants are actively assessing which sectors offer the best growth potential.",
+   "why": "It highlights shifting investor interest across major asset classes relevant to property demand.",
+   "category": "Supply & market reports",
+   "impact": "Low",
+   "impact_reason": "General market overview without direct policy changes."
+  },
+  "05708d8596a8": {
+   "relevant": true,
+   "headline": "BEYOND Developments unveils Dh3 billion Shione project",
+   "summary": "A new twin-building residential community has been launched on Dubai Islands. The development represents a significant addition to the emirate's housing pipeline.",
+   "why": "It introduces a major new residential project to the local market.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Adds fresh supply and investment options."
+  },
+  "f9e090b64473": {
+   "relevant": false,
+   "headline": "Abu Dhabi developer wins multiple awards",
+   "summary": "An Abu Dhabi real estate firm has received several industry accolades.",
+   "why": "Corporate awards do not impact market fundamentals.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Purely promotional corporate news."
+  },
+  "bc8560010ec9": {
+   "relevant": false,
+   "headline": "Dubai tenant avoids eviction in large rental deal",
+   "summary": "A tenant successfully navigated an eviction situation involving a high-value rental property.",
+   "why": "It is an individual tenant anecdote rather than systemic market news.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Single case study with no broad market impact."
+  },
+  "e45f22441764": {
+   "relevant": true,
+   "headline": "SPPC unit sells Dubai asset for SAR 7.9M",
+   "summary": "A subsidiary has finalized an agreement to dispose of a property located in Dubai. The transaction value reaches nearly eight million Saudi riyals.",
+   "why": "It records a cross-border corporate real estate transaction.",
+   "category": "Supply & market reports",
+   "impact": "Low",
+   "impact_reason": "Single corporate asset sale of minor scale."
   }
  }
 }
