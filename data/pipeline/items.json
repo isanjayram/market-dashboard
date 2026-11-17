@@ -2477,5 +2477,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"298331e74dd0": {
+"id": "298331e74dd0",
+"title": "Emaar announces $2bn branded residential pipeline in Abu Dhabi",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSnBrbkZPRTB2OTNKMzUySE9vTTFKRFBxb3Brc2lLcENFWGZqNzdIOHJ3TnpkaXF5a2RuUWJrZjhKLW5FMUdSNXlhR0ZpM2thTTRQV1JaMEZkUzJQQmtTcDFEcFIxQ1cxSXMxMUFoTExIWGRidXFhRXhINE43ekpGeG80b09JX2FBaEotZ2VNUmNfQ0Y1OTJoc2FOTTZFZ241bzZnMzBaVHI1SS1ubnF5c2VDU2dHdw?oc=5",
+"source": "TradeArabia",
+"category": "Developer news",
+"published": "2026-11-16T13:45+04:00",
+"first_seen": "2026-11-17",
+"kind": "Off-plan launch",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": "Emaar",
+"location": "Abu Dhabi",
+"type": "residential",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
