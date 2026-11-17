@@ -348,5 +348,65 @@
 "BusinessLine"
 ],
 "topic": "Macro & geopolitics"
+},
+{
+"id": "1332de58beee",
+"headline": "UAE Leads GCC Debt Holdings Surge",
+"summary": "Fitch reports that foreign banks' holdings of GCC debt exceeded $110 billion by mid-2026. This reflects a 41 percent year-on-year increase driven by Gulf issuers tapping international markets.",
+"why": "It shows strong regional liquidity and foreign investor confidence, which indirectly supports the broader UAE economy and real estate market.",
+"source": "Economy Middle East",
+"link": "https://economymiddleeast.com/news/uae-leads-as-foreign-banks-gcc-debt-holdings-jump-41-percent-above-110-billion-fitch-says/?utm_source=rss&utm_medium=rss&utm_campaign=uae-leads-as-foreign-banks-gcc-debt-holdings-jump-41-percent-above-110-billion-fitch-says",
+"published": "2026-11-17T15:11+04:00",
+"category": "Supply & market reports",
+"impact": "Medium",
+"impact_reason": "Reflects strong regional liquidity and economic stability.",
+"watch": false,
+"more": 3,
+"topic": "Supply & market reports"
+},
+{
+"id": "9b63c8ff98ef",
+"headline": "U.S. Dollar Hits 19-Month High",
+"summary": "The dollar reached 103.69 due to rising inflation and expectations of further Federal Reserve interest rate hikes. This global currency movement affects pegged currencies like the UAE dirham.",
+"why": "A stronger dollar influences borrowing costs and macroeconomic conditions for property buyers utilizing mortgages tied to regional rates.",
+"source": "Economy Middle East",
+"link": "https://economymiddleeast.com/news/u-s-dollar-hits-19-month-high-at-103-69-as-fed-hike-bets-rise-nz-dollar-sinks-to-2020-low/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-dollar-hits-19-month-high-at-103-69-as-fed-hike-bets-rise-nz-dollar-sinks-to-2020-low",
+"published": "2026-11-17T13:43+04:00",
+"category": "Rates & mortgages",
+"impact": "Medium",
+"impact_reason": "Affects macroeconomic conditions and regional borrowing costs.",
+"watch": false,
+"topic": "Rates & mortgages"
+},
+{
+"id": "d605b1f8dfb4",
+"headline": "Dubai Tenant Avoids Eviction via Settlement",
+"summary": "A commercial tenant facing eviction over unpaid rent settled a Dh1.2 million dispute through the Rental Disputes Center. The agreement secured a two-year lease renewal and prevented eviction.",
+"why": "It highlights how Dubai's RDC effectively mediates major commercial disputes and protects lease continuity.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/business/property/how-dubai-tenant-avoids-eviction-in-dh12m-rent-deal-1.500750320",
+"published": "2026-11-17T13:00+04:00",
+"category": "Regulation & fees",
+"impact": "Low",
+"impact_reason": "Individual settlement case with limited broader market impact.",
+"watch": false,
+"topic": "rent"
+},
+{
+"id": "05308293c7b7",
+"headline": "Dubai Land Department Expands The Emirate's Real Estate Presence Across Global Markets",
+"summary": "",
+"why": "rules or fees may change what clients pay or who can buy, so check the details before advising.",
+"source": "Menafn",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVVNac1FvQUN0SDNmUDF1ZzJuMnREcS1DdzRlMTh6M3ozUUJuSTNXYnVqdE9DWm1TYm5wamU2ZTlIQXZKRnpOYTd3TFpqTmU2dkJ3ZXB1SHg1aUhpMml3d2lCcUV4MWwzT1BZOUhaZDFKQzNfOWNSRGVXSXlfTFp2ZnpYTWRrNVJFNTc3V3AtRXVndGtSQl9JWXNLaW5RODZxTlRGcldVR3VxS3l5SEJqQU9Hd21BZw?oc=5",
+"published": "2026-11-16T17:15+04:00",
+"category": "Regulation & fees",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": false,
+"also": [
+"Zawya"
+],
+"topic": "Regulation & fees"
 }
 ]
