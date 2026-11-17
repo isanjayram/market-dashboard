@@ -496,6 +496,42 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Empty teaser lacks actionable details for the market."
+  },
+  "3f2901f4e6bd": {
+   "relevant": true,
+   "headline": "Al Maktoum Airport expansion employs over 100,000 workers",
+   "summary": "Work on the massive $35 billion airport project is progressing rapidly with extensive groundwork underway. Paul Griffiths confirmed the current workforce numbers during a recent media briefing.",
+   "why": "Major infrastructure developments directly influence surrounding property values and long-term demand.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Boosts long-term regional real estate demand."
+  },
+  "5565a16cc644": {
+   "relevant": true,
+   "headline": "Emaar and Al Ain Asset Management launch Abu Dhabi projects",
+   "summary": "The two entities are collaborating to build residential properties worth AED 8 billion in Abu Dhabi.",
+   "why": "New large-scale residential launches alter future housing supply and market dynamics.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Introduces significant new residential supply."
+  },
+  "5ddb3563a727": {
+   "relevant": false,
+   "headline": "Savills names Jonathan Tagg Abu Dhabi Residential Head",
+   "summary": "Savills has appointed Jonathan Tagg to lead its residential division in Abu Dhabi.",
+   "why": "Corporate personnel appointments do not impact market fundamentals or buyer costs.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Corporate personnel change with no market impact."
+  },
+  "51dbe6aece0a": {
+   "relevant": false,
+   "headline": "Filipino agent succeeds in Dubai real estate",
+   "summary": "A young Filipino professional has built a thriving career in Dubai's property market.",
+   "why": "Personal success stories and agent profiles offer no actionable market news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Human interest lifestyle piece."
   }
  }
 }

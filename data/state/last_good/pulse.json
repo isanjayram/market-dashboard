@@ -60,16 +60,16 @@
     "value": 186649590.0
    },
    {
-    "area": "Majan",
-    "dld_area": "Wadi Al Safa 3",
-    "deals": 106,
-    "value": 347562287.0
-   },
-   {
     "area": "Palm Deira",
     "dld_area": "Palm Deira",
     "deals": 106,
     "value": 622202157.0
+   },
+   {
+    "area": "Majan",
+    "dld_area": "Wadi Al Safa 3",
+    "deals": 106,
+    "value": 347562287.0
    },
    {
     "area": "Business Bay",
@@ -1590,5 +1590,5 @@
   "fetched_at": "2026-11-17T09:49+04:00",
   "test": false
  },
- "saved_at": "2026-11-17T15:13+04:00"
+ "saved_at": "2026-11-17T16:28+04:00"
 }

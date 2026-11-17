@@ -2521,5 +2521,32 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"3f2901f4e6bd": {
+"id": "3f2901f4e6bd",
+"title": "Al Maktoum Airport expansion employs over 100,000 workers",
+"link": "https://gulfnews.com/business/aviation/dubais-35-billion-al-maktoum-airport-project-over-100000-workers-on-site-says-ceo-1.500750625",
+"source": "Gulf News",
+"category": "Infrastructure",
+"published": "2026-11-17T16:11+04:00",
+"first_seen": "2026-11-17",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": {
+"name": "Al Maktoum International Airport expansion",
+"status": "AED 128bn terminal approved 28 Apr 2024; first phase due 2032",
+"source": "Dubai Media Office",
+"url": "https://mediaoffice.ae/en/news/2024/april/28-04/al-maktoum-international-airport"
+},
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
