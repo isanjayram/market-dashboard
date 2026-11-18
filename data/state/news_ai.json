@@ -622,6 +622,51 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Focuses on workforce training rather than direct market changes."
+  },
+  "5819d74acece": {
+   "relevant": true,
+   "headline": "Dubai home prices hit four-year peak with strong sales forecast",
+   "summary": "Property prices reached a four-year high. Total sales value is projected to hit AED 378.5 billion by 2026.",
+   "why": "It provides crucial market valuation trends and long-term sales projections for local real estate professionals.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Indicates steady capital growth and robust future market liquidity."
+  },
+  "b5d3f39c0d50": {
+   "relevant": true,
+   "headline": "Dubai Marina Vertiport finished for upcoming air taxi network",
+   "summary": "The RTA finalized the Dubai Marina Vertiport for commercial electric air taxi services. It holds official certification from aviation authorities.",
+   "why": "Advanced transit infrastructure heavily boosts the appeal and long-term value of surrounding Marina properties.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Enhances connectivity and property appeal in the Marina district."
+  },
+  "1a0e741497df": {
+   "relevant": true,
+   "headline": "Strong buyer demand drives imminent Dubai property purchases",
+   "summary": "Property demand climbs as nearly seventy percent of surveyed buyers intend to purchase within six months.",
+   "why": "Short-term buyer intent data helps agents gauge immediate pipeline opportunities and market readiness.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Signals healthy short-term transaction volumes for active market participants."
+  },
+  "aa5a97546170": {
+   "relevant": true,
+   "headline": "Nakheel introduces initial villa and townhouse phase at Palm Springs",
+   "summary": "Master developer Nakheel unveiled its first collection of villas and townhouses within the Palm Springs community.",
+   "why": "New prime project launches offer fresh inventory options for high-net-worth buyers and investors.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Expands luxury housing supply in a prime waterfront location."
+  },
+  "21e48b823da1": {
+   "relevant": false,
+   "headline": "Dubai Properties Linked to Hemedti",
+   "summary": "",
+   "why": "This article discusses political controversies rather than market economics, property regulations, or infrastructure.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Political investigative news has no direct impact on transactions."
   }
  }
 }

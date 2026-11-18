@@ -1,6 +1,68 @@
 {
  "top": [
   {
+   "id": "b5d3f39c0d50",
+   "title": "RTA completes Dubai Marina Vertiport, paving way for world\u2019s first permanent electric air taxi route",
+   "link": "https://economymiddleeast.com/news/rta-completes-dubai-marina-vertiport-paving-way-for-worlds-first-permanent-electric-air-taxi-route/?utm_source=rss&utm_medium=rss&utm_campaign=rta-completes-dubai-marina-vertiport-paving-way-for-worlds-first-permanent-electric-air-taxi-route",
+   "source": "Economy Middle East",
+   "kind": "outlet",
+   "published": "2026-11-18T15:50+04:00",
+   "tags": [],
+   "teaser": "Dubai\u2019s Roads and Transport Authority (RTA) announced on Wednesday the completion of Dubai Marina Vertiport (VMR), officially certified by the UAE\u2019s General Civil Aviation Authority for commercial electric vertical take-off and landing (eVTOL) operations. This certification makes the world\u2019s first permanent vertiport-to-vertiport electric air taxi route ready to operate, connecting VMR to VDX, the",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Enhances connectivity and property appeal in the Marina district.",
+   "watch": true,
+   "headline": "Dubai Marina Vertiport finished for upcoming air taxi network",
+   "summary": "The RTA finalized the Dubai Marina Vertiport for commercial electric air taxi services. It holds official certification from aviation authorities.",
+   "why": "Advanced transit infrastructure heavily boosts the appeal and long-term value of surrounding Marina properties.",
+   "age_hours": 0.4,
+   "topic": "Infrastructure"
+  },
+  {
+   "id": "1a0e741497df",
+   "title": "Dubai property demand rises as 69% of buyers plan purchases within six months",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR1hFNENORnQxeWpQSHhhT3ZLaXFOb0xRTV9INEp5blRxZzU1c2t3eXpGUC1rUlZPb28tQ0Fva0JrbThYWUFHV2dNR1pfbDlmZVZhb01NQmFrQlNNVHFqeHlzSWQ0dC1TVzdSM2xfUDhtc3lqQ2xqSk5nbFlud3EwUG1ibW1QaENMSEtkUUZNNGRYNlZZd3JwYmpkYjhWTzJKckxISlNqbXPSAbABQVVfeXFMUHh6VTUzd2drYjVwYWd1dlV1MUZOcHh6S1AxSzNfYjNmS2tPdGZqcXlhMjFHOERUTWtTeVhXZDJEVFItNzdxVld0TjZoZEphWFNZOXlDRGlWWW5jVVZoaHNPcHN0d2N6VjNpbW1FSXZ1ak1GMlJhUnM0aDlONFg5bDAtcXNmUlZEYVRnUjd5MlBMM211Wmx0MFpXdG44ZERnekhYa2Y4aVZkR1IwcDNqdl8?oc=5",
+   "source": "Khaleej Times",
+   "kind": "search",
+   "published": "2026-11-18T15:40+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Signals healthy short-term transaction volumes for active market participants.",
+   "watch": false,
+   "headline": "Strong buyer demand drives imminent Dubai property purchases",
+   "summary": "Property demand climbs as nearly seventy percent of surveyed buyers intend to purchase within six months.",
+   "why": "Short-term buyer intent data helps agents gauge immediate pipeline opportunities and market readiness.",
+   "age_hours": 0.6,
+   "topic": "Supply & market reports",
+   "more": 6
+  },
+  {
+   "id": "aa5a97546170",
+   "title": "Nakheel launches first villas, townhouses at Dubai's Palm Springs",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWnBsRGtWb3FrLWREd0J2dTF2WDlsYkozU01fdHdVNmdlMjc5aXkyRlBlQXZzMjBCTGpWRm9NSXNfYk9NZTBzZG5tZFFETGs5OGFDT3doV1pwdmZWOUVqOS1mSnF0T2tCUDVObHdZRlRSQ24xWkFoZDFYeTV6UGh0aVA3Qzl4N0RRd2RtWHRFZDJzNFdfRUJZeU9lZzNuZ9IBpgFBVV95cUxOODU3US0xdUctWGRsRU1SRUU0S01tWk4zZDBfdnVGb1V3UXFEQnU0NGF6cE83OGkyWHNHSTF4NE1BY2xqeTRCdGtZSllsTWdCVVNnVDZkY1p5Rl9NTHVFaFo2OWhROFlLaW9zeEI5TExRRExza1RlX05UN0F3cll0X0dNNlFYMHY4TWZkeWxPTTlIak1EYmluZHZNR1ktN09yZ1hhd3V3?oc=5",
+   "source": "Khaleej Times",
+   "kind": "search",
+   "published": "2026-11-18T15:29+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Expands luxury housing supply in a prime waterfront location.",
+   "watch": false,
+   "also": [
+    "Khaleej Times",
+    "TradingView"
+   ],
+   "headline": "Nakheel introduces initial villa and townhouse phase at Palm Springs",
+   "summary": "Master developer Nakheel unveiled its first collection of villas and townhouses within the Palm Springs community.",
+   "why": "New prime project launches offer fresh inventory options for high-net-worth buyers and investors.",
+   "age_hours": 0.8,
+   "topic": "nakheel"
+  },
+  {
    "id": "f23a2bd0ea9b",
    "title": "Abu Dhabi residential property sales values climb nearly 40% year-on-year to AED26.4bln",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZTZNRFZLc0xhS0ZZSGtQR3IyeDJVZ1JucFk0eW1DX0xla1pUVzAxbHNHYUNULV9BQ3dlenlVVDdDQVZ3UFZidjBUTno5VU1UN1h6RTFWUGsxZDN1OHh2QTBYUk9Xd1V5SUNqZzAtTVVmc3lOblg1NmpRYlFhaTVpaWxMd1dlTHk4UWxDbWpIczlOYURXNWs5cEN5bGFvVXVNbHJneXdGX1NXYzVicC1LbWVSbVd1bEltZF9HbDRsQ3pUODQ2VFJCYTVKZEJWNGYxcnQ0eDlIWmxmNFE4OGJabU9LT2Q?oc=5",
@@ -16,7 +78,7 @@
    "headline": "Abu Dhabi home sales jump nearly 40% to AED 26.4 billion",
    "summary": "Residential property sales values in Abu Dhabi experienced a significant year-on-year increase. Total transaction values reached AED 26.4 billion.",
    "why": "It shows strong growth and rising buyer demand in the capital's residential property market.",
-   "age_hours": 2.0,
+   "age_hours": 3.5,
    "topic": "abu dhabi",
    "more": 3
   },
@@ -36,7 +98,7 @@
    "headline": "Saadiyat Island hits Dh18.69 billion in property transactions",
    "summary": "Abu Dhabi's Saadiyat Island achieved substantial sales figures driven by cultural sector growth. Property deals reached Dh18.69 billion.",
    "why": "It highlights prime regional performance fueled by ongoing cultural developments.",
-   "age_hours": 2.3,
+   "age_hours": 3.8,
    "topic": "abu dhabi"
   },
   {
@@ -58,9 +120,8 @@
    "headline": "UAE property market reset helps developers reduce debt: Moody's",
    "summary": "Moody's reports that current market conditions are giving regional developers adequate room to successfully pay down their debt.",
    "why": "Developer financial health affects future project delivery timelines and market stability.",
-   "age_hours": 4.7,
-   "topic": "Supply & market reports",
-   "more": 5
+   "age_hours": 6.2,
+   "topic": "Supply & market reports"
   },
   {
    "id": "b5a0533d75c1",
@@ -78,30 +139,8 @@
    "headline": "Off-plan properties drive 91% of Dubai luxury sales",
    "summary": "Data from f\u00e4m reveals that off-plan transactions dominate the high-end sector. Total luxury sales reached Dh85.3 billion over ten months.",
    "why": "It underscores strong investor appetite for unbuilt high-end units in the emirate.",
-   "age_hours": 10.5,
+   "age_hours": 11.9,
    "topic": "Developer news"
-  },
-  {
-   "id": "7de3f9153685",
-   "title": "Dubai office market: Landlords retain upper hand as new supply remains limited",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUFlQdmRrOEFFVTdhUEstQlpMRGZWMElvaWZvdHBWcHNZSFFLWUtIUVRoUkdMMHRna2Jqek1mcGlIOVlxNEZlU2czYTh2QzdiVmE2LW9OLTJPWmEyVVl5NTZJcklkVHFmMkRWUzNGa2ZlWWkzWDZ5alQ1RENGLVNROThMV3BMSm8?oc=5",
-   "source": "Arabian Business",
-   "kind": "search",
-   "published": "2026-11-17T23:56+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Provides crucial leasing insights for commercial property investors.",
-   "watch": false,
-   "also": [
-    "Arabian Business"
-   ],
-   "headline": "Landlords maintain control of Dubai office market amid tight supply",
-   "summary": "Commercial landlords continue holding the negotiating advantage across Dubai. Limited new inventory entering the market keeps vacancy rates low and pricing power with owners.",
-   "why": "Commercial supply shortages directly impact leasing rates and terms.",
-   "age_hours": 14.8,
-   "topic": "Supply & market reports"
   },
   {
    "id": "5ff6433be748",
@@ -122,7 +161,7 @@
    "headline": "Al Maktoum International Airport prepares for extensive testing phase",
    "summary": "Dubai's future mega-airport will undergo a full year of rigorous testing before welcoming its first passengers. Operations will eventually transition from DXB in a complex parallel running phase.",
    "why": "Major aviation expansions significantly boost nearby real estate value.",
-   "age_hours": 19.9,
+   "age_hours": 21.3,
    "topic": "airport"
   },
   {
@@ -141,7 +180,7 @@
    "headline": "BEYOND Developments unveils Dh3 billion Shione project",
    "summary": "A new twin-building residential community has been launched on Dubai Islands. The development represents a significant addition to the emirate's housing pipeline.",
    "why": "It introduces a major new residential project to the local market.",
-   "age_hours": 21.8,
+   "age_hours": 23.3,
    "topic": "Developer news"
   },
   {
@@ -163,55 +202,17 @@
    "headline": "Nakheel launches massive Palm Springs masterplan in southern Dubai",
    "summary": "Nakheel has announced Palm Springs, a sprawling 3.8 million square metre residential development. The new project expands housing supply in southern Dubai.",
    "why": "Mega-projects add significant inventory and shape future supply trends in the city.",
-   "age_hours": 2.0,
-   "topic": "nakheel"
-  },
-  {
-   "id": "900eba9a3256",
-   "title": "What Is EIBOR And Can Expats Get A Mortgage In Dubai?",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeTVmQVUzbWsybXRuaExIMjhicEtpMVFHR1d2OWdRLXJjX2tadzdKLURUTHZaT3VzRWxpVGNNcFkwOXRYM0dSVUJqNUZmSlpJZE9SQlpXX3JOZHRpTGV2ZkhhQy1MakZKeFplTnNwdjBVaG1oTVA4NWdhRktRU3RmVENVNUhCMlBUUGFmaDktQWF2NzU1eHAyS1NiLUlYSkNDMUdEUmpXMWxldE4tWEczbWJXWFRETV9sMmc?oc=5",
-   "source": "Allsopp & Allsopp",
-   "kind": "search",
-   "published": "2026-11-17T18:29+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Rates & mortgages",
-   "impact": "Medium",
-   "impact_reason": "Informs buyers about borrowing costs and mortgage eligibility.",
-   "watch": false,
-   "headline": "Understanding EIBOR and mortgage options for Dubai expats",
-   "summary": "A detailed look explains how the Emirates Interbank Offered Rate functions for borrowers. It also outlines the overall mortgage accessibility for expatriates purchasing property in Dubai.",
-   "why": "Financing education directly influences buyer purchasing power and affordability.",
-   "age_hours": 20.3,
-   "topic": "mortgage"
-  },
-  {
-   "id": "288ed1a9dd5f",
-   "title": "Dubai Holding Says Nakheel Unveils First Villas And Townhouses At Palm Springs",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc1NWSWxjNFFPTjAxWjZrRFJ4aHlabzJpTUZGcVJzd1RfTDJpeWVqNTcxSlVTVll1NjFuQWZQZ3FVRWY3SkYxbkJHVy1lb3E0UUc3SUdEQ0F0QjVLbEVmbU1YY25SYmVLNWNnRTZ0LWIwTHNiSjRRMmowVy1ZNml5ZmwwenptQ0NDY0ZaN0dUb3FKYVF2WFFHeE1mcTBXalhVWlRiaVBnVVprbzkyd0Rldk44aDNKUWVUT0FWV1d3V1oyVlpsUG1NdFVvSWpNa25fcWxSWXVKZVRiZmlSZk04OXRR?oc=5",
-   "source": "TradingView",
-   "kind": "search",
-   "published": "2026-11-18T11:55+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Standard developer project launch with minimal immediate market shifts.",
-   "watch": false,
-   "headline": "Nakheel Launches Palm Springs Villas and Townhouses",
-   "summary": "Dubai Holding's master developer Nakheel has introduced its inaugural villa and townhouse collection at Palm Springs. This launch expands housing options in a key luxury community.",
-   "why": "It introduces new residential supply from a major developer in a prime Dubai location.",
-   "age_hours": 2.9,
+   "age_hours": 3.5,
    "topic": "nakheel"
   }
  ],
  "window_hours": 24,
- "count_relevant": 27,
- "count_fetched": 306,
+ "count_relevant": 30,
+ "count_fetched": 312,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-18T14:46+04:00",
- "saved_at": "2026-11-18T14:46+04:00"
+ "as_of": "2026-11-18T16:15+04:00",
+ "saved_at": "2026-11-18T16:15+04:00"
 }
