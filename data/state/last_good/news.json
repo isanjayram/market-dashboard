@@ -1,29 +1,43 @@
 {
  "top": [
   {
-   "id": "84493e7795dc",
-   "title": "U.S. dollar holds near 19-month high at 103.67 as Fed hike odds reach 95.7 percent",
-   "link": "https://economymiddleeast.com/news/u-s-dollar-holds-near-19-month-high-at-103-67-as-fed-hike-odds-reach-95-7-percent/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-dollar-holds-near-19-month-high-at-103-67-as-fed-hike-odds-reach-95-7-percent",
-   "source": "Economy Middle East",
-   "kind": "outlet",
-   "published": "2026-11-18T11:50+04:00",
-   "tags": [
-    "business",
-    "Central Bank",
-    "economy",
-    "interest rate",
-    "United States"
-   ],
-   "teaser": "The U.S. dollar held close to a 19-month high on Wednesday, as resilient consumer spending, stronger import prices and hawkish Federal Reserve signals reinforced expectations that U.S. interest rates will rise again in December. The Dollar Index, which measures the greenback against a basket of major currencies, increased 0.06 percent to 103.67 after touching 103.78 [\u2026] The post U.S. dollar holds ",
-   "category": "Rates & mortgages",
+   "id": "f23a2bd0ea9b",
+   "title": "Abu Dhabi residential property sales values climb nearly 40% year-on-year to AED26.4bln",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZTZNRFZLc0xhS0ZZSGtQR3IyeDJVZ1JucFk0eW1DX0xla1pUVzAxbHNHYUNULV9BQ3dlenlVVDdDQVZ3UFZidjBUTno5VU1UN1h6RTFWUGsxZDN1OHh2QTBYUk9Xd1V5SUNqZzAtTVVmc3lOblg1NmpRYlFhaTVpaWxMd1dlTHk4UWxDbWpIczlOYURXNWs5cEN5bGFvVXVNbHJneXdGX1NXYzVicC1LbWVSbVd1bEltZF9HbDRsQ3pUODQ2VFJCYTVKZEJWNGYxcnQ0eDlIWmxmNFE4OGJabU9LT2Q?oc=5",
+   "source": "Zawya",
+   "kind": "search",
+   "published": "2026-11-18T12:45+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Supply & market reports",
    "impact": "Medium",
-   "impact_reason": "Influences local borrowing costs due to the dollar peg.",
+   "impact_reason": "Highlights robust capital growth and positive market sentiment.",
    "watch": false,
-   "headline": "US dollar holds near 19-month high as Fed hike odds rise",
-   "summary": "The greenback stayed strong near 19-month highs with expectations mounting for a December Federal Reserve rate hike.",
-   "why": "A strong US dollar directly impacts UAE mortgage costs and pegged currency dynamics.",
-   "age_hours": 0.7,
-   "topic": "Rates & mortgages"
+   "headline": "Abu Dhabi home sales jump nearly 40% to AED 26.4 billion",
+   "summary": "Residential property sales values in Abu Dhabi experienced a significant year-on-year increase. Total transaction values reached AED 26.4 billion.",
+   "why": "It shows strong growth and rising buyer demand in the capital's residential property market.",
+   "age_hours": 2.0,
+   "topic": "abu dhabi",
+   "more": 3
+  },
+  {
+   "id": "1c155c1571ec",
+   "title": "Abu Dhabi's Saadiyat Island records Dh18.69 billion in property deals amid cultural boom",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWFBsSUdRUkNiaFdnVldhQlhUd0dCSGxzQlVVcjRtYUo1RGNmVVJpVjRvYXJqUEd3dGF1TkgybTMyb1k2dmxUMXBkZ3RDMC1ybnd6cjhLOFN5UG1nWFJ6NWNwMVJXRGdHVWNHcjhDd0dnQUw4el9TUU9qUDl1Q0tXU25XRExacFRMNG5IdWRxREJkTGQyTWxqQTFLZFJ4OGxJVW91ZHFXWXY1MS1DR1lhcdIBuAFBVV95cUxQUkNhei1jQndBV1A5WWlUQVJGZXdWcS1qQ3dWSHkxdXExTmZTNFhWMTF5VkJ5WklEXzJMcEdmNURNb0JOOVFBd1BkTnZEcnZsVnlIQTJLMmpjN09wb3ZzQlhGdzhkMlNYRWs1T0JuQTNWQnh2RWdIcndWR3lENFNzMXNWMm90SDJ5Ym1ySFBfODdzRlg4VkJBNHJ5Z2ZZT3oyV1hxMHdnYlh5UENLbHNnQkRKOWpaV3N3?oc=5",
+   "source": "Khaleej Times",
+   "kind": "search",
+   "published": "2026-11-18T12:27+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Shows strong performance in prime cultural districts.",
+   "watch": false,
+   "headline": "Saadiyat Island hits Dh18.69 billion in property transactions",
+   "summary": "Abu Dhabi's Saadiyat Island achieved substantial sales figures driven by cultural sector growth. Property deals reached Dh18.69 billion.",
+   "why": "It highlights prime regional performance fueled by ongoing cultural developments.",
+   "age_hours": 2.3,
+   "topic": "abu dhabi"
   },
   {
    "id": "70f263dadacb",
@@ -38,17 +52,20 @@
    "impact": "Medium",
    "impact_reason": "Indicates strong financial health for local developers.",
    "watch": false,
+   "also": [
+    "Khaleej Times"
+   ],
    "headline": "UAE property market reset helps developers reduce debt: Moody's",
    "summary": "Moody's reports that current market conditions are giving regional developers adequate room to successfully pay down their debt.",
    "why": "Developer financial health affects future project delivery timelines and market stability.",
-   "age_hours": 2.5,
+   "age_hours": 4.7,
    "topic": "Supply & market reports",
-   "more": 2
+   "more": 5
   },
   {
-   "id": "c0cc72aa3bad",
+   "id": "b5a0533d75c1",
    "title": "Off-plan sales make up 91% of Dubai\u2019s Dh85.3 billion luxury market in 10 months, f\u00e4m analysis shows",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcF95MmVtM2h0YWZ0VXBPcG5pd1NuczJwZE1xRUxyZTVOdE5Balg2bTNELWxRa2FEVERPeUM4M2FfRno3SWtfWE1NYk1UUlFWUjltS0RzTjRjdzE0ZEFuZFloeXlIblZPY3R4TUNWR016YlFJSWlLSkVicmdJYjlvOU84bGNzazZHZWdWOGpJWXlRNkRLejdrTmxub0h6OC1SWHRQalRKcW94aE4xOEtPRnNpQndQUDU5LXVSLXdFUHpxS25sblY0aUlrbjIwZnJ5NE840gHuAUFVX3lxTE1UeEpvU05qN3I2VzJsemlNb29JRFhsdHZHZ3VRY0hqQUJrV2IwdkQ1TkZqMlZnWFVTTEdtZFQwRjl3em00TkZtc0FSd0szLVZqSS1vMEpMVGl1Q2lIN1pzUkQ4NUpvLXo0dU9EZGU4MTdqdGlfeGVYelBYWTRmWU1FRU1ZUWpwb3RKZTdwYnJFT2JUaUItRXZ4OTBZLU9hanlLT1ZOMW9JUUIxT09OX1VFMEx4cFlmMHZJeHgxbm5MYm1nZFpRVEFYNmY0WENYckJIeFRWbUkwWWFzRGVaYmlQWldpYUtUWmRIWHFxbHc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVHhKb1NOajdyNlcybHppTW9vSURYbHR2R2d1UWNIakFCa1diMHZENU5GajJWZ1hVU0xHbWRUMEY5d3ptNE5GbXNBUndLMy1WakktbzBKTFRpdUNpSDdac1JEODVKby16NHVPRGRlODE3anRpX3hlWHpQWFk0ZllNRUVNWVFqcG90SmU3cGJyRU9iVGlCLUV2eDkwWS1PYWp5S09WTjFvSVFCMU9PTl9VRTBMeHBZZjB2SXh4MW5uTGJtZ2RaUVRBWDZmNFhDWHJCSHhUVm1JMFlhc0RlWmJpUFpXaWFLVFpkSFhxcWx30gHuAUFVX3lxTE1UeEpvU05qN3I2VzJsemlNb29JRFhsdHZHZ3VRY0hqQUJrV2IwdkQ1TkZqMlZnWFVTTEdtZFQwRjl3em00TkZtc0FSd0szLVZqSS1vMEpMVGl1Q2lIN1pzUkQ4NUpvLXo0dU9EZGU4MTdqdGlfeGVYelBYWTRmWU1FRU1ZUWpwb3RKZTdwYnJFT2JUaUItRXZ4OTBZLU9hanlLT1ZOMW9JUUIxT09OX1VFMEx4cFlmMHZJeHgxbm5MYm1nZFpRVEFYNmY0WENYckJIeFRWbUkwWWFzRGVaYmlQWldpYUtUWmRIWHFxbHc?oc=5",
    "source": "Emirates 24|7",
    "kind": "search",
    "published": "2026-11-18T04:19+04:00",
@@ -56,12 +73,12 @@
    "teaser": "",
    "category": "Developer news",
    "impact": "Medium",
-   "impact_reason": "Highlights major buyer preference trends in luxury real estate.",
+   "impact_reason": "Demonstrates strong luxury investor confidence in upcoming projects.",
    "watch": false,
-   "headline": "Off-plan properties dominate Dubai's luxury sector",
-   "summary": "Off-plan transactions accounted for 91 percent of Dubai's massive Dh85.3 billion luxury property market over ten months. This heavy preference highlights continuous investor confidence in upcoming upscale developments.",
-   "why": "It shows shifting buyer preferences toward uncompleted luxury properties.",
-   "age_hours": 8.2,
+   "headline": "Off-plan properties drive 91% of Dubai luxury sales",
+   "summary": "Data from f\u00e4m reveals that off-plan transactions dominate the high-end sector. Total luxury sales reached Dh85.3 billion over ten months.",
+   "why": "It underscores strong investor appetite for unbuilt high-end units in the emirate.",
+   "age_hours": 10.5,
    "topic": "Developer news"
   },
   {
@@ -77,10 +94,13 @@
    "impact": "Medium",
    "impact_reason": "Provides crucial leasing insights for commercial property investors.",
    "watch": false,
+   "also": [
+    "Arabian Business"
+   ],
    "headline": "Landlords maintain control of Dubai office market amid tight supply",
    "summary": "Commercial landlords continue holding the negotiating advantage across Dubai. Limited new inventory entering the market keeps vacancy rates low and pricing power with owners.",
    "why": "Commercial supply shortages directly impact leasing rates and terms.",
-   "age_hours": 12.6,
+   "age_hours": 14.8,
    "topic": "Supply & market reports"
   },
   {
@@ -102,7 +122,7 @@
    "headline": "Al Maktoum International Airport prepares for extensive testing phase",
    "summary": "Dubai's future mega-airport will undergo a full year of rigorous testing before welcoming its first passengers. Operations will eventually transition from DXB in a complex parallel running phase.",
    "why": "Major aviation expansions significantly boost nearby real estate value.",
-   "age_hours": 17.6,
+   "age_hours": 19.9,
    "topic": "airport"
   },
   {
@@ -121,28 +141,30 @@
    "headline": "BEYOND Developments unveils Dh3 billion Shione project",
    "summary": "A new twin-building residential community has been launched on Dubai Islands. The development represents a significant addition to the emirate's housing pipeline.",
    "why": "It introduces a major new residential project to the local market.",
-   "age_hours": 19.5,
+   "age_hours": 21.8,
    "topic": "Developer news"
   },
   {
-   "id": "00497251f675",
-   "title": "How UAE Megaprojects Are Pulling In Billions Of Global Property Capital",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbVlCTlZ0S3d1UVlNU3VSMjlramtNZVpUTXpvSHlJbGlXR0N0ZXJCVkc0SXZQQ01CMXV5ckhNeUozTnpiOUVNVm5zaDg4aXNla1VSM2g3b3o4T2I2dmJ2eGtLcFo4OUQzOE9yUEZvbG0xTGVlZDVuR2pEWlU1NkdQQmVnQW1Fek9kLVFVZ3JIQWw1dW9waDlVeDlIQTRRbGRLRHc?oc=5",
-   "source": "https://www.thetraveler.org/",
+   "id": "6ed448f3d48a",
+   "title": "Nakheel Unveils Palm Springs, A 3.8 M Sq m Residential Masterplan In Southern Dubai!",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd2lNbTM3eVh5WFFQZGRibHdGMU03akFCaWw5Nk1oeDlvUl95aHJGTi11WlJLMHFMdC1wd1lHQnNiWGQtcGNvdXJEa3pZLUdmOVZ3M3RHYzI0ekJmZWxrM1VHVXd6cjJHeU1XaVBHdTRXRG9xNm5ldGVydndBSG4tMUZOcXVpeFFtSGo5Nktqa2gxSHhWYmE1YUNoYzk1U3NGOEVHNHE4N2R0U1QyWlMwM1RPSXh4N1FiZXBsZlFIVQ?oc=5",
+   "source": "Curly Tales",
    "kind": "search",
-   "published": "2026-11-17T23:19+04:00",
+   "published": "2026-11-18T12:44+04:00",
    "tags": [],
    "teaser": "",
-   "category": "Macro & geopolitics",
+   "category": "Developer news",
    "impact": "Medium",
-   "impact_reason": "Indicates strong international capital inflows supporting local real estate.",
+   "impact_reason": "Introduces substantial new housing inventory to the market.",
    "watch": false,
-   "headline": "UAE Megaprojects Attract Global Investment",
-   "summary": "Large UAE megaprojects are successfully drawing billions of dollars in international real estate capital.",
-   "why": "It highlights sustained global investor confidence in UAE property developments.",
-   "age_hours": 13.2,
-   "topic": "Macro & geopolitics",
-   "more": 5
+   "also": [
+    "Curly Tales"
+   ],
+   "headline": "Nakheel launches massive Palm Springs masterplan in southern Dubai",
+   "summary": "Nakheel has announced Palm Springs, a sprawling 3.8 million square metre residential development. The new project expands housing supply in southern Dubai.",
+   "why": "Mega-projects add significant inventory and shape future supply trends in the city.",
+   "age_hours": 2.0,
+   "topic": "nakheel"
   },
   {
    "id": "900eba9a3256",
@@ -160,63 +182,36 @@
    "headline": "Understanding EIBOR and mortgage options for Dubai expats",
    "summary": "A detailed look explains how the Emirates Interbank Offered Rate functions for borrowers. It also outlines the overall mortgage accessibility for expatriates purchasing property in Dubai.",
    "why": "Financing education directly influences buyer purchasing power and affordability.",
-   "age_hours": 18.0,
+   "age_hours": 20.3,
    "topic": "mortgage"
   },
   {
-   "id": "abfde13304cd",
-   "title": "Brent falls to $92.98, WTI drops to $85.45 as U.S. crude stocks rise 5.28 million barrels",
-   "link": "https://economymiddleeast.com/news/brent-falls-to-92-98-wti-drops-to-85-45-as-u-s-crude-stocks-rise-5-28-million-barrels/?utm_source=rss&utm_medium=rss&utm_campaign=brent-falls-to-92-98-wti-drops-to-85-45-as-u-s-crude-stocks-rise-5-28-million-barrels",
-   "source": "Economy Middle East",
-   "kind": "outlet",
-   "published": "2026-11-18T09:42+04:00",
-   "tags": [
-    "Oil",
-    "Oil and gas",
-    "Oil prices"
-   ],
-   "teaser": "Oil prices fell on Wednesday, as a sharp increase in U.S. crude and fuel inventories raised concerns about near-term supply, although continuing U.S.-Iran hostilities and disruption to shipping through the Strait of Hormuz limited losses. Brent crude futures declined 16 cents, or 0.17 percent, to $92.98 per barrel at 01:49 GMT, while U.S. West Texas [\u2026] The post Brent falls to $92.98, WTI drops to",
-   "category": "Macro & geopolitics",
+   "id": "288ed1a9dd5f",
+   "title": "Dubai Holding Says Nakheel Unveils First Villas And Townhouses At Palm Springs",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc1NWSWxjNFFPTjAxWjZrRFJ4aHlabzJpTUZGcVJzd1RfTDJpeWVqNTcxSlVTVll1NjFuQWZQZ3FVRWY3SkYxbkJHVy1lb3E0UUc3SUdEQ0F0QjVLbEVmbU1YY25SYmVLNWNnRTZ0LWIwTHNiSjRRMmowVy1ZNml5ZmwwenptQ0NDY0ZaN0dUb3FKYVF2WFFHeE1mcTBXalhVWlRiaVBnVVprbzkyd0Rldk44aDNKUWVUT0FWV1d3V1oyVlpsUG1NdFVvSWpNa25fcWxSWXVKZVRiZmlSZk04OXRR?oc=5",
+   "source": "TradingView",
+   "kind": "search",
+   "published": "2026-11-18T11:55+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Developer news",
    "impact": "Low",
-   "impact_reason": "Broad economic indicator with indirect property impact.",
+   "impact_reason": "Standard developer project launch with minimal immediate market shifts.",
    "watch": false,
-   "headline": "Oil prices decline following a surge in US crude inventories",
-   "summary": "Crude prices dropped as US oil inventories rose significantly, though regional tensions kept potential losses in check.",
-   "why": "Oil price movements dictate regional liquidity and investor sentiment in the Dubai property market.",
-   "age_hours": 2.8,
-   "topic": "Macro & geopolitics"
-  },
-  {
-   "id": "41c27f325723",
-   "title": "Dubai RTA announces bus route changes from November 20",
-   "link": "https://gulfnews.com/uae/dubai/dubai-rta-announces-bus-route-changes-from-november-20-1.500751570",
-   "source": "Gulf News",
-   "kind": "outlet",
-   "published": "2026-11-18T09:12+04:00",
-   "tags": [
-    "Dubai",
-    "Transport"
-   ],
-   "teaser": "Dubai\u2019s Roads and Transport Authority (RTA) will introduce changes to several bus routes across the emirate from November 20, including route extensions, revised connections and the cancellation of some sections. The changes aim to improve connectivity across the public transport network and provide better access to key residential, commercial and industrial areas. Get updated faster and for FREE:",
-   "category": "Infrastructure",
-   "impact": "Low",
-   "impact_reason": "Minor transit update affecting local connectivity.",
-   "watch": false,
-   "headline": "Dubai RTA announces upcoming public bus route changes",
-   "summary": "The RTA is updating several bus routes across the emirate from November 20 to improve public transport connectivity.",
-   "why": "Transport network updates can slightly influence neighborhood accessibility and local appeal.",
-   "age_hours": 3.3,
-   "topic": "Infrastructure"
+   "headline": "Nakheel Launches Palm Springs Villas and Townhouses",
+   "summary": "Dubai Holding's master developer Nakheel has introduced its inaugural villa and townhouse collection at Palm Springs. This launch expands housing options in a key luxury community.",
+   "why": "It introduces new residential supply from a major developer in a prime Dubai location.",
+   "age_hours": 2.9,
+   "topic": "nakheel"
   }
  ],
  "window_hours": 24,
- "count_relevant": 22,
- "count_fetched": 279,
+ "count_relevant": 27,
+ "count_fetched": 306,
  "feed_errors": {
-  "Khaleej Times": "HTTPError",
-  "News search: Sharjah and Abu Dhabi": "HTTPError"
+  "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-18T12:31+04:00",
- "saved_at": "2026-11-18T12:31+04:00"
+ "as_of": "2026-11-18T14:46+04:00",
+ "saved_at": "2026-11-18T14:46+04:00"
 }

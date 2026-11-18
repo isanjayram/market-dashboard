@@ -532,6 +532,96 @@
    "category": "Rates & mortgages",
    "impact": "Low",
    "impact_reason": "Foreign real estate market discussion unrelated to local property conditions."
+  },
+  "f23a2bd0ea9b": {
+   "relevant": true,
+   "headline": "Abu Dhabi home sales jump nearly 40% to AED 26.4 billion",
+   "summary": "Residential property sales values in Abu Dhabi experienced a significant year-on-year increase. Total transaction values reached AED 26.4 billion.",
+   "why": "It shows strong growth and rising buyer demand in the capital's residential property market.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Highlights robust capital growth and positive market sentiment."
+  },
+  "b5a0533d75c1": {
+   "relevant": true,
+   "headline": "Off-plan properties drive 91% of Dubai luxury sales",
+   "summary": "Data from fäm reveals that off-plan transactions dominate the high-end sector. Total luxury sales reached Dh85.3 billion over ten months.",
+   "why": "It underscores strong investor appetite for unbuilt high-end units in the emirate.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Demonstrates strong luxury investor confidence in upcoming projects."
+  },
+  "0d4e7dee9377": {
+   "relevant": true,
+   "headline": "Dubai property values climb while sales momentum cools",
+   "summary": "Overall property prices in Dubai are continuing to rise. However, the pace of sales activity is starting to slow down.",
+   "why": "It provides crucial insight into shifting price trends and market velocity.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects changing market dynamics and potential price resistance."
+  },
+  "2ce4e876758c": {
+   "relevant": true,
+   "headline": "Dubai real estate prices reach four-year peak in 2026",
+   "summary": "A recent market report indicates that average property prices touched AED 1,967 per square foot. This marks a new four-year high for the emirate.",
+   "why": "It quantifies capital appreciation and ongoing valuation trends across the city.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Confirms upward trajectory of property values and pricing peaks."
+  },
+  "99dcd9459264": {
+   "relevant": false,
+   "headline": "Currency exchange rates remain steady across the UAE",
+   "summary": "The Indian rupee and Philippine peso held steady against the dirham. Meanwhile, the Pakistani rupee recorded a slight gain.",
+   "why": "Remittance rates and currency fluctuations do not directly impact local property transactions.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Irrelevant to direct real estate transactions."
+  },
+  "55b2a72d12c7": {
+   "relevant": false,
+   "headline": "Sharjah launches registration for annual real estate excellence awards",
+   "summary": "The Sharjah Real Estate Department has opened applications for its upcoming industry awards program. Industry stakeholders can now submit their entries for consideration.",
+   "why": "Industry awards and ceremonies do not affect property prices, buyer costs, or market supply.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Awards events have no direct bearing on market fundamentals."
+  },
+  "1c155c1571ec": {
+   "relevant": true,
+   "headline": "Saadiyat Island hits Dh18.69 billion in property transactions",
+   "summary": "Abu Dhabi's Saadiyat Island achieved substantial sales figures driven by cultural sector growth. Property deals reached Dh18.69 billion.",
+   "why": "It highlights prime regional performance fueled by ongoing cultural developments.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Shows strong performance in prime cultural districts."
+  },
+  "6ed448f3d48a": {
+   "relevant": true,
+   "headline": "Nakheel launches massive Palm Springs masterplan in southern Dubai",
+   "summary": "Nakheel has announced Palm Springs, a sprawling 3.8 million square metre residential development. The new project expands housing supply in southern Dubai.",
+   "why": "Mega-projects add significant inventory and shape future supply trends in the city.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Introduces substantial new housing inventory to the market."
+  },
+  "4ddeb2ecc7c0": {
+   "relevant": true,
+   "headline": "Dubai Residential REIT reports revenue growth",
+   "summary": "Revenue for the Dubai Residential REIT increased by 7.6 percent over the first nine months. This financial update highlights steady performance in the local residential sector.",
+   "why": "It reflects positive financial performance within Dubai's residential real estate sector.",
+   "category": "Supply & market reports",
+   "impact": "Low",
+   "impact_reason": "Indicates steady sector performance without changing market fundamentals."
+  },
+  "56343bc5529a": {
+   "relevant": false,
+   "headline": "Abu Dhabi launches brokerage training programme",
+   "summary": "A specialized training initiative aims to enhance the professional capabilities of UAE nationals working in Abu Dhabi's real estate sector.",
+   "why": "This is a workforce development initiative rather than a market-moving real estate news item.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Focuses on workforce training rather than direct market changes."
   }
  }
 }
