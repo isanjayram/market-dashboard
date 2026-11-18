@@ -667,6 +667,33 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Political investigative news has no direct impact on transactions."
+  },
+  "7bd1f8b5b4af": {
+   "relevant": false,
+   "headline": "Broker talent war drives huge salaries in Dubai",
+   "summary": "Top real estate agents in Dubai are commanding massive monthly earnings amid high demand. The market is experiencing a significant boom in top-tier broker compensation.",
+   "why": "This is an agent-focused lifestyle and recruitment piece without actionable market data.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Irrelevant to property buyers and investors."
+  },
+  "3e626acaaad3": {
+   "relevant": false,
+   "headline": "Guide to Tawtheeq Abu Dhabi 2026 tenancy registration",
+   "summary": "Tenants and landlords can register rental contracts in Abu Dhabi using the DARI and TAMM platforms. The guide outlines necessary documents, fees, and step-by-step procedures.",
+   "why": "This is an Abu Dhabi tenancy guide rather than Dubai real estate news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Not applicable to the Dubai property market."
+  },
+  "aa1815321f88": {
+   "relevant": true,
+   "headline": "Dubai property prices reach four-year peak with value growth",
+   "summary": "Residential property prices in Dubai have climbed to a four-year high. The market is currently transitioning towards sustainable value growth.",
+   "why": "Property price trends directly impact investor sentiment and asset valuations.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects shifting market valuations and investor sentiment."
   }
  }
 }
