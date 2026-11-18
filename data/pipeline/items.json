@@ -2614,5 +2614,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"288ed1a9dd5f": {
+"id": "288ed1a9dd5f",
+"title": "Nakheel Launches Palm Springs Villas and Townhouses",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc1NWSWxjNFFPTjAxWjZrRFJ4aHlabzJpTUZGcVJzd1RfTDJpeWVqNTcxSlVTVll1NjFuQWZQZ3FVRWY3SkYxbkJHVy1lb3E0UUc3SUdEQ0F0QjVLbEVmbU1YY25SYmVLNWNnRTZ0LWIwTHNiSjRRMmowVy1ZNml5ZmwwenptQ0NDY0ZaN0dUb3FKYVF2WFFHeE1mcTBXalhVWlRiaVBnVVprbzkyd0Rldk44aDNKUWVUT0FWV1d3V1oyVlpsUG1NdFVvSWpNa25fcWxSWXVKZVRiZmlSZk04OXRR?oc=5",
+"source": "TradingView",
+"category": "Developer news",
+"published": "2026-11-18T11:55+04:00",
+"first_seen": "2026-11-18",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": "Palm Springs Villas and Townhouses",
+"developer": "Nakheel",
+"location": null,
+"type": "Villas and Townhouses",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

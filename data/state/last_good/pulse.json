@@ -66,16 +66,16 @@
     "value": 152053069.0
    },
    {
-    "area": "Majan",
-    "dld_area": "Wadi Al Safa 3",
-    "deals": 105,
-    "value": 352581310.0
-   },
-   {
     "area": "Business Bay",
     "dld_area": "Business Bay",
     "deals": 105,
     "value": 257657199.0
+   },
+   {
+    "area": "Majan",
+    "dld_area": "Wadi Al Safa 3",
+    "deals": 105,
+    "value": 352581310.0
    },
    {
     "area": "Jabal Ali First",
@@ -1590,5 +1590,5 @@
   "fetched_at": "2026-11-18T09:17+04:00",
   "test": false
  },
- "saved_at": "2026-11-18T09:17+04:00"
+ "saved_at": "2026-11-18T12:31+04:00"
 }

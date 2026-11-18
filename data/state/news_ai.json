@@ -415,6 +415,123 @@
    "category": "Macro & geopolitics",
    "impact": "Medium",
    "impact_reason": "Indicates strong international capital inflows supporting local real estate."
+  },
+  "7254c977c976": {
+   "relevant": false,
+   "headline": "Dubai real estate talent war drives broker boom",
+   "summary": "Top Dubai brokers are seeing massive monthly earnings amid a fierce talent race.",
+   "why": "This is an agent-focused lifestyle and recruitment piece without broader market news.",
+   "category": "Macro & geopolitics",
+   "impact": "High",
+   "impact_reason": "Irrelevant recruitment news."
+  },
+  "84493e7795dc": {
+   "relevant": true,
+   "headline": "US dollar holds near 19-month high as Fed hike odds rise",
+   "summary": "The greenback stayed strong near 19-month highs with expectations mounting for a December Federal Reserve rate hike.",
+   "why": "A strong US dollar directly impacts UAE mortgage costs and pegged currency dynamics.",
+   "category": "Rates & mortgages",
+   "impact": "Medium",
+   "impact_reason": "Influences local borrowing costs due to the dollar peg."
+  },
+  "70f263dadacb": {
+   "relevant": true,
+   "headline": "UAE property market reset helps developers reduce debt: Moody's",
+   "summary": "Moody's reports that current market conditions are giving regional developers adequate room to successfully pay down their debt.",
+   "why": "Developer financial health affects future project delivery timelines and market stability.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Indicates strong financial health for local developers."
+  },
+  "abfde13304cd": {
+   "relevant": true,
+   "headline": "Oil prices decline following a surge in US crude inventories",
+   "summary": "Crude prices dropped as US oil inventories rose significantly, though regional tensions kept potential losses in check.",
+   "why": "Oil price movements dictate regional liquidity and investor sentiment in the Dubai property market.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Broad economic indicator with indirect property impact."
+  },
+  "41c27f325723": {
+   "relevant": true,
+   "headline": "Dubai RTA announces upcoming public bus route changes",
+   "summary": "The RTA is updating several bus routes across the emirate from November 20 to improve public transport connectivity.",
+   "why": "Transport network updates can slightly influence neighborhood accessibility and local appeal.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Minor transit update affecting local connectivity."
+  },
+  "0d6837ff8f1c": {
+   "relevant": true,
+   "headline": "Dubai Land Department expands international real estate promotion",
+   "summary": "The DLD is actively increasing the footprint of Dubai's property sector across various global markets.",
+   "why": "Global promotion drives foreign direct investment into the local real estate ecosystem.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Promotional initiative with minimal immediate market change."
+  },
+  "298331e74dd0": {
+   "relevant": true,
+   "headline": "Emaar launches $2 billion branded residential pipeline in Abu Dhabi",
+   "summary": "Emaar has introduced a massive new portfolio of hospitality-branded residences targeting the Abu Dhabi market.",
+   "why": "Major developer launches set new benchmarks for regional supply and luxury segment trends.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Significant luxury supply addition by a major developer."
+  },
+  "62efa7785f16": {
+   "relevant": true,
+   "headline": "Dubai Residential REIT reports 7.6% revenue surge",
+   "summary": "Dubai Residential REIT posted a 7.6 percent increase in revenue over the first nine months of the year.",
+   "why": "REIT performance reflects rental yield health and commercial demand within residential sectors.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Demonstrates steady rental income growth."
+  },
+  "288ed1a9dd5f": {
+   "relevant": true,
+   "headline": "Nakheel Launches Palm Springs Villas and Townhouses",
+   "summary": "Dubai Holding's master developer Nakheel has introduced its inaugural villa and townhouse collection at Palm Springs. This launch expands housing options in a key luxury community.",
+   "why": "It introduces new residential supply from a major developer in a prime Dubai location.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Standard developer project launch with minimal immediate market shifts."
+  },
+  "1e6e3ace760e": {
+   "relevant": true,
+   "headline": "Hong Kong Surpasses Dubai as Top Luxury Housing Market",
+   "summary": "Hong Kong has overtaken Dubai to claim the leading position in the global super-luxury residential sector. Analysts are questioning the sustainability of this shift.",
+   "why": "It highlights shifting global capital and comparative luxury property performance.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Global ranking update with no direct impact on Dubai transaction costs."
+  },
+  "fa4582508cf5": {
+   "relevant": true,
+   "headline": "Dubai Retail Faces Escalating Rents and Luxury Pricing Pressures",
+   "summary": "The retail sector in Dubai is experiencing a pivotal moment amid mounting rental costs and premium pricing trends. Commercial property stakeholders must navigate these shifting commercial dynamics.",
+   "why": "It addresses commercial real estate leasing trends and operational costs.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Broad commercial market commentary without direct residential policy changes."
+  },
+  "42ea251ffe06": {
+   "relevant": false,
+   "headline": "SOLD Brings Two Decades of Marketing Experience to UAE",
+   "summary": "SOLD marks twenty years in the real estate marketing sector by offering its expertise to developers across the UAE.",
+   "why": "This is an agency marketing announcement rather than a material market or economic news item.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Promotional company announcement with no broader market impact."
+  },
+  "fc051d58d72f": {
+   "relevant": false,
+   "headline": "Nigeria Mortgage Market Reform Urged by Industry Expert",
+   "summary": "An expert argues that Nigeria requires a robust mortgage sector to draw property investments.",
+   "why": "The news focuses entirely on the Nigerian housing finance market rather than the UAE.",
+   "category": "Rates & mortgages",
+   "impact": "Low",
+   "impact_reason": "Foreign real estate market discussion unrelated to local property conditions."
   }
  }
 }
