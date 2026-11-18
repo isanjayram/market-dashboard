@@ -2548,5 +2548,71 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"5ff6433be748": {
+"id": "5ff6433be748",
+"title": "Al Maktoum International Airport prepares for extensive testing phase",
+"link": "https://www.thenationalnews.com/business/aviation/2026/11/17/al-maktoum-airport-to-undergo-a-year-of-testing-before-first-passengers-arrive/",
+"source": "The National",
+"category": "Infrastructure",
+"published": "2026-11-17T18:55+04:00",
+"first_seen": "2026-11-18",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"05708d8596a8": {
+"id": "05708d8596a8",
+"title": "BEYOND Developments unveils Dh3 billion Shione project",
+"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONlY1dlZINGRyLVBXZmpLVWVIekxneVEzd0dlY1Jka29XTzNaM0FZdGtFWGdRQ2xCdXljUkJNNVhmenRFZFhmUEZTSklZWkZQTVJaUkEwWjllRkVFUjhHR04ta0M2bHhyMURsOUtZZTRVaWJaZzR5Zm9MMFVYY2cxOUllSU5tN3A3NUVtZWJmckNEZUF4bE1abE0zVlFJa1pYTVo3QldXNFl4cUpmX21FTlFxNTdYYUZIMDlKMHpPQWdBUUgwZWhyOTRuZnI3NnVfYVhDQk1wOWdMUlA2Z1AxWVJYX1JXVmJtOGpfam1MR0fSAfgBQVVfeXFMUDRiQTRyOWlQbkR1Um1majdXMDN1WE1vdjVJUmNkMndNNHpJMDZvR0xuM2IxNU9ydnpCdVhoLW4xaGtNV1c4RXE1WjZ0cFNfSmhKbW1lRXRKM1dEVkp1ZW5VWmt3bDJ4VF83YXhfYmdldS1GOWw5cklZZDcyWkhPbHFoU2J1cG9WRGV4ZGJGNlhGYjNxUURuOHYxa1JiMGllQjNoU3lPSlpRc3gyQXp2cnd6SzQtQWYzNkI5QVNvTUctNjJCc19SN3UwNTNkM0EzWGJNZWNoX2toN2ZfZ0pQUUJvVFR5dWRfY3diXzF3V1BZN05tTDZyN0I?oc=5",
+"source": "Khaleej Times",
+"category": "Developer news",
+"published": "2026-11-17T17:00+04:00",
+"first_seen": "2026-11-18",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": "Shione",
+"developer": "BEYOND Developments",
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": "Dh3 billion",
+"payment_plan": null
+}
+},
+"5565a16cc644": {
+"id": "5565a16cc644",
+"title": "Emaar and Al Ain Asset Management launch Abu Dhabi projects",
+"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbkVabUxpUE02Y1JJSmtRUi1CeGZGT1FmX1dNcmswaWsyZGRYU3d2OUkwaUFVa2FZN1hJeWRyZkIzREx5a0FQVWU0dXFOVV9ucEhDRWdzYTRxSS0wVzFtcWJSdXFwYVlYUmRLYjg0MzZUc0R1U2J0UVlkSkRXWFBKcFRHS0F3MnlaT3F2WGM0UjJ4RVJqTGR4a0JwVWlJMzB5elo0U1NHaHZBbTVTRm1jWnAzUEpENk9YUzh5aTI1NzRsSzFIWGNrNXFpU0lJV1lQY2toVnNpT0pwOUVreW1pWVl1dG9qRlVUZmltYw?oc=5",
+"source": "Construction Week Online",
+"category": "Developer news",
+"published": "2026-11-17T15:41+04:00",
+"first_seen": "2026-11-18",
+"kind": "Off-plan launch",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": "Emaar",
+"location": "Abu Dhabi",
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

@@ -1,294 +1,4 @@
 {
- "2026-11-16": {
-  "0b8b4e6a5cae": {
-   "relevant": true,
-   "headline": "Dubai Real Estate Prices Demonstrate Resilience in 2026",
-   "summary": "Property values remain strong this year even though transaction numbers have cooled down. The market continues to show fundamental stability.",
-   "why": "It provides crucial market intelligence regarding current price trends and transaction velocity.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Reflects shifting market dynamics and price resilience."
-  },
-  "a1350e91da27": {
-   "relevant": true,
-   "headline": "Understanding the 5 Percent Housing Fee on DEWA Bills",
-   "summary": "Tenants must pay a housing fee amounting to 5 percent of their annual rent through utility bills. Residents can easily check these charges online.",
-   "why": "It outlines recurring municipal fees that impact overall tenant living costs.",
-   "category": "Regulation & fees",
-   "impact": "Medium",
-   "impact_reason": "Informs tenants about mandatory ongoing rental expenses."
-  },
-  "5214a3eb6819": {
-   "relevant": true,
-   "headline": "Non-Resident Indian Property Remittances and Fund Transfers",
-   "summary": "A Dubai-based expatriate remitted funds directly to help finance a significant real estate purchase abroad. Such cross-border transactions involve specific banking procedures.",
-   "why": "It touches upon international capital movements relevant to expatriate investors.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Represents an individual cross-border transaction."
-  },
-  "dcda2240dfe8": {
-   "relevant": true,
-   "headline": "Rental Dispute Appeal Times Drop Significantly in Dubai",
-   "summary": "The duration required to resolve rental dispute appeals has decreased by over half to just 23 days. This improvement speeds up legal recourse for landlords and tenants.",
-   "why": "Faster dispute resolution improves legal efficiency for the local rental market.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Streamlines administrative processes without altering core regulations."
-  },
-  "706d44b95b41": {
-   "relevant": true,
-   "headline": "Dubai Introduces Artificial Intelligence to Judicial Services",
-   "summary": "Authorities launched new AI initiatives for legal services while achieving a high clearance rate for rental appeals. These technologies aim to optimize the judicial process.",
-   "why": "Technology adoption in the legal sector impacts how rental disputes are handled.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Focuses on administrative efficiency rather than market policy."
-  },
-  "3fcc8dcdbf90": {
-   "relevant": true,
-   "headline": "Dubai Property Buyer Forfeits Millions in Down Payment",
-   "summary": "A real estate transaction fell through, resulting in the purchaser losing a substantial deposit of over four million dirhams. Contractual compliance remains critical in high-value deals.",
-   "why": "It highlights the financial risks associated with failed property transactions.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "A single transaction failure with no wider regulatory change."
-  },
-  "ed8bb554c5e5": {
-   "relevant": true,
-   "headline": "Gold drops as surging dollar strengthens Federal Reserve rate-hike expectations",
-   "summary": "Gold prices declined due to a surging U.S. dollar and rising Treasury yields. Investors now await policy signals from Fed Chair Kevin Warsh.",
-   "why": "Shifts in U.S. monetary policy and global interest rates indirectly influence regional liquidity and mortgage pricing sentiment.",
-   "category": "Rates & mortgages",
-   "impact": "High",
-   "impact_reason": "Affects global financing costs and broader investor sentiment."
-  },
-  "eacb643d581d": {
-   "relevant": true,
-   "headline": "Al Ain Asset Management and Emaar partner for Dh8 billion projects",
-   "summary": "Abu Dhabi's Al Ain Asset Management has joined forces with Emaar Hospitality to develop five property ventures worth Dh8 billion. The initial development on Al Ma will feature 452 apartments and luxury penthouses.",
-   "why": "Major capital deployment by top developers directly expands regional housing supply and drives buyer interest.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Substantial new project pipeline launched in Abu Dhabi."
-  },
-  "01a6edc43ca3": {
-   "relevant": false,
-   "headline": "06 Mall by Alef Group introduces Sharjah’s first and largest 3D advertising screen with CITIX MENA",
-   "summary": "06 Mall by Alef Group introduces Sharjah’s first and largest 3D advertising screen with CITIX MENA.",
-   "why": "Commercial advertising upgrades do not impact residential property markets or buyer costs.",
-   "category": "Infrastructure",
-   "impact": "Low",
-   "impact_reason": "Advertising screen installation holds no real estate relevance."
-  },
-  "adba9b5151bb": {
-   "relevant": false,
-   "headline": "How RERA Protects Homebuyers in India",
-   "summary": "How RERA Protects Homebuyers in India.",
-   "why": "Regulatory frameworks for property buyers in India are outside the scope of the Dubai property market.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Focuses on Indian real estate regulations."
-  },
-  "5b928b708351": {
-   "relevant": true,
-   "headline": "Nisus Finance acquires pre-leased Dubai residential asset, boosting AUM",
-   "summary": "Nisus Finance has acquired a pre-leased residential asset in Dubai, pushing its assets under management to $200 million.",
-   "why": "Inflows of institutional capital into Dubai residential assets reflect strong investor confidence in local yields.",
-   "category": "Macro & geopolitics",
-   "impact": "Medium",
-   "impact_reason": "Highlights growing foreign institutional investment in Dubai housing."
-  },
-  "fc9d7a38a672": {
-   "relevant": true,
-   "headline": "Nisus Finance expands portfolio with Dubai Grade A residential asset acquisition",
-   "summary": "Nisus Finance has expanded its holdings by acquiring Grade A residential property assets within Dubai.",
-   "why": "Demonstrates sustained institutional appetite for premium residential property in the local market.",
-   "category": "Macro & geopolitics",
-   "impact": "Medium",
-   "impact_reason": "Signals strong institutional demand for prime Dubai real estate."
-  },
-  "721b98377f3b": {
-   "relevant": true,
-   "headline": "Nakheel unveils new Palm Springs community development in Dubai",
-   "summary": "Nakheel has officially unveiled its latest residential neighborhood project named Palm Springs in Dubai.",
-   "why": "New master community launches by major master developers directly shape future supply and buyer options.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "New community launch expands Dubai's residential pipeline."
-  },
-  "a64db0882a6e": {
-   "relevant": true,
-   "headline": "Emaar and ALAIN Launch Dhs8bn Abu Dhabi Residences",
-   "summary": "Emaar Hospitality and ALAIN are developing an eight billion dirham branded residential portfolio in Abu Dhabi. This partnership introduces major new luxury supply to the capital's property market.",
-   "why": "It introduces a massive new branded residential pipeline in the UAE capital.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Expands high-end residential supply in Abu Dhabi."
-  },
-  "c955022a1528": {
-   "relevant": true,
-   "headline": "Emaar and Al Ain Unveil Five Abu Dhabi Projects",
-   "summary": "Developers Emaar and Al Ain have launched five residential projects across Abu Dhabi. The new developments expand the availability of homes in the emirate.",
-   "why": "It adds significant new residential supply through multiple project launches.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Increases housing options in the local market."
-  },
-  "541262002aa0": {
-   "relevant": true,
-   "headline": "Nisus Finance Buys Dubai Residential Asset",
-   "summary": "Nisus Finance has acquired a Grade A residential property in Dubai for its UAE-focused fund. This transaction highlights ongoing institutional investment in prime local real estate.",
-   "why": "It reflects institutional capital inflows into Dubai prime property assets.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Reflects steady institutional interest without altering buyer costs."
-  },
-  "3a13f88ded70": {
-   "relevant": true,
-   "headline": "Northern Nigerians Encouraged to Invest in Dubai Property",
-   "summary": "Investors in northern regions are being advised to direct capital into Dubai real estate. The outreach aims to draw international buyers toward the emirate's property sector.",
-   "why": "It targets foreign capital acquisition for the Dubai property market.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Encourages foreign investment without changing local regulations."
-  },
-  "71b33d5e513c": {
-   "relevant": true,
-   "headline": "Iran Conflict Disrupts Dubai Property Market Trends",
-   "summary": "Regional tensions involving Iran are causing shifts in local real estate dynamics. Investors are closely monitoring geopolitical developments for potential market impacts.",
-   "why": "Geopolitical conflict directly alters investor sentiment and regional capital flows into Dubai property.",
-   "category": "Macro & geopolitics",
-   "impact": "Medium",
-   "impact_reason": "Shifts investor sentiment and capital flows."
-  },
-  "5c59a02da6dc": {
-   "relevant": true,
-   "headline": "Dubai Real Estate Shows Signs of Gradual Recovery",
-   "summary": "Property markets alongside hiring and stocks indicate a tentative economic rebound. Indicators point to stabilized activity across these key sectors.",
-   "why": "Broader economic recovery signals improving fundamentals for the Dubai property sector.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Indicates early economic stabilization without immediate policy changes."
-  },
-  "8156d1427840": {
-   "relevant": true,
-   "headline": "FAMA Group Expands Staff and Student Housing Solutions",
-   "summary": "The provider offers a unified accommodation model managing over 8,000 apartments for firms and universities. This targets the growing influx of professionals and students arriving in the emirate.",
-   "why": "Corporate and student housing management affects niche rental supply and commercial leasing demand.",
-   "category": "Supply & market reports",
-   "impact": "Low",
-   "impact_reason": "Focuses on corporate housing portfolio management."
-  },
-  "0d6837ff8f1c": {
-   "relevant": true,
-   "headline": "Dubai Land Department Promotes Real Estate Globally",
-   "summary": "The department is actively broadening the international visibility of the local property sector. These outreach efforts aim to attract more foreign investment.",
-   "why": "Global promotion campaigns drive international buyer interest and capital inflow into Dubai real estate.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Aims to attract foreign investment through global outreach."
-  },
-  "0b6f045c94eb": {
-   "relevant": true,
-   "headline": "Nisus Finance Acquires Dubai Residential Asset",
-   "summary": "The firm purchased a Grade A residential property to support its UAE fund operations. Such transactions highlight ongoing institutional interest in prime local housing.",
-   "why": "Institutional property acquisitions validate asset values and reflect active fund deployment in Dubai.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Reflects institutional investment activity in prime housing."
-  },
-  "5d6f816b6552": {
-   "relevant": true,
-   "headline": "Emaar and ALAIN launch AED 8 billion Abu Dhabi residences",
-   "summary": "Emaar Hospitality and ALAIN have partnered to introduce an AED 8 billion pipeline of branded residences in Abu Dhabi.",
-   "why": "This expansion represents a massive new luxury supply pipeline in the capital.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Expands luxury supply pipeline in Abu Dhabi."
-  },
-  "7e45e10a5e85": {
-   "relevant": true,
-   "headline": "Dubai off-plan luxury sales hit AED 77.93 billion",
-   "summary": "Dubai registered AED 77.93 billion in luxury off-plan property sales during the first ten months of 2026.",
-   "why": "It highlights robust investor confidence and strong capital flow into high-end developments.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Demonstrates strong investor appetite for luxury off-plan properties."
-  },
-  "bb73833b653f": {
-   "relevant": false,
-   "headline": "Shaping Sharjah’s Lifestyle Landscape: Alef Group projects",
-   "summary": "Alef Group highlights the development of 06 Mall and Al Mamsha in Sharjah.",
-   "why": "The item focuses on lifestyle mall development and community retail rather than core real estate market drivers.",
-   "category": "Infrastructure",
-   "impact": "Low",
-   "impact_reason": "Lifestyle retail news lacks direct market-wide impact."
-  },
-  "2fbe3c4e0616": {
-   "relevant": false,
-   "headline": "Belmazad partners for Egyptian real estate investment offerings",
-   "summary": "Belmazad and Global Appraisal Tech team up to manage property investment opportunities for Misr Abu Dhabi Real Estate.",
-   "why": "This corporate partnership deals with external Egyptian market operations rather than the UAE property sector.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Focuses on external Egyptian market transactions."
-  },
-  "f57349bd97da": {
-   "relevant": true,
-   "headline": "Brent crude forecasted to ease to $78 by 2027",
-   "summary": "Global oil prices are projected to average $88 before dropping to $78 by late 2027 due to rising supply surpluses.",
-   "why": "Macroeconomic oil price trends influence regional economic liquidity and investor sentiment in real estate.",
-   "category": "Macro & geopolitics",
-   "impact": "Medium",
-   "impact_reason": "Shifts regional liquidity and broad macroeconomic sentiment."
-  },
-  "646b51464b33": {
-   "relevant": true,
-   "headline": "Abu Dhabi implements 0% rent freeze for tenants",
-   "summary": "Abu Dhabi introduced a temporary rent freeze to protect tenants, impacting landlord yields and investor returns.",
-   "why": "Rental regulations directly affect property yields and investor decision-making in the emirate.",
-   "category": "Regulation & fees",
-   "impact": "High",
-   "impact_reason": "Directly impacts rental yields and investor returns."
-  },
-  "298331e74dd0": {
-   "relevant": true,
-   "headline": "Emaar announces $2bn branded residential pipeline in Abu Dhabi",
-   "summary": "Emaar reveals a $2 billion expansion plan focusing on hospitality-branded residences in Abu Dhabi.",
-   "why": "Large-scale developer pipelines alter the luxury residential landscape and housing supply.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Increases branded residential supply in Abu Dhabi."
-  },
-  "eee7563966b8": {
-   "relevant": false,
-   "headline": "Arif Patel shapes new generation of Dubai real estate",
-   "summary": "An opinion and profile piece regarding Arif Patel and real estate development approaches in Dubai.",
-   "why": "This is a promotional profile piece lacking specific actionable market news.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Promotional profile piece with no actionable data."
-  },
-  "8dc7984ce01d": {
-   "relevant": true,
-   "headline": "Hong Kong overtakes Dubai in luxury property rankings",
-   "summary": "Hong Kong has taken back the top spot for luxury real estate globally. Dubai previously held the crown before this recent shift.",
-   "why": "It shows changing global wealth trends and competitive positioning for luxury property markets.",
-   "category": "Supply & market reports",
-   "impact": "Low",
-   "impact_reason": "Minor sentiment shift among global luxury real estate investors."
-  },
-  "eb986e47a413": {
-   "relevant": true,
-   "headline": "Nisus acquires 104-unit residential asset in Dubai",
-   "summary": "Nisus has successfully purchased a residential property consisting of 104 units in Dubai. This transaction highlights ongoing institutional investment in the local market.",
-   "why": "It demonstrates continued corporate interest and capital deployment in Dubai residential assets.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Single asset acquisition with limited broader market impact."
-  }
- },
  "2026-11-17": {
   "bad6f9788391": {
    "relevant": false,
@@ -595,6 +305,116 @@
    "category": "Macro & geopolitics",
    "impact": "Medium",
    "impact_reason": "Boosts long-term market sentiment."
+  }
+ },
+ "2026-11-18": {
+  "c0cc72aa3bad": {
+   "relevant": true,
+   "headline": "Off-plan properties dominate Dubai's luxury sector",
+   "summary": "Off-plan transactions accounted for 91 percent of Dubai's massive Dh85.3 billion luxury property market over ten months. This heavy preference highlights continuous investor confidence in upcoming upscale developments.",
+   "why": "It shows shifting buyer preferences toward uncompleted luxury properties.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Highlights major buyer preference trends in luxury real estate."
+  },
+  "cc75bae1590d": {
+   "relevant": true,
+   "headline": "RTA announces temporary Dubai road diversion toward Abu Dhabi",
+   "summary": "Motorists traveling from Dubai to Abu Dhabi will encounter a newly implemented RTA road diversion. The change may impact daily commutes and travel times between the two emirates.",
+   "why": "Infrastructure changes affect neighborhood accessibility and commute times.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Minor travel disruption with no direct property market impact."
+  },
+  "5ff6433be748": {
+   "relevant": true,
+   "headline": "Al Maktoum International Airport prepares for extensive testing phase",
+   "summary": "Dubai's future mega-airport will undergo a full year of rigorous testing before welcoming its first passengers. Operations will eventually transition from DXB in a complex parallel running phase.",
+   "why": "Major aviation expansions significantly boost nearby real estate value.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Mega-infrastructure projects significantly influence surrounding property values."
+  },
+  "900eba9a3256": {
+   "relevant": true,
+   "headline": "Understanding EIBOR and mortgage options for Dubai expats",
+   "summary": "A detailed look explains how the Emirates Interbank Offered Rate functions for borrowers. It also outlines the overall mortgage accessibility for expatriates purchasing property in Dubai.",
+   "why": "Financing education directly influences buyer purchasing power and affordability.",
+   "category": "Rates & mortgages",
+   "impact": "Medium",
+   "impact_reason": "Informs buyers about borrowing costs and mortgage eligibility."
+  },
+  "62c4a2f51b27": {
+   "relevant": true,
+   "headline": "Global oil prices decline across Asian markets",
+   "summary": "Asian trading sessions saw broad drops across major crude benchmarks including Murban, Brent, and WTI. Natural gas prices also experienced a modest one percent slip.",
+   "why": "Oil price movements impact the broader regional economic sentiment.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "General macroeconomic shift with no immediate real estate consequence."
+  },
+  "c17a773e954b": {
+   "relevant": true,
+   "headline": "Dubai Residential REIT reports rising revenue and high occupancy",
+   "summary": "Revenue for the Dubai Residential REIT grew by 7.6 percent as tenant occupancy hit 98.4 percent. These figures demonstrate robust and sustained demand for rented residential units.",
+   "why": "Strong rental metrics indicate healthy investor yields in the emirate.",
+   "category": "Supply & market reports",
+   "impact": "Low",
+   "impact_reason": "Reflects steady portfolio performance rather than market-wide changes."
+  },
+  "7de3f9153685": {
+   "relevant": true,
+   "headline": "Landlords maintain control of Dubai office market amid tight supply",
+   "summary": "Commercial landlords continue holding the negotiating advantage across Dubai. Limited new inventory entering the market keeps vacancy rates low and pricing power with owners.",
+   "why": "Commercial supply shortages directly impact leasing rates and terms.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Provides crucial leasing insights for commercial property investors."
+  },
+  "30c2e206eaf3": {
+   "relevant": true,
+   "headline": "Off-plan apartments become cheaper than ready homes in Dubai",
+   "summary": "Purchasers are finding lower entry price points as off-plan apartments trade below ready properties. This trend provides more affordable avenues for market entrants.",
+   "why": "Price variations between off-plan and ready stock affect investment strategies.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Shifts buyer interest toward more affordable entry options."
+  },
+  "d7aa3b206363": {
+   "relevant": true,
+   "headline": "UAE Office Market Rents and Demand Surge",
+   "summary": "Dubai office rents rose by double digits in Q3 2026. Low supply pushed vacancy rates down in both Dubai and Abu Dhabi.",
+   "why": "It reflects strong commercial property demand and tightening supply across the UAE.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Highlights strong commercial market conditions and rising landlord power."
+  },
+  "b351dfb66d45": {
+   "relevant": true,
+   "headline": "Dubai Tenant Successfully Avoids Eviction",
+   "summary": "A Dubai tenant managed to avoid eviction in a major rental agreement worth 1.2 million dirhams.",
+   "why": "It provides insight into rental dispute outcomes and tenant rights in Dubai.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Single case study with limited broader market impact."
+  },
+  "07b9b9f1699c": {
+   "relevant": true,
+   "headline": "Emaar Partners for Dh8 Billion Projects",
+   "summary": "Al Ain Asset Management and Emaar are teaming up to develop projects worth 8 billion dirhams.",
+   "why": "It shows continued large-scale developer investments and expansions in the region.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Major new project pipeline boosts developer activity."
+  },
+  "00497251f675": {
+   "relevant": true,
+   "headline": "UAE Megaprojects Attract Global Investment",
+   "summary": "Large UAE megaprojects are successfully drawing billions of dollars in international real estate capital.",
+   "why": "It highlights sustained global investor confidence in UAE property developments.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Indicates strong international capital inflows supporting local real estate."
   }
  }
 }
