@@ -541,6 +541,60 @@
    "category": "Developer news",
    "impact": "Medium",
    "impact_reason": "Expands luxury residential supply in the capital."
+  },
+  "b22eb67c271e": {
+   "relevant": true,
+   "headline": "US Federal Reserve eyes bigger December rate hike",
+   "summary": "Fed Governor Waller supports a half-point rate increase in December. This move counters persistent and broadening inflation concerns.",
+   "why": "Interest rate changes directly impact mortgage costs and buyer financing in Dubai's pegged economy.",
+   "category": "Rates & mortgages",
+   "impact": "High",
+   "impact_reason": "Shifts borrowing costs and mortgage affordability for Dubai buyers."
+  },
+  "9eb5f3a136d9": {
+   "relevant": true,
+   "headline": "Dubai ready villa sales surge 34% in October",
+   "summary": "Completed villa transactions in Dubai jumped significantly last month. Buyers are increasingly favoring ready properties over off-plan options.",
+   "why": "This trend highlights changing buyer preferences toward immediate occupancy in the secondary market.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Indicates strong buyer demand shifting toward completed residential properties."
+  },
+  "183f96fefa84": {
+   "relevant": true,
+   "headline": "Dubai property market transitioning into new maturity phase",
+   "summary": "The local real estate sector is entering a new stage of maturity. This evolution shapes upcoming market dynamics.",
+   "why": "Market maturation trends affect long-term investment strategies and buyer confidence.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects structural shifts in market sentiment and growth."
+  },
+  "5be84d0cacef": {
+   "relevant": false,
+   "headline": "UAE real estate: Will AI replace property agents?",
+   "summary": "Industry experts discuss the potential future impact of artificial intelligence on traditional real estate agency roles.",
+   "why": "This is an opinion piece on technology rather than direct property news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Opinion piece lacking direct news value."
+  },
+  "a2e33ce53c5d": {
+   "relevant": false,
+   "headline": "Arif Patel Unveils Vision for Dubai's Real Estate Future",
+   "summary": "Arif Patel shares personal insights regarding the future trajectory of the local property sector.",
+   "why": "This is an individual opinion piece without concrete project or policy announcements.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Personal viewpoint without actionable market news."
+  },
+  "b50183cc2d07": {
+   "relevant": true,
+   "headline": "Nakheel launches massive new southern Dubai residential project",
+   "summary": "Nakheel Properties has revealed a large development in southern Dubai. The community is designed to house 50,000 residents.",
+   "why": "Major new community launches expand Dubai's residential supply and shape developer activity.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Adds significant future residential supply to the market."
   }
  }
 }

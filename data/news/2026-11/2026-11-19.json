@@ -377,5 +377,65 @@
 "impact_reason": "Exchange rate shifts have minimal direct impact on property transactions.",
 "watch": true,
 "topic": "Macro & geopolitics"
+},
+{
+"id": "b22eb67c271e",
+"headline": "US Federal Reserve eyes bigger December rate hike",
+"summary": "Fed Governor Waller supports a half-point rate increase in December. This move counters persistent and broadening inflation concerns.",
+"why": "Interest rate changes directly impact mortgage costs and buyer financing in Dubai's pegged economy.",
+"source": "Economy Middle East",
+"link": "https://economymiddleeast.com/news/feds-waller-backs-50-basis-point-december-hike-unless-january-increase-is-signaled-as-inflation-broadens/?utm_source=rss&utm_medium=rss&utm_campaign=feds-waller-backs-50-basis-point-december-hike-unless-january-increase-is-signaled-as-inflation-broadens",
+"published": "2026-11-19T14:30+04:00",
+"category": "Rates & mortgages",
+"impact": "High",
+"impact_reason": "Shifts borrowing costs and mortgage affordability for Dubai buyers.",
+"watch": false,
+"topic": "Rates & mortgages"
+},
+{
+"id": "9eb5f3a136d9",
+"headline": "Dubai ready villa sales surge 34% in October",
+"summary": "Completed villa transactions in Dubai jumped significantly last month. Buyers are increasingly favoring ready properties over off-plan options.",
+"why": "This trend highlights changing buyer preferences toward immediate occupancy in the secondary market.",
+"source": "Khaleej Times",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUWpOV2NXODM2QmpXTTF3RlZzcWE3NFc2SGFiSjVEeWszQklLSzFoUkRMdmFld2VfUDlyUWlZdURhOUgtS0VKNUhjWGQ0X3pfcTNIQmlxRkpEREVFdVJzS3laRnhuUXU3ck1URm5CTTlRTUItOGxQUDFMdm9oX3h1SHlEdVB3bTBWeXppUDVIQko0Z1nSAZMBQVVfeXFMT1FqTldjVzgzNkJqV00xd0ZWc3FhNzRXNkhhYko1RHlrM0JJS0sxaFJETHZhZXdlX1A5clFpWXVEYTlILUtFSjVIY1hkNF96X3EzSEJpcUZKRERFRXVSc0t5WkZ4blF1N3JNVEZuQk05UU1CLThsUFAxTHZvaF94dUh5RHVQd20wVnl6aVA1SEJKNGdZ?oc=5",
+"published": "2026-11-19T12:58+04:00",
+"category": "Supply & market reports",
+"impact": "Medium",
+"impact_reason": "Indicates strong buyer demand shifting toward completed residential properties.",
+"watch": false,
+"more": 4,
+"topic": "Supply & market reports"
+},
+{
+"id": "183f96fefa84",
+"headline": "Dubai property market transitioning into new maturity phase",
+"summary": "The local real estate sector is entering a new stage of maturity. This evolution shapes upcoming market dynamics.",
+"why": "Market maturation trends affect long-term investment strategies and buyer confidence.",
+"source": "Khaleej Times",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUjdKM0dSTktxaXF1NWROQVVHRXczZWZuaTVOV0VLdXBQUmlZMGtPMG45RlU0TGJTZENHX2d2d0dzdEJvdXJ3Y0U0Y1lIaGh2Rk1KZVpMbmdMNm9mUDNQc0hIRTc1aTNnblIyamVkeHdvZlRBN0t0ZURNMDR2dEl3VkJWaUg2WUJvaTB1aVo5d3hEMGRXdzhDS2VfUWzSAaQBQVVfeXFMTURnbTBFODBOajk3ZjdkYUxvdG5yQl9wcU5kLTZqdFFKbFdiVDJrTDVoazRhOTlUd0dGY2pRNE5lQ1dONkhkVmp4NndfcDVuTTZWbkh3NGRGdE1UTzlEU2VKOVpjbXNIRy0teE9ydHNIeXRxR0QyYm1NSDhoMFdaajNraHp5LWhGYkRKUFlmb3ltbExQazNZS0lTTzZYUjhFWllpdUM?oc=5",
+"published": "2026-11-18T21:02+04:00",
+"category": "Supply & market reports",
+"impact": "Medium",
+"impact_reason": "Reflects structural shifts in market sentiment and growth.",
+"watch": false,
+"topic": "Supply & market reports"
+},
+{
+"id": "b50183cc2d07",
+"headline": "Nakheel launches massive new southern Dubai residential project",
+"summary": "Nakheel Properties has revealed a large development in southern Dubai. The community is designed to house 50,000 residents.",
+"why": "Major new community launches expand Dubai's residential supply and shape developer activity.",
+"source": "internationalfinance.com",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT3g5dGYwT0UzQUNUUDdWZnRFSjlOS01sV1RWR1JEbFFleTBVVEJva05YaHh6WWVSaUpYUjB1aER6NHo2dmppTjFyYmR2UFB1Mkxnd1MybU9udmNnUV9oVElodElKeHNEc1NrNDEzZ0ljaHhQS24zOFg5bEszcHRGUkI5Z3dfdy1aQkU5UUs5b2NpYTRvbS03dFo4WHplNGJCSGpxOVhsNGRROUo3M0tGOG1kTEVDZw?oc=5",
+"published": "2026-11-19T09:00+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Adds significant future residential supply to the market.",
+"watch": false,
+"also": [
+"internationalfinance.com"
+],
+"topic": "nakheel"
 }
 ]
