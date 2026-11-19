@@ -595,6 +595,60 @@
    "category": "Developer news",
    "impact": "Medium",
    "impact_reason": "Adds significant future residential supply to the market."
+  },
+  "efb9d3d10a89": {
+   "relevant": true,
+   "headline": "USD stays strong as Fed hints at higher rates",
+   "summary": "The dollar hovers near a 19-month peak following hawkish signals from Federal Reserve officials. This stance reinforces expectations for continued interest rate hikes ahead.",
+   "why": "It influences borrowing costs and currency dynamics tied to the UAE dirham.",
+   "category": "Rates & mortgages",
+   "impact": "Medium",
+   "impact_reason": "Affects financing costs and currency valuation."
+  },
+  "18926c867ce7": {
+   "relevant": true,
+   "headline": "Dubai ready villa sales surge 34% in October",
+   "summary": "Purchasers increasingly targeted ready villas last month, causing transactions to jump significantly. This indicates a growing market preference for completed homes over off-plan projects.",
+   "why": "It highlights shifting buyer demand toward ready inventory.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects changing buyer preferences and market demand."
+  },
+  "d898d390b594": {
+   "relevant": false,
+   "headline": "RERA rights for Indian buyers",
+   "summary": "An overview of seven lesser-known RERA rights for Indian homebuyers.",
+   "why": "Focuses on external regulatory rights rather than local Dubai property news.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Not directly applicable to local market operations."
+  },
+  "41f58523e33a": {
+   "relevant": false,
+   "headline": "Will AI replace property agents?",
+   "summary": "Industry experts discuss whether artificial intelligence will eventually replace real estate agents.",
+   "why": "It is an opinion and speculation piece with no hard news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Opinion piece lacking direct market updates."
+  },
+  "bf50dd3ef586": {
+   "relevant": false,
+   "headline": "Abu Dhabi livestock farm warning",
+   "summary": "Authorities in Abu Dhabi warn livestock farm tenants to utilize their plots or risk losing them.",
+   "why": "It pertains to agricultural leases rather than residential or commercial real estate.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Irrelevant to urban property markets."
+  },
+  "0644f0cf5a3d": {
+   "relevant": true,
+   "headline": "Emirates REIT posts strong income and asset value",
+   "summary": "Emirates REIT reported USD 66.9 million in property income alongside a net asset value of USD 955.1 million by September 2026. These figures demonstrate solid financial performance for the investment trust.",
+   "why": "It provides financial results for a major regional property investment vehicle.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Highlights sector financial health and performance."
   }
  }
 }

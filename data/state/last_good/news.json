@@ -22,13 +22,32 @@
    "headline": "US Federal Reserve eyes bigger December rate hike",
    "summary": "Fed Governor Waller supports a half-point rate increase in December. This move counters persistent and broadening inflation concerns.",
    "why": "Interest rate changes directly impact mortgage costs and buyer financing in Dubai's pegged economy.",
-   "age_hours": 0.3,
+   "age_hours": 1.7,
    "topic": "Rates & mortgages"
   },
   {
-   "id": "9eb5f3a136d9",
+   "id": "efb9d3d10a89",
+   "title": "U.S. dollar holds near 19-month high as hawkish Fed signals support higher interest rates",
+   "link": "https://economymiddleeast.com/news/u-s-dollar-holds-near-19-month-high-as-hawkish-fed-signals-support-higher-interest-rates/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-dollar-holds-near-19-month-high-as-hawkish-fed-signals-support-higher-interest-rates",
+   "source": "Economy Middle East",
+   "kind": "outlet",
+   "published": "2026-11-19T15:10+04:00",
+   "tags": [],
+   "teaser": "The U.S. dollar eased slightly on Thursday, ending a seven-session advance, but remained close to its highest level in 19 months as increasingly hawkish signals from Federal Reserve officials reinforced expectations of further interest rate increases. The dollar index, which measures the greenback against a basket of six major currencies, slipped 0.26 percent to 103.60 [\u2026] The post U.S. dollar hol",
+   "category": "Rates & mortgages",
+   "impact": "Medium",
+   "impact_reason": "Affects financing costs and currency valuation.",
+   "watch": false,
+   "headline": "USD stays strong as Fed hints at higher rates",
+   "summary": "The dollar hovers near a 19-month peak following hawkish signals from Federal Reserve officials. This stance reinforces expectations for continued interest rate hikes ahead.",
+   "why": "It influences borrowing costs and currency dynamics tied to the UAE dirham.",
+   "age_hours": 1.0,
+   "topic": "Rates & mortgages"
+  },
+  {
+   "id": "18926c867ce7",
    "title": "Dubai ready villa sales jump 34% in October as buyers shift to completed properties",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUWpOV2NXODM2QmpXTTF3RlZzcWE3NFc2SGFiSjVEeWszQklLSzFoUkRMdmFld2VfUDlyUWlZdURhOUgtS0VKNUhjWGQ0X3pfcTNIQmlxRkpEREVFdVJzS3laRnhuUXU3ck1URm5CTTlRTUItOGxQUDFMdm9oX3h1SHlEdVB3bTBWeXppUDVIQko0Z1nSAZMBQVVfeXFMT1FqTldjVzgzNkJqV00xd0ZWc3FhNzRXNkhhYko1RHlrM0JJS0sxaFJETHZhZXdlX1A5clFpWXVEYTlILUtFSjVIY1hkNF96X3EzSEJpcUZKRERFRXVSc0t5WkZ4blF1N3JNVEZuQk05UU1CLThsUFAxTHZvaF94dUh5RHVQd20wVnl6aVA1SEJKNGdZ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZXFnbkxfUlh0SkxFQmF0ZDYzY1FvLXV4SW00S19nZVRhZHVWUnJTb0JtYUhJR0oxazB4QW9iS09OcG11NjRzaXJ4TVFjc3ZFVEs0M0hBRTFlOE93Z3l6aUhRYmVIa0RDQzNhV0t2bk4yanRTMkFneVlkc0trM0M3MzJFSEpUeVVrTWJB0gGTAUFVX3lxTE9Rak5XY1c4MzZCaldNMXdGVnNxYTc0VzZIYWJKNUR5azNCSUtLMWhSREx2YWV3ZV9QOXJRaVl1RGE5SC1LRUo1SGNYZDRfel9xM0hCaXFGSkRERUV1UnNLeVpGeG5RdTdyTVRGbkJNOVFNQi04bFBQMUx2b2hfeHVIeUR1UHdtMFZ5emlQNUhCSjRnWQ?oc=5",
    "source": "Khaleej Times",
    "kind": "search",
    "published": "2026-11-19T12:58+04:00",
@@ -36,14 +55,14 @@
    "teaser": "",
    "category": "Supply & market reports",
    "impact": "Medium",
-   "impact_reason": "Indicates strong buyer demand shifting toward completed residential properties.",
+   "impact_reason": "Reflects changing buyer preferences and market demand.",
    "watch": false,
    "headline": "Dubai ready villa sales surge 34% in October",
-   "summary": "Completed villa transactions in Dubai jumped significantly last month. Buyers are increasingly favoring ready properties over off-plan options.",
-   "why": "This trend highlights changing buyer preferences toward immediate occupancy in the secondary market.",
-   "age_hours": 1.8,
+   "summary": "Purchasers increasingly targeted ready villas last month, causing transactions to jump significantly. This indicates a growing market preference for completed homes over off-plan projects.",
+   "why": "It highlights shifting buyer demand toward ready inventory.",
+   "age_hours": 3.2,
    "topic": "Supply & market reports",
-   "more": 4
+   "more": 3
   },
   {
    "id": "183f96fefa84",
@@ -61,7 +80,7 @@
    "headline": "Dubai property market transitioning into new maturity phase",
    "summary": "The local real estate sector is entering a new stage of maturity. This evolution shapes upcoming market dynamics.",
    "why": "Market maturation trends affect long-term investment strategies and buyer confidence.",
-   "age_hours": 17.7,
+   "age_hours": 19.1,
    "topic": "Supply & market reports"
   },
   {
@@ -80,30 +99,8 @@
    "headline": "Foreign Capital Inflows Fuel Expansion of UAE Property Sector",
    "summary": "Strong international investments continue to support the ongoing growth of the local real estate market.",
    "why": "Overseas buyer liquidity directly impacts demand and pricing trends.",
-   "age_hours": 18.2,
+   "age_hours": 19.6,
    "topic": "Macro & geopolitics"
-  },
-  {
-   "id": "aa5a97546170",
-   "title": "Nakheel launches first villas, townhouses at Dubai's Palm Springs",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWnBsRGtWb3FrLWREd0J2dTF2WDlsYkozU01fdHdVNmdlMjc5aXkyRlBlQXZzMjBCTGpWRm9NSXNfYk9NZTBzZG5tZFFETGs5OGFDT3doV1pwdmZWOUVqOS1mSnF0T2tCUDVObHdZRlRSQ24xWkFoZDFYeTV6UGh0aVA3Qzl4N0RRd2RtWHRFZDJzNFdfRUJZeU9lZzNuZ9IBpgFBVV95cUxOODU3US0xdUctWGRsRU1SRUU0S01tWk4zZDBfdnVGb1V3UXFEQnU0NGF6cE83OGkyWHNHSTF4NE1BY2xqeTRCdGtZSllsTWdCVVNnVDZkY1p5Rl9NTHVFaFo2OWhROFlLaW9zeEI5TExRRExza1RlX05UN0F3cll0X0dNNlFYMHY4TWZkeWxPTTlIak1EYmluZHZNR1ktN09yZ1hhd3V3?oc=5",
-   "source": "Khaleej Times",
-   "kind": "search",
-   "published": "2026-11-18T15:29+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Expands luxury housing supply in a prime waterfront location.",
-   "watch": false,
-   "also": [
-    "Khaleej Times"
-   ],
-   "headline": "Nakheel introduces initial villa and townhouse phase at Palm Springs",
-   "summary": "Master developer Nakheel unveiled its first collection of villas and townhouses within the Palm Springs community.",
-   "why": "New prime project launches offer fresh inventory options for high-net-worth buyers and investors.",
-   "age_hours": 23.3,
-   "topic": "nakheel"
   },
   {
    "id": "b50183cc2d07",
@@ -124,7 +121,7 @@
    "headline": "Nakheel launches massive new southern Dubai residential project",
    "summary": "Nakheel Properties has revealed a large development in southern Dubai. The community is designed to house 50,000 residents.",
    "why": "Major new community launches expand Dubai's residential supply and shape developer activity.",
-   "age_hours": 5.8,
+   "age_hours": 7.2,
    "topic": "nakheel"
   },
   {
@@ -143,7 +140,7 @@
    "headline": "Dubai villa communities to introduce drone food deliveries",
    "summary": "Residents in select villa areas can soon receive food dropped directly by drones. This service aims to bypass traditional motorbike delivery riders.",
    "why": "It highlights technological upgrades enhancing lifestyle convenience in Dubai residential communities.",
-   "age_hours": 21.7,
+   "age_hours": 23.0,
    "topic": "Infrastructure"
   },
   {
@@ -162,17 +159,17 @@
    "headline": "Abu Dhabi Luxury Property Draws Global Buyers",
    "summary": "New waterfront projects in the capital are launching innovative architectural designs. These premium residences continue to pull in international homebuyers.",
    "why": "International capital inflows directly influence luxury property values and project demand.",
-   "age_hours": 15.0,
+   "age_hours": 16.4,
    "topic": "abu dhabi"
   }
  ],
  "window_hours": 24,
  "count_relevant": 16,
- "count_fetched": 311,
+ "count_fetched": 309,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-19T14:46+04:00",
- "saved_at": "2026-11-19T14:46+04:00"
+ "as_of": "2026-11-19T16:09+04:00",
+ "saved_at": "2026-11-19T16:09+04:00"
 }
