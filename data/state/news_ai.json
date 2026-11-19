@@ -649,6 +649,24 @@
    "category": "Supply & market reports",
    "impact": "Medium",
    "impact_reason": "Highlights sector financial health and performance."
+  },
+  "e8ee8c5a11fa": {
+   "relevant": false,
+   "headline": "Dubai 2040 Urban Vision",
+   "summary": "Young professionals conceptualize a sustainable Dubai featuring advanced waste recycling by 2040. The vision focuses on round-the-clock smart city operations and green spaces.",
+   "why": "This is a speculative urban planning concept with no direct impact on current property transactions.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Speculative urban vision without immediate market impact."
+  },
+  "8156e9b1fe9a": {
+   "relevant": true,
+   "headline": "Capella Hotel Group Plans 2030 Dubai Opening",
+   "summary": "Capella Hotel Group has announced plans to launch a new hospitality property in Dubai by the year 2030.",
+   "why": "New hospitality developments influence tourism infrastructure and luxury property market sentiment.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Expands hospitality supply and luxury tourism infrastructure."
   }
  }
 }

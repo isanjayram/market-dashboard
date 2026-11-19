@@ -22,7 +22,7 @@
    "headline": "US Federal Reserve eyes bigger December rate hike",
    "summary": "Fed Governor Waller supports a half-point rate increase in December. This move counters persistent and broadening inflation concerns.",
    "why": "Interest rate changes directly impact mortgage costs and buyer financing in Dubai's pegged economy.",
-   "age_hours": 2.9,
+   "age_hours": 3.5,
    "topic": "Rates & mortgages"
   },
   {
@@ -41,7 +41,7 @@
    "headline": "USD stays strong as Fed hints at higher rates",
    "summary": "The dollar hovers near a 19-month peak following hawkish signals from Federal Reserve officials. This stance reinforces expectations for continued interest rate hikes ahead.",
    "why": "It influences borrowing costs and currency dynamics tied to the UAE dirham.",
-   "age_hours": 2.2,
+   "age_hours": 2.8,
    "topic": "Rates & mortgages"
   },
   {
@@ -60,7 +60,7 @@
    "headline": "Dubai ready villa sales surge 34% in October",
    "summary": "Purchasers increasingly targeted ready villas last month, causing transactions to jump significantly. This indicates a growing market preference for completed homes over off-plan projects.",
    "why": "It highlights shifting buyer demand toward ready inventory.",
-   "age_hours": 4.4,
+   "age_hours": 5.0,
    "topic": "Supply & market reports",
    "more": 2
   },
@@ -80,7 +80,7 @@
    "headline": "Dubai property market transitioning into new maturity phase",
    "summary": "The local real estate sector is entering a new stage of maturity. This evolution shapes upcoming market dynamics.",
    "why": "Market maturation trends affect long-term investment strategies and buyer confidence.",
-   "age_hours": 20.3,
+   "age_hours": 20.9,
    "topic": "Supply & market reports"
   },
   {
@@ -99,7 +99,7 @@
    "headline": "Foreign Capital Inflows Fuel Expansion of UAE Property Sector",
    "summary": "Strong international investments continue to support the ongoing growth of the local real estate market.",
    "why": "Overseas buyer liquidity directly impacts demand and pricing trends.",
-   "age_hours": 20.8,
+   "age_hours": 21.4,
    "topic": "Macro & geopolitics"
   },
   {
@@ -121,8 +121,27 @@
    "headline": "Nakheel launches massive new southern Dubai residential project",
    "summary": "Nakheel Properties has revealed a large development in southern Dubai. The community is designed to house 50,000 residents.",
    "why": "Major new community launches expand Dubai's residential supply and shape developer activity.",
-   "age_hours": 8.4,
+   "age_hours": 9.0,
    "topic": "nakheel"
+  },
+  {
+   "id": "8156e9b1fe9a",
+   "title": "Capella Hotel Group to open a property in Dubai in 2030",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ1dPYlFGYm1saHc1c3I3QzZBLUZTWjJQTzA0eEluRjNRd01heDVVZ012V0lFaFZhV054cDNITlZ4bUVqRE56ZFRxS3VIQklzckhDSURUN2lXWkw0aGJlZ2VfbnpYdk1XT0dQWU9pMzdxVC11cXZFTGRTXzVNdHhBdkZUbUN2Y01oTnNtLXN4SV9mTWxVSWpTbWNvYzE4MGQ2QVN2cGRxeEZFTVE?oc=5",
+   "source": "Travel Weekly",
+   "kind": "search",
+   "published": "2026-11-18T22:45+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Expands hospitality supply and luxury tourism infrastructure.",
+   "watch": false,
+   "headline": "Capella Hotel Group Plans 2030 Dubai Opening",
+   "summary": "Capella Hotel Group has announced plans to launch a new hospitality property in Dubai by the year 2030.",
+   "why": "New hospitality developments influence tourism infrastructure and luxury property market sentiment.",
+   "age_hours": 19.2,
+   "topic": "Developer news"
   },
   {
    "id": "d832f7f0b662",
@@ -140,17 +159,17 @@
    "headline": "Abu Dhabi Luxury Property Draws Global Buyers",
    "summary": "New waterfront projects in the capital are launching innovative architectural designs. These premium residences continue to pull in international homebuyers.",
    "why": "International capital inflows directly influence luxury property values and project demand.",
-   "age_hours": 17.6,
+   "age_hours": 18.2,
    "topic": "abu dhabi"
   }
  ],
  "window_hours": 24,
- "count_relevant": 14,
- "count_fetched": 307,
+ "count_relevant": 15,
+ "count_fetched": 301,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
- "mode": "AI summaries (saved from an earlier run)",
- "as_of": "2026-11-19T17:22+04:00",
- "saved_at": "2026-11-19T17:22+04:00"
+ "mode": "AI summaries (gemini)",
+ "as_of": "2026-11-19T17:58+04:00",
+ "saved_at": "2026-11-19T17:58+04:00"
 }
