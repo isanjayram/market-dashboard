@@ -2636,5 +2636,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"aa5a97546170": {
+"id": "aa5a97546170",
+"title": "Nakheel introduces initial villa and townhouse phase at Palm Springs",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWnBsRGtWb3FrLWREd0J2dTF2WDlsYkozU01fdHdVNmdlMjc5aXkyRlBlQXZzMjBCTGpWRm9NSXNfYk9NZTBzZG5tZFFETGs5OGFDT3doV1pwdmZWOUVqOS1mSnF0T2tCUDVObHdZRlRSQ24xWkFoZDFYeTV6UGh0aVA3Qzl4N0RRd2RtWHRFZDJzNFdfRUJZeU9lZzNuZ9IBpgFBVV95cUxOODU3US0xdUctWGRsRU1SRUU0S01tWk4zZDBfdnVGb1V3UXFEQnU0NGF6cE83OGkyWHNHSTF4NE1BY2xqeTRCdGtZSllsTWdCVVNnVDZkY1p5Rl9NTHVFaFo2OWhROFlLaW9zeEI5TExRRExza1RlX05UN0F3cll0X0dNNlFYMHY4TWZkeWxPTTlIak1EYmluZHZNR1ktN09yZ1hhd3V3?oc=5",
+"source": "Khaleej Times",
+"category": "Developer news",
+"published": "2026-11-18T15:29+04:00",
+"first_seen": "2026-11-19",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": "Palm Springs",
+"developer": "Nakheel",
+"location": null,
+"type": "villa and townhouse",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

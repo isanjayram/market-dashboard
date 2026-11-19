@@ -1,312 +1,4 @@
 {
- "2026-11-17": {
-  "bad6f9788391": {
-   "relevant": false,
-   "headline": "Global Stock Markets Slide on Tech Curbs and Fed Rate Fears",
-   "summary": "Major international stock exchanges retreated due to strict US chip restrictions on China and anticipated Federal Reserve rate hikes.",
-   "why": "This is general global stock market news with no direct local real estate impact.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "No direct local real estate impact."
-  },
-  "aa1db62fc84a": {
-   "relevant": false,
-   "headline": "Gold Prices Gain Slightly But Stay Near Lows",
-   "summary": "Spot gold increased marginally while remaining near annual lows pressured by a strong dollar and expected rate hikes.",
-   "why": "Precious metals pricing does not directly influence Dubai property transactions.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Irrelevant to property transactions."
-  },
-  "254204fb3d7f": {
-   "relevant": true,
-   "headline": "UAE Launches First Property Black Friday Sale Event",
-   "summary": "A new year-end promotional campaign offers property deals starting from AED 500 to boost market activity.",
-   "why": "This promotional event directly impacts buyer sentiment and developer sales activity.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Boosts year-end sales and buyer engagement."
-  },
-  "fff0c0f9a8ec": {
-   "relevant": true,
-   "headline": "Dubai Luxury Property Sales Reach $23.2bn",
-   "summary": "High-end real estate transactions surged in Dubai, including thirteen ultra-luxury apartments selling above AED 100 million each.",
-   "why": "Luxury sales figures indicate strong high-end market performance.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Highlights robust luxury market demand."
-  },
-  "7837b9b589ec": {
-   "relevant": true,
-   "headline": "ITAT Mumbai Rules in Favor of Taxpayer Over Husband Remittance",
-   "summary": "An Indian tax tribunal cleared a taxpayer after her Dubai-based husband directly funded part of her property purchase.",
-   "why": "This ruling affects cross-border remittance compliance for NRI property buyers.",
-   "category": "Regulation & fees",
-   "impact": "Medium",
-   "impact_reason": "Clarifies cross-border property funding rules."
-  },
-  "1e1e61c6a36e": {
-   "relevant": false,
-   "headline": "Alef Group Partners for 3D Advertising Screen at 06 Mall",
-   "summary": "Sharjah's 06 Mall is set to install a new 3D advertising display in partnership with CITIX MENA.",
-   "why": "This is a retail advertising update unrelated to real estate investment.",
-   "category": "Infrastructure",
-   "impact": "Low",
-   "impact_reason": "Unrelated to real estate investment."
-  },
-  "ab44ce272102": {
-   "relevant": false,
-   "headline": "Brent Oil Slips on Rising Middle East Exports",
-   "summary": "Crude prices dropped as recovering regional exports outweighed ongoing geopolitical tensions across Gulf shipping lanes.",
-   "why": "Oil price fluctuations do not directly alter property market fundamentals.",
-   "category": "Supply & market reports",
-   "impact": "Low",
-   "impact_reason": "Does not directly alter property fundamentals."
-  },
-  "7353d823c0c8": {
-   "relevant": true,
-   "headline": "VIP PLUS Real Estate Trustee Office Partners With DefiPay",
-   "summary": "A Dubai Land Department authorized trustee office has joined forces with DefiPay to modernize payment options.",
-   "why": "Partnerships involving DLD-authorised trustees impact transaction processes.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Introduces new payment processing capabilities."
-  },
-  "8cfea87af104": {
-   "relevant": true,
-   "headline": "Gold ranks as the top investment choice in the UAE",
-   "summary": "A recent survey reveals gold is the most widely held asset among UAE investors. This trend highlights shifting investor preferences across local markets.",
-   "why": "It shows broader investment sentiment competing with real estate capital.",
-   "category": "Supply & market reports",
-   "impact": "Low",
-   "impact_reason": "Shifts investor focus away from property."
-  },
-  "1aeac8a4ef76": {
-   "relevant": true,
-   "headline": "Abu Dhabi introduces a zero percent rent freeze",
-   "summary": "Abu Dhabi implements a zero percent rent freeze policy. Tenants, landlords, and investors must understand its key implications.",
-   "why": "It directly affects rental income and tenant regulations in the capital.",
-   "category": "Regulation & fees",
-   "impact": "Medium",
-   "impact_reason": "Alters rental yields and tenant costs."
-  },
-  "c74ff899e8b3": {
-   "relevant": false,
-   "headline": "Savills appoints Jonathan Tagg in Abu Dhabi",
-   "summary": "Savills names Jonathan Tagg as its new Head of Residential for Abu Dhabi.",
-   "why": "Corporate personnel appointments do not impact market fundamentals.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Standard corporate hiring announcement."
-  },
-  "c6ee09f3b2b1": {
-   "relevant": true,
-   "headline": "SPPC unit signs MoU to sell Dubai property",
-   "summary": "An SPPC unit signed a memorandum of understanding to sell a Dubai property. The transaction is valued at SAR 7.9 million.",
-   "why": "It highlights specific commercial property transactions in Dubai.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Isolated transaction with minimal market-wide effect."
-  },
-  "23a912cae369": {
-   "relevant": true,
-   "headline": "Emaar expands into Abu Dhabi luxury homes sector",
-   "summary": "Developer Emaar is setting its sights on the luxury residential market in Abu Dhabi.",
-   "why": "Major developer expansion influences high-end housing supply and competition.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Increases competition in the luxury segment."
-  },
-  "8abcdc6fbe5d": {
-   "relevant": true,
-   "headline": "Hong Kong surpasses Dubai as top luxury housing market",
-   "summary": "Hong Kong has overtaken Dubai to become the leading market for super-luxury homes. Analysts question whether this shift will be sustained.",
-   "why": "Global wealth ranking changes affect international luxury property sentiment.",
-   "category": "Supply & market reports",
-   "impact": "Low",
-   "impact_reason": "Global ranking change without direct local policy shifts."
-  },
-  "2389bebacee8": {
-   "relevant": true,
-   "headline": "Emaar, Alain, and Six Senses unveil real estate plans",
-   "summary": "Several firms announce new real estate projects and funding rounds. Emaar, Alain, and Six Senses are among the developers with upcoming plans.",
-   "why": "New project pipelines alter the future supply of real estate.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Introduces new property supply and investment options."
-  },
-  "2cb1ab64dee5": {
-   "relevant": true,
-   "headline": "Binghatti and Loft & Keys expand Dubai property access",
-   "summary": "Binghatti and Loft & Keys are working to broaden market access in Kano. This initiative connects international buyers with Dubai real estate.",
-   "why": "It opens new international demand channels for Dubai properties.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Drives foreign buyer demand into Dubai."
-  },
-  "1332de58beee": {
-   "relevant": true,
-   "headline": "UAE Leads GCC Debt Holdings Surge",
-   "summary": "Fitch reports that foreign banks' holdings of GCC debt exceeded $110 billion by mid-2026. This reflects a 41 percent year-on-year increase driven by Gulf issuers tapping international markets.",
-   "why": "It shows strong regional liquidity and foreign investor confidence, which indirectly supports the broader UAE economy and real estate market.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Reflects strong regional liquidity and economic stability."
-  },
-  "9b63c8ff98ef": {
-   "relevant": true,
-   "headline": "U.S. Dollar Hits 19-Month High",
-   "summary": "The dollar reached 103.69 due to rising inflation and expectations of further Federal Reserve interest rate hikes. This global currency movement affects pegged currencies like the UAE dirham.",
-   "why": "A stronger dollar influences borrowing costs and macroeconomic conditions for property buyers utilizing mortgages tied to regional rates.",
-   "category": "Rates & mortgages",
-   "impact": "Medium",
-   "impact_reason": "Affects macroeconomic conditions and regional borrowing costs."
-  },
-  "aee91eda9240": {
-   "relevant": false,
-   "headline": "Dubai Real Estate Growth Drivers",
-   "summary": "What will shape Dubai's next phase of real estate growth?",
-   "why": "This is an opinion piece without concrete news facts.",
-   "category": "Macro & geopolitics",
-   "impact": "Medium",
-   "impact_reason": "Opinion piece lacking concrete news facts."
-  },
-  "a577b411bea0": {
-   "relevant": false,
-   "headline": "EMEA Stakeholder Conference in Dubai",
-   "summary": "2026 EMEA Stakeholder Conference brings together more than 800 hospitality and real estate leaders in Dubai.",
-   "why": "This is an industry event announcement rather than actionable market news.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Industry event announcement with no direct market impact."
-  },
-  "8a178e3d064a": {
-   "relevant": false,
-   "headline": "Abu Dhabi Developer Wins Ten Awards",
-   "summary": "Abu Dhabi-based Burtville Developments secured 10 honors at the Arabian Property Awards for architectural design and sustainability.",
-   "why": "Property awards are corporate PR pieces that do not impact market fundamentals.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Corporate PR piece with no direct market impact."
-  },
-  "d605b1f8dfb4": {
-   "relevant": true,
-   "headline": "Dubai Tenant Avoids Eviction via Settlement",
-   "summary": "A commercial tenant facing eviction over unpaid rent settled a Dh1.2 million dispute through the Rental Disputes Center. The agreement secured a two-year lease renewal and prevented eviction.",
-   "why": "It highlights how Dubai's RDC effectively mediates major commercial disputes and protects lease continuity.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Individual settlement case with limited broader market impact."
-  },
-  "9cb71e2da40b": {
-   "relevant": false,
-   "headline": "Abu Dhabi's Rent Freeze Details",
-   "summary": "Abu Dhabi's 0% rent freeze: What tenants, landlords and investors need to know.",
-   "why": "The teaser is empty and the title lacks specific new factual updates.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Empty teaser lacks actionable details for the market."
-  },
-  "3f2901f4e6bd": {
-   "relevant": true,
-   "headline": "Al Maktoum Airport expansion employs over 100,000 workers",
-   "summary": "Work on the massive $35 billion airport project is progressing rapidly with extensive groundwork underway. Paul Griffiths confirmed the current workforce numbers during a recent media briefing.",
-   "why": "Major infrastructure developments directly influence surrounding property values and long-term demand.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Boosts long-term regional real estate demand."
-  },
-  "5565a16cc644": {
-   "relevant": true,
-   "headline": "Emaar and Al Ain Asset Management launch Abu Dhabi projects",
-   "summary": "The two entities are collaborating to build residential properties worth AED 8 billion in Abu Dhabi.",
-   "why": "New large-scale residential launches alter future housing supply and market dynamics.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Introduces significant new residential supply."
-  },
-  "5ddb3563a727": {
-   "relevant": false,
-   "headline": "Savills names Jonathan Tagg Abu Dhabi Residential Head",
-   "summary": "Savills has appointed Jonathan Tagg to lead its residential division in Abu Dhabi.",
-   "why": "Corporate personnel appointments do not impact market fundamentals or buyer costs.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Corporate personnel change with no market impact."
-  },
-  "51dbe6aece0a": {
-   "relevant": false,
-   "headline": "Filipino agent succeeds in Dubai real estate",
-   "summary": "A young Filipino professional has built a thriving career in Dubai's property market.",
-   "why": "Personal success stories and agent profiles offer no actionable market news.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Human interest lifestyle piece."
-  },
-  "0053daaa0880": {
-   "relevant": true,
-   "headline": "UAE investors weigh gold, crypto, and property options",
-   "summary": "Local investors are exploring diverse asset classes including real estate, gold, and digital currencies. Market participants are actively assessing which sectors offer the best growth potential.",
-   "why": "It highlights shifting investor interest across major asset classes relevant to property demand.",
-   "category": "Supply & market reports",
-   "impact": "Low",
-   "impact_reason": "General market overview without direct policy changes."
-  },
-  "05708d8596a8": {
-   "relevant": true,
-   "headline": "BEYOND Developments unveils Dh3 billion Shione project",
-   "summary": "A new twin-building residential community has been launched on Dubai Islands. The development represents a significant addition to the emirate's housing pipeline.",
-   "why": "It introduces a major new residential project to the local market.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Adds fresh supply and investment options."
-  },
-  "f9e090b64473": {
-   "relevant": false,
-   "headline": "Abu Dhabi developer wins multiple awards",
-   "summary": "An Abu Dhabi real estate firm has received several industry accolades.",
-   "why": "Corporate awards do not impact market fundamentals.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Purely promotional corporate news."
-  },
-  "bc8560010ec9": {
-   "relevant": false,
-   "headline": "Dubai tenant avoids eviction in large rental deal",
-   "summary": "A tenant successfully navigated an eviction situation involving a high-value rental property.",
-   "why": "It is an individual tenant anecdote rather than systemic market news.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Single case study with no broad market impact."
-  },
-  "e45f22441764": {
-   "relevant": true,
-   "headline": "SPPC unit sells Dubai asset for SAR 7.9M",
-   "summary": "A subsidiary has finalized an agreement to dispose of a property located in Dubai. The transaction value reaches nearly eight million Saudi riyals.",
-   "why": "It records a cross-border corporate real estate transaction.",
-   "category": "Supply & market reports",
-   "impact": "Low",
-   "impact_reason": "Single corporate asset sale of minor scale."
-  },
-  "dac1cdfd68ca": {
-   "relevant": false,
-   "headline": "RTA provides free transport for Dubai Future Week 2026",
-   "summary": "The RTA is supplying free shuttle buses and transport choices for visitors attending the event.",
-   "why": "This is an event transportation update rather than property or market news.",
-   "category": "Infrastructure",
-   "impact": "Low",
-   "impact_reason": "Only affects event travel logistics."
-  },
-  "83e5feed0499": {
-   "relevant": true,
-   "headline": "Infrastructure to Drive Dubai Property Market",
-   "summary": "New infrastructure projects are expected to act as key catalysts for growth in the local real estate sector.",
-   "why": "It connects urban development directly to property market performance.",
-   "category": "Macro & geopolitics",
-   "impact": "Medium",
-   "impact_reason": "Boosts long-term market sentiment."
-  }
- },
  "2026-11-18": {
   "c0cc72aa3bad": {
    "relevant": true,
@@ -703,6 +395,89 @@
    "category": "Infrastructure",
    "impact": "Low",
    "impact_reason": "Enhances community convenience without altering property values."
+  }
+ },
+ "2026-11-19": {
+  "b9d34678de14": {
+   "relevant": true,
+   "headline": "Dubai Real Estate Market Reaches New Maturity Phase in 2026",
+   "summary": "Dubai property sector transitions into a mature phase. Market conditions reflect shifting dynamics for the year 2026.",
+   "why": "It outlines the overarching market cycle affecting investor sentiment and valuations.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Shifts overall market sentiment and long-term investment strategies."
+  },
+  "c902e6521661": {
+   "relevant": false,
+   "headline": "USBC Interiors Delivers Turnkey Design-to-Handover Projects",
+   "summary": "An interior design firm handles projects entirely under a single contract.",
+   "why": "This is a corporate promotional update for a single design company.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Promotional vendor news with no broad market impact."
+  },
+  "2dfeb796c9ce": {
+   "relevant": true,
+   "headline": "Dubai Home Prices Reach Record AED 1,967 Per Sq Ft",
+   "summary": "Dubai residential values climbed 18 percent above 2023 levels to hit new highs. Although sales momentum softened, property prices remain remarkably resilient.",
+   "why": "It provides critical pricing benchmarks and sales velocity data for agents.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Highlights key price records and a cooling sales pace."
+  },
+  "82ceb0a292d7": {
+   "relevant": false,
+   "headline": "Sharjah Real Estate Opens Registration for Excellence Award 2026",
+   "summary": "Sharjah launches award registration for sector excellence.",
+   "why": "Awards and ceremony registrations do not affect property values or policies.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Industry awards carry no direct financial or operational consequence."
+  },
+  "74ad604c888e": {
+   "relevant": false,
+   "headline": "Paraguay Bank Failure Losses May Reach $1 Billion",
+   "summary": "Central bank chief warns of massive losses following a banking collapse in Paraguay.",
+   "why": "International banking failures in South America do not impact UAE real estate.",
+   "category": "Rates & mortgages",
+   "impact": "Low",
+   "impact_reason": "Geographically irrelevant to the local UAE property market."
+  },
+  "4137fd05dd6b": {
+   "relevant": true,
+   "headline": "Foreign Capital Inflows Fuel Expansion of UAE Property Sector",
+   "summary": "Strong international investments continue to support the ongoing growth of the local real estate market.",
+   "why": "Overseas buyer liquidity directly impacts demand and pricing trends.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Foreign investment drives ongoing liquidity and demand growth."
+  },
+  "c9e1f3102404": {
+   "relevant": true,
+   "headline": "Abu Dhabi Home Prices Rise as 39,000 New Units Approach",
+   "summary": "Abu Dhabi apartment and villa prices grew significantly year-on-year. The emirate is preparing for a massive influx of new residential supply.",
+   "why": "It tracks price appreciation and future inventory pipelines in the capital.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Signals strong price growth alongside a looming supply increase."
+  },
+  "ef3c424c2275": {
+   "relevant": true,
+   "headline": "Dubai Housing Prices Touch Four-Year High Amid Value Growth",
+   "summary": "Dubai property prices reach a four-year peak as the market pivots toward sustainable value expansion.",
+   "why": "Price benchmarks directly inform client advisory and valuation strategies.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects multi-year pricing peaks and evolving market behavior."
+  },
+  "d832f7f0b662": {
+   "relevant": true,
+   "headline": "Abu Dhabi Luxury Property Draws Global Buyers",
+   "summary": "New waterfront projects in the capital are launching innovative architectural designs. These premium residences continue to pull in international homebuyers.",
+   "why": "International capital inflows directly influence luxury property values and project demand.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "General market trend without immediate policy changes."
   }
  }
 }
