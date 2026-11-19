@@ -478,6 +478,69 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "General market trend without immediate policy changes."
+  },
+  "3547a55d00d1": {
+   "relevant": true,
+   "headline": "Gold prices bounce back following a fourteen-month low",
+   "summary": "Bullion recovered slightly as investors bought the dip following concerns over upcoming U.S. central bank rate increases. The market movement reflects ongoing global monetary policy shifts.",
+   "why": "Interest rate trends heavily influence mortgage costs and broader property investor sentiment.",
+   "category": "Rates & mortgages",
+   "impact": "High",
+   "impact_reason": "Shifts in global interest rates affect local mortgage financing."
+  },
+  "87ac836a82cc": {
+   "relevant": true,
+   "headline": "UAE dirham weakens against strengthening Indian rupee",
+   "summary": "Expat remittances yield lower returns as Asian currencies hold firm against the dirham. The dollar remains near multi-month highs amidst expectations of further US rate hikes.",
+   "why": "Currency fluctuations impact expatriate purchasing power and remittance flows back home.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Exchange rate shifts have minimal direct impact on property transactions."
+  },
+  "d2e48dface1f": {
+   "relevant": false,
+   "headline": "Abu Dhabi warns livestock farm tenants about lease compliance",
+   "summary": "Agricultural tenants face immediate repossession without warning if they breach lease terms. The municipality is strictly enforcing operational rules for livestock plots.",
+   "why": "The news focuses strictly on agricultural livestock lease enforcement rather than property markets.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Agricultural lease rules do not impact real estate markets."
+  },
+  "0f2f8cd452bf": {
+   "relevant": false,
+   "headline": "Aldar subsidiary introduces members clubs for UK homeowners",
+   "summary": "London Square will integrate exclusive members clubs into its residential projects across the British capital. Charter memberships come bundled with property purchases in these developments.",
+   "why": "The project is located outside the UAE and has no relevance to local real estate.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "International development updates do not affect local buyer decisions."
+  },
+  "05708d8596a8": {
+   "relevant": true,
+   "headline": "BEYOND Developments launches Dh3 billion twin-tower project on Dubai Islands",
+   "summary": "A new residential community called Shione has been introduced to the market by BEYOND Developments. The twin-building project represents a significant multi-billion-dirham investment on Dubai Islands.",
+   "why": "New residential launches directly impact local supply and investor opportunities.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Adds new residential supply and development options to market."
+  },
+  "6aad05716737": {
+   "relevant": true,
+   "headline": "Saadiyat Island records massive property transactions amid cultural boom",
+   "summary": "Property deals on Abu Dhabi's Saadiyat Island reached Dh18.69 billion. The surge is driven by a thriving local cultural sector.",
+   "why": "High transaction volumes indicate strong buyer demand and market health in key areas.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects strong buyer demand and high market activity."
+  },
+  "d7395294dab4": {
+   "relevant": true,
+   "headline": "Emaar reveals two billion dollar branded residence pipeline for Abu Dhabi",
+   "summary": "Emaar has announced a major new pipeline of hospitality-branded residences in Abu Dhabi. The expansion targets the luxury segment in the capital.",
+   "why": "Major developer pipelines signal future inventory growth and luxury market trends.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Expands luxury residential supply in the capital."
   }
  }
 }

@@ -321,5 +321,61 @@
 "impact_reason": "General market context",
 "watch": false,
 "topic": "rents"
+},
+{
+"id": "3547a55d00d1",
+"headline": "Gold prices bounce back following a fourteen-month low",
+"summary": "Bullion recovered slightly as investors bought the dip following concerns over upcoming U.S. central bank rate increases. The market movement reflects ongoing global monetary policy shifts.",
+"why": "Interest rate trends heavily influence mortgage costs and broader property investor sentiment.",
+"source": "Economy Middle East",
+"link": "https://economymiddleeast.com/news/gold-prices-rebound-to-3729-06-after-hitting-14-month-low-on-fed-rate-hike-concerns/?utm_source=rss&utm_medium=rss&utm_campaign=gold-prices-rebound-to-3729-06-after-hitting-14-month-low-on-fed-rate-hike-concerns",
+"published": "2026-11-19T09:48+04:00",
+"category": "Rates & mortgages",
+"impact": "High",
+"impact_reason": "Shifts in global interest rates affect local mortgage financing.",
+"watch": false,
+"topic": "Rates & mortgages"
+},
+{
+"id": "6aad05716737",
+"headline": "Saadiyat Island records massive property transactions amid cultural boom",
+"summary": "Property deals on Abu Dhabi's Saadiyat Island reached Dh18.69 billion. The surge is driven by a thriving local cultural sector.",
+"why": "High transaction volumes indicate strong buyer demand and market health in key areas.",
+"source": "Menafn",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbElLQmpsbWtHcENPV2ZWaWdKZlUyLXVJdGNhc1pPVXRDQ0puZzVPN21jT3VlX0h6eW5FdHJUUWI2VzB5bmVQOC1CM1ZVbF9zM2VwQzJMUTJZWG93ekFKbVBQcUpPUjZkZzZhNWJlckVPbElQbXg5U2xXQXBMekJ6Nkx6QTdVNHVxZktPeGFVSFIxbU8waTE1Wi1wZkk0Nkh1UGJQVzFuVmdvR0pKTlp2QjNIX3d0RzQ?oc=5",
+"published": "2026-11-18T13:24+04:00",
+"category": "Supply & market reports",
+"impact": "Medium",
+"impact_reason": "Reflects strong buyer demand and high market activity.",
+"watch": false,
+"topic": "abu dhabi"
+},
+{
+"id": "d7395294dab4",
+"headline": "Emaar reveals two billion dollar branded residence pipeline for Abu Dhabi",
+"summary": "Emaar has announced a major new pipeline of hospitality-branded residences in Abu Dhabi. The expansion targets the luxury segment in the capital.",
+"why": "Major developer pipelines signal future inventory growth and luxury market trends.",
+"source": "Gulf Daily News (Bahrain)",
+"link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10MUF6R1JNbHR2ZjRmbkpLWUF3NU9OcTU1YWhlbG5qODRrZXZWYzVWM0liUENVMFQ0NGFNb2R2c0NDaUtqSlZrVUFDWExaSHlCWkg0?oc=5",
+"published": "2026-11-18T00:55+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Expands luxury residential supply in the capital.",
+"watch": false,
+"topic": "abu dhabi"
+},
+{
+"id": "87ac836a82cc",
+"headline": "UAE dirham weakens against strengthening Indian rupee",
+"summary": "Expat remittances yield lower returns as Asian currencies hold firm against the dirham. The dollar remains near multi-month highs amidst expectations of further US rate hikes.",
+"why": "Currency fluctuations impact expatriate purchasing power and remittance flows back home.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/business/markets/expats-dirham-buys-less-as-indian-rupee-strengthens-peso-steadies-1.500751826",
+"published": "2026-11-18T12:38+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "Exchange rate shifts have minimal direct impact on property transactions.",
+"watch": true,
+"topic": "Macro & geopolitics"
 }
 ]

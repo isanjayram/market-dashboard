@@ -1,6 +1,30 @@
 {
  "top": [
   {
+   "id": "3547a55d00d1",
+   "title": "Gold prices rebound to $3,729.06 after hitting 14-month low on Fed rate hike concerns",
+   "link": "https://economymiddleeast.com/news/gold-prices-rebound-to-3729-06-after-hitting-14-month-low-on-fed-rate-hike-concerns/?utm_source=rss&utm_medium=rss&utm_campaign=gold-prices-rebound-to-3729-06-after-hitting-14-month-low-on-fed-rate-hike-concerns",
+   "source": "Economy Middle East",
+   "kind": "outlet",
+   "published": "2026-11-19T09:48+04:00",
+   "tags": [
+    "gold prices",
+    "inflation",
+    "interest rate",
+    "United States"
+   ],
+   "teaser": "Gold prices recovered on Thursday after tumbling to their lowest level in more than a year in the previous session, as investors took advantage of the steep decline to buy bullion despite mounting expectations that the U.S. Federal Reserve will continue raising interest rates. As of 5:23 GMT, spot gold rose 0.11 percent to $3,729.06 [\u2026] The post Gold prices rebound to $3,729.06 after hitting 14-mo",
+   "category": "Rates & mortgages",
+   "impact": "High",
+   "impact_reason": "Shifts in global interest rates affect local mortgage financing.",
+   "watch": false,
+   "headline": "Gold prices bounce back following a fourteen-month low",
+   "summary": "Bullion recovered slightly as investors bought the dip following concerns over upcoming U.S. central bank rate increases. The market movement reflects ongoing global monetary policy shifts.",
+   "why": "Interest rate trends heavily influence mortgage costs and broader property investor sentiment.",
+   "age_hours": 3.0,
+   "topic": "Rates & mortgages"
+  },
+  {
    "id": "4137fd05dd6b",
    "title": "Strong inflows of foreign capital driving the growth of UAE real estate",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOWpOOFR3dGNWdHprZUphZVgxaVVOOWpxV2NKTzJ2amRZeFh0ZWpOTEU1R3hNci0xYnRrZVhPTkhFeThZS0JnVTN5R3hLblBkTUJUYUJKQks0alFGZWdmOVozMFZ6cFR3N0R5UWFJVFQybThfeDYyMVFVUmIzcHRTUElaVnc1NkFNckFiaXZGVWJRQzZ6Q2VSbTlvZ1EwVjZ3ajB3ZUFidGhHRjhKRGNVOWhsejhUd9IBtgFBVV95cUxOOWpOOFR3dGNWdHprZUphZVgxaVVOOWpxV2NKTzJ2amRZeFh0ZWpOTEU1R3hNci0xYnRrZVhPTkhFeThZS0JnVTN5R3hLblBkTUJUYUJKQks0alFGZWdmOVozMFZ6cFR3N0R5UWFJVFQybThfeDYyMVFVUmIzcHRTUElaVnc1NkFNckFiaXZGVWJRQzZ6Q2VSbTlvZ1EwVjZ3ajB3ZUFidGhHRjhKRGNVOWhsejhUdw?oc=5",
@@ -16,33 +40,8 @@
    "headline": "Foreign Capital Inflows Fuel Expansion of UAE Property Sector",
    "summary": "Strong international investments continue to support the ongoing growth of the local real estate market.",
    "why": "Overseas buyer liquidity directly impacts demand and pricing trends.",
-   "age_hours": 11.7,
-   "topic": "Macro & geopolitics",
-   "more": 2
-  },
-  {
-   "id": "c9e1f3102404",
-   "title": "Abu Dhabi real estate prices climb as nearly 39,000 new units enter pipeline",
-   "link": "https://economymiddleeast.com/news/abu-dhabi-real-estate-prices-climb-as-nearly-39000-new-units-enter-pipeline/?utm_source=rss&utm_medium=rss&utm_campaign=abu-dhabi-real-estate-prices-climb-as-nearly-39000-new-units-enter-pipeline",
-   "source": "Economy Middle East",
-   "kind": "outlet",
-   "published": "2026-11-18T17:48+04:00",
-   "tags": [
-    "Abu Dhabi",
-    "investment",
-    "Property"
-   ],
-   "teaser": "Abu Dhabi\u2019s residential real estate prices continued to climb in the third quarter of 2026, with apartment prices rising 11 percent and villa prices increasing 8.9 percent year-on-year, as the emirate prepares for a major expansion in housing supply, with nearly 39,000 new homes expected to enter the market over the next two years, according [\u2026] The post Abu Dhabi real estate prices climb as nearl",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Signals strong price growth alongside a looming supply increase.",
-   "watch": false,
-   "headline": "Abu Dhabi Home Prices Rise as 39,000 New Units Approach",
-   "summary": "Abu Dhabi apartment and villa prices grew significantly year-on-year. The emirate is preparing for a massive influx of new residential supply.",
-   "why": "It tracks price appreciation and future inventory pipelines in the capital.",
-   "age_hours": 14.5,
-   "topic": "abu dhabi",
-   "more": 3
+   "age_hours": 16.2,
+   "topic": "Macro & geopolitics"
   },
   {
    "id": "ef3c424c2275",
@@ -60,9 +59,9 @@
    "headline": "Dubai Housing Prices Touch Four-Year High Amid Value Growth",
    "summary": "Dubai property prices reach a four-year peak as the market pivots toward sustainable value expansion.",
    "why": "Price benchmarks directly inform client advisory and valuation strategies.",
-   "age_hours": 15.7,
+   "age_hours": 20.2,
    "topic": "Supply & market reports",
-   "more": 5
+   "more": 3
   },
   {
    "id": "1a0e741497df",
@@ -80,7 +79,7 @@
    "headline": "Strong buyer demand drives imminent Dubai property purchases",
    "summary": "Property demand climbs as nearly seventy percent of surveyed buyers intend to purchase within six months.",
    "why": "Short-term buyer intent data helps agents gauge immediate pipeline opportunities and market readiness.",
-   "age_hours": 16.6,
+   "age_hours": 21.1,
    "topic": "Supply & market reports"
   },
   {
@@ -102,7 +101,7 @@
    "headline": "Nakheel introduces initial villa and townhouse phase at Palm Springs",
    "summary": "Master developer Nakheel unveiled its first collection of villas and townhouses within the Palm Springs community.",
    "why": "New prime project launches offer fresh inventory options for high-net-worth buyers and investors.",
-   "age_hours": 16.8,
+   "age_hours": 21.3,
    "topic": "nakheel"
   },
   {
@@ -121,26 +120,26 @@
    "headline": "Dubai Real Estate Market Reaches New Maturity Phase in 2026",
    "summary": "Dubai property sector transitions into a mature phase. Market conditions reflect shifting dynamics for the year 2026.",
    "why": "It outlines the overarching market cycle affecting investor sentiment and valuations.",
-   "age_hours": 17.9,
+   "age_hours": 22.4,
    "topic": "Macro & geopolitics"
   },
   {
-   "id": "f23a2bd0ea9b",
-   "title": "Abu Dhabi residential property sales values climb nearly 40% year-on-year to AED26.4bln",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZTZNRFZLc0xhS0ZZSGtQR3IyeDJVZ1JucFk0eW1DX0xla1pUVzAxbHNHYUNULV9BQ3dlenlVVDdDQVZ3UFZidjBUTno5VU1UN1h6RTFWUGsxZDN1OHh2QTBYUk9Xd1V5SUNqZzAtTVVmc3lOblg1NmpRYlFhaTVpaWxMd1dlTHk4UWxDbWpIczlOYURXNWs5cEN5bGFvVXVNbHJneXdGX1NXYzVicC1LbWVSbVd1bEltZF9HbDRsQ3pUODQ2VFJCYTVKZEJWNGYxcnQ0eDlIWmxmNFE4OGJabU9LT2Q?oc=5",
-   "source": "Zawya",
+   "id": "6aad05716737",
+   "title": "Abu Dhabi's Saadiyat Island Records Dh18.69 Billion In Property Deals Amid Cultural Boom",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbElLQmpsbWtHcENPV2ZWaWdKZlUyLXVJdGNhc1pPVXRDQ0puZzVPN21jT3VlX0h6eW5FdHJUUWI2VzB5bmVQOC1CM1ZVbF9zM2VwQzJMUTJZWG93ekFKbVBQcUpPUjZkZzZhNWJlckVPbElQbXg5U2xXQXBMekJ6Nkx6QTdVNHVxZktPeGFVSFIxbU8waTE1Wi1wZkk0Nkh1UGJQVzFuVmdvR0pKTlp2QjNIX3d0RzQ?oc=5",
+   "source": "Menafn",
    "kind": "search",
-   "published": "2026-11-18T12:45+04:00",
+   "published": "2026-11-18T13:24+04:00",
    "tags": [],
    "teaser": "",
    "category": "Supply & market reports",
    "impact": "Medium",
-   "impact_reason": "Highlights robust capital growth and positive market sentiment.",
+   "impact_reason": "Reflects strong buyer demand and high market activity.",
    "watch": false,
-   "headline": "Abu Dhabi home sales jump nearly 40% to AED 26.4 billion",
-   "summary": "Residential property sales values in Abu Dhabi experienced a significant year-on-year increase. Total transaction values reached AED 26.4 billion.",
-   "why": "It shows strong growth and rising buyer demand in the capital's residential property market.",
-   "age_hours": 19.5,
+   "headline": "Saadiyat Island records massive property transactions amid cultural boom",
+   "summary": "Property deals on Abu Dhabi's Saadiyat Island reached Dh18.69 billion. The surge is driven by a thriving local cultural sector.",
+   "why": "High transaction volumes indicate strong buyer demand and market health in key areas.",
+   "age_hours": 23.4,
    "topic": "abu dhabi"
   },
   {
@@ -149,7 +148,7 @@
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd2lNbTM3eVh5WFFQZGRibHdGMU03akFCaWw5Nk1oeDlvUl95aHJGTi11WlJLMHFMdC1wd1lHQnNiWGQtcGNvdXJEa3pZLUdmOVZ3M3RHYzI0ekJmZWxrM1VHVXd6cjJHeU1XaVBHdTRXRG9xNm5ldGVydndBSG4tMUZOcXVpeFFtSGo5Nktqa2gxSHhWYmE1YUNoYzk1U3NGOEVHNHE4N2R0U1QyWlMwM1RPSXh4N1FiZXBsZlFIVQ?oc=5",
    "source": "Curly Tales",
    "kind": "search",
-   "published": "2026-11-18T12:44+04:00",
+   "published": "2026-11-18T13:18+04:00",
    "tags": [],
    "teaser": "",
    "category": "Developer news",
@@ -162,7 +161,7 @@
    "headline": "Nakheel launches massive Palm Springs masterplan in southern Dubai",
    "summary": "Nakheel has announced Palm Springs, a sprawling 3.8 million square metre residential development. The new project expands housing supply in southern Dubai.",
    "why": "Mega-projects add significant inventory and shape future supply trends in the city.",
-   "age_hours": 19.6,
+   "age_hours": 23.5,
    "topic": "nakheel"
   },
   {
@@ -181,36 +180,37 @@
    "headline": "Dubai villa communities to introduce drone food deliveries",
    "summary": "Residents in select villa areas can soon receive food dropped directly by drones. This service aims to bypass traditional motorbike delivery riders.",
    "why": "It highlights technological upgrades enhancing lifestyle convenience in Dubai residential communities.",
-   "age_hours": 15.2,
+   "age_hours": 19.7,
    "topic": "Infrastructure"
   },
   {
-   "id": "fa4582508cf5",
-   "title": "Dubai Retail at a Crossroads: Rising Rents and the Price of Luxury",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSzAxb29OYnVxWXpIS2lvWTNUS1U1NDVKR1FUdHBVOXJybXNManNzREJwRThaa1ZrcnFwSUJsVnFha3FCQk02d0NjWGU0RjRVR29MeVYtbjQzZTFHX3p0bWRHNVZlcFZYaWlHeE1zVXROajhoR1o4cG5IZjdXekY1WUxhUHE3Nk5DcTE2dlVLbDY3dmlMTFp4eS1KLUFYN2JnaDJ4SlpXTHR5cXgz?oc=5",
-   "source": "Dubai Chronicle",
+   "id": "d832f7f0b662",
+   "title": "Abu Dhabi\u2019s luxury real estate market continues to attract attention from international investors and homebuyers, with new waterfront developments bringing distinctive architectural concepts and premium residential offerings to the capital",
+   "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPaEJiRkZjc24yeTVYZkF6ZXhwaFBJSGY5ckpYVEhlUDRIX1VGcVRrT2hhWVRNdmJhQktpLWxaMGdwQVRxWmxGVjhtaVMxVzNEYzNUT2J2TDN1TC1meWx4ZUFDSE4zcHU4R1JXYV94RU9VajFjNWt4WEdqUjhld3Z5MUx2UWswR28wdmZIbmdiQzdKSjNUUHhzZi1NZUJXVkREeE9JNzRQQlU4VkFQU19sekRyTkJnVl80aUYyRk1MdzhOUFhTQnFjejBxSGdBNjJwZUpEQUt0YUVtZHlUdmFTMTJZWmRhNUwyY0hiVHBfLVJxWGxBWENtX08telVFN3gtRkNSNlRVbEZHbW1sQVBYMlBvSE0yUmxRNHZHTzJWRXRzUFpndzA2TlN5djdLbHBoUXpibkdYOHI4emw1QVNjU2J1WWUtMlExU1RxN2Nocw?oc=5",
+   "source": "Inter Press Service",
    "kind": "search",
-   "published": "2026-11-18T09:53+04:00",
+   "published": "2026-11-18T23:46+04:00",
    "tags": [],
    "teaser": "",
    "category": "Macro & geopolitics",
    "impact": "Low",
-   "impact_reason": "General market context",
+   "impact_reason": "General market trend without immediate policy changes.",
    "watch": false,
-   "headline": "Dubai Retail at a Crossroads: Rising Rents and the Price of Luxury",
-   "summary": "",
-   "why": "can move investor sentiment; expect questions about where the market is heading.",
-   "age_hours": 22.4,
-   "topic": "rents"
+   "headline": "Abu Dhabi Luxury Property Draws Global Buyers",
+   "summary": "New waterfront projects in the capital are launching innovative architectural designs. These premium residences continue to pull in international homebuyers.",
+   "why": "International capital inflows directly influence luxury property values and project demand.",
+   "age_hours": 13.0,
+   "topic": "abu dhabi"
   }
  ],
  "window_hours": 24,
- "count_relevant": 22,
- "count_fetched": 296,
+ "count_relevant": 17,
+ "count_fetched": 261,
  "feed_errors": {
-  "Khaleej Times": "HTTPError"
+  "Khaleej Times": "HTTPError",
+  "News search: rules and fees": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-19T08:17+04:00",
- "saved_at": "2026-11-19T08:17+04:00"
+ "as_of": "2026-11-19T12:47+04:00",
+ "saved_at": "2026-11-19T12:47+04:00"
 }

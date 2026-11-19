@@ -2658,5 +2658,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"d7395294dab4": {
+"id": "d7395294dab4",
+"title": "Emaar reveals two billion dollar branded residence pipeline for Abu Dhabi",
+"link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10MUF6R1JNbHR2ZjRmbkpLWUF3NU9OcTU1YWhlbG5qODRrZXZWYzVWM0liUENVMFQ0NGFNb2R2c0NDaUtqSlZrVUFDWExaSHlCWkg0?oc=5",
+"source": "Gulf Daily News (Bahrain)",
+"category": "Developer news",
+"published": "2026-11-18T00:55+04:00",
+"first_seen": "2026-11-19",
+"kind": "Off-plan launch",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": "Emaar",
+"location": "Abu Dhabi",
+"type": "branded residence",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
