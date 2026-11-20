@@ -514,6 +514,24 @@
    "category": "Rates & mortgages",
    "impact": "Medium",
    "impact_reason": "Improves financing accessibility and advisory for property buyers."
+  },
+  "7c1e8ebd4b44": {
+   "relevant": true,
+   "headline": "Ready-Home Sales Increase as Dubai Prices Stabilise",
+   "summary": "Completed properties are experiencing higher transaction volumes while values level off. This indicates shifting buyer preferences toward immediate move-in options.",
+   "why": "It shows current buyer trends favouring completed properties over off-plan investments.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Shifts buyer demand toward completed properties."
+  },
+  "24e4a4e958e3": {
+   "relevant": false,
+   "headline": "Industry Leaders to Discuss UAE Real Estate Outlook",
+   "summary": "Top executives will gather at an upcoming event to analyse future market trends.",
+   "why": "This is an event announcement with no actual market data or policy changes.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Panel discussions do not alter market conditions."
   }
  }
 }
