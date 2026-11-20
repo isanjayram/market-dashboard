@@ -532,6 +532,24 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Panel discussions do not alter market conditions."
+  },
+  "1c22f123fc29": {
+   "relevant": false,
+   "headline": "Gold prices drop to a fourteen month low globally",
+   "summary": "Investors are selling gold despite rising uncertainty in global financial markets. This contradiction questions gold's traditional role in portfolios.",
+   "why": "This article discusses the global gold market rather than Dubai real estate or mortgages.",
+   "category": "Macro & geopolitics",
+   "impact": null,
+   "impact_reason": "No direct link to Dubai property or mortgages."
+  },
+  "b558ceaaa4c0": {
+   "relevant": true,
+   "headline": "Lenddoo advises homeowners to check mortgages after rate hikes",
+   "summary": "Mortgage broker Lenddoo suggests UAE property owners evaluate their home loans. This comes as fixed-rate periods expire following recent base rate increases.",
+   "why": "Changes in mortgage rates directly affect buyer financing costs and borrowing capacity.",
+   "category": "Rates & mortgages",
+   "impact": "High",
+   "impact_reason": "Affects borrowing costs and monthly mortgage repayments."
   }
  }
 }
