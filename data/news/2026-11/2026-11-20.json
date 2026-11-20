@@ -201,5 +201,131 @@
 "impact_reason": "Reflects tightening monetary policy expectations influencing borrowing costs.",
 "watch": false,
 "topic": "Rates & mortgages"
+},
+{
+"id": "6c5a12ec9dfd",
+"headline": "Homeowners urged to check mortgages after UAE rate hike",
+"summary": "Local brokers advise reviewing home loans as fixed terms expire following recent rate increases by the central bank. Borrowers face higher monthly payments if they do not refinance.",
+"why": "It directly affects buyer financing costs and monthly mortgage obligations.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/business/corporate-news/corporate-4-1.500754799",
+"published": "2026-11-20T12:47+04:00",
+"category": "Rates & mortgages",
+"impact": "High",
+"impact_reason": "Changes borrowing costs for many homeowners.",
+"watch": false,
+"also": [
+"Gulf News",
+"Gulf News"
+],
+"topic": "Rates & mortgages"
+},
+{
+"id": "13782ee63eaf",
+"headline": "Financing options detailed as Dubai nears peak handovers",
+"summary": "Brokerage outlines mortgage solutions for buyers facing major payments upon property completion. Dubai is experiencing its highest residential delivery volume since 2008.",
+"why": "It helps off-plan buyers manage large final payments amid record completions.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/business/corporate-news/lenddoo-outlines-handover-mortgage-options-as-dubai-heads-for-its-highest-home-deliveries-since-2008-1.500754791",
+"published": "2026-11-20T12:43+04:00",
+"category": "Rates & mortgages",
+"impact": "Medium",
+"impact_reason": "Addresses off-plan financing during high delivery periods.",
+"watch": false,
+"also": [
+"Gulf News"
+],
+"topic": "mortgage"
+},
+{
+"id": "4a339cb90119",
+"headline": "Dubai court orders fraudsters to refund Dh2.2 million to villa buyers",
+"summary": "A local court has penalized two individuals for selling a nonexistent villa project. The defendants must return the total sum of Dh2.2 million to the affected purchasers.",
+"why": "It protects investor rights and reinforces legal accountability against fraudulent property schemes.",
+"source": "Emirates 24|7",
+"link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNzZTeXQ2V0NBQ0xOaGVNUVZjWGFxbkhDMS1FQjdNZDNSSUFhQnQ1eGhqUTI3RjJ6S0ZWT1F2M3UwTDNtbUhRakxmZUVFUEJ2NkFKaWFDdElIYmswQU9XNDdSb0F5YmRtMUJoOExya2ZSMzc4dFNXeVRUVWhaMmVlMXdaWm1yY29nMWZqcVp4OVFVNWF3U25zUFpQbjJVUXVONEtFQnNMSmtMS1lXNHRHWXhwaG9EUlFaSHdNQ2lTalAyeFVNQ2JmejFmYzhxVmNZendBWHV4TVJvS3VvM3lKcEVLeDltS1BTUGM1TWRBV3dhZ9IB8gFBVV95cUxQNzZTeXQ2V0NBQ0xOaGVNUVZjWGFxbkhDMS1FQjdNZDNSSUFhQnQ1eGhqUTI3RjJ6S0ZWT1F2M3UwTDNtbUhRakxmZUVFUEJ2NkFKaWFDdElIYmswQU9XNDdSb0F5YmRtMUJoOExya2ZSMzc4dFNXeVRUVWhaMmVlMXdaWm1yY29nMWZqcVp4OVFVNWF3U25zUFpQbjJVUXVONEtFQnNMSmtMS1lXNHRHWXhwaG9EUlFaSHdNQ2lTalAyeFVNQ2JmejFmYzhxVmNZendBWHV4TVJvS3VvM3lKcEVLeDltS1BTUGM1TWRBV3dhZw?oc=5",
+"published": "2026-11-20T05:08+04:00",
+"category": "Regulation & fees",
+"impact": "Medium",
+"impact_reason": "Strengthens legal protections and buyer confidence in off-plan developments.",
+"watch": false,
+"topic": "Regulation & fees"
+},
+{
+"id": "417682db951d",
+"headline": "Ready-home sales increase in Dubai as prices stabilise",
+"summary": "The Dubai property market is experiencing an increase in completed home transactions. This trend comes as property prices reach a more stable phase.",
+"why": "It reflects shifting buyer demand towards ready properties amid stabilizing prices.",
+"source": "Consultancy-me.com",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUm5VRDRhakMwSGNOMUJDQl9CSnNLMzJGdTJjYVdTVmZfa0lSZlZ3dkZGa2RrU3hZbUdERDV1UzdkWWlKVDRGVk5BR1lSVkp0dGVXZGg2ZXJBcmxOLVJkSG1ZYkhMNkhMc29MRGpzUjBDSndWRm1MNzc3U2VmOE5tUE90UUFfOHRGNVhGM0FVb2RfQTg4Y3Rod0Y4WC1Vc0tQLUhPX0xuWlVZVWRkbTB4b2MzUdIBuAFBVV95cUxPNkdTTXBrQjY5Wm1jZnh1YV92eU1Pa21MeU54TEFFMnpBM2xVc21WRmRjN2k4Yk0zRW8yNThuQkFCR3VXamRObm9wRG5WNXFpaDF4M3JpRmtSbjFKVkJHaVlmTmVlOFpoclc5YVduc3l0QjVOTkxCRVpwZXF2cjFKdURiUk42enJ6LThSX0ZmaXVMUVZDX1hma3VKX2JvUFF0bmlkMUFnVlVUT0Jjb2VmVWI3ZjhONnMx?oc=5",
+"published": "2026-11-20T13:20+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Highlights market shifts towards ready property sales.",
+"watch": false,
+"also": [
+"Arabian Business",
+"Consultancy-me.com"
+],
+"topic": "Developer news"
+},
+{
+"id": "98876d047bcb",
+"headline": "Business expansion reshapes Dubai commercial real estate demand",
+"summary": "Growing corporate activity across Dubai is significantly altering demand patterns for both office spaces and retail properties.",
+"why": "It highlights commercial sector trends driven by business growth.",
+"source": "businessnewsthisweek.com",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTVRjdWY4SzdXWlJ4eDhjYWNhdDRFbHRsR3ZQQWpTQWRGYmdUbkU3VEsxcjBrUExCTjV5Tk92cG4yZnJMZlFLdHBXc2hXcVBYNWpYZlk3YnF2N25rNGhZTG9FMXJxajlBMHRPN0s4ejhxaWJnTFdNTnI5TUVzdFdzdGZMczhRV1E0cGRrbGpnc2dfUTQwRUFUN2lzX283UnBOdHg1cU5mc2RxcmdXRkhzLUk2cmZfb0t0MDZrb0RobllVYk1zM0JsdTR5dXQ2aV9TQ2xUTTBFZw?oc=5",
+"published": "2026-11-20T11:32+04:00",
+"category": "Supply & market reports",
+"impact": "Medium",
+"impact_reason": "Informs investors about shifting commercial demand trends.",
+"watch": false,
+"topic": "Supply & market reports"
+},
+{
+"id": "44f9a96fb8d6",
+"headline": "Delayed handovers help ease fears of Dubai property oversupply",
+"summary": "Concerns regarding an oversupply in Dubai's real estate market are being mitigated by project delays. These postponements help regulate the flow of new inventory.",
+"why": "It provides insight into actual inventory levels and market absorption.",
+"source": "Allsopp & Allsopp",
+"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNV0JBdUowLTdQX19QeUc0QWJ5N0ZqLUlRMVhIcW14UU1pQ09heDYwLUlVQzg2REotNHB4b1JGSUQwVkRxNHpkdGVkR2ZTeXd1OUxxYW9paE5yOFNQem5IWDBnUkt6NFFaVjAzX2p0VV9SMDRtaHozZUhKQm0teXhyNmZkUjYyb0pGM1hEVldaaHlKRF9adXRTczh1TTc1RmtITTRPVUR2WmxSTWdSR05Qa3puZUZqWVl0UGdkc2gxZThLT2gtSFIzT3Y2Tm42d1Ntalg2Z2hBdkx5Sm9La1JicmlFX19zZjNSem5WbU9tRUI?oc=5",
+"published": "2026-11-20T10:34+04:00",
+"category": "Supply & market reports",
+"impact": "Medium",
+"impact_reason": "Eases market worries regarding potential oversupply.",
+"watch": false,
+"topic": "Supply & market reports"
+},
+{
+"id": "b1fc2db31d77",
+"headline": "Tax system and Golden Visa attract wealthy Indian investors",
+"summary": "Dubai's favorable tax environment and residency schemes continue to draw high-net-worth individuals from India. The Golden Visa program plays a key role in migration trends.",
+"why": "It drives international capital and buyer demand into the local market.",
+"source": "TopNews",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRzhXdWxqQzRFM3FZUTlWMV9ZV2hERXNRdjlrM2dpckRxMWZuUVloVE9OTFJFV2N5X3B3ZV9jelVLWjl1OGFjOGh4dER6LUp6bXIwcmRRbkxfS2g4NW8wTi1NV3BxTDNYVm9TSHVOVkZZSHA5Vy1keXp1MlJxVURadHZlZnhXdGhjQ2p0VFFMMkgxS2NNRU5aVTdtZHp3aVM4UzhwMWlIMy1XTTNFdklQVk1yelJMV014M3k4?oc=5",
+"published": "2026-11-20T08:04+04:00",
+"category": "Regulation & fees",
+"impact": "Medium",
+"impact_reason": "Attracts affluent foreign buyers to local real estate.",
+"watch": false,
+"also": [
+"TopNews"
+],
+"topic": "golden visa"
+},
+{
+"id": "0998649e1e8a",
+"headline": "Emaar partners with Huspy to boost mortgage services",
+"summary": "Emaar has teamed up with mortgage platform Huspy to improve financing advisory services for residential buyers. The collaboration aims to streamline the homebuying and loan acquisition process.",
+"why": "It directly impacts buyer financing options and advisory accessibility.",
+"source": "Gulf Daily News (Bahrain)",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFZOSjc5ckt0Vnlqd2IzOTFydWxEd2QzM2hDZDhyczRiUGVQUWdMRnJ3Tjd6ci1xQjdldmdoWHVDN0NqXzZzLXhaYmVlQjFVYVFyck10OVZSRW9nTGVaT0YwZ0VRVGhyRWlqSENuMVQwYW44VGVQd1VYdkNsMkxxTXAwSGdKbEtpcWxPc3Zvci1FM00ydUI5ek9WeFlCNVpIOUh6VDBLSzZCNzJraDkwZldn?oc=5",
+"published": "2026-11-20T01:14+04:00",
+"category": "Rates & mortgages",
+"impact": "Medium",
+"impact_reason": "Improves financing accessibility and advisory for property buyers.",
+"watch": false,
+"topic": "emaar"
 }
 ]

@@ -388,6 +388,132 @@
    "category": "Developer news",
    "impact": "Medium",
    "impact_reason": "Introduces a major new residential community to southern Dubai."
+  },
+  "6c5a12ec9dfd": {
+   "relevant": true,
+   "headline": "Homeowners urged to check mortgages after UAE rate hike",
+   "summary": "Local brokers advise reviewing home loans as fixed terms expire following recent rate increases by the central bank. Borrowers face higher monthly payments if they do not refinance.",
+   "why": "It directly affects buyer financing costs and monthly mortgage obligations.",
+   "category": "Rates & mortgages",
+   "impact": "High",
+   "impact_reason": "Changes borrowing costs for many homeowners."
+  },
+  "13782ee63eaf": {
+   "relevant": true,
+   "headline": "Financing options detailed as Dubai nears peak handovers",
+   "summary": "Brokerage outlines mortgage solutions for buyers facing major payments upon property completion. Dubai is experiencing its highest residential delivery volume since 2008.",
+   "why": "It helps off-plan buyers manage large final payments amid record completions.",
+   "category": "Rates & mortgages",
+   "impact": "Medium",
+   "impact_reason": "Addresses off-plan financing during high delivery periods."
+  },
+  "417682db951d": {
+   "relevant": true,
+   "headline": "Ready-home sales increase in Dubai as prices stabilise",
+   "summary": "The Dubai property market is experiencing an increase in completed home transactions. This trend comes as property prices reach a more stable phase.",
+   "why": "It reflects shifting buyer demand towards ready properties amid stabilizing prices.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Highlights market shifts towards ready property sales."
+  },
+  "44f9a96fb8d6": {
+   "relevant": true,
+   "headline": "Delayed handovers help ease fears of Dubai property oversupply",
+   "summary": "Concerns regarding an oversupply in Dubai's real estate market are being mitigated by project delays. These postponements help regulate the flow of new inventory.",
+   "why": "It provides insight into actual inventory levels and market absorption.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Eases market worries regarding potential oversupply."
+  },
+  "b1fc2db31d77": {
+   "relevant": true,
+   "headline": "Tax system and Golden Visa attract wealthy Indian investors",
+   "summary": "Dubai's favorable tax environment and residency schemes continue to draw high-net-worth individuals from India. The Golden Visa program plays a key role in migration trends.",
+   "why": "It drives international capital and buyer demand into the local market.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Attracts affluent foreign buyers to local real estate."
+  },
+  "9cdc12953a7d": {
+   "relevant": false,
+   "headline": "Partnership brings gold investing to NRI customers",
+   "summary": "Financial platforms collaborate to offer gold investment services to Indian expats in the UAE.",
+   "why": "It focuses on gold investment rather than real estate or mortgages.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Irrelevant to property transactions or housing finance."
+  },
+  "1876a54020ab": {
+   "relevant": false,
+   "headline": "Sharjah reveals Kalba comm-tech free zone master plan",
+   "summary": "A new master plan has been unveiled for a technology free zone in Kalba, Sharjah.",
+   "why": "It focuses on a commercial free zone outside the primary real estate scope.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Limited direct impact on residential property markets."
+  },
+  "09fc7565a56d": {
+   "relevant": false,
+   "headline": "Dubai 2040 urban plan focuses on smart services",
+   "summary": "The city highlights digital twins and people-centric design as part of its urban development goals.",
+   "why": "It is a general urban planning overview without immediate market impact.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Long-term city planning rather than immediate market news."
+  },
+  "4a339cb90119": {
+   "relevant": true,
+   "headline": "Dubai court orders fraudsters to refund Dh2.2 million to villa buyers",
+   "summary": "A local court has penalized two individuals for selling a nonexistent villa project. The defendants must return the total sum of Dh2.2 million to the affected purchasers.",
+   "why": "It protects investor rights and reinforces legal accountability against fraudulent property schemes.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Strengthens legal protections and buyer confidence in off-plan developments."
+  },
+  "f00e1a9dad6e": {
+   "relevant": false,
+   "headline": "Dubai 2040 urban vision imagined",
+   "summary": "Future urban planning concepts for Dubai envision a vibrant metropolis with expanded green spaces and sustainable waste management.",
+   "why": "This is a lifestyle and futuristic vision piece without immediate real estate market news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Vague futuristic concepts do not alter current market conditions."
+  },
+  "98876d047bcb": {
+   "relevant": true,
+   "headline": "Business expansion reshapes Dubai commercial real estate demand",
+   "summary": "Growing corporate activity across Dubai is significantly altering demand patterns for both office spaces and retail properties.",
+   "why": "It highlights commercial sector trends driven by business growth.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Informs investors about shifting commercial demand trends."
+  },
+  "699405e6790d": {
+   "relevant": false,
+   "headline": "Gulf property markets trade panic for prudence",
+   "summary": "Regional real estate markets are shifting from reactive panic toward cautious and measured strategies.",
+   "why": "This is a broad industry opinion piece lacking specific actionable data.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "General market sentiment commentary without specific data."
+  },
+  "944710262931": {
+   "relevant": false,
+   "headline": "Photography documents Dubai social housing demolition",
+   "summary": "Visual archives document older social housing spaces in Dubai prior to scheduled urban demolition.",
+   "why": "This is an artistic and photographic piece rather than real estate news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Cultural photography has no direct effect on property markets."
+  },
+  "0998649e1e8a": {
+   "relevant": true,
+   "headline": "Emaar partners with Huspy to boost mortgage services",
+   "summary": "Emaar has teamed up with mortgage platform Huspy to improve financing advisory services for residential buyers. The collaboration aims to streamline the homebuying and loan acquisition process.",
+   "why": "It directly impacts buyer financing options and advisory accessibility.",
+   "category": "Rates & mortgages",
+   "impact": "Medium",
+   "impact_reason": "Improves financing accessibility and advisory for property buyers."
   }
  }
 }
