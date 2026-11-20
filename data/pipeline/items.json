@@ -2680,5 +2680,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"b50183cc2d07": {
+"id": "b50183cc2d07",
+"title": "Nakheel launches massive new southern Dubai residential project",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT3g5dGYwT0UzQUNUUDdWZnRFSjlOS01sV1RWR1JEbFFleTBVVEJva05YaHh6WWVSaUpYUjB1aER6NHo2dmppTjFyYmR2UFB1Mkxnd1MybU9udmNnUV9oVElodElKeHNEc1NrNDEzZ0ljaHhQS24zOFg5bEszcHRGUkI5Z3dfdy1aQkU5UUs5b2NpYTRvbS03dFo4WHplNGJCSGpxOVhsNGRROUo3M0tGOG1kTEVDZw?oc=5",
+"source": "https://internationalfinance.com/",
+"category": "Developer news",
+"published": "2026-11-19T09:00+04:00",
+"first_seen": "2026-11-20",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": "Nakheel",
+"location": "southern Dubai",
+"type": "residential",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
