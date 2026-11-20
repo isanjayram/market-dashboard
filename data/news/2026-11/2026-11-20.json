@@ -173,5 +173,33 @@
 "impact_reason": "General market trend with no direct regulatory changes.",
 "watch": false,
 "topic": "abu dhabi"
+},
+{
+"id": "e77fe78eebcc",
+"headline": "Global stock markets tumble on AI selloff and Fed hike fears",
+"summary": "Major international stock indices dropped sharply as investors retreated from riskier assets. Concerns over artificial intelligence valuations and potential U.S. interest rate hikes fueled the selloff.",
+"why": "Shifts in global financial markets and U.S. interest rates can influence investor sentiment and liquidity flows into Dubai real estate.",
+"source": "Economy Middle East",
+"link": "https://economymiddleeast.com/news/stock-market-today-nasdaq-falls-2-25-percent-nikkei-slides-4-77-percent-dax-loses-1-06-percent-as-ai-selloff-fed-hike-fears-deepen/?utm_source=rss&utm_medium=rss&utm_campaign=stock-market-today-nasdaq-falls-2-25-percent-nikkei-slides-4-77-percent-dax-loses-1-06-percent-as-ai-selloff-fed-hike-fears-deepen",
+"published": "2026-11-20T12:26+04:00",
+"category": "Macro & geopolitics",
+"impact": "Medium",
+"impact_reason": "Could affect global investor sentiment and capital flows.",
+"watch": false,
+"topic": "Macro & geopolitics"
+},
+{
+"id": "29d3eb315de3",
+"headline": "Gold prices drop as strong dollar and Fed rate odds grow",
+"summary": "Spot gold prices declined significantly, heading toward their worst weekly performance in eight months. A stronger U.S. dollar and rising expectations of a Federal Reserve rate hike pressured the metal.",
+"why": "Interest rate expectations directly impact borrowing costs and broader macroeconomic conditions relevant to property buyers.",
+"source": "Economy Middle East",
+"link": "https://economymiddleeast.com/news/gold-falls-to-3551-68-as-97-3-percent-fed-hike-odds-trigger-worst-week-in-eight-months/?utm_source=rss&utm_medium=rss&utm_campaign=gold-falls-to-3551-68-as-97-3-percent-fed-hike-odds-trigger-worst-week-in-eight-months",
+"published": "2026-11-20T10:04+04:00",
+"category": "Rates & mortgages",
+"impact": "Medium",
+"impact_reason": "Reflects tightening monetary policy expectations influencing borrowing costs.",
+"watch": false,
+"topic": "Rates & mortgages"
 }
 ]

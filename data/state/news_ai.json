@@ -352,6 +352,42 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "General market trend with no direct regulatory changes."
+  },
+  "e77fe78eebcc": {
+   "relevant": true,
+   "headline": "Global stock markets tumble on AI selloff and Fed hike fears",
+   "summary": "Major international stock indices dropped sharply as investors retreated from riskier assets. Concerns over artificial intelligence valuations and potential U.S. interest rate hikes fueled the selloff.",
+   "why": "Shifts in global financial markets and U.S. interest rates can influence investor sentiment and liquidity flows into Dubai real estate.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Could affect global investor sentiment and capital flows."
+  },
+  "29d3eb315de3": {
+   "relevant": true,
+   "headline": "Gold prices drop as strong dollar and Fed rate odds grow",
+   "summary": "Spot gold prices declined significantly, heading toward their worst weekly performance in eight months. A stronger U.S. dollar and rising expectations of a Federal Reserve rate hike pressured the metal.",
+   "why": "Interest rate expectations directly impact borrowing costs and broader macroeconomic conditions relevant to property buyers.",
+   "category": "Rates & mortgages",
+   "impact": "Medium",
+   "impact_reason": "Reflects tightening monetary policy expectations influencing borrowing costs."
+  },
+  "aa5a97546170": {
+   "relevant": true,
+   "headline": "Nakheel launches initial villas and townhouses at Palm Springs",
+   "summary": "Nakheel has released its first collection of villas and townhouses at the new Palm Springs location in Dubai.",
+   "why": "New developer launches expand local housing supply and offer fresh options for property buyers and investors in Dubai.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Expands residential supply and provides new investment options."
+  },
+  "6ed448f3d48a": {
+   "relevant": true,
+   "headline": "Nakheel unveils Palm Springs masterplan in southern Dubai",
+   "summary": "Nakheel introduced Palm Springs, a sprawling 3.8 million square meter residential master development situated in southern Dubai.",
+   "why": "Large-scale masterplans shape future community development and housing inventory in the local property market.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Introduces a major new residential community to southern Dubai."
   }
  }
 }
