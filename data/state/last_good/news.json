@@ -16,7 +16,7 @@
    "headline": "Dubai Marina tops apartment rentals as Al Jaddaf villa rents surge",
    "summary": "Dubai Marina is the leading area for apartment rentals across six tracked districts. Meanwhile, Al Jaddaf saw villa rental prices jump by nearly ninety-eight percent.",
    "why": "It provides critical local rental performance data for Dubai investors and landlords.",
-   "age_hours": 16.9,
+   "age_hours": 17.2,
    "topic": "rents"
   },
   {
@@ -37,7 +37,7 @@
    "headline": "Al Maktoum Airport and holiday updates shape the week",
    "summary": "Dubai government staff receive a five-day National Day break. Meanwhile, progress continues on the massive Al Maktoum airport project.",
    "why": "Major infrastructure projects like Al Maktoum airport directly influence local property values and regional investment appeal.",
-   "age_hours": 2.9,
+   "age_hours": 3.2,
    "topic": "airport"
   },
   {
@@ -59,7 +59,7 @@
    "headline": "Dubai Property Values Surge to Four-Year Peak",
    "summary": "Residential prices in the emirate climbed by 18 percent over the past three years. The continuous upward trend highlights robust buyer demand.",
    "why": "It provides crucial market performance data that affects investor sentiment and property valuations.",
-   "age_hours": 1.5,
+   "age_hours": 1.9,
    "topic": "Supply & market reports"
   },
   {
@@ -78,7 +78,7 @@
    "headline": "Aldar Launches NOMA Creative District in Abu Dhabi",
    "summary": "The developer introduced a brand new creative district situated on Saadiyat Island. This project expands residential and commercial options in the capital.",
    "why": "New master community launches shape regional supply and attract investor capital.",
-   "age_hours": 1.8,
+   "age_hours": 2.1,
    "topic": "abu dhabi",
    "more": 1
   },
@@ -98,7 +98,7 @@
    "headline": "Guide for Indian Buyers Investing in Dubai Real Estate",
    "summary": "An analysis outlines what various Indian rupee budgets can purchase in Dubai for 2026. It targets NRI investors looking to allocate funds overseas.",
    "why": "It addresses cross-border investment trends and capital flows from Indian buyers into Dubai.",
-   "age_hours": 2.2,
+   "age_hours": 2.5,
    "topic": "Macro & geopolitics"
   },
   {
@@ -117,7 +117,7 @@
    "headline": "Dubai Court mandates refund for property buyer in legal ruling",
    "summary": "A local court in Dubai has instructed a property seller to reimburse four hundred sixty thousand dirhams to a purchaser.",
    "why": "Court rulings regarding property transactions affect buyer protection and legal precedent in the emirate.",
-   "age_hours": 19.2,
+   "age_hours": 19.5,
    "topic": "Regulation & fees"
   },
   {
@@ -143,17 +143,17 @@
    "headline": "Aldar launches NOMA creative district in Abu Dhabi",
    "summary": "Aldar introduces a new cultural and residential hub featuring cinemas and workspaces. The project aims to blend urban living with artistic spaces.",
    "why": "New master community launches by major developers shape housing supply and buyer interest in the capital.",
-   "age_hours": 4.1,
+   "age_hours": 4.4,
    "topic": "abu dhabi"
   }
  ],
  "window_hours": 24,
  "count_relevant": 9,
- "count_fetched": 259,
+ "count_fetched": 270,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (saved from an earlier run)",
- "as_of": "2026-11-21T16:45+04:00",
- "saved_at": "2026-11-21T16:45+04:00"
+ "as_of": "2026-11-21T17:05+04:00",
+ "saved_at": "2026-11-21T17:05+04:00"
 }
