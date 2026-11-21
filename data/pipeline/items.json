@@ -2702,5 +2702,49 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"4141b2ff738b": {
+"id": "4141b2ff738b",
+"title": "Al Maktoum Airport and holiday updates shape the week",
+"link": "https://gulfnews.com/uae/top-10-stories-of-the-week-five-day-eid-al-etihad-break-35-billion-al-maktoum-airport-glowing-khorfakkan-beach-and-more-1.500756059",
+"source": "Gulf News",
+"category": "Infrastructure",
+"published": "2026-11-21T13:53+04:00",
+"first_seen": "2026-11-21",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"334c1f4a1b8c": {
+"id": "334c1f4a1b8c",
+"title": "Aldar launches NOMA creative district in Abu Dhabi",
+"link": "https://gulfnews.com/uae/abu-dhabi/aldar-unveils-noma-abu-dhabis-new-creative-hub-with-rooftop-cinema-and-cultural-spaces-1.500755879",
+"source": "Gulf News",
+"category": "Developer news",
+"published": "2026-11-21T12:40+04:00",
+"first_seen": "2026-11-21",
+"kind": "Off-plan launch",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": "NOMA",
+"developer": "Aldar",
+"location": "Abu Dhabi",
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

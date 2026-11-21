@@ -343,6 +343,33 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Focuses on marketing tools rather than market news."
+  },
+  "4141b2ff738b": {
+   "relevant": true,
+   "headline": "Al Maktoum Airport and holiday updates shape the week",
+   "summary": "Dubai government staff receive a five-day National Day break. Meanwhile, progress continues on the massive Al Maktoum airport project.",
+   "why": "Major infrastructure projects like Al Maktoum airport directly influence local property values and regional investment appeal.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Mega airport expansion boosts long-term regional property demand."
+  },
+  "334c1f4a1b8c": {
+   "relevant": true,
+   "headline": "Aldar launches NOMA creative district in Abu Dhabi",
+   "summary": "Aldar introduces a new cultural and residential hub featuring cinemas and workspaces. The project aims to blend urban living with artistic spaces.",
+   "why": "New master community launches by major developers shape housing supply and buyer interest in the capital.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Standard new developer launch with minimal immediate market shifts."
+  },
+  "dcf0b6faafaa": {
+   "relevant": false,
+   "headline": "Dubai property compared to Indian metro markets",
+   "summary": "An opinion piece discusses comparative property valuations between Dubai, Mumbai, and Delhi.",
+   "why": "Opinion commentary without hard market data does not offer actionable news for real estate decisions.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Opinion piece lacking concrete news or market updates."
   }
  }
 }

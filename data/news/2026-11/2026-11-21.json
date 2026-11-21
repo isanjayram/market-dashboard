@@ -102,5 +102,37 @@
 "impact_reason": "Involves hospitality development in Abu Dhabi.",
 "watch": false,
 "topic": "abu dhabi"
+},
+{
+"id": "4141b2ff738b",
+"headline": "Al Maktoum Airport and holiday updates shape the week",
+"summary": "Dubai government staff receive a five-day National Day break. Meanwhile, progress continues on the massive Al Maktoum airport project.",
+"why": "Major infrastructure projects like Al Maktoum airport directly influence local property values and regional investment appeal.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/uae/top-10-stories-of-the-week-five-day-eid-al-etihad-break-35-billion-al-maktoum-airport-glowing-khorfakkan-beach-and-more-1.500756059",
+"published": "2026-11-21T13:53+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Mega airport expansion boosts long-term regional property demand.",
+"watch": false,
+"topic": "airport"
+},
+{
+"id": "334c1f4a1b8c",
+"headline": "Aldar launches NOMA creative district in Abu Dhabi",
+"summary": "Aldar introduces a new cultural and residential hub featuring cinemas and workspaces. The project aims to blend urban living with artistic spaces.",
+"why": "New master community launches by major developers shape housing supply and buyer interest in the capital.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/uae/abu-dhabi/aldar-unveils-noma-abu-dhabis-new-creative-hub-with-rooftop-cinema-and-cultural-spaces-1.500755879",
+"published": "2026-11-21T12:40+04:00",
+"category": "Developer news",
+"impact": "Low",
+"impact_reason": "Standard new developer launch with minimal immediate market shifts.",
+"watch": false,
+"also": [
+"Gulf News",
+"Gulf News"
+],
+"topic": "abu dhabi"
 }
 ]
