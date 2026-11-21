@@ -370,6 +370,33 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Opinion piece lacking concrete news or market updates."
+  },
+  "4227a93347b9": {
+   "relevant": true,
+   "headline": "Dubai Property Values Surge to Four-Year Peak",
+   "summary": "Residential prices in the emirate climbed by 18 percent over the past three years. The continuous upward trend highlights robust buyer demand.",
+   "why": "It provides crucial market performance data that affects investor sentiment and property valuations.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects ongoing market growth and rising property values."
+  },
+  "b9d5a8ee89c0": {
+   "relevant": true,
+   "headline": "Aldar Launches NOMA Creative District in Abu Dhabi",
+   "summary": "The developer introduced a brand new creative district situated on Saadiyat Island. This project expands residential and commercial options in the capital.",
+   "why": "New master community launches shape regional supply and attract investor capital.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Introduces new supply and development activity in the capital."
+  },
+  "9c3a9bd453b4": {
+   "relevant": true,
+   "headline": "Guide for Indian Buyers Investing in Dubai Real Estate",
+   "summary": "An analysis outlines what various Indian rupee budgets can purchase in Dubai for 2026. It targets NRI investors looking to allocate funds overseas.",
+   "why": "It addresses cross-border investment trends and capital flows from Indian buyers into Dubai.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Highlights cross-border investment opportunities for Indian buyers."
   }
  }
 }

@@ -16,7 +16,7 @@
    "headline": "Dubai Marina tops apartment rentals as Al Jaddaf villa rents surge",
    "summary": "Dubai Marina is the leading area for apartment rentals across six tracked districts. Meanwhile, Al Jaddaf saw villa rental prices jump by nearly ninety-eight percent.",
    "why": "It provides critical local rental performance data for Dubai investors and landlords.",
-   "age_hours": 14.4,
+   "age_hours": 15.9,
    "topic": "rents"
   },
   {
@@ -37,8 +37,69 @@
    "headline": "Al Maktoum Airport and holiday updates shape the week",
    "summary": "Dubai government staff receive a five-day National Day break. Meanwhile, progress continues on the massive Al Maktoum airport project.",
    "why": "Major infrastructure projects like Al Maktoum airport directly influence local property values and regional investment appeal.",
-   "age_hours": 0.4,
+   "age_hours": 1.9,
    "topic": "airport"
+  },
+  {
+   "id": "4227a93347b9",
+   "title": "Dubai Housing Prices Hit Four-Year High in 2026, Rising 18% Since 2023",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ0N2aldxcUs0aHpic0NsMDNCRzFNRlFjRkhad3B5LXAyV3l6TG51aU55Wm55YXJwYXNCT29LSlVLTWRlY2RJRG1WZzd5Q2EwXzUtRnYyY29nTFZjVXhUWWo0Vmt6cVdxXzAtc183dVBma296ZVFkd0pac0ppUGV1TWNaT0hLWTZsdVVHUnMwSWZNRHpZTlgzM1luZ3lxR00?oc=5",
+   "source": "The CSR Journal",
+   "kind": "search",
+   "published": "2026-11-21T15:13+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects ongoing market growth and rising property values.",
+   "watch": false,
+   "also": [
+    "Hindustan Times"
+   ],
+   "headline": "Dubai Property Values Surge to Four-Year Peak",
+   "summary": "Residential prices in the emirate climbed by 18 percent over the past three years. The continuous upward trend highlights robust buyer demand.",
+   "why": "It provides crucial market performance data that affects investor sentiment and property valuations.",
+   "age_hours": 0.6,
+   "topic": "Supply & market reports"
+  },
+  {
+   "id": "b9d5a8ee89c0",
+   "title": "Aldar unveils NOMA creative district on Abu Dhabi\u2019s Saadiyat Island",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZElVRUxBOEFiRURKNEJfWTRPSEgzYlZWZEcyU3h3bXRpVHgyckM1V0xGcWp2N1JFaG9iUDhuUnBWWVc5UGJZYVpfenpXbmg2OU4yV21tcUhSTEVmOUZBMlZORDlyZkVtalg5V054TEVBdEIxWUVVSmNueVM0ZU9VZ2xvZ21WcW5IbklRZ1QxMXRGOXZqd1NQUkJMVXFRbEpf?oc=5",
+   "source": "samaa tv",
+   "kind": "search",
+   "published": "2026-11-21T14:58+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Introduces new supply and development activity in the capital.",
+   "watch": false,
+   "headline": "Aldar Launches NOMA Creative District in Abu Dhabi",
+   "summary": "The developer introduced a brand new creative district situated on Saadiyat Island. This project expands residential and commercial options in the capital.",
+   "why": "New master community launches shape regional supply and attract investor capital.",
+   "age_hours": 0.8,
+   "topic": "abu dhabi",
+   "more": 1
+  },
+  {
+   "id": "9c3a9bd453b4",
+   "title": "Dubai property investment: What can Indians buy with \u20b91 crore, \u20b92 crore or \u20b95 crore in 2026?",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbDZIQ2wxWGZoT2FXOVJrUDRtYlZvUGtFT3AzNEZyQjc0eHY3eGJsZ2F1Mjdzdjdvem9ramU1TU9WRjJVeWphWlBLbFo2Zll1T2lnaHhSWG1kaXB4UVFNaHc2UHFGRm9wLUhmWHRocUNHajB3NlFRN2hSQ1ZpdklhX0xhR3dNWkpZWnp2MVVVUU1mTXg0VkNmd0NVZi1XSVdidUhDd2lsSy1jTHVIT1pNQTNDclgwdzd4TWtXQndZMl9fT1ZuZTdaWFpYWG9TRkRWTUNQYy1ialFBbEp4alI4b0I5MlgydDR5OTNzcF9rVWJJcVFo0gH6AUFVX3lxTE8tb3JYcGhmNUllbDE0SnZPYldqQk42My15YzVSWEpOY0pEWVdGcXEzeUFsOWN1U2EtVUVoSFhHSVA2dS0wb3p6RFZxbExLWjl5d0wwSURlOHo2UDl1TndMeUNkWWU0cDFyNWZoQXRXRFRzTU93VFA3NVNiR08xdmlnWkZEN0tPWEI5UW9fclBYZ2wtWkNPdW5ja3NhNF9lMjZOaUEydzVsc1A3a3ZuMUxqZW5QNjBFVTRxR2FRb3RsM3dwUTl0OXB0TW1nOXZRaHpyTW02M0owT1o1Q2FnRnVCdlpwS3F2dDczV0Rkdm42bXpXS3dxaXRPZUE?oc=5",
+   "source": "Business Today",
+   "kind": "search",
+   "published": "2026-11-21T14:33+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Highlights cross-border investment opportunities for Indian buyers.",
+   "watch": false,
+   "headline": "Guide for Indian Buyers Investing in Dubai Real Estate",
+   "summary": "An analysis outlines what various Indian rupee budgets can purchase in Dubai for 2026. It targets NRI investors looking to allocate funds overseas.",
+   "why": "It addresses cross-border investment trends and capital flows from Indian buyers into Dubai.",
+   "age_hours": 1.2,
+   "topic": "Macro & geopolitics"
   },
   {
    "id": "a149be0bd12a",
@@ -56,30 +117,8 @@
    "headline": "Dubai Court mandates refund for property buyer in legal ruling",
    "summary": "A local court in Dubai has instructed a property seller to reimburse four hundred sixty thousand dirhams to a purchaser.",
    "why": "Court rulings regarding property transactions affect buyer protection and legal precedent in the emirate.",
-   "age_hours": 16.7,
+   "age_hours": 18.2,
    "topic": "Regulation & fees"
-  },
-  {
-   "id": "b1fc2db31d77",
-   "title": "Dubai Real Estate Investments and Tax System Attract Rich Indians; Golden Visa Scheme Helps in Migration",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRzhXdWxqQzRFM3FZUTlWMV9ZV2hERXNRdjlrM2dpckRxMWZuUVloVE9OTFJFV2N5X3B3ZV9jelVLWjl1OGFjOGh4dER6LUp6bXIwcmRRbkxfS2g4NW8wTi1NV3BxTDNYVm9TSHVOVkZZSHA5Vy1keXp1MlJxVURadHZlZnhXdGhjQ2p0VFFMMkgxS2NNRU5aVTdtZHp3aVM4UzhwMWlIMy1XTTNFdklQVk1yelJMV014M3k4?oc=5",
-   "source": "TopNews",
-   "kind": "search",
-   "published": "2026-11-20T14:35+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Regulation & fees",
-   "impact": "Medium",
-   "impact_reason": "Attracts affluent foreign buyers to local real estate.",
-   "watch": false,
-   "also": [
-    "TopNews"
-   ],
-   "headline": "Tax system and Golden Visa attract wealthy Indian investors",
-   "summary": "Dubai's favorable tax environment and residency schemes continue to draw high-net-worth individuals from India. The Golden Visa program plays a key role in migration trends.",
-   "why": "It drives international capital and buyer demand into the local market.",
-   "age_hours": 23.7,
-   "topic": "golden visa"
   },
   {
    "id": "334c1f4a1b8c",
@@ -103,36 +142,17 @@
    "headline": "Aldar launches NOMA creative district in Abu Dhabi",
    "summary": "Aldar introduces a new cultural and residential hub featuring cinemas and workspaces. The project aims to blend urban living with artistic spaces.",
    "why": "New master community launches by major developers shape housing supply and buyer interest in the capital.",
-   "age_hours": 1.6,
-   "topic": "abu dhabi"
-  },
-  {
-   "id": "e7409efffc14",
-   "title": "IHG and Aldar Complete Six-Hotel Yas World Resort in Abu Dhabi",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUk92WkE5YWZ4UGNIYzRIcDhwTnVldERRTXg2MGJTeFFyN1c5WVlpaWduWm0xeW4ySU1mVHdwNV8ycXR3dUtJZW1PMG5oM0NyQ29lbjY5V1drWExyeWVsNElhZnVZYlRvNHdNZnVzN2x5QzhSeWZZVEE0RXZPZWwybXhObTRSTGxlaTk1NGYwcU1TeHZQVWc?oc=5",
-   "source": "https://www.thetraveler.org/",
-   "kind": "search",
-   "published": "2026-11-20T22:14+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Involves hospitality development in Abu Dhabi.",
-   "watch": false,
-   "headline": "IHG and Aldar finish massive Yas World hotel project in Abu Dhabi",
-   "summary": "IHG Hotels and Aldar have successfully finalized the development of a six-hotel resort complex on Yas Island.",
-   "why": "Major hospitality completions by prominent developers affect regional tourism infrastructure and investor sentiment.",
-   "age_hours": 16.0,
+   "age_hours": 3.1,
    "topic": "abu dhabi"
   }
  ],
  "window_hours": 24,
- "count_relevant": 6,
- "count_fetched": 263,
+ "count_relevant": 9,
+ "count_fetched": 259,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-21T14:15+04:00",
- "saved_at": "2026-11-21T14:16+04:00"
+ "as_of": "2026-11-21T15:47+04:00",
+ "saved_at": "2026-11-21T15:47+04:00"
 }
