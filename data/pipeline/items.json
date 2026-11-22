@@ -2795,5 +2795,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"6169d858c9b9": {
+"id": "6169d858c9b9",
+"title": "Nakheel Sells Out Palm Springs Phase One for Dh5.5 Billion",
+"link": "https://gulfnews.com/business/property/dubais-palm-springs-sells-out-977-homes-in-dh55-billion-launch-1.500756987",
+"source": "Gulf News",
+"category": "Developer news",
+"published": "2026-11-22T15:17+04:00",
+"first_seen": "2026-11-22",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": "Palm Springs",
+"developer": "Nakheel",
+"location": "near Palm Jebel",
+"type": "villas and townhouses",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

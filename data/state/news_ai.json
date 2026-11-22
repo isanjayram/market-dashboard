@@ -244,6 +244,33 @@
    "category": "Rates & mortgages",
    "impact": "Low",
    "impact_reason": "Improves financing options for potential property buyers."
+  },
+  "6169d858c9b9": {
+   "relevant": true,
+   "headline": "Nakheel Sells Out Palm Springs Phase One for Dh5.5 Billion",
+   "summary": "Nakheel successfully sold all 977 villas and townhouses in the initial release of its new community. The massive sales figure highlights ongoing robust demand for suburban family housing in Dubai.",
+   "why": "This massive launch reflects continued strong buyer demand for luxury family communities in Dubai.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Indicates high investor demand and market liquidity."
+  },
+  "8cfee6e1664b": {
+   "relevant": false,
+   "headline": "RTA Manages Dubai Run 2026 Traffic",
+   "summary": "The RTA successfully coordinated road closures and traffic management during the Dubai Run 2026 event.",
+   "why": "This is a general event management update rather than a real estate or economic news item.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "No direct effect on the property market."
+  },
+  "455ed2606eb2": {
+   "relevant": true,
+   "headline": "Dubai Court Orders Dh460,000 Refund for Failed Property Deal",
+   "summary": "A local court ruled that a seller must return Dh460,000 to a buyer following an unsuccessful real estate transaction.",
+   "why": "It highlights legal protections for property buyers involved in disputed transactions in Dubai.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Highlights legal enforcement protecting real estate investors."
   }
  }
 }

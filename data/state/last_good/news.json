@@ -1,6 +1,27 @@
 {
  "top": [
   {
+   "id": "6169d858c9b9",
+   "title": "Dubai's Palm Springs sells out 977 homes in Dh5.5 billion launch",
+   "link": "https://gulfnews.com/business/property/dubais-palm-springs-sells-out-977-homes-in-dh55-billion-launch-1.500756987",
+   "source": "Gulf News",
+   "kind": "outlet",
+   "published": "2026-11-22T15:17+04:00",
+   "tags": [
+    "Property"
+   ],
+   "teaser": "Dubai: Nakheel has sold all 977 villas and townhouses released in the first phase of its Palm Springs residential development, generating Dh5.5 billion in sales as demand for family-oriented housing continues to drive Dubai's property market. The developer, part of Dubai Holding Real Estate, announced on Sunday that the entire initial release had sold out. The development, located near Palm Jebel ",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Indicates high investor demand and market liquidity.",
+   "watch": false,
+   "headline": "Nakheel Sells Out Palm Springs Phase One for Dh5.5 Billion",
+   "summary": "Nakheel successfully sold all 977 villas and townhouses in the initial release of its new community. The massive sales figure highlights ongoing robust demand for suburban family housing in Dubai.",
+   "why": "This massive launch reflects continued strong buyer demand for luxury family communities in Dubai.",
+   "age_hours": 0.7,
+   "topic": "Developer news"
+  },
+  {
    "id": "c993a0613622",
    "title": "Dubai Metro Blue Line: Inside the new trains set to transform city travel",
    "link": "https://gulfnews.com/uae/dubai/dubai-metro-blue-line-inside-the-new-trains-set-to-transform-city-travel-1.500756866",
@@ -16,10 +37,13 @@
    "impact": "Medium",
    "impact_reason": "Enhances connectivity and boosts regional real estate appeal.",
    "watch": false,
+   "also": [
+    "Gulf News"
+   ],
    "headline": "Dubai unveils design for Metro Blue Line trains",
    "summary": "Leadership inspected the futuristic new train designs planned for the upcoming Dubai Metro Blue Line project.",
    "why": "New transit infrastructure directly impacts nearby property values and community accessibility.",
-   "age_hours": 1.6,
+   "age_hours": 3.2,
    "topic": "blue line",
    "more": 2
   },
@@ -39,7 +63,7 @@
    "headline": "Blue Line metro project reaches thirty percent completion",
    "summary": "The Dh20.5 billion Dubai Metro Blue Line project has unveiled its new train fleet and is progressing fast.",
    "why": "Major transit expansions improve local neighborhood appeal and long-term property demand.",
-   "age_hours": 1.8,
+   "age_hours": 3.5,
    "topic": "blue line"
   },
   {
@@ -61,68 +85,7 @@
    "headline": "Stake and Rentify detail proptech plans in Dubai",
    "summary": "Proptech firms Stake and Rentify shared their technology strategies at Dubai Future Week.",
    "why": "Proptech innovations change how investors buy, finance, and manage real estate assets.",
-   "age_hours": 20.0,
-   "topic": "Macro & geopolitics",
-   "more": 1
-  },
-  {
-   "id": "4227a93347b9",
-   "title": "Dubai Housing Prices Hit Four-Year High in 2026, Rising 18% Since 2023",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ0N2aldxcUs0aHpic0NsMDNCRzFNRlFjRkhad3B5LXAyV3l6TG51aU55Wm55YXJwYXNCT29LSlVLTWRlY2RJRG1WZzd5Q2EwXzUtRnYyY29nTFZjVXhUWWo0Vmt6cVdxXzAtc183dVBma296ZVFkd0pac0ppUGV1TWNaT0hLWTZsdVVHUnMwSWZNRHpZTlgzM1luZ3lxR00?oc=5",
-   "source": "The CSR Journal",
-   "kind": "search",
-   "published": "2026-11-21T15:13+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Reflects ongoing market growth and rising property values.",
-   "watch": false,
-   "also": [
-    "Hindustan Times"
-   ],
-   "headline": "Dubai Property Values Surge to Four-Year Peak",
-   "summary": "Residential prices in the emirate climbed by 18 percent over the past three years. The continuous upward trend highlights robust buyer demand.",
-   "why": "It provides crucial market performance data that affects investor sentiment and property valuations.",
-   "age_hours": 23.1,
-   "topic": "Supply & market reports"
-  },
-  {
-   "id": "b9d5a8ee89c0",
-   "title": "Aldar unveils NOMA creative district on Abu Dhabi\u2019s Saadiyat Island",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZElVRUxBOEFiRURKNEJfWTRPSEgzYlZWZEcyU3h3bXRpVHgyckM1V0xGcWp2N1JFaG9iUDhuUnBWWVc5UGJZYVpfenpXbmg2OU4yV21tcUhSTEVmOUZBMlZORDlyZkVtalg5V054TEVBdEIxWUVVSmNueVM0ZU9VZ2xvZ21WcW5IbklRZ1QxMXRGOXZqd1NQUkJMVXFRbEpf?oc=5",
-   "source": "samaa tv",
-   "kind": "search",
-   "published": "2026-11-21T14:58+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Introduces new supply and development activity in the capital.",
-   "watch": false,
-   "headline": "Aldar Launches NOMA Creative District in Abu Dhabi",
-   "summary": "The developer introduced a brand new creative district situated on Saadiyat Island. This project expands residential and commercial options in the capital.",
-   "why": "New master community launches shape regional supply and attract investor capital.",
-   "age_hours": 23.4,
-   "topic": "abu dhabi"
-  },
-  {
-   "id": "9c3a9bd453b4",
-   "title": "Dubai property investment: What can Indians buy with \u20b91 crore, \u20b92 crore or \u20b95 crore in 2026?",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbDZIQ2wxWGZoT2FXOVJrUDRtYlZvUGtFT3AzNEZyQjc0eHY3eGJsZ2F1Mjdzdjdvem9ramU1TU9WRjJVeWphWlBLbFo2Zll1T2lnaHhSWG1kaXB4UVFNaHc2UHFGRm9wLUhmWHRocUNHajB3NlFRN2hSQ1ZpdklhX0xhR3dNWkpZWnp2MVVVUU1mTXg0VkNmd0NVZi1XSVdidUhDd2lsSy1jTHVIT1pNQTNDclgwdzd4TWtXQndZMl9fT1ZuZTdaWFpYWG9TRkRWTUNQYy1ialFBbEp4alI4b0I5MlgydDR5OTNzcF9rVWJJcVFo0gH6AUFVX3lxTE8tb3JYcGhmNUllbDE0SnZPYldqQk42My15YzVSWEpOY0pEWVdGcXEzeUFsOWN1U2EtVUVoSFhHSVA2dS0wb3p6RFZxbExLWjl5d0wwSURlOHo2UDl1TndMeUNkWWU0cDFyNWZoQXRXRFRzTU93VFA3NVNiR08xdmlnWkZEN0tPWEI5UW9fclBYZ2wtWkNPdW5ja3NhNF9lMjZOaUEydzVsc1A3a3ZuMUxqZW5QNjBFVTRxR2FRb3RsM3dwUTl0OXB0TW1nOXZRaHpyTW02M0owT1o1Q2FnRnVCdlpwS3F2dDczV0Rkdm42bXpXS3dxaXRPZUE?oc=5",
-   "source": "Business Today",
-   "kind": "search",
-   "published": "2026-11-21T14:33+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Macro & geopolitics",
-   "impact": "Medium",
-   "impact_reason": "Highlights cross-border investment opportunities for Indian buyers.",
-   "watch": false,
-   "headline": "Guide for Indian Buyers Investing in Dubai Real Estate",
-   "summary": "An analysis outlines what various Indian rupee budgets can purchase in Dubai for 2026. It targets NRI investors looking to allocate funds overseas.",
-   "why": "It addresses cross-border investment trends and capital flows from Indian buyers into Dubai.",
-   "age_hours": 23.8,
+   "age_hours": 21.6,
    "topic": "Macro & geopolitics"
   },
   {
@@ -141,17 +104,58 @@
    "headline": "Quality and sustainability drive Abu Dhabi property market",
    "summary": "Focus on high standards and eco-friendly design enhances competition and expands investment choices in Abu Dhabi.",
    "why": "Market trends regarding quality and sustainability influence investor decisions and capital allocation.",
-   "age_hours": 16.5,
+   "age_hours": 18.1,
    "topic": "abu dhabi"
+  },
+  {
+   "id": "455ed2606eb2",
+   "title": "Dubai court orders property seller to pay Dh460,000 after failed real estate deal",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdHlfWG9NZWFFSkZaUnlEYmh4Y0EtR0NBYldkS29iYmZLZmNQMmdoNzJYa1RmVDBEa1RJNExmTDRFUlFIZmt6bm5hMVpza0llQlRVQ2d5bTgxU09FUkVQQzlUbDl4Q3lRT2tnanVIei1zT2Nia3VoZnFOclBqYXJsRFJLNG1PUHZUVGpwaEtEQ0l1WkFMT3phUzVxSlgwQWo5T1BZczdHbWJ5aUtWYjBGeXd6MmFzVTE0Yk01VGdGODVib0V0TVNFSFVB?oc=5",
+   "source": "The Filipino Times",
+   "kind": "search",
+   "published": "2026-11-22T15:36+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Highlights legal enforcement protecting real estate investors.",
+   "watch": false,
+   "headline": "Dubai Court Orders Dh460,000 Refund for Failed Property Deal",
+   "summary": "A local court ruled that a seller must return Dh460,000 to a buyer following an unsuccessful real estate transaction.",
+   "why": "It highlights legal protections for property buyers involved in disputed transactions in Dubai.",
+   "age_hours": 0.4,
+   "topic": "Regulation & fees"
+  },
+  {
+   "id": "91173ba12546",
+   "title": "API Global targets Nigerian buyers with UK, Dubai property pitch",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVg3SGVQZjBDRG5JUUZSNDJ6WUFoSGgwRVlYVU5KOElwN2p0enhZU1FCVXp5NXNJeXV4Um9vTkpVYlBCVkg2QkxwejZueWdqRzVZR0ltOHNubjY0NU9mM2JVN3ZBQXdhWDkwRGF0M2hEY0h1MXpjbFg0NzIwVXgtYXZIZlJHaVcwRnlBeF9kTG1SZ0M5b2UzRzAzeG4zRndLOFBqVTlfbw?oc=5",
+   "source": "Business News Nigeria",
+   "kind": "search",
+   "published": "2026-11-22T08:48+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Targeted marketing has a minor localized impact.",
+   "watch": false,
+   "also": [
+    "Independent Newspaper Nigeria"
+   ],
+   "headline": "API Global targets Nigerian investors for Dubai property",
+   "summary": "API Global is marketing international real estate options to buyers based in Nigeria.",
+   "why": "Cross-border marketing campaigns bring new foreign capital into the Dubai property sector.",
+   "age_hours": 7.2,
+   "topic": "Macro & geopolitics"
   }
  ],
  "window_hours": 24,
- "count_relevant": 13,
- "count_fetched": 273,
+ "count_relevant": 11,
+ "count_fetched": 258,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-22T14:21+04:00",
- "saved_at": "2026-11-22T14:21+04:00"
+ "as_of": "2026-11-22T15:59+04:00",
+ "saved_at": "2026-11-22T16:00+04:00"
 }
