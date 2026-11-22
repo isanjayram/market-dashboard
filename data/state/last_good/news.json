@@ -1,6 +1,29 @@
 {
  "top": [
   {
+   "id": "6d8624fe6b67",
+   "title": "Dubai's Nakheel raises Dh5.5bn after selling out first phase of new Palm Springs project",
+   "link": "https://www.thenationalnews.com/business/property/2026/11/22/dubais-nakheel-raises-dh55bn-after-selling-out-first-phase-of-new-palm-springs-project/",
+   "source": "The National",
+   "kind": "outlet",
+   "published": "2026-11-22T16:02+04:00",
+   "tags": [],
+   "teaser": "Dubai developer Nakheel recorded Dh5.5 billion ($1.5 billion) in sales from the launch of the first phase of its new Palm Springs project , near Palm Jebel Ali, on strong \u201cdemand for family homes\u201d. All 977 villas and townhouses unveiled in the initial phase have been sold, the Dubai Media Office said on Sunday. The first phase of the 3.8 million-square-metre master plan introduced three and four-b",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Reflects strong primary market demand and high developer revenues.",
+   "watch": false,
+   "also": [
+    "The National",
+    "The National (property)"
+   ],
+   "headline": "Nakheel raises Dh5.5 billion from Palm Springs villa sales",
+   "summary": "The initial phase of the Palm Springs development near Palm Jebel Ali sold out completely. Buyers snapped up all 977 available villas and townhouses.",
+   "why": "This major developer launch highlights strong buyer demand for family properties in Dubai.",
+   "age_hours": 0.6,
+   "topic": "nakheel"
+  },
+  {
    "id": "6169d858c9b9",
    "title": "Dubai's Palm Springs sells out 977 homes in Dh5.5 billion launch",
    "link": "https://gulfnews.com/business/property/dubais-palm-springs-sells-out-977-homes-in-dh55-billion-launch-1.500756987",
@@ -18,7 +41,7 @@
    "headline": "Nakheel Sells Out Palm Springs Phase One for Dh5.5 Billion",
    "summary": "Nakheel successfully sold all 977 villas and townhouses in the initial release of its new community. The massive sales figure highlights ongoing robust demand for suburban family housing in Dubai.",
    "why": "This massive launch reflects continued strong buyer demand for luxury family communities in Dubai.",
-   "age_hours": 0.7,
+   "age_hours": 1.4,
    "topic": "Developer news"
   },
   {
@@ -43,7 +66,7 @@
    "headline": "Dubai unveils design for Metro Blue Line trains",
    "summary": "Leadership inspected the futuristic new train designs planned for the upcoming Dubai Metro Blue Line project.",
    "why": "New transit infrastructure directly impacts nearby property values and community accessibility.",
-   "age_hours": 3.2,
+   "age_hours": 3.9,
    "topic": "blue line",
    "more": 2
   },
@@ -63,7 +86,7 @@
    "headline": "Blue Line metro project reaches thirty percent completion",
    "summary": "The Dh20.5 billion Dubai Metro Blue Line project has unveiled its new train fleet and is progressing fast.",
    "why": "Major transit expansions improve local neighborhood appeal and long-term property demand.",
-   "age_hours": 3.5,
+   "age_hours": 4.1,
    "topic": "blue line"
   },
   {
@@ -80,12 +103,12 @@
    "impact_reason": "Proptech advancements can improve liquidity and investment access.",
    "watch": false,
    "also": [
-    "www.wam.ae"
+    "Big News Network.com"
    ],
    "headline": "Stake and Rentify detail proptech plans in Dubai",
    "summary": "Proptech firms Stake and Rentify shared their technology strategies at Dubai Future Week.",
    "why": "Proptech innovations change how investors buy, finance, and manage real estate assets.",
-   "age_hours": 21.6,
+   "age_hours": 22.3,
    "topic": "Macro & geopolitics"
   },
   {
@@ -104,7 +127,7 @@
    "headline": "Quality and sustainability drive Abu Dhabi property market",
    "summary": "Focus on high standards and eco-friendly design enhances competition and expands investment choices in Abu Dhabi.",
    "why": "Market trends regarding quality and sustainability influence investor decisions and capital allocation.",
-   "age_hours": 18.1,
+   "age_hours": 18.8,
    "topic": "abu dhabi"
   },
   {
@@ -123,7 +146,7 @@
    "headline": "Dubai Court Orders Dh460,000 Refund for Failed Property Deal",
    "summary": "A local court ruled that a seller must return Dh460,000 to a buyer following an unsuccessful real estate transaction.",
    "why": "It highlights legal protections for property buyers involved in disputed transactions in Dubai.",
-   "age_hours": 0.4,
+   "age_hours": 1.1,
    "topic": "Regulation & fees"
   },
   {
@@ -145,17 +168,17 @@
    "headline": "API Global targets Nigerian investors for Dubai property",
    "summary": "API Global is marketing international real estate options to buyers based in Nigeria.",
    "why": "Cross-border marketing campaigns bring new foreign capital into the Dubai property sector.",
-   "age_hours": 7.2,
+   "age_hours": 7.9,
    "topic": "Macro & geopolitics"
   }
  ],
  "window_hours": 24,
- "count_relevant": 11,
- "count_fetched": 258,
+ "count_relevant": 12,
+ "count_fetched": 256,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-22T15:59+04:00",
- "saved_at": "2026-11-22T16:00+04:00"
+ "as_of": "2026-11-22T16:39+04:00",
+ "saved_at": "2026-11-22T16:39+04:00"
 }

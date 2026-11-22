@@ -229,5 +229,23 @@
 "impact_reason": "Highlights legal enforcement protecting real estate investors.",
 "watch": false,
 "topic": "Regulation & fees"
+},
+{
+"id": "6d8624fe6b67",
+"headline": "Nakheel raises Dh5.5 billion from Palm Springs villa sales",
+"summary": "The initial phase of the Palm Springs development near Palm Jebel Ali sold out completely. Buyers snapped up all 977 available villas and townhouses.",
+"why": "This major developer launch highlights strong buyer demand for family properties in Dubai.",
+"source": "The National",
+"link": "https://www.thenationalnews.com/business/property/2026/11/22/dubais-nakheel-raises-dh55bn-after-selling-out-first-phase-of-new-palm-springs-project/",
+"published": "2026-11-22T16:02+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Reflects strong primary market demand and high developer revenues.",
+"watch": false,
+"also": [
+"The National",
+"The National (property)"
+],
+"topic": "nakheel"
 }
 ]
