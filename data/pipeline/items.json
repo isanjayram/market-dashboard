@@ -2746,5 +2746,54 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"a0adafc88f57": {
+"id": "a0adafc88f57",
+"title": "Dubai Metro Blue Line nears thirty percent completion",
+"link": "https://gulfnews.com/uae/dubai/sheikh-hamdan-reviews-dubai-metro-blue-line-progress-as-project-nears-30-completion-1.500756801",
+"source": "Gulf News",
+"category": "Infrastructure",
+"published": "2026-11-22T11:09+04:00",
+"first_seen": "2026-11-22",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": {
+"name": "Dubai Metro Blue Line",
+"status": "under construction; opens 9 Sep 2029 (14 stations)",
+"source": "Khaleej Times",
+"url": "https://www.khaleejtimes.com/uae/transport/dubai-metro-blue-line-to-be-completed-september-9-2029-rta-announces"
+},
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"73859b1ede14": {
+"id": "73859b1ede14",
+"title": "Aldar launches NOMA creative hub in Abu Dhabi",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVXV2NVJPRTNfdzBaeGRJTU01NTEwSjJpRjVwanNja3JFdlRLOXZhd2ZQbmFxeC1XU1Z4U1NZTUtiOG53anlLa182R01VQjYwTHVXRzM3bm9jUm41b2w3bTV6c0YtNjZmdWVNSnRJSE40Zm1pT1NCcG1WaU9SSm5ybFpfWVlnU0xxNzVmX3E0eURVYVFtWHE0aXEyTUIwV19FOVhVOVZlMkVCVUgxczZ5amNOTlZpbzdTZFBuaFFySFY5ZHNWWGwzeDE2d3JNQdIB4AFBVV95cUxOZnRhbEhUTkFGMXhsTFdsaFVHY1ZiSEw1Y2pETkJXOS1obE1XVVBBeWQzZkRka1ZTXzdnZGhyMjdaMXdHdjFvUXoyRVFwakhZYkluZWRtT3o3YmpqRXd5ZlFqQXh0OXlxdXFoNHNIcEstbzJxTXZzdDE4VTJKM3NUdy1zMmlYX0JmeVFiZ1dOQk9ZbllVVVpxNlRBR3VraGo2dFF5Yk9SUHJCZ2k3VXdnZzFXZm5ZTmJfNVdDRldQdWJzV1hrQjFmUnl1S1dHbkVrY3FIa3BYNFpUQ1hyM3BNdQ?oc=5",
+"source": "Gulf News",
+"category": "Developer news",
+"published": "2026-11-21T12:40+04:00",
+"first_seen": "2026-11-22",
+"kind": "Off-plan launch",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
