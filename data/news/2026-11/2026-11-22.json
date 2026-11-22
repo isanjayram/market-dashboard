@@ -141,5 +141,65 @@
 "Independent Newspaper Nigeria"
 ],
 "topic": "Macro & geopolitics"
+},
+{
+"id": "c993a0613622",
+"headline": "Dubai unveils design for Metro Blue Line trains",
+"summary": "Leadership inspected the futuristic new train designs planned for the upcoming Dubai Metro Blue Line project.",
+"why": "New transit infrastructure directly impacts nearby property values and community accessibility.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/uae/dubai/dubai-metro-blue-line-inside-the-new-trains-set-to-transform-city-travel-1.500756866",
+"published": "2026-11-22T12:47+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Enhances connectivity and boosts regional real estate appeal.",
+"watch": false,
+"more": 2,
+"topic": "blue line"
+},
+{
+"id": "d75805181c1a",
+"headline": "Blue Line metro project reaches thirty percent completion",
+"summary": "The Dh20.5 billion Dubai Metro Blue Line project has unveiled its new train fleet and is progressing fast.",
+"why": "Major transit expansions improve local neighborhood appeal and long-term property demand.",
+"source": "The National",
+"link": "https://www.thenationalnews.com/news/uae/2026/11/22/dubai-metro-blue-line-train-design-unveiled-with-dh205bn-project-nearly-30-per-cent-complete/",
+"published": "2026-11-22T12:32+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Improves transport infrastructure and boosts local property values.",
+"watch": false,
+"topic": "blue line"
+},
+{
+"id": "4bb8a1841476",
+"headline": "Advanced features revealed for Dubai Metro Blue Line",
+"summary": "Upcoming Blue Line trains will feature modern amenities like Gold Class seating and wireless charging capabilities.",
+"why": "Enhanced public transport infrastructure increases the attractiveness of connected communities.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/uae/dubai/dubai-metro-blue-line-new-look-trains-revealed-gold-class-wireless-charging-and-more-1.500756831",
+"published": "2026-11-22T11:50+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Boosts desirability of properties along the transit corridor.",
+"watch": false,
+"also": [
+"Gulf News"
+],
+"topic": "blue line"
+},
+{
+"id": "0b56fe5b419c",
+"headline": "Emaar and Huspy partner to improve mortgage access",
+"summary": "Developer Emaar and mortgage platform Huspy have joined forces to widen financing availability in the UAE.",
+"why": "Easier mortgage access directly facilitates property purchases and market liquidity.",
+"source": "https://megaproject.com/",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMHczZHdzTGx0dUdkZjN5X1ZpWTFOcHhhSHd2SXJJQ1VIM1FJWmJEYmRNYXQxeGNjbkFDZjJrVEVEMnZXLXplc2lBdzRIWTNXbnpZNGl5LUJrNUFGUmE0TUpva3d2cHJQanFtUmIwYnkzalZLOXJWMU8wQ0pIRHhSUHNfNUlDUnBR?oc=5",
+"published": "2026-11-21T02:25+04:00",
+"category": "Rates & mortgages",
+"impact": "Low",
+"impact_reason": "Improves financing options for potential property buyers.",
+"watch": false,
+"topic": "emaar"
 }
 ]

@@ -181,6 +181,69 @@
    "category": "Macro & geopolitics",
    "impact": "Medium",
    "impact_reason": "Proptech advancements can improve liquidity and investment access."
+  },
+  "1c22f123fc29": {
+   "relevant": false,
+   "headline": "Gold prices hit 14-month low amid global sell-off",
+   "summary": "Gold prices have dropped significantly as investors sell bullion despite widespread global market uncertainty.",
+   "why": "This article discusses gold commodity prices rather than Dubai real estate or UAE economics.",
+   "category": "Rates & mortgages",
+   "impact": "High",
+   "impact_reason": "Not relevant to property markets."
+  },
+  "c993a0613622": {
+   "relevant": true,
+   "headline": "Dubai unveils design for Metro Blue Line trains",
+   "summary": "Leadership inspected the futuristic new train designs planned for the upcoming Dubai Metro Blue Line project.",
+   "why": "New transit infrastructure directly impacts nearby property values and community accessibility.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Enhances connectivity and boosts regional real estate appeal."
+  },
+  "d75805181c1a": {
+   "relevant": true,
+   "headline": "Blue Line metro project reaches thirty percent completion",
+   "summary": "The Dh20.5 billion Dubai Metro Blue Line project has unveiled its new train fleet and is progressing fast.",
+   "why": "Major transit expansions improve local neighborhood appeal and long-term property demand.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Improves transport infrastructure and boosts local property values."
+  },
+  "4bb8a1841476": {
+   "relevant": true,
+   "headline": "Advanced features revealed for Dubai Metro Blue Line",
+   "summary": "Upcoming Blue Line trains will feature modern amenities like Gold Class seating and wireless charging capabilities.",
+   "why": "Enhanced public transport infrastructure increases the attractiveness of connected communities.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Boosts desirability of properties along the transit corridor."
+  },
+  "5a26259b790a": {
+   "relevant": false,
+   "headline": "Dubai Run street closures and transit guide",
+   "summary": "A guide to road closures, routes, and metro schedules for the upcoming Dubai Run event on Sheikh Zayed Road.",
+   "why": "This is a lifestyle and event guide with no direct impact on property markets.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Temporary event with no real estate impact."
+  },
+  "b1fc2db31d77": {
+   "relevant": true,
+   "headline": "Tax systems and Golden Visas attract Indian investors",
+   "summary": "Dubai's favorable tax environment and Golden Visa scheme continue drawing wealthy Indian property buyers.",
+   "why": "Foreign investment trends directly affect housing demand and property sales volumes in Dubai.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Sustains high demand from international property buyers."
+  },
+  "0b56fe5b419c": {
+   "relevant": true,
+   "headline": "Emaar and Huspy partner to improve mortgage access",
+   "summary": "Developer Emaar and mortgage platform Huspy have joined forces to widen financing availability in the UAE.",
+   "why": "Easier mortgage access directly facilitates property purchases and market liquidity.",
+   "category": "Rates & mortgages",
+   "impact": "Low",
+   "impact_reason": "Improves financing options for potential property buyers."
   }
  }
 }
