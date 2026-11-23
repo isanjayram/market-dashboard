@@ -424,6 +424,51 @@
    "category": "Developer news",
    "impact": "Medium",
    "impact_reason": "Adds significant future inventory and development activity."
+  },
+  "69b0d52c5d04": {
+   "relevant": true,
+   "headline": "Beyond Developments launches $22bn Yardlands mega-project in Dubai",
+   "summary": "Omniyat's unit introduced a massive new community featuring 25,000 residential units along Sheikh Mohamed bin Zayed Road. The ambitious project aims to create a fully integrated urban ecosystem.",
+   "why": "This massive residential supply injection significantly impacts future market inventory and buyer choices.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Adds significant housing inventory and urban scale."
+  },
+  "bc551303ac30": {
+   "relevant": false,
+   "headline": "International developers raise standards in the UAE property sector",
+   "summary": "Global real estate firms continue entering the Emirates due to strong regulations and infrastructure.",
+   "why": "The article is a general market commentary lacking specific newsworthy developments.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "General industry overview with no immediate market shifts."
+  },
+  "b65c1cfb245e": {
+   "relevant": false,
+   "headline": "Milano by Danube showcases new products at Big 5 Global",
+   "summary": "The building materials brand is exhibiting sanitaryware and electrical solutions at the upcoming trade show.",
+   "why": "This is a promotional trade exhibition announcement rather than core real estate news.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Commercial product exhibition without direct real estate impact."
+  },
+  "f15d9ec948a3": {
+   "relevant": true,
+   "headline": "Palm Springs project sells out 977 homes amid strong demand",
+   "summary": "A major residential launch successfully sold out thousands of properties, highlighting ongoing buyer appetite. Strong investor interest continues to fuel rapid off-plan absorption.",
+   "why": "Rapid sell-outs indicate strong buyer sentiment and continued high market demand.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Demonstrates robust buyer demand and fast off-plan absorption."
+  },
+  "dd897989bfc8": {
+   "relevant": true,
+   "headline": "Emirates NBD provides AED385 million financing facility to SAMANA Developers",
+   "summary": "The local bank has backed SAMANA Developers with substantial capital funding. This financial facility will support ongoing and upcoming construction pipelines.",
+   "why": "Bank funding directly enables developer project execution and boosts construction activity.",
+   "category": "Rates & mortgages",
+   "impact": "Medium",
+   "impact_reason": "Ensures liquidity for developer construction and project delivery."
   }
  }
 }
