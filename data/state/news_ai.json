@@ -1,123 +1,4 @@
 {
- "2026-11-21": {
-  "21a950f93564": {
-   "relevant": false,
-   "headline": "Gulf investors target Portuguese real estate despite visa changes",
-   "summary": "Gulf institutions continue purchasing properties in Portugal even after the golden visa adjustments.",
-   "why": "This news focuses on Portugal rather than the UAE real estate market.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Irrelevant to Dubai property investors."
-  },
-  "d2f25ec2da19": {
-   "relevant": true,
-   "headline": "Dubai Marina tops apartment rentals as Al Jaddaf villa rents surge",
-   "summary": "Dubai Marina is the leading area for apartment rentals across six tracked districts. Meanwhile, Al Jaddaf saw villa rental prices jump by nearly ninety-eight percent.",
-   "why": "It provides critical local rental performance data for Dubai investors and landlords.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Highlights shifting rental trends and high yields."
-  },
-  "45aa30053656": {
-   "relevant": true,
-   "headline": "Dubai property proves more affordable than Mumbai and Delhi markets",
-   "summary": "Comparative analysis shows that real estate prices in Dubai are currently lower than those in major Indian metropolitan centers like Mumbai and Delhi.",
-   "why": "Price comparisons against key feeder markets influence international buyer interest and capital inflows.",
-   "category": "Macro & geopolitics",
-   "impact": "Medium",
-   "impact_reason": "Encourages cross-border investment from Indian buyers."
-  },
-  "f944276daab4": {
-   "relevant": false,
-   "headline": "Lewis Allsopp recognized as a top UAE real estate icon",
-   "summary": "Lewis Allsopp has secured a spot among the top one hundred real estate figures in the UAE.",
-   "why": "Industry awards and personal recognitions do not impact market fundamentals or regulations.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Personal award lacks actionable market news."
-  },
-  "e7409efffc14": {
-   "relevant": true,
-   "headline": "IHG and Aldar finish massive Yas World hotel project in Abu Dhabi",
-   "summary": "IHG Hotels and Aldar have successfully finalized the development of a six-hotel resort complex on Yas Island.",
-   "why": "Major hospitality completions by prominent developers affect regional tourism infrastructure and investor sentiment.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Involves hospitality development in Abu Dhabi."
-  },
-  "a149be0bd12a": {
-   "relevant": true,
-   "headline": "Dubai Court mandates refund for property buyer in legal ruling",
-   "summary": "A local court in Dubai has instructed a property seller to reimburse four hundred sixty thousand dirhams to a purchaser.",
-   "why": "Court rulings regarding property transactions affect buyer protection and legal precedent in the emirate.",
-   "category": "Regulation & fees",
-   "impact": "Medium",
-   "impact_reason": "Reinforces legal protections for real estate buyers."
-  },
-  "81f4b8f6e9cd": {
-   "relevant": false,
-   "headline": "Interactive video brochures trend in luxury Dubai real estate marketing",
-   "summary": "The luxury property sector in Dubai is adopting video brochures and interactive tools to market real estate.",
-   "why": "Marketing techniques and advertising mediums do not alter property economics or regulations.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Focuses on marketing tools rather than market news."
-  },
-  "4141b2ff738b": {
-   "relevant": true,
-   "headline": "Al Maktoum Airport and holiday updates shape the week",
-   "summary": "Dubai government staff receive a five-day National Day break. Meanwhile, progress continues on the massive Al Maktoum airport project.",
-   "why": "Major infrastructure projects like Al Maktoum airport directly influence local property values and regional investment appeal.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Mega airport expansion boosts long-term regional property demand."
-  },
-  "334c1f4a1b8c": {
-   "relevant": true,
-   "headline": "Aldar launches NOMA creative district in Abu Dhabi",
-   "summary": "Aldar introduces a new cultural and residential hub featuring cinemas and workspaces. The project aims to blend urban living with artistic spaces.",
-   "why": "New master community launches by major developers shape housing supply and buyer interest in the capital.",
-   "category": "Developer news",
-   "impact": "Low",
-   "impact_reason": "Standard new developer launch with minimal immediate market shifts."
-  },
-  "dcf0b6faafaa": {
-   "relevant": false,
-   "headline": "Dubai property compared to Indian metro markets",
-   "summary": "An opinion piece discusses comparative property valuations between Dubai, Mumbai, and Delhi.",
-   "why": "Opinion commentary without hard market data does not offer actionable news for real estate decisions.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Opinion piece lacking concrete news or market updates."
-  },
-  "4227a93347b9": {
-   "relevant": true,
-   "headline": "Dubai Property Values Surge to Four-Year Peak",
-   "summary": "Residential prices in the emirate climbed by 18 percent over the past three years. The continuous upward trend highlights robust buyer demand.",
-   "why": "It provides crucial market performance data that affects investor sentiment and property valuations.",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Reflects ongoing market growth and rising property values."
-  },
-  "b9d5a8ee89c0": {
-   "relevant": true,
-   "headline": "Aldar Launches NOMA Creative District in Abu Dhabi",
-   "summary": "The developer introduced a brand new creative district situated on Saadiyat Island. This project expands residential and commercial options in the capital.",
-   "why": "New master community launches shape regional supply and attract investor capital.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Introduces new supply and development activity in the capital."
-  },
-  "9c3a9bd453b4": {
-   "relevant": true,
-   "headline": "Guide for Indian Buyers Investing in Dubai Real Estate",
-   "summary": "An analysis outlines what various Indian rupee budgets can purchase in Dubai for 2026. It targets NRI investors looking to allocate funds overseas.",
-   "why": "It addresses cross-border investment trends and capital flows from Indian buyers into Dubai.",
-   "category": "Macro & geopolitics",
-   "impact": "Medium",
-   "impact_reason": "Highlights cross-border investment opportunities for Indian buyers."
-  }
- },
  "2026-11-22": {
   "415be6a24ecc": {
    "relevant": false,
@@ -280,6 +161,125 @@
    "category": "Developer news",
    "impact": "Medium",
    "impact_reason": "Reflects strong primary market demand and high developer revenues."
+  }
+ },
+ "2026-11-23": {
+  "bb87bbfcf99e": {
+   "relevant": true,
+   "headline": "Dubai Metro Blue Line construction hits twenty-nine percent",
+   "summary": "Sheikh Hamdan inspected the upcoming Metro Blue Line designs and tech integration. Construction progress has reached nearly thirty percent completion.",
+   "why": "Infrastructure expansion improves local connectivity and property values.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Better transport links boost nearby property values."
+  },
+  "25f07b61e065": {
+   "relevant": true,
+   "headline": "Nakheel generates one point five billion dollars at launch",
+   "summary": "Nakheel successfully sold one point five billion dollars worth of residential properties during the Palm Springs launch event.",
+   "why": "High sales figures demonstrate strong investor demand in Dubai.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Reflects robust buyer appetite for luxury real estate."
+  },
+  "696d7f920e9f": {
+   "relevant": false,
+   "headline": "Pixadoo powers Shah Rukh Khan entry at launch",
+   "summary": "Pixadoo handled technology for a celebrity appearance at a Danube Dubai property launch event.",
+   "why": "This is a marketing and celebrity event piece with no actionable real estate news.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Purely promotional celebrity marketing content."
+  },
+  "9ab19a2da70b": {
+   "relevant": false,
+   "headline": "Danube hires Pixadoo for Dubai launch event",
+   "summary": "Danube Properties partnered with Pixadoo for the Shahrukhz Residences Dubai Launch 2.0 event.",
+   "why": "This is a marketing announcement rather than a market update.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Marketing announcement without property market data."
+  },
+  "93dcc345f655": {
+   "relevant": false,
+   "headline": "India needs better digital intelligence for real estate",
+   "summary": "An opinion piece discusses the need for improved digital intelligence and RERA oversight in the Indian property sector.",
+   "why": "The article focuses exclusively on the Indian real estate market.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Focuses entirely on the Indian property market."
+  },
+  "9f2a217855a6": {
+   "relevant": true,
+   "headline": "Dubai and Abu Dhabi rental markets turn tenant-friendly",
+   "summary": "New housing supply and rental regulations are creating a more favorable environment for tenants. Rental growth is experiencing downward pressure.",
+   "why": "Shifting rental conditions impact landlord yields and tenant decisions.",
+   "category": "Supply & market reports",
+   "impact": "Low",
+   "impact_reason": "Highlights shifting rental trends across the Emirates."
+  },
+  "472096d23eea": {
+   "relevant": false,
+   "headline": "Abu Dhabi Police issue winter rental scam warning",
+   "summary": "Authorities in Abu Dhabi have warned the public about fraudulent online bicycle and campsite rental offers.",
+   "why": "This is a general public safety warning unrelated to real estate property.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Crime warning unrelated to property or mortgages."
+  },
+  "15614ef85e73": {
+   "relevant": true,
+   "headline": "Nakheel breaks ground on Palm Jebel Ali mosque",
+   "summary": "Developer Nakheel has officially started construction on the Jamaa Al Anwar mosque located at Palm Jebel Ali.",
+   "why": "Community amenity progress affects the development timeline of Palm Jebel Ali.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Community infrastructure progress on Palm Jebel Ali."
+  },
+  "fd2a177e917a": {
+   "relevant": false,
+   "headline": "Filipino Homes is hiring real estate agents in Dubai",
+   "summary": "Filipino Homes is recruiting new agents for careers in Dubai's property market.",
+   "why": "This is a recruitment advertisement and does not impact property buyers, investors, or market fundamentals.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Recruitment news has no market impact."
+  },
+  "c404e618c972": {
+   "relevant": true,
+   "headline": "Aldar launches Noma creative neighbourhood in Saadiyat Cultural District",
+   "summary": "Aldar has introduced Noma, a new residential development located within Abu Dhabi's Saadiyat Cultural District.",
+   "why": "New developer launches expand market supply and offer fresh investment options for buyers.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "New project launches expand market inventory."
+  },
+  "e5842267abf6": {
+   "relevant": false,
+   "headline": "Opinion piece questions profitability for landlords in Dubai",
+   "summary": "An industry commentary explores the current challenges and profitability concerns for property landlords in Dubai.",
+   "why": "This is an agent opinion piece with no hard news, market data, or regulatory changes.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Opinion piece with no actionable news."
+  },
+  "6f15ff5ad805": {
+   "relevant": false,
+   "headline": "Burtville wins global awards as Abu Dhabi property thrives",
+   "summary": "Abu Dhabi's property sector sees strong performance while Burtville secures international awards.",
+   "why": "Corporate awards and lifestyle pieces are excluded from relevant market updates.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Awards carry no impact on property markets."
+  },
+  "1a4d2baafb53": {
+   "relevant": true,
+   "headline": "API Global engages Nigerian investors in UK and UAE real estate",
+   "summary": "API Global is actively reaching out to investors in Nigeria to promote real estate opportunities in the UAE and UK.",
+   "why": "Inbound investment campaigns from international regions can increase capital inflows into the UAE property sector.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Targeted marketing campaigns have minimal immediate market effect."
   }
  }
 }

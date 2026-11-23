@@ -2817,5 +2817,76 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"bb87bbfcf99e": {
+"id": "bb87bbfcf99e",
+"title": "Dubai Metro Blue Line construction hits twenty-nine percent",
+"link": "https://economymiddleeast.com/news/sheikh-hamdan-reviews-dubai-metro-blue-line-designs-robotics-initiatives/?utm_source=rss&utm_medium=rss&utm_campaign=sheikh-hamdan-reviews-dubai-metro-blue-line-designs-robotics-initiatives",
+"source": "Economy Middle East",
+"category": "Infrastructure",
+"published": "2026-11-23T09:34+04:00",
+"first_seen": "2026-11-23",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": {
+"name": "Dubai Metro Blue Line",
+"status": "under construction; opens 9 Sep 2029 (14 stations)",
+"source": "Khaleej Times",
+"url": "https://www.khaleejtimes.com/uae/transport/dubai-metro-blue-line-to-be-completed-september-9-2029-rta-announces"
+},
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"25f07b61e065": {
+"id": "25f07b61e065",
+"title": "Nakheel generates one point five billion dollars at launch",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY0ZnM3dmVzliRGNWQ21oc2hycVpCR1plZXBCR2tmWVlTZE1wOFNJUy1hakc2X2ZZZzltUHA4a1JPdE9UTW9IMHJITW1rdzdWdVh0Q1Y2LWNqOUpUV2l0QXVtdDdqQW5JN1hmSXNvSDJEcU9pRWd6UkxZenVPdHFJbWFMTGdaSjB1aGZmeDFPVW5IemtzaGFTZ3EzWHRZRHhWYzNab0hWbUluX1FNT1dLekIyMWlSTEdhNGZj?oc=5",
+"source": "Zawya",
+"category": "Developer news",
+"published": "2026-11-23T08:11+04:00",
+"first_seen": "2026-11-23",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"c404e618c972": {
+"id": "c404e618c972",
+"title": "Aldar launches Noma creative neighbourhood in Saadiyat Cultural District",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX0VHd0lieWNmTnRmaXVDbmlVOVdlWVlITWVwMVhNWlVQUS14TUx5bUI5V2k1djVDV2oydkFGTTZ5eU9OcUhqVGpEbTdPSVo2elBXTzRjWVQyQlRhcGJMM0drUE14cHlaUTBtaWh0Z0piZFk3SlVuYVItSmgtZFpXeDB2XzVXS3U3NVFr?oc=5",
+"source": "Al-Bawaba",
+"category": "Developer news",
+"published": "2026-11-23T08:00+04:00",
+"first_seen": "2026-11-23",
+"kind": "Off-plan launch",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
