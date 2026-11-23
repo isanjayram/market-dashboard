@@ -1,6 +1,46 @@
 {
  "top": [
   {
+   "id": "f8e6f47d7f6d",
+   "title": "Dubai, Abu Dhabi Tenants Gain More Choice Amid Rent Freeze, Rising Housing Supply",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUUU0OGhBc2dSTDJkZEkxMGhPZkhkUUUtc2pobkVSY2xyS1BCNVhnQVJUMHdNdzEwcEkySEY1S3hJSEw4aXRHX1V3MnlreTI4dF9JbDNITTlBc1dQdi1DZVEwSWZHNHBJQzRQSS1qUUJyWUhJTGFiMHp1bVd0c0s1SU9DSjFuV0VHZXVHbVQ0SHp1cUxEUGllR1k4dmtTMTMwS3p2dGEzWU8xeDB4YXc?oc=5",
+   "source": "Menafn",
+   "kind": "search",
+   "published": "2026-11-23T12:01+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Supply & market reports",
+   "impact": "High",
+   "impact_reason": "Reflects shifting rental market conditions and supply.",
+   "watch": false,
+   "headline": "Dubai and Abu Dhabi tenants see more options",
+   "summary": "Renters are finding increased choices in the market alongside rising housing supply and rent stabilization measures.",
+   "why": "Shifts in housing supply and tenant choices impact rental market dynamics.",
+   "age_hours": 1.0,
+   "topic": "abu dhabi"
+  },
+  {
+   "id": "47a691f27049",
+   "title": "Palm Jebel Ali to get a new mosque for 1,000 worshippers",
+   "link": "https://gulfnews.com/business/property/nakheel-breaks-ground-on-palm-jebel-ali-mosque-for-1000-1.500757700",
+   "source": "Gulf News",
+   "kind": "outlet",
+   "published": "2026-11-23T12:32+04:00",
+   "tags": [
+    "Property"
+   ],
+   "teaser": "Dubai: Nakheel has broken ground on Jamaa Al Anwar, a mosque for up to 1,000 worshippers at Palm Jebel Ali. The project is expected to be completed by the second half of 2027. The developer, a member of Dubai Holding Real Estate, held a ground-breaking ceremony on November 23 with the Islamic Affairs and Charitable Activities Department (IACAD) in presence. The mosque will be located in the island",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Enhances community infrastructure on Palm Jebel Ali.",
+   "watch": false,
+   "headline": "Nakheel begins construction of Palm Jebel Ali mosque",
+   "summary": "Nakheel broke ground on Jamaa Al Anwar, a new mosque accommodating 1,000 worshippers at Palm Jebel Ali. The project is slated for completion in late 2027.",
+   "why": "Infrastructure development on major islands affects community appeal and buyer interest.",
+   "age_hours": 0.5,
+   "topic": "Developer news"
+  },
+  {
    "id": "bb87bbfcf99e",
    "title": "Sheikh Hamdan reviews Dubai Metro Blue Line designs, robotics initiatives as construction progress reaches 29 percent completion",
    "link": "https://economymiddleeast.com/news/sheikh-hamdan-reviews-dubai-metro-blue-line-designs-robotics-initiatives/?utm_source=rss&utm_medium=rss&utm_campaign=sheikh-hamdan-reviews-dubai-metro-blue-line-designs-robotics-initiatives",
@@ -16,31 +56,8 @@
    "headline": "Dubai Metro Blue Line construction hits twenty-nine percent",
    "summary": "Sheikh Hamdan inspected the upcoming Metro Blue Line designs and tech integration. Construction progress has reached nearly thirty percent completion.",
    "why": "Infrastructure expansion improves local connectivity and property values.",
-   "age_hours": 2.2,
+   "age_hours": 3.4,
    "topic": "blue line"
-  },
-  {
-   "id": "25f07b61e065",
-   "title": "Dubai's Nakheel sells $1.5bln of homes in Palm Springs launch",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY0ZnM3dmVzliRGNWQ21oc2hycVpCR1plZXBCR2tmWVlTZE1wOFNJUy1hakc2X2ZZZzltUHA4a1JPdE9UTW9IMHJITW1rdzdWdVh0Q1Y2LWNqOUpUV2l0QXVtdDdqQW5JN1hmSXNvSDJEcU9pRWd6UkxZenVPdHFJbWFMTGdaSjB1aGZmeDFPVW5IemtzaGFTZ3EzWHRZRHhWYzNab0hWbUluX1FNT1dLekIyMWlSTEdhNGZj?oc=5",
-   "source": "Zawya",
-   "kind": "search",
-   "published": "2026-11-23T08:11+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Reflects robust buyer appetite for luxury real estate.",
-   "watch": false,
-   "also": [
-    "Zawya"
-   ],
-   "headline": "Nakheel generates one point five billion dollars at launch",
-   "summary": "Nakheel successfully sold one point five billion dollars worth of residential properties during the Palm Springs launch event.",
-   "why": "High sales figures demonstrate strong investor demand in Dubai.",
-   "age_hours": 3.6,
-   "topic": "nakheel",
-   "more": 1
   },
   {
    "id": "6d8624fe6b67",
@@ -57,34 +74,33 @@
    "watch": false,
    "also": [
     "The National",
-    "The National",
     "The National (property)",
     "Arabian Business"
    ],
    "headline": "Nakheel raises Dh5.5 billion from Palm Springs villa sales",
    "summary": "The initial phase of the Palm Springs development near Palm Jebel Ali sold out completely. Buyers snapped up all 977 available villas and townhouses.",
    "why": "This major developer launch highlights strong buyer demand for family properties in Dubai.",
-   "age_hours": 19.7,
+   "age_hours": 21.0,
    "topic": "nakheel"
   },
   {
-   "id": "d75805181c1a",
-   "title": "'New generation' Dubai Metro Blue Line train unveiled with Dh20.5bn project nearly 30 per cent complete",
-   "link": "https://www.thenationalnews.com/news/uae/2026/11/22/dubai-metro-blue-line-train-design-unveiled-with-dh205bn-project-nearly-30-per-cent-complete/",
-   "source": "The National",
-   "kind": "outlet",
-   "published": "2026-11-22T12:32+04:00",
+   "id": "16932c6b3191",
+   "title": "Emirates NBD Successfully Concludes AED 385 Million Bilateral Financing Facility To Support SAMANA Developers' Expansion Plans",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdHl0SEhId0lGWWJoVldwVjNUWjRRQWJSYTFUNmVpOFg5c1VHbjZXTS16UFN5OURQbzU2RDNQenBHQXowdXJQVXRWQTRIZFhYeWV6REc5RGVDVi15US12VG85Zl9JUHpaS3RGWFEyT2wya1pGamZKc05feC00THJFTmIwSmEtQk16RGVIWnBfZWJmRVBhOW8tRmtqR2NoRHBFMUdYczlDVUFIS0NCQk1SLUY5OTk3aXRtLVJ6U0xkdlo3NW9iem82WGh6NFA4R3lpYkRnNEhDOVpGUTVSa0ZHRzFRTkUzVEs1dkRR?oc=5",
+   "source": "Menafn",
+   "kind": "search",
+   "published": "2026-11-23T12:15+04:00",
    "tags": [],
-   "teaser": "Dubai on Sunday unveiled a new cutting-edge fleet of metro trains set to serve the emirate's Dh20.5 billion Blue Line project when it launches to the public in less than three years. Sheikh Hamdan bin Mohammed, Crown Prince of Dubai, Deputy Prime Minister and Minister of Defence, was given a glimpse into the future of the landmark public transport scheme as construction work rapidly takes shape. S",
-   "category": "Infrastructure",
+   "teaser": "",
+   "category": "Developer news",
    "impact": "Medium",
-   "impact_reason": "Improves transport infrastructure and boosts local property values.",
+   "impact_reason": "Boosts developer capacity and project delivery.",
    "watch": false,
-   "headline": "Blue Line metro project reaches thirty percent completion",
-   "summary": "The Dh20.5 billion Dubai Metro Blue Line project has unveiled its new train fleet and is progressing fast.",
-   "why": "Major transit expansions improve local neighborhood appeal and long-term property demand.",
-   "age_hours": 23.2,
-   "topic": "blue line"
+   "headline": "Emirates NBD provides AED 385 million to SAMANA",
+   "summary": "Emirates NBD has closed a bilateral financing facility worth AED 385 million for SAMANA Developers. The funds will back the developer's ongoing expansion initiatives.",
+   "why": "Corporate financing supports developer growth and project pipelines.",
+   "age_hours": 0.7,
+   "topic": "Developer news"
   },
   {
    "id": "c404e618c972",
@@ -102,30 +118,27 @@
    "headline": "Aldar launches Noma creative neighbourhood in Saadiyat Cultural District",
    "summary": "Aldar has introduced Noma, a new residential development located within Abu Dhabi's Saadiyat Cultural District.",
    "why": "New developer launches expand market supply and offer fresh investment options for buyers.",
-   "age_hours": 3.8,
+   "age_hours": 5.0,
    "topic": "abu dhabi"
   },
   {
-   "id": "9f2a217855a6",
-   "title": "Dubai, Abu Dhabi become more tenant-friendly as new supply rises, rental freeze weighs on rents",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSF95dXI5MGxtVHN4XzJyVDgyaTZIQXpSTTE1UUUwMnpDaHh6aVRXUXdZNWZZYURYQnJ6dE5Ja3VoM3ZFLWZDOEZNNzVKSElaY0pPbWJIN0VhVDdOdUNDYUM3c0JlbTlrYXExRjF2MXJXR05vRzNKMlA0N1JocmlzeWVzcTRMRzhuUzctTmlXZWx0Tm9KSWU0S0NIVVFwNy13N1hkaGhPSmdmVWItc3FCV004WUZ2WGd2aUszSGpQQVA5Z0FUc28xRWFKSVNxTGUtYUtv0gHTAUFVX3lxTFBIX3l1cjkwbG1Uc3hfMnJUODJpNkhBelJNMTVRRTAyekNoeHppVFdRd1k1ZllhRFhCcnp0TklrdWgzdkUtZkM4Rk03NUpISVpjSk9tYkg3RWFUN051Q0NhQzdzQmVtOWthcTFGMXYxcldHTm9HM0oyUDQ3UmhyaXN5ZXNxNExHOG5TNy1OaVdlbHROb0pJZTRLQ0hVUXA3LXc3WGRoaE9KZ2ZVYi1zcUJXTThZRnZYZ3ZpSzNIalBBUDlnQVRzbzFFYUpJU3FMZS1hS28?oc=5",
-   "source": "Khaleej Times",
+   "id": "15614ef85e73",
+   "title": "UAE Business: Nakheel breaks ground on Jamaa Al Anwar mosque at Palm Jebel Ali",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZMTFuZTgtNlMzSl9wQVlHeUpCTmhSOUJEcDNyN3MyY0ZQMUJFalF3cTRhbjZUMDhVS2c2dzhRbXBvc09oN2RmV1plck9HeEExUE4w?oc=5",
+   "source": "Gulf Daily News (Bahrain)",
    "kind": "search",
-   "published": "2026-11-23T11:02+04:00",
+   "published": "2026-11-23T11:33+04:00",
    "tags": [],
    "teaser": "",
-   "category": "Supply & market reports",
+   "category": "Developer news",
    "impact": "Low",
-   "impact_reason": "Highlights shifting rental trends across the Emirates.",
+   "impact_reason": "Community infrastructure progress on Palm Jebel Ali.",
    "watch": false,
-   "also": [
-    "Khaleej Times"
-   ],
-   "headline": "Dubai and Abu Dhabi rental markets turn tenant-friendly",
-   "summary": "New housing supply and rental regulations are creating a more favorable environment for tenants. Rental growth is experiencing downward pressure.",
-   "why": "Shifting rental conditions impact landlord yields and tenant decisions.",
-   "age_hours": 0.7,
-   "topic": "abu dhabi"
+   "headline": "Nakheel breaks ground on Palm Jebel Ali mosque",
+   "summary": "Developer Nakheel has officially started construction on the Jamaa Al Anwar mosque located at Palm Jebel Ali.",
+   "why": "Community amenity progress affects the development timeline of Palm Jebel Ali.",
+   "age_hours": 1.4,
+   "topic": "nakheel"
   },
   {
    "id": "1a4d2baafb53",
@@ -143,7 +156,7 @@
    "headline": "API Global engages Nigerian investors in UK and UAE real estate",
    "summary": "API Global is actively reaching out to investors in Nigeria to promote real estate opportunities in the UAE and UK.",
    "why": "Inbound investment campaigns from international regions can increase capital inflows into the UAE property sector.",
-   "age_hours": 17.7,
+   "age_hours": 19.0,
    "topic": "Macro & geopolitics"
   },
   {
@@ -162,17 +175,18 @@
    "headline": "Dubai Court Orders Dh460,000 Refund for Failed Property Deal",
    "summary": "A local court ruled that a seller must return Dh460,000 to a buyer following an unsuccessful real estate transaction.",
    "why": "It highlights legal protections for property buyers involved in disputed transactions in Dubai.",
-   "age_hours": 20.2,
+   "age_hours": 21.4,
    "topic": "Regulation & fees"
   }
  ],
  "window_hours": 24,
- "count_relevant": 11,
- "count_fetched": 235,
+ "count_relevant": 10,
+ "count_fetched": 234,
  "feed_errors": {
-  "Khaleej Times": "HTTPError"
+  "Khaleej Times": "HTTPError",
+  "News search: launches": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-23T11:45+04:00",
- "saved_at": "2026-11-23T11:45+04:00"
+ "as_of": "2026-11-23T12:59+04:00",
+ "saved_at": "2026-11-23T12:59+04:00"
 }
