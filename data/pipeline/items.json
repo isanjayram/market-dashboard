@@ -2888,5 +2888,49 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"9a997d58fc8d": {
+"id": "9a997d58fc8d",
+"title": "Massive $21.7B Masterplan Announced",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONDVzY0pPcGNpd2xjS0FxREdCWERaRUM3SGIxenphQzJrMGEzM01YOVRPQXE4dk80TGl1QmI2RWM4clVRSUp2ekN5Y2wweTdNRXJLSW1LdnFLU251MEF1UjBQbnZHRmptWnpINTllUHZycndiLUtVRDU0dnlsUjBhUzdaQmg4MDdrVWJJX3Vnc2VadkVlM25FZUd1Y2xaSGQ3ZDBXeW1PVTBmSDRuS1ZfY2tiQ05oRTA?oc=5",
+"source": "Construction Review",
+"category": "Developer news",
+"published": "2026-11-23T12:54+04:00",
+"first_seen": "2026-11-23",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"de1254939878": {
+"id": "de1254939878",
+"title": "Aldar unveils NOMA creative neighbourhood in Saadiyat Cultural District",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWVM3bE1abVlXM3g1aWx3RGJ3c3ZTSVVvNnJOWVFvSjI0U3hvbUxsaVVkTjk0MjRIWnhkZXRZX2NrVUtzaXNfMG9OVzI2bGFfSVJyRE9qenNfUlpiOEtZTFd5VC1IRTNhek5ldHRad0p6SEJNanpQelRJU1pmeUtraUItVnJSSUJGNEdMMmhZdksySUw5OFRyQ0FnV3Y0c1lQa2NiNDVDMFl3X2tyUHB0Q3pubkZXQzk1QURhT1dTUE00REVrQXFJMklieG9kRDZpSXU5XzBJcHAteUlf?oc=5",
+"source": "Zawya",
+"category": "Developer news",
+"published": "2026-11-21T21:51+04:00",
+"first_seen": "2026-11-23",
+"kind": "Off-plan launch",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": "NOMA",
+"developer": "Aldar",
+"location": "Saadiyat Cultural District",
+"type": "creative neighbourhood",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

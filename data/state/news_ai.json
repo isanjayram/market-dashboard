@@ -325,6 +325,105 @@
    "category": "Supply & market reports",
    "impact": "High",
    "impact_reason": "Reflects shifting rental market conditions and supply."
+  },
+  "6f586ac582d4": {
+   "relevant": true,
+   "headline": "Greenback softens from multi-month peak on shifting Fed outlook",
+   "summary": "The greenback stepped down from a 19-month high as global equity sell-offs forced traders to rethink Federal Reserve rate projections. Since the UAE dirham pegs to the dollar, currency shifts influence foreign investment flows into local real estate.",
+   "why": "Currency movements impact foreign investor purchasing power in the local property market.",
+   "category": "Rates & mortgages",
+   "impact": "Medium",
+   "impact_reason": "Shifts foreign buyer purchasing power and investment flows."
+  },
+  "62a45136ab2a": {
+   "relevant": true,
+   "headline": "BEYOND Developments launches $21.8bn YARDLANDS mega project in Dubai",
+   "summary": "BEYOND Developments introduced YARDLANDS, an AED80 billion master community along Sheikh Mohammed Bin Zayed Road. The vast urban project will feature 25,000 residential units spread across a 19 million square foot area.",
+   "why": "Massive new supply additions alter Dubai's long-term residential inventory landscape.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Adds massive residential supply to the Dubai market."
+  },
+  "e2dd72ccb0a4": {
+   "relevant": true,
+   "headline": "Dubai Metro Blue Line cabin designs revealed ahead of opening",
+   "summary": "Interior designs for the upcoming Dubai Metro Blue Line cabins have been previewed. The new transit link is scheduled to open for commuters by 2029.",
+   "why": "New transit infrastructure improves connectivity and influences nearby property values.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Better transport links enhance regional property appeal."
+  },
+  "04cc2eaa78bb": {
+   "relevant": true,
+   "headline": "Nakheel reports $1.5bn in sales from Palm Springs launch",
+   "summary": "Nakheel announced that the launch of Palm Springs generated $1.5 billion in property sales.",
+   "why": "Strong off-plan sales figures signal robust ongoing buyer demand in prime segments.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Demonstrates strong buyer demand for high-end projects."
+  },
+  "975dd6384c63": {
+   "relevant": false,
+   "headline": "Abu Dhabi court dismisses rental dispute claim",
+   "summary": "An Abu Dhabi court threw out a man's Dh62,000 rental dispute claim.",
+   "why": "Individual tenancy disputes do not constitute macro market news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Isolated legal case with no broader market impact."
+  },
+  "14ddac53c734": {
+   "relevant": false,
+   "headline": "Abu Dhabi Police issue warning over winter rental scams",
+   "summary": "Law enforcement in Abu Dhabi has issued warnings regarding fraudulent winter rental and booking activities.",
+   "why": "Crime warnings do not affect structural property economics or regulations.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Public safety warning without direct market consequences."
+  },
+  "2e2ecd8a508d": {
+   "relevant": false,
+   "headline": "DAMAC chairman values Anthropic stake at $3 billion",
+   "summary": "DAMAC Group founder Hussain Sajwani stated his investment in AI firm Anthropic is valued at roughly $3 billion following a Nasdaq debut.",
+   "why": "Personal tech investments are unrelated to real estate operations.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Personal tech investment unrelated to property markets."
+  },
+  "de1254939878": {
+   "relevant": true,
+   "headline": "Aldar unveils NOMA creative neighbourhood in Saadiyat Cultural District",
+   "summary": "Aldar Properties has announced NOMA, a fresh creative neighbourhood located within the Saadiyat Cultural District in Abu Dhabi.",
+   "why": "Major developer project launches expand regional housing options.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "New neighbourhood launch adds localized supply options."
+  },
+  "208add729836": {
+   "relevant": false,
+   "headline": "PRYPCO Blocks Advertising Campaign",
+   "summary": "PRYPCO Blocks promotes fractional real estate investing through outdoor media advertisements in Dubai.",
+   "why": "This is an outdoor advertising campaign rather than substantive real estate market news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Marketing campaign with no market-wide impact."
+  },
+  "e7cc482841fd": {
+   "relevant": true,
+   "headline": "Dubai Property Prices Surge 18 Percent",
+   "summary": "Values within Dubai's residential real estate sector have grown by eighteen percent since the year 2023.",
+   "why": "It reports significant historical capital appreciation across the local residential market.",
+   "category": "Supply & market reports",
+   "impact": "High",
+   "impact_reason": "Reflects major shifts in asset values and market sentiment."
+  },
+  "9a997d58fc8d": {
+   "relevant": true,
+   "headline": "Massive $21.7B Masterplan Announced",
+   "summary": "Beyond Developments has launched a large-scale masterplanned destination named Yardlands valued at $21.7 billion.",
+   "why": "It introduces a massive new residential supply pipeline to the Dubai market.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Adds significant future inventory and development activity."
   }
  }
 }
