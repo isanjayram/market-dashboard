@@ -401,5 +401,52 @@
 "impact_reason": "General market context",
 "watch": false,
 "topic": "abu dhabi"
+},
+{
+"id": "a6cf059703fe",
+"headline": "RTA honours Gulf News for Dubai transport coverage",
+"summary": "",
+"why": "infrastructure can shift which areas buyers favour over time (analysis, not a forecast).",
+"source": "Gulf News",
+"link": "https://gulfnews.com/uae/transport/rta-honours-gulf-news-for-dubai-transport-coverage-1.500758143",
+"published": "2026-11-23T17:31+04:00",
+"category": "Infrastructure",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": false,
+"topic": "Infrastructure"
+},
+{
+"id": "2f7681732f19",
+"headline": "Emirates NBD concludes AED 385 million financing facility for SAMANA Developers",
+"summary": "",
+"why": "can move investor sentiment; expect questions about where the market is heading.",
+"source": "Dubai Eye 103.8",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeVVQTldkZXJ6Vi1SdmJsNTktVzVlMnhySjZzRzI0X1NBdzYwRUVwZWllZkVxcHowbVJhaGdaYng3Y2F2cGdsSWc1RDZsYTVDaFNIYW15RXBMVTZWcmNqZDFOX2piem4wTjAtdVhkenNUOFlxWjFqeEkxZEk5Y2Q2d29PdUVuSjhnZEFJUU5sM1NSaFhjVXpsYWliX0wxbHFSRVlBLWN1WDdBV1pUNDliQ0Fxck1uMjRKN1pEeGhveUs?oc=5",
+"published": "2026-11-23T18:43+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": false,
+"also": [
+"www.wam.ae",
+"Menafn"
+],
+"more": 2,
+"topic": "Macro & geopolitics"
+},
+{
+"id": "e98620b7c74b",
+"headline": "Samana Developers lands $105M debt facility from Emirates NBD",
+"summary": "",
+"why": "can move investor sentiment; expect questions about where the market is heading.",
+"source": "Dealroom",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmdmUTl0NTI2M0daV3N1MVBrQ0pTY2NXU2dDMUZVNDV5d3ZfUk5KQ2hXVFYyak9JN3VUaVowWmtqbzhKUkE5OWVYOUxXRGQ2TTB3UWFYZG1GTXRWV3ZfLU9aYTBVTS1BRWY1UUM2eWlIeUM3aW05VXhyblNCUUtRVEYwOXlneE5nby0wNmtXZ0o3TWhSTGkxcFVR?oc=5",
+"published": "2026-11-23T12:35+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "General market context",
+"watch": false,
+"topic": "Macro & geopolitics"
 }
 ]
