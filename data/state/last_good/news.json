@@ -16,7 +16,7 @@
    "headline": "Dubai Property Prices Surge 18 Percent",
    "summary": "Values within Dubai's residential real estate sector have grown by eighteen percent since the year 2023.",
    "why": "It reports significant historical capital appreciation across the local residential market.",
-   "age_hours": 4.0,
+   "age_hours": 4.6,
    "topic": "Supply & market reports"
   },
   {
@@ -38,28 +38,9 @@
    "headline": "Beyond Developments launches $22bn Yardlands mega-project in Dubai",
    "summary": "Omniyat's unit introduced a massive new community featuring 25,000 residential units along Sheikh Mohamed bin Zayed Road. The ambitious project aims to create a fully integrated urban ecosystem.",
    "why": "This massive residential supply injection significantly impacts future market inventory and buyer choices.",
-   "age_hours": 3.2,
+   "age_hours": 3.8,
    "topic": "Developer news",
-   "more": 1
-  },
-  {
-   "id": "25f07b61e065",
-   "title": "Dubai's Nakheel sells $1.5bln of homes in Palm Springs launch",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY0ZnM3dmVzliRGNWQ21oc2hycVpCR1plZXBCR2tmWVlTZE1wOFNJUy1hakc2X2ZZZzltUHA4a1JPdE9UTW9IMHJITW1rdzdWdVh0Q1Y2LWNqOUpUV2l0QXVtdDdqQW5JN1hmSXNvSDJEcU9pRWd6UkxZenVPdHFJbWFMTGdaSjB1aGZmeDFPVW5IemtzaGFTZ3EzWHRZRHhWYzNab0hWbUluX1FNT1dLekIyMWlSTEdhNGZj?oc=5",
-   "source": "Zawya",
-   "kind": "search",
-   "published": "2026-11-23T13:45+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Reflects robust buyer appetite for luxury real estate.",
-   "watch": false,
-   "headline": "Nakheel generates one point five billion dollars at launch",
-   "summary": "Nakheel successfully sold one point five billion dollars worth of residential properties during the Palm Springs launch event.",
-   "why": "High sales figures demonstrate strong investor demand in Dubai.",
-   "age_hours": 5.1,
-   "topic": "nakheel"
+   "more": 2
   },
   {
    "id": "47a691f27049",
@@ -79,7 +60,7 @@
    "headline": "Nakheel begins construction of Palm Jebel Ali mosque",
    "summary": "Nakheel broke ground on Jamaa Al Anwar, a new mosque accommodating 1,000 worshippers at Palm Jebel Ali. The project is slated for completion in late 2027.",
    "why": "Infrastructure development on major islands affects community appeal and buyer interest.",
-   "age_hours": 6.3,
+   "age_hours": 6.9,
    "topic": "Developer news"
   },
   {
@@ -98,48 +79,8 @@
    "headline": "Palm Springs project sells out 977 homes amid strong demand",
    "summary": "A major residential launch successfully sold out thousands of properties, highlighting ongoing buyer appetite. Strong investor interest continues to fuel rapid off-plan absorption.",
    "why": "Rapid sell-outs indicate strong buyer sentiment and continued high market demand.",
-   "age_hours": 2.2,
+   "age_hours": 2.8,
    "topic": "Supply & market reports"
-  },
-  {
-   "id": "04cc2eaa78bb",
-   "title": "UAE Business: Palm Springs launch records $1.5bn in sales, says Nakheel",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmb2xtOHBhdHV4WW92M3NlWjd1NFkzbFVkd1VvdEFwWGpDeV95LXFaUTVpdXRseG5MY2MzVXVyNV85Q2ZJR3JhUnJxa3BHWlRVRlM4?oc=5",
-   "source": "Gulf Daily News (Bahrain)",
-   "kind": "search",
-   "published": "2026-11-23T10:28+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Demonstrates strong buyer demand for high-end projects.",
-   "watch": false,
-   "headline": "Nakheel reports $1.5bn in sales from Palm Springs launch",
-   "summary": "Nakheel announced that the launch of Palm Springs generated $1.5 billion in property sales.",
-   "why": "Strong off-plan sales figures signal robust ongoing buyer demand in prime segments.",
-   "age_hours": 8.3,
-   "topic": "nakheel"
-  },
-  {
-   "id": "a6cf059703fe",
-   "title": "RTA honours Gulf News for Dubai transport coverage",
-   "link": "https://gulfnews.com/uae/transport/rta-honours-gulf-news-for-dubai-transport-coverage-1.500758143",
-   "source": "Gulf News",
-   "kind": "outlet",
-   "published": "2026-11-23T17:31+04:00",
-   "tags": [
-    "Transport"
-   ],
-   "teaser": "Dubai: Dubai\u2019s Roads and Transport Authority (RTA) honoured Gulf News on Monday for its coverage of the emirate\u2019s transport projects and its role in keeping readers informed about the roads and public transport services they use. The newspaper was among some media organisations recognised at a ceremony attended by Mattar Al Tayer, Director General and Chairman of the RTA\u2019s Board of Executive Direc",
-   "category": "Infrastructure",
-   "impact": "Low",
-   "impact_reason": "General market context",
-   "watch": false,
-   "headline": "RTA honours Gulf News for Dubai transport coverage",
-   "summary": "",
-   "why": "infrastructure can shift which areas buyers favour over time (analysis, not a forecast).",
-   "age_hours": 1.3,
-   "topic": "Infrastructure"
   },
   {
    "id": "9f2a217855a6",
@@ -160,60 +101,17 @@
    "headline": "Dubai and Abu Dhabi rental markets turn tenant-friendly",
    "summary": "New housing supply and rental regulations are creating a more favorable environment for tenants. Rental growth is experiencing downward pressure.",
    "why": "Shifting rental conditions impact landlord yields and tenant decisions.",
-   "age_hours": 7.8,
+   "age_hours": 8.4,
    "topic": "abu dhabi"
-  },
-  {
-   "id": "2f7681732f19",
-   "title": "Emirates NBD concludes AED 385 million financing facility for SAMANA Developers",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeVVQTldkZXJ6Vi1SdmJsNTktVzVlMnhySjZzRzI0X1NBdzYwRUVwZWllZkVxcHowbVJhaGdaYng3Y2F2cGdsSWc1RDZsYTVDaFNIYW15RXBMVTZWcmNqZDFOX2piem4wTjAtdVhkenNUOFlxWjFqeEkxZEk5Y2Q2d29PdUVuSjhnZEFJUU5sM1NSaFhjVXpsYWliX0wxbHFSRVlBLWN1WDdBV1pUNDliQ0Fxck1uMjRKN1pEeGhveUs?oc=5",
-   "source": "Dubai Eye 103.8",
-   "kind": "search",
-   "published": "2026-11-23T18:43+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "General market context",
-   "watch": false,
-   "also": [
-    "www.wam.ae",
-    "Menafn"
-   ],
-   "headline": "Emirates NBD concludes AED 385 million financing facility for SAMANA Developers",
-   "summary": "",
-   "why": "can move investor sentiment; expect questions about where the market is heading.",
-   "age_hours": 0.1,
-   "topic": "Macro & geopolitics",
-   "more": 2
-  },
-  {
-   "id": "e98620b7c74b",
-   "title": "Samana Developers lands $105M debt facility from Emirates NBD",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmdmUTl0NTI2M0daV3N1MVBrQ0pTY2NXU2dDMUZVNDV5d3ZfUk5KQ2hXVFYyak9JN3VUaVowWmtqbzhKUkE5OWVYOUxXRGQ2TTB3UWFYZG1GTXRWV3ZfLU9aYTBVTS1BRWY1UUM2eWlIeUM3aW05VXhyblNCUUtRVEYwOXlneE5nby0wNmtXZ0o3TWhSTGkxcFVR?oc=5",
-   "source": "Dealroom",
-   "kind": "search",
-   "published": "2026-11-23T12:35+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "General market context",
-   "watch": false,
-   "headline": "Samana Developers lands $105M debt facility from Emirates NBD",
-   "summary": "",
-   "why": "can move investor sentiment; expect questions about where the market is heading.",
-   "age_hours": 6.2,
-   "topic": "Macro & geopolitics"
   }
  ],
  "window_hours": 24,
- "count_relevant": 16,
- "count_fetched": 306,
+ "count_relevant": 10,
+ "count_fetched": 275,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
- "mode": "AI summaries for 21 of 24 stories; rules for the rest (gemini: HTTPError: 503 Server Error: Service Unavailable for url: https://generativelanguage.google)",
- "as_of": "2026-11-23T18:48+04:00",
- "saved_at": "2026-11-23T18:48+04:00"
+ "mode": "AI summaries (gemini)",
+ "as_of": "2026-11-23T19:26+04:00",
+ "saved_at": "2026-11-23T19:26+04:00"
 }

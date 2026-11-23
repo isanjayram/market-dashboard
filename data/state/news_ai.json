@@ -469,6 +469,33 @@
    "category": "Rates & mortgages",
    "impact": "Medium",
    "impact_reason": "Ensures liquidity for developer construction and project delivery."
+  },
+  "a6cf059703fe": {
+   "relevant": false,
+   "headline": "RTA Honours Gulf News",
+   "summary": "Dubai transport authority recognized the media outlet for its infrastructure coverage.",
+   "why": "This is an award ceremony rather than property market news.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Media award with no property market impact."
+  },
+  "e5438b736317": {
+   "relevant": false,
+   "headline": "Best Lawyers In Dubai For Property Ownership Disputes",
+   "summary": "A legal directory highlights top lawyers handling property disputes in Dubai.",
+   "why": "This is a directory listing rather than active market news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Directory listing without direct market changes."
+  },
+  "2f7681732f19": {
+   "relevant": true,
+   "headline": "Emirates NBD Funds SAMANA Developers",
+   "summary": "Emirates NBD has provided an AED 385 million financing facility to support SAMANA Developers.",
+   "why": "This indicates strong banking confidence in local real estate development.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Secures funding for upcoming developer projects."
   }
  }
 }
