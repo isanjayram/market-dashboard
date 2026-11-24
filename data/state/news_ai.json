@@ -406,6 +406,150 @@
    "category": "Supply & market reports",
    "impact": "Medium",
    "impact_reason": "Indicates changing market dynamics for commercial real estate."
+  },
+  "345215af1cf4": {
+   "relevant": true,
+   "headline": "UAE Corporate Tax Guidance on Free Zones",
+   "summary": "The Federal Tax Authority issued clarifications regarding free zones and designated zones. This guidance covers corporate tax, excise tax, and VAT rules.",
+   "why": "It affects commercial property owners and corporate tax compliance costs.",
+   "category": "Regulation & fees",
+   "impact": "High",
+   "impact_reason": "Changes tax compliance requirements for businesses."
+  },
+  "6ca532a8c426": {
+   "relevant": true,
+   "headline": "UAE Golden Visa Rules for Graduates",
+   "summary": "Details have been released on eligibility, GPA, and university ranking rules for international graduates seeking the UAE Golden Visa.",
+   "why": "It dictates long-term residency options for young talent and families.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Affects long-term residency eligibility for investors and graduates."
+  },
+  "84f3fdd7a805": {
+   "relevant": true,
+   "headline": "Transport Links to Transform DWC by 2032",
+   "summary": "Etihad Rail, Metro expansions, and airport express services will connect travelers to Al Maktoum International Airport by 2032. These networks aim to completely reshape transit access.",
+   "why": "Improved connectivity will significantly boost property values surrounding the mega airport.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Infrastructure developments boost surrounding property values."
+  },
+  "6d8624fe6b67": {
+   "relevant": true,
+   "headline": "Nakheel Sells Out Palm Springs Phase One",
+   "summary": "Nakheel raised Dh5.5 billion after completely selling out the initial phase of its Palm Springs development. Strong buyer demand drove the quick purchase of all 977 villas and townhouses.",
+   "why": "It demonstrates robust investor and end-user demand for large residential communities.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Reflects strong market demand and developer liquidity."
+  },
+  "a080c2d9f853": {
+   "relevant": false,
+   "headline": "Singer Buys Mumbai Commercial Property",
+   "summary": "Indian singer Sonu Nigam purchased a commercial property in Mumbai for Rs. 31.47 Crore.",
+   "why": "Celebrity property purchases outside the UAE are irrelevant to Dubai real estate.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Not related to Dubai real estate market."
+  },
+  "098cfe3468cf": {
+   "relevant": false,
+   "headline": "NAREP Real Estate Summit 2026 Scheduled",
+   "summary": "The NAREP Real Estate Summit 2026 will convene leading Indian regulatory and industry voices.",
+   "why": "It focuses on Indian domestic real estate events rather than UAE property markets.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Focuses on Indian domestic real estate events."
+  },
+  "ac60ad6f8419": {
+   "relevant": false,
+   "headline": "New Regional VP for Four Seasons",
+   "summary": "Bob Suri was named Regional Vice President for Four Seasons properties across Africa and the Indian Ocean.",
+   "why": "Hospitality appointments outside the UAE do not impact local real estate.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Hospitality appointment with no UAE property impact."
+  },
+  "f8117ad09bef": {
+   "relevant": true,
+   "headline": "Dubai Lease Registrations Rise as Rents Soften",
+   "summary": "New lease registrations in Dubai increased 13.7% annually and 48.6% quarter-on-quarter. This growth coincides with softening rental prices.",
+   "why": "Rental market activity and pricing trends directly influence investor yields and tenant decisions.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Provides vital rental market health and pricing data."
+  },
+  "6baa5d63fe44": {
+   "relevant": true,
+   "headline": "Nakheel releases 216 waterfront residences on Palm Jebel Ali",
+   "summary": "Nakheel introduced 216 new waterfront properties named Palm Central Private Residences. These homes span three stepped buildings overlooking the Cove waterway.",
+   "why": "New project launches directly expand housing supply and buyer options in prime areas.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Adds new inventory to a major mega-project."
+  },
+  "697eee49dcac": {
+   "relevant": true,
+   "headline": "Most experts predict Dubai will rival global property markets soon",
+   "summary": "Survey findings show confidence that Dubai real estate will compete globally within five years. Sentiment remains very strong regarding the emirate's growth trajectory.",
+   "why": "Investor sentiment influences capital inflows and overall market demand.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Boosts investor confidence in the local property sector."
+  },
+  "66dd45471c2f": {
+   "relevant": true,
+   "headline": "Guide details Dubai security deposit refund rules for 2026",
+   "summary": "A new advisory outlines the exact conditions under which landlords may retain deposits. It also explains the practical steps tenants must take to recover funds.",
+   "why": "Clear rental regulations affect tenant rights and leasing transparency.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Clarifies existing rental deposit guidelines."
+  },
+  "cbe1c1d2250f": {
+   "relevant": true,
+   "headline": "Dubai commercial property sector reaches better market equilibrium",
+   "summary": "Commercial real estate in Dubai is currently experiencing a period of market stabilization. Supply and demand dynamics are balancing out across commercial spaces.",
+   "why": "Shifts in commercial equilibrium impact corporate leasing decisions and yields.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects stabilizing trends in commercial property valuations."
+  },
+  "f2f8a7329c28": {
+   "relevant": false,
+   "headline": "Zayda CRM launched for Dubai property agent enquiry management",
+   "summary": "Zayda Real Estate CRM rolled out a tool enabling Dubai agents to answer enquiries rapidly.",
+   "why": "Software vendor advertisements are not core real estate news.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Commercial software announcement without market impact."
+  },
+  "5914d2076e2f": {
+   "relevant": true,
+   "headline": "New apartment rents in Dubai drop 9 percent",
+   "summary": "Recent data shows a 9 percent decrease in new apartment rental rates across the city. Meanwhile, lease renewals have remained relatively stable.",
+   "why": "Rental rate adjustments directly affect tenant affordability and landlord yields.",
+   "category": "Supply & market reports",
+   "impact": "High",
+   "impact_reason": "Signals a shift in rental affordability and yields."
+  },
+  "1a2c3c496be3": {
+   "relevant": true,
+   "headline": "Beyond Developments reveals Dubai Yardlands masterplan",
+   "summary": "Beyond Developments has officially unveiled its new masterplan known as Dubai Yardlands. The project adds a fresh master-planned concept to the local real estate landscape.",
+   "why": "New masterplans alter future community layouts and expand development inventory.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Introduces a new large-scale community masterplan."
+  },
+  "40bef712a914": {
+   "relevant": true,
+   "headline": "Pooled property investments increase accessibility for smaller buyers",
+   "summary": "Fractional and pooled investment models are opening up Dubai real estate to retail investors. This allows individuals with smaller budgets to enter the property market.",
+   "why": "Alternative investment structures broaden the buyer pool and liquidity.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Democratizes access to property investment through pooling."
   }
  }
 }

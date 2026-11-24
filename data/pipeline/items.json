@@ -3008,5 +3008,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"84f3fdd7a805": {
+"id": "84f3fdd7a805",
+"title": "Transport Links to Transform DWC by 2032",
+"link": "https://gulfnews.com/business/aviation/dubais-new-mega-airport-how-etihad-rail-metro-and-airport-express-will-transform-travel-by-2032-1.500758942",
+"source": "Gulf News",
+"category": "Infrastructure",
+"published": "2026-11-24T11:25+04:00",
+"first_seen": "2026-11-24",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": "Al Maktoum International Airport (DWC)",
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
