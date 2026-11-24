@@ -16,8 +16,48 @@
    "headline": "Dubai Property Prices Surge 18 Percent",
    "summary": "Values within Dubai's residential real estate sector have grown by eighteen percent since the year 2023.",
    "why": "It reports significant historical capital appreciation across the local residential market.",
-   "age_hours": 4.6,
+   "age_hours": 16.2,
+   "topic": "Supply & market reports",
+   "more": 3
+  },
+  {
+   "id": "83b5bd8fc278",
+   "title": "Dubai real estate sector recorded $3.3bn of transactions last week, including $10m Business Bay apartment",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZnNkdENQbFQ3NjhvcEpOQ09YUWNKTHVkWVRIOUUzdE9GN2NKMWY0aTg4RDctWDViZ0ZlMmlMaXlHMGJXaDVhejF6VnFfV1Rmbm9DQWRlNWFiMl9ralhvckRybjdkNjRCdFJHazFpcXVMTDdjUVhQek83Z2tNMUU4SC1uUmFRZjhQaUVXMUJzWTUxZlI1QTFFQUI2cEVrY1lTTEFlcE5xYXAwNkVNVmpXUEZnaC1oclJaRHhBZ0N4aV9kVThQekEwTEEzZDhkbUJoWXZQZUd5YzV6QXVLMDB3?oc=5",
+   "source": "Arabian Business",
+   "kind": "search",
+   "published": "2026-11-23T22:41+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects robust weekly sales activity and high-value investor deals.",
+   "watch": true,
+   "headline": "Dubai Property Market Hits $3.3 Billion in Weekly Transactions",
+   "summary": "Dubai recorded AED 3.3 billion in real estate deals last week. Notable sales included a $10 million apartment in Business Bay.",
+   "why": "High transaction volumes indicate strong liquidity and sustained investor confidence in the local market.",
+   "age_hours": 8.3,
    "topic": "Supply & market reports"
+  },
+  {
+   "id": "fea6240d515e",
+   "title": "Dubai property buyers favour ready homes as under-construction sales slide",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNlFoMzZjRW82djNwOWFfNnFGVHBGeFlTaGFTYlVHRFBNM05OUTFUeTN2ZFByU0NxaDZNbUdtQ251RVFBWFlORUFFQ3ROd1BOSHBVRFpmaUZXVWh6TlJ4dEJKd0k1RWZjVEhRRWJ3V3d4RUJ6QjBTUFl3eGFGbXQxV1U5SzNQZjZjYVhZa0dMdEtLRVloZXVZc0pvTFlWU0pETW9XdUh6UG5aaklIQkZNeFZUWFgyM01IMmhKVWdRR09iSnFPNDNLS2FxTmZObWMxQk1hOUVB0gHbAUFVX3lxTFBMLUFfZHR0ekFwbFgyRHkxWFJPVlJfWDgyam9RanBFQk9UYXhEeFRaUldHR2ZUb1dvbS1YMW1qZkZDM0ZoZFR4eWtLZmpUa05TOVMzUi1uVGVCWXNXN3c3LVFBVG1IanozRElROVhNa0pNdHZjR196ODVaMklUWHZuMko5X2tsWEQtZ0tmYTlvNXVLS3FHSGloX2NycXFMSWhUQjFDeDRYM2p4bHpIS3duUkRUa3JhX2RNaE9wRDZDaTZTWXhGUHUtT2VjWUpkTXlEZjVFMDVtRW1paw?oc=5",
+   "source": "The Economic Times",
+   "kind": "search",
+   "published": "2026-11-24T04:00+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Indicates a notable shift in buyer demand towards ready homes.",
+   "watch": false,
+   "headline": "Dubai Buyers Increasingly Prefer Ready Properties Over Off-Plan",
+   "summary": "Property purchasers in Dubai are leaning heavily toward completed units. Meanwhile, sales figures for under-construction developments have declined.",
+   "why": "Shifting buyer preferences directly impact sales strategies for developers and investor demand across property types.",
+   "age_hours": 3.0,
+   "topic": "Developer news",
+   "more": 3
   },
   {
    "id": "69b0d52c5d04",
@@ -38,49 +78,27 @@
    "headline": "Beyond Developments launches $22bn Yardlands mega-project in Dubai",
    "summary": "Omniyat's unit introduced a massive new community featuring 25,000 residential units along Sheikh Mohamed bin Zayed Road. The ambitious project aims to create a fully integrated urban ecosystem.",
    "why": "This massive residential supply injection significantly impacts future market inventory and buyer choices.",
-   "age_hours": 3.8,
-   "topic": "Developer news",
-   "more": 2
-  },
-  {
-   "id": "47a691f27049",
-   "title": "Palm Jebel Ali to get a new mosque for 1,000 worshippers",
-   "link": "https://gulfnews.com/business/property/nakheel-breaks-ground-on-palm-jebel-ali-mosque-for-1000-1.500757700",
-   "source": "Gulf News",
-   "kind": "outlet",
-   "published": "2026-11-23T12:32+04:00",
-   "tags": [
-    "Property"
-   ],
-   "teaser": "Dubai: Nakheel has broken ground on Jamaa Al Anwar, a mosque for up to 1,000 worshippers at Palm Jebel Ali. The project is expected to be completed by the second half of 2027. The developer, a member of Dubai Holding Real Estate, held a ground-breaking ceremony on November 23 with the Islamic Affairs and Charitable Activities Department (IACAD) in presence. The mosque will be located in the island",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Enhances community infrastructure on Palm Jebel Ali.",
-   "watch": false,
-   "headline": "Nakheel begins construction of Palm Jebel Ali mosque",
-   "summary": "Nakheel broke ground on Jamaa Al Anwar, a new mosque accommodating 1,000 worshippers at Palm Jebel Ali. The project is slated for completion in late 2027.",
-   "why": "Infrastructure development on major islands affects community appeal and buyer interest.",
-   "age_hours": 6.9,
+   "age_hours": 15.4,
    "topic": "Developer news"
   },
   {
-   "id": "f15d9ec948a3",
-   "title": "Dubai real estate boom: Palm Springs sells out 977 homes worth \u20b913,904 crore; what\u2019s driving the frenzy?",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPX3VMUHFpcHVDTC1FQldmWjU4UDRhN0g4dmpSOFFVSW1Yd3ZvUm5HaXR0bGtBTjhfLXU4VDlsUXlkYk1OQTMzMXo1Y0ktMVEyV3VRTy1vU0RzMWhjRm5JRHNUZEU0Vkw4MWc0aG1KNk9Bbm52Nkc3RzNoTTdqQXktbjg3SDRtZ1diY2xiV1k2MVU1YU1VUUwtX2VQMXQyRXVadzVmMDFRWmt2NmhxSFlCOGRvRmU5R2hoYTBqSXB2em5mZ3dHVkFWdHVHbHBGR1hJbW85NzRXNC1GU1BpcVMzRm9jY2tPOUxXQzBTSTlmMjFFaFBSdzJVOWFn0gH_AUFVX3lxTE1qdGItT1MtdHp3ZkVRLUMzN0tIb1EwX1NZcGtFS0swMXpJNzJwVUhaU0JOamVTSU12SzMwRFhsQVZraTRJcHFJUVQxMnBCRUpNd2dkT1lFTWp3UVZlU1B4Vnlob2dzaUNBbEhMVWxTWGtzYVZxaWdCLUdZNl8wOU50NVlJN2cyckhoblZVdVVaTDJtcjJDemNqWGptOVlUdmhDZEduT0thNEowM2NOa2piWnRsdzROX0pEUDB1d0djTVV1c05NOWhzZEpIUER2S1NrSjdadVFIVDl6UkxEX3I3ZkRtdjlqT3JyOC1XZTNaWm5JakVpZWJCcTcwYVA1VQ?oc=5",
-   "source": "Livemint",
+   "id": "c404e618c972",
+   "title": "Aldar Unveils Noma, Abu Dhabi's Creative Neighbourhood in Saadiyat Cultural District",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX0VHd0lieWNmTnRmaXVDbmlVOVdlWVlITWVwMVhNWlVQUS14TUx5bUI5V2k1djVDV2oydkFGTTZ5eU9OcUhqVGpEbTdPSVo2elBXTzRjWVQyQlRhcGJMM0drUE14cHlaUTBtaWh0Z0piZFk3SlVuYVItSmgtZFpXeDB2XzVXS3U3NVFr?oc=5",
+   "source": "Al-Bawaba",
    "kind": "search",
-   "published": "2026-11-23T16:39+04:00",
+   "published": "2026-11-23T08:00+04:00",
    "tags": [],
    "teaser": "",
-   "category": "Supply & market reports",
+   "category": "Developer news",
    "impact": "Medium",
-   "impact_reason": "Demonstrates robust buyer demand and fast off-plan absorption.",
+   "impact_reason": "New project launches expand market inventory.",
    "watch": false,
-   "headline": "Palm Springs project sells out 977 homes amid strong demand",
-   "summary": "A major residential launch successfully sold out thousands of properties, highlighting ongoing buyer appetite. Strong investor interest continues to fuel rapid off-plan absorption.",
-   "why": "Rapid sell-outs indicate strong buyer sentiment and continued high market demand.",
-   "age_hours": 2.8,
-   "topic": "Supply & market reports"
+   "headline": "Aldar launches Noma creative neighbourhood in Saadiyat Cultural District",
+   "summary": "Aldar has introduced Noma, a new residential development located within Abu Dhabi's Saadiyat Cultural District.",
+   "why": "New developer launches expand market supply and offer fresh investment options for buyers.",
+   "age_hours": 23.0,
+   "topic": "abu dhabi"
   },
   {
    "id": "9f2a217855a6",
@@ -95,23 +113,21 @@
    "impact": "Low",
    "impact_reason": "Highlights shifting rental trends across the Emirates.",
    "watch": false,
-   "also": [
-    "Khaleej Times"
-   ],
    "headline": "Dubai and Abu Dhabi rental markets turn tenant-friendly",
    "summary": "New housing supply and rental regulations are creating a more favorable environment for tenants. Rental growth is experiencing downward pressure.",
    "why": "Shifting rental conditions impact landlord yields and tenant decisions.",
-   "age_hours": 8.4,
+   "age_hours": 20.0,
    "topic": "abu dhabi"
   }
  ],
  "window_hours": 24,
- "count_relevant": 10,
- "count_fetched": 275,
+ "count_relevant": 14,
+ "count_fetched": 259,
  "feed_errors": {
-  "Khaleej Times": "HTTPError"
+  "Khaleej Times": "HTTPError",
+  "News search: Sharjah and Abu Dhabi": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-23T19:26+04:00",
- "saved_at": "2026-11-23T19:26+04:00"
+ "as_of": "2026-11-24T07:01+04:00",
+ "saved_at": "2026-11-24T07:02+04:00"
 }

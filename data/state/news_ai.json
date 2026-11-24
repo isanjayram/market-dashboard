@@ -1,168 +1,4 @@
 {
- "2026-11-22": {
-  "415be6a24ecc": {
-   "relevant": false,
-   "headline": "RTA manages Dubai Run 2026 traffic",
-   "summary": "The RTA coordinated early morning road closures and traffic management for Dubai Run 2026.",
-   "why": "This is a sports and lifestyle event management piece without direct property market impact.",
-   "category": "Infrastructure",
-   "impact": "Low",
-   "impact_reason": "Sports event traffic management does not affect real estate."
-  },
-  "a0adafc88f57": {
-   "relevant": true,
-   "headline": "Dubai Metro Blue Line nears thirty percent completion",
-   "summary": "Sheikh Hamdan reviewed ongoing construction as the major transit project reaches nearly thirty percent completion.",
-   "why": "New transit infrastructure significantly boosts nearby property values and investor sentiment.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Improves accessibility and lifts surrounding property values."
-  },
-  "69d43952155e": {
-   "relevant": true,
-   "headline": "Quality and sustainability drive Abu Dhabi property market",
-   "summary": "Focus on high standards and eco-friendly design enhances competition and expands investment choices in Abu Dhabi.",
-   "why": "Market trends regarding quality and sustainability influence investor decisions and capital allocation.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "General market observation with no immediate transaction impact."
-  },
-  "73859b1ede14": {
-   "relevant": true,
-   "headline": "Aldar launches NOMA creative hub in Abu Dhabi",
-   "summary": "Aldar has introduced a new Abu Dhabi creative district featuring cultural venues and a rooftop cinema.",
-   "why": "New master developments expand lifestyle offerings and influence regional residential demand.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "New community launch influences local buyer sentiment."
-  },
-  "a464f67b92f8": {
-   "relevant": false,
-   "headline": "Filipino executive wins Dubai CEO award",
-   "summary": "William Mirasol received the CEO of the Year accolade at a Dubai awards ceremony.",
-   "why": "Individual awards and recognitions do not affect property prices, regulations, or financing.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Personal award has no effect on property markets."
-  },
-  "91173ba12546": {
-   "relevant": true,
-   "headline": "API Global targets Nigerian investors for Dubai property",
-   "summary": "API Global is marketing international real estate options to buyers based in Nigeria.",
-   "why": "Cross-border marketing campaigns bring new foreign capital into the Dubai property sector.",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "Targeted marketing has a minor localized impact."
-  },
-  "9444353d536f": {
-   "relevant": true,
-   "headline": "Stake and Rentify detail proptech plans in Dubai",
-   "summary": "Proptech firms Stake and Rentify shared their technology strategies at Dubai Future Week.",
-   "why": "Proptech innovations change how investors buy, finance, and manage real estate assets.",
-   "category": "Macro & geopolitics",
-   "impact": "Medium",
-   "impact_reason": "Proptech advancements can improve liquidity and investment access."
-  },
-  "1c22f123fc29": {
-   "relevant": false,
-   "headline": "Gold prices hit 14-month low amid global sell-off",
-   "summary": "Gold prices have dropped significantly as investors sell bullion despite widespread global market uncertainty.",
-   "why": "This article discusses gold commodity prices rather than Dubai real estate or UAE economics.",
-   "category": "Rates & mortgages",
-   "impact": "High",
-   "impact_reason": "Not relevant to property markets."
-  },
-  "c993a0613622": {
-   "relevant": true,
-   "headline": "Dubai unveils design for Metro Blue Line trains",
-   "summary": "Leadership inspected the futuristic new train designs planned for the upcoming Dubai Metro Blue Line project.",
-   "why": "New transit infrastructure directly impacts nearby property values and community accessibility.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Enhances connectivity and boosts regional real estate appeal."
-  },
-  "d75805181c1a": {
-   "relevant": true,
-   "headline": "Blue Line metro project reaches thirty percent completion",
-   "summary": "The Dh20.5 billion Dubai Metro Blue Line project has unveiled its new train fleet and is progressing fast.",
-   "why": "Major transit expansions improve local neighborhood appeal and long-term property demand.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Improves transport infrastructure and boosts local property values."
-  },
-  "4bb8a1841476": {
-   "relevant": true,
-   "headline": "Advanced features revealed for Dubai Metro Blue Line",
-   "summary": "Upcoming Blue Line trains will feature modern amenities like Gold Class seating and wireless charging capabilities.",
-   "why": "Enhanced public transport infrastructure increases the attractiveness of connected communities.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Boosts desirability of properties along the transit corridor."
-  },
-  "5a26259b790a": {
-   "relevant": false,
-   "headline": "Dubai Run street closures and transit guide",
-   "summary": "A guide to road closures, routes, and metro schedules for the upcoming Dubai Run event on Sheikh Zayed Road.",
-   "why": "This is a lifestyle and event guide with no direct impact on property markets.",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Temporary event with no real estate impact."
-  },
-  "b1fc2db31d77": {
-   "relevant": true,
-   "headline": "Tax systems and Golden Visas attract Indian investors",
-   "summary": "Dubai's favorable tax environment and Golden Visa scheme continue drawing wealthy Indian property buyers.",
-   "why": "Foreign investment trends directly affect housing demand and property sales volumes in Dubai.",
-   "category": "Regulation & fees",
-   "impact": "Medium",
-   "impact_reason": "Sustains high demand from international property buyers."
-  },
-  "0b56fe5b419c": {
-   "relevant": true,
-   "headline": "Emaar and Huspy partner to improve mortgage access",
-   "summary": "Developer Emaar and mortgage platform Huspy have joined forces to widen financing availability in the UAE.",
-   "why": "Easier mortgage access directly facilitates property purchases and market liquidity.",
-   "category": "Rates & mortgages",
-   "impact": "Low",
-   "impact_reason": "Improves financing options for potential property buyers."
-  },
-  "6169d858c9b9": {
-   "relevant": true,
-   "headline": "Nakheel Sells Out Palm Springs Phase One for Dh5.5 Billion",
-   "summary": "Nakheel successfully sold all 977 villas and townhouses in the initial release of its new community. The massive sales figure highlights ongoing robust demand for suburban family housing in Dubai.",
-   "why": "This massive launch reflects continued strong buyer demand for luxury family communities in Dubai.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Indicates high investor demand and market liquidity."
-  },
-  "8cfee6e1664b": {
-   "relevant": false,
-   "headline": "RTA Manages Dubai Run 2026 Traffic",
-   "summary": "The RTA successfully coordinated road closures and traffic management during the Dubai Run 2026 event.",
-   "why": "This is a general event management update rather than a real estate or economic news item.",
-   "category": "Infrastructure",
-   "impact": "Low",
-   "impact_reason": "No direct effect on the property market."
-  },
-  "455ed2606eb2": {
-   "relevant": true,
-   "headline": "Dubai Court Orders Dh460,000 Refund for Failed Property Deal",
-   "summary": "A local court ruled that a seller must return Dh460,000 to a buyer following an unsuccessful real estate transaction.",
-   "why": "It highlights legal protections for property buyers involved in disputed transactions in Dubai.",
-   "category": "Regulation & fees",
-   "impact": "Low",
-   "impact_reason": "Highlights legal enforcement protecting real estate investors."
-  },
-  "6d8624fe6b67": {
-   "relevant": true,
-   "headline": "Nakheel raises Dh5.5 billion from Palm Springs villa sales",
-   "summary": "The initial phase of the Palm Springs development near Palm Jebel Ali sold out completely. Buyers snapped up all 977 available villas and townhouses.",
-   "why": "This major developer launch highlights strong buyer demand for family properties in Dubai.",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Reflects strong primary market demand and high developer revenues."
-  }
- },
  "2026-11-23": {
   "bb87bbfcf99e": {
    "relevant": true,
@@ -496,6 +332,80 @@
    "category": "Developer news",
    "impact": "Medium",
    "impact_reason": "Secures funding for upcoming developer projects."
+  }
+ },
+ "2026-11-24": {
+  "83b5bd8fc278": {
+   "relevant": true,
+   "headline": "Dubai Property Market Hits $3.3 Billion in Weekly Transactions",
+   "summary": "Dubai recorded AED 3.3 billion in real estate deals last week. Notable sales included a $10 million apartment in Business Bay.",
+   "why": "High transaction volumes indicate strong liquidity and sustained investor confidence in the local market.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects robust weekly sales activity and high-value investor deals."
+  },
+  "fea6240d515e": {
+   "relevant": true,
+   "headline": "Dubai Buyers Increasingly Prefer Ready Properties Over Off-Plan",
+   "summary": "Property purchasers in Dubai are leaning heavily toward completed units. Meanwhile, sales figures for under-construction developments have declined.",
+   "why": "Shifting buyer preferences directly impact sales strategies for developers and investor demand across property types.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Indicates a notable shift in buyer demand towards ready homes."
+  },
+  "e1898ff50572": {
+   "relevant": false,
+   "headline": "International Developers Raising UAE Property Standards",
+   "summary": "Global developers are introducing new benchmarks for quality across the UAE market.",
+   "why": "This is a general lifestyle and market commentary piece lacking specific news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "General market commentary with no specific new developments."
+  },
+  "bdbcb8bee926": {
+   "relevant": false,
+   "headline": "Dubai Property Buyers Shift Towards Ready Homes",
+   "summary": "Purchasers in Dubai are showing increased preference for completed residential properties.",
+   "why": "This is a duplicate story covering the same trend as another item.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Duplicate content regarding buyer preferences."
+  },
+  "e54565216163": {
+   "relevant": true,
+   "headline": "Injazzat Surrenders Dubai Workers Housing Rights for AED 48.5M",
+   "summary": "Kuwait-based Injazzat signed an MoU to relinquish its concession rights over a Dubai labor housing asset. The transaction is valued at AED 48.5 million.",
+   "why": "Asset transactions of this scale reflect portfolio restructuring among regional firms.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Involves a corporate asset handover rather than market-wide changes."
+  },
+  "b60c85ff60b5": {
+   "relevant": false,
+   "headline": "Rental Dispute Lawyers In Dubai Helping Tenants Challenge Eviction",
+   "summary": "Legal professionals in Dubai are assisting tenants with challenging eviction notices through rental courts.",
+   "why": "This is a legal service advertisement rather than a regulatory announcement.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Promotional legal service content with no new regulations."
+  },
+  "fe331a2998ef": {
+   "relevant": true,
+   "headline": "Dubai Housing Market Anticipates 18 Percent Price Surge",
+   "summary": "Projections indicate a significant price increase for residential properties in Dubai. Growth is expected to continue upward.",
+   "why": "Future price forecasts directly influence investment decisions and market entry timing.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Highlights projected capital appreciation affecting buyer sentiment."
+  },
+  "c7f1347a7ff7": {
+   "relevant": true,
+   "headline": "Commercial Real Estate in Dubai Reaches Greater Equilibrium",
+   "summary": "The commercial property sector in Dubai is stabilizing as market conditions balance out.",
+   "why": "Commercial market stabilization alters leasing strategies and investor yields.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Indicates changing market dynamics for commercial real estate."
   }
  }
 }

@@ -2932,5 +2932,81 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"69b0d52c5d04": {
+"id": "69b0d52c5d04",
+"title": "Beyond Developments launches $22bn Yardlands mega-project in Dubai",
+"link": "https://www.thenationalnews.com/business/property/2026/11/23/yardlands-dubai-sheikh-mohamed-bin-zayed-road/",
+"source": "The National",
+"category": "Developer news",
+"published": "2026-11-23T15:38+04:00",
+"first_seen": "2026-11-24",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": "Yardlands",
+"developer": "Beyond Developments",
+"location": "Dubai",
+"type": null,
+"launch_date": null,
+"handover": "2040",
+"starting_price": null,
+"payment_plan": null
+}
+},
+"6d8624fe6b67": {
+"id": "6d8624fe6b67",
+"title": "Nakheel raises Dh5.5 billion from Palm Springs villa sales",
+"link": "https://www.thenationalnews.com/business/property/2026/11/22/dubais-nakheel-raises-dh55bn-after-selling-out-first-phase-of-new-palm-springs-project/",
+"source": "The National",
+"category": "Developer news",
+"published": "2026-11-22T16:02+04:00",
+"first_seen": "2026-11-24",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": {
+"name": "Al Maktoum International Airport expansion",
+"status": "AED 128bn terminal approved 28 Apr 2024; first phase due 2032",
+"source": "Dubai Media Office",
+"url": "https://mediaoffice.ae/en/news/2024/april/28-04/al-maktoum-international-airport"
+},
+"fields": {
+"project": "Palm Springs",
+"developer": "Nakheel",
+"location": "Dubai",
+"type": "villa",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"d75805181c1a": {
+"id": "d75805181c1a",
+"title": "Blue Line metro project reaches thirty percent completion",
+"link": "https://www.thenationalnews.com/news/uae/2026/11/22/dubai-metro-blue-line-train-design-unveiled-with-dh205bn-project-nearly-30-per-cent-complete/",
+"source": "The National",
+"category": "Infrastructure",
+"published": "2026-11-22T12:32+04:00",
+"first_seen": "2026-11-24",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": {
+"name": "Dubai Metro Blue Line",
+"status": "under construction; opens 9 Sep 2029 (14 stations)",
+"source": "Khaleej Times",
+"url": "https://www.khaleejtimes.com/uae/transport/dubai-metro-blue-line-to-be-completed-september-9-2029-rta-announces"
+},
+"fields": {
+"project": "Blue Line",
+"developer": null,
+"location": "Dubai",
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
