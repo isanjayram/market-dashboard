@@ -550,6 +550,69 @@
    "category": "Supply & market reports",
    "impact": "Medium",
    "impact_reason": "Democratizes access to property investment through pooling."
+  },
+  "f328dc7809f8": {
+   "relevant": true,
+   "headline": "Property Monitor debuts Sales Price Index for Dubai",
+   "summary": "Dubizzle Group's Property Monitor launched a fresh Sales Price Index to track residential market performance. Industry professionals will use the tool to benchmark values and guide strategic choices.",
+   "why": "Provides crucial market valuation data for industry stakeholders.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Enhances pricing accuracy and market transparency."
+  },
+  "bc1b42c30aa1": {
+   "relevant": true,
+   "headline": "Dubai air taxis may boost luxury property demand",
+   "summary": "Upcoming air taxi stations are expected to drive home demand among wealthy frequent travelers. However, experts note they will likely not impact rental rates as heavily as the metro.",
+   "why": "Connects upcoming transit infrastructure to luxury residential demand.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Influences buyer interest in specific luxury communities."
+  },
+  "aa888fefb553": {
+   "relevant": true,
+   "headline": "Experts say air taxis will not spike rents",
+   "summary": "Property specialists assure residents that upcoming air taxi networks will not cause rental prices to surge. The new transit system is viewed as a convenience rather than a major driver of rental inflation.",
+   "why": "Addresses tenant concerns regarding future rental price hikes.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Reassures market sentiment without altering costs."
+  },
+  "37a1ee9f292f": {
+   "relevant": false,
+   "headline": "Dubai RTA auctions 150 premium number plates",
+   "summary": "The RTA is hosting an online auction for 150 premium vehicle and motorcycle license plates. Bidders can choose from various digit combinations across multiple code categories.",
+   "why": "Vehicle license plate auctions do not relate to real estate or property markets.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Unrelated to property, mortgages, or the economy."
+  },
+  "f4b6d3aacff6": {
+   "relevant": true,
+   "headline": "Comparing Abu Dhabi off-plan and ready properties",
+   "summary": "An analysis evaluates the costs, risks, and timelines associated with purchasing off-plan versus ready real estate in Abu Dhabi.",
+   "why": "Informs buyers on property purchasing decisions in the UAE capital.",
+   "category": "Supply & market reports",
+   "impact": "Low",
+   "impact_reason": "Provides general buyer guidance without immediate market shifts."
+  },
+  "5377e2202195": {
+   "relevant": true,
+   "headline": "Dubai commercial property market gathers momentum",
+   "summary": "Dubai's commercial real estate sector is experiencing growing momentum and increased activity.",
+   "why": "Highlights performance trends within the commercial property sector.",
+   "category": "Supply & market reports",
+   "impact": "Low",
+   "impact_reason": "Reflects broad sector trends without changing regulations."
+  },
+  "fa05cf6f447c": {
+   "relevant": true,
+   "headline": "New Dubai tenants pay less as renewals stay firm",
+   "summary": "New renters in Dubai are securing lower rates while lease renewals remain steady amid a shifting rental landscape.",
+   "why": "Details changing dynamics within the local rental market.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Shifts tenant expectations and leasing strategies."
   }
  }
 }
