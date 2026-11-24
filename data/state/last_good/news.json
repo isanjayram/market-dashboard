@@ -16,7 +16,7 @@
    "headline": "UAE Corporate Tax Guidance on Free Zones",
    "summary": "The Federal Tax Authority issued clarifications regarding free zones and designated zones. This guidance covers corporate tax, excise tax, and VAT rules.",
    "why": "It affects commercial property owners and corporate tax compliance costs.",
-   "age_hours": 11.9,
+   "age_hours": 12.4,
    "topic": "Regulation & fees"
   },
   {
@@ -35,9 +35,9 @@
    "headline": "New apartment rents in Dubai drop 9 percent",
    "summary": "Recent data shows a 9 percent decrease in new apartment rental rates across the city. Meanwhile, lease renewals have remained relatively stable.",
    "why": "Rental rate adjustments directly affect tenant affordability and landlord yields.",
-   "age_hours": 2.6,
+   "age_hours": 3.0,
    "topic": "rents",
-   "more": 1
+   "more": 2
   },
   {
    "id": "83b5bd8fc278",
@@ -55,9 +55,9 @@
    "headline": "Dubai Property Market Hits $3.3 Billion in Weekly Transactions",
    "summary": "Dubai recorded AED 3.3 billion in real estate deals last week. Notable sales included a $10 million apartment in Business Bay.",
    "why": "High transaction volumes indicate strong liquidity and sustained investor confidence in the local market.",
-   "age_hours": 20.3,
+   "age_hours": 20.7,
    "topic": "Supply & market reports",
-   "more": 3
+   "more": 2
   },
   {
    "id": "6ca532a8c426",
@@ -75,7 +75,7 @@
    "headline": "UAE Golden Visa Rules for Graduates",
    "summary": "Details have been released on eligibility, GPA, and university ranking rules for international graduates seeking the UAE Golden Visa.",
    "why": "It dictates long-term residency options for young talent and families.",
-   "age_hours": 12.4,
+   "age_hours": 12.9,
    "topic": "golden visa"
   },
   {
@@ -100,9 +100,9 @@
    "headline": "Dollar strength puts emerging markets on alert as debt and inflation risks grow",
    "summary": "",
    "why": "can move investor sentiment; expect questions about where the market is heading.",
-   "age_hours": 0.5,
+   "age_hours": 0.9,
    "topic": "Macro & geopolitics",
-   "more": 4
+   "more": 9
   },
   {
    "id": "f328dc7809f8",
@@ -120,7 +120,7 @@
    "headline": "Property Monitor debuts Sales Price Index for Dubai",
    "summary": "Dubizzle Group's Property Monitor launched a fresh Sales Price Index to track residential market performance. Industry professionals will use the tool to benchmark values and guide strategic choices.",
    "why": "Provides crucial market valuation data for industry stakeholders.",
-   "age_hours": 2.5,
+   "age_hours": 3.0,
    "topic": "Supply & market reports"
   },
   {
@@ -139,8 +139,27 @@
    "headline": "Dubai air taxis may boost luxury property demand",
    "summary": "Upcoming air taxi stations are expected to drive home demand among wealthy frequent travelers. However, experts note they will likely not impact rental rates as heavily as the metro.",
    "why": "Connects upcoming transit infrastructure to luxury residential demand.",
-   "age_hours": 2.6,
+   "age_hours": 3.0,
    "topic": "Infrastructure"
+  },
+  {
+   "id": "f8117ad09bef",
+   "title": "Dubai new lease registrations rise 13.7% annually and 48.6% quarter-on-quarter as rents soften",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQ0hEX1J2LV9nZEl6ckEzWHRwS3ZQZDNpUGpqczJ1ek1jVTFwR3NBbHNXSmkwM1J6MW1TRmNhdUxsWVNSc0dnYV94RUZnX2NwYWQxcUVhVmVUdFVuQzdmcXd3N09GMW5RSGF0Q2NfSkM1YkdJRF9rVEFMY090aDFydWZRRjZHa1NXd1RnT2pWQnQzcUVfel9UYTA4TlA2bk9WdFdrMjloMTNTbVZBaXFEeVVoU3NYemJqZ0JTWHVGYThqcUp4TGRMNmVUQVRnTm5DU1Iyb0swc1NGQ3dCRnVjMmNmeU9XcE9YZkk4NQ?oc=5",
+   "source": "Zawya",
+   "kind": "search",
+   "published": "2026-11-24T13:51+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Provides vital rental market health and pricing data.",
+   "watch": false,
+   "headline": "Dubai Lease Registrations Rise as Rents Soften",
+   "summary": "New lease registrations in Dubai increased 13.7% annually and 48.6% quarter-on-quarter. This growth coincides with softening rental prices.",
+   "why": "Rental market activity and pricing trends directly influence investor yields and tenant decisions.",
+   "age_hours": 5.5,
+   "topic": "rents"
   },
   {
    "id": "84f3fdd7a805",
@@ -162,7 +181,7 @@
    "headline": "Transport Links to Transform DWC by 2032",
    "summary": "Etihad Rail, Metro expansions, and airport express services will connect travelers to Al Maktoum International Airport by 2032. These networks aim to completely reshape transit access.",
    "why": "Improved connectivity will significantly boost property values surrounding the mega airport.",
-   "age_hours": 7.5,
+   "age_hours": 7.9,
    "topic": "airport"
   },
   {
@@ -181,39 +200,17 @@
    "headline": "Dubai Buyers Increasingly Prefer Ready Properties Over Off-Plan",
    "summary": "Property purchasers in Dubai are leaning heavily toward completed units. Meanwhile, sales figures for under-construction developments have declined.",
    "why": "Shifting buyer preferences directly impact sales strategies for developers and investor demand across property types.",
-   "age_hours": 14.9,
-   "topic": "Developer news"
-  },
-  {
-   "id": "1a2c3c496be3",
-   "title": "Beyond Developments unveils Dubai Yardlands masterplan",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOallzM3I5SDhFNXd2eTR1T3l2LUJhaklObXZ2RHlnT2FKZm1fUk92eXFtck5MMFBNZVpkYV9EOUR6Sjlhd3Q0UFdwODhERnNmc3VLVXI3d3FlanlCWkI2WWExbWNxMXFPaG9xMlJ1aDcxSktnVk5VazZ6QkppT1hhaQ?oc=5",
-   "source": "MEED",
-   "kind": "search",
-   "published": "2026-11-24T09:59+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Introduces a new large-scale community masterplan.",
-   "watch": false,
-   "also": [
-    "Construction Review"
-   ],
-   "headline": "Beyond Developments reveals Dubai Yardlands masterplan",
-   "summary": "Beyond Developments has officially unveiled its new masterplan known as Dubai Yardlands. The project adds a fresh master-planned concept to the local real estate landscape.",
-   "why": "New masterplans alter future community layouts and expand development inventory.",
-   "age_hours": 9.0,
+   "age_hours": 15.4,
    "topic": "Developer news"
   }
  ],
  "window_hours": 24,
- "count_relevant": 23,
- "count_fetched": 353,
+ "count_relevant": 28,
+ "count_fetched": 378,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
- "mode": "AI summaries for 20 of 24 stories; rules for the rest (gemini: HTTPError: 503 Server Error: Service Unavailable for url: https://generativelanguage.google)",
- "as_of": "2026-11-24T18:56+04:00",
- "saved_at": "2026-11-24T18:58+04:00"
+ "mode": "AI summaries for 19 of 24 stories; rules for the rest (gemini: HTTPError: 503 Server Error: Service Unavailable for url: https://generativelanguage.google)",
+ "as_of": "2026-11-24T19:21+04:00",
+ "saved_at": "2026-11-24T19:21+04:00"
 }
