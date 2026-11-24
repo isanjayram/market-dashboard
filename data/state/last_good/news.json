@@ -16,7 +16,7 @@
    "headline": "UAE Corporate Tax Guidance on Free Zones",
    "summary": "The Federal Tax Authority issued clarifications regarding free zones and designated zones. This guidance covers corporate tax, excise tax, and VAT rules.",
    "why": "It affects commercial property owners and corporate tax compliance costs.",
-   "age_hours": 10.0,
+   "age_hours": 11.3,
    "topic": "Regulation & fees"
   },
   {
@@ -35,7 +35,7 @@
    "headline": "New apartment rents in Dubai drop 9 percent",
    "summary": "Recent data shows a 9 percent decrease in new apartment rental rates across the city. Meanwhile, lease renewals have remained relatively stable.",
    "why": "Rental rate adjustments directly affect tenant affordability and landlord yields.",
-   "age_hours": 0.6,
+   "age_hours": 1.9,
    "topic": "rents",
    "more": 1
   },
@@ -55,9 +55,9 @@
    "headline": "Dubai Property Market Hits $3.3 Billion in Weekly Transactions",
    "summary": "Dubai recorded AED 3.3 billion in real estate deals last week. Notable sales included a $10 million apartment in Business Bay.",
    "why": "High transaction volumes indicate strong liquidity and sustained investor confidence in the local market.",
-   "age_hours": 18.3,
+   "age_hours": 19.6,
    "topic": "Supply & market reports",
-   "more": 4
+   "more": 2
   },
   {
    "id": "6ca532a8c426",
@@ -75,7 +75,7 @@
    "headline": "UAE Golden Visa Rules for Graduates",
    "summary": "Details have been released on eligibility, GPA, and university ranking rules for international graduates seeking the UAE Golden Visa.",
    "why": "It dictates long-term residency options for young talent and families.",
-   "age_hours": 10.5,
+   "age_hours": 11.8,
    "topic": "golden visa"
   },
   {
@@ -94,7 +94,7 @@
    "headline": "Property Monitor debuts Sales Price Index for Dubai",
    "summary": "Dubizzle Group's Property Monitor launched a fresh Sales Price Index to track residential market performance. Industry professionals will use the tool to benchmark values and guide strategic choices.",
    "why": "Provides crucial market valuation data for industry stakeholders.",
-   "age_hours": 0.6,
+   "age_hours": 1.9,
    "topic": "Supply & market reports"
   },
   {
@@ -113,7 +113,7 @@
    "headline": "Dubai air taxis may boost luxury property demand",
    "summary": "Upcoming air taxi stations are expected to drive home demand among wealthy frequent travelers. However, experts note they will likely not impact rental rates as heavily as the metro.",
    "why": "Connects upcoming transit infrastructure to luxury residential demand.",
-   "age_hours": 0.6,
+   "age_hours": 2.0,
    "topic": "Infrastructure"
   },
   {
@@ -129,32 +129,14 @@
    "impact": "Medium",
    "impact_reason": "Provides vital rental market health and pricing data.",
    "watch": false,
+   "also": [
+    "Zawya"
+   ],
    "headline": "Dubai Lease Registrations Rise as Rents Soften",
    "summary": "New lease registrations in Dubai increased 13.7% annually and 48.6% quarter-on-quarter. This growth coincides with softening rental prices.",
    "why": "Rental market activity and pricing trends directly influence investor yields and tenant decisions.",
-   "age_hours": 3.1,
+   "age_hours": 4.4,
    "topic": "rents"
-  },
-  {
-   "id": "6baa5d63fe44",
-   "title": "Nakheel launches 216 waterfront homes on Palm Jebel Ali",
-   "link": "https://gulfnews.com/business/property/nakheel-launches-216-waterfront-homes-on-palm-jebel-ali-1.500759089",
-   "source": "Gulf News",
-   "kind": "outlet",
-   "published": "2026-11-24T13:35+04:00",
-   "tags": [
-    "Property"
-   ],
-   "teaser": "Dubai: Nakheel has launched 216 new waterfront homes at Palm Central Private Residences on Palm Jebel Ali. The Dubai Holding Real Estate member announced the new additions to the project on November 24. The homes sit in three stepped buildings overlooking the Cove waterway between Fronds C and D. The mix covers one- to five-bedroom apartments, four-bedroom duplex townhouses and five-bedroom pentho",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Adds new inventory to a major mega-project.",
-   "watch": false,
-   "headline": "Nakheel releases 216 waterfront residences on Palm Jebel Ali",
-   "summary": "Nakheel introduced 216 new waterfront properties named Palm Central Private Residences. These homes span three stepped buildings overlooking the Cove waterway.",
-   "why": "New project launches directly expand housing supply and buyer options in prime areas.",
-   "age_hours": 3.4,
-   "topic": "nakheel"
   },
   {
    "id": "697eee49dcac",
@@ -172,9 +154,9 @@
    "headline": "Most experts predict Dubai will rival global property markets soon",
    "summary": "Survey findings show confidence that Dubai real estate will compete globally within five years. Sentiment remains very strong regarding the emirate's growth trajectory.",
    "why": "Investor sentiment influences capital inflows and overall market demand.",
-   "age_hours": 4.9,
+   "age_hours": 6.2,
    "topic": "Macro & geopolitics",
-   "more": 5
+   "more": 11
   },
   {
    "id": "84f3fdd7a805",
@@ -196,17 +178,36 @@
    "headline": "Transport Links to Transform DWC by 2032",
    "summary": "Etihad Rail, Metro expansions, and airport express services will connect travelers to Al Maktoum International Airport by 2032. These networks aim to completely reshape transit access.",
    "why": "Improved connectivity will significantly boost property values surrounding the mega airport.",
-   "age_hours": 5.5,
+   "age_hours": 6.9,
    "topic": "airport"
+  },
+  {
+   "id": "fea6240d515e",
+   "title": "Dubai property buyers favour ready homes as under-construction sales slide",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNlFoMzZjRW82djNwOWFfNnFGVHBGeFlTaGFTYlVHRFBNM05OUTFUeTN2ZFByU0NxaDZNbUdtQ251RVFBWFlORUFFQ3ROd1BOSHBVRFpmaUZXVWh6TlJ4dEJKd0k1RWZjVEhRRWJ3V3d4RUJ6QjBTUFl3eGFGbXQxV1U5SzNQZjZjYVhZa0dMdEtLRVloZXVZc0pvTFlWU0pETW9XdUh6UG5aaklIQkZNeFZUWFgyM01IMmhKVWdRR09iSnFPNDNLS2FxTmZObWMxQk1hOUVB0gHbAUFVX3lxTFBMLUFfZHR0ekFwbFgyRHkxWFJPVlJfWDgyam9RanBFQk9UYXhEeFRaUldHR2ZUb1dvbS1YMW1qZkZDM0ZoZFR4eWtLZmpUa05TOVMzUi1uVGVCWXNXN3c3LVFBVG1IanozRElROVhNa0pNdHZjR196ODVaMklUWHZuMko5X2tsWEQtZ0tmYTlvNXVLS3FHSGloX2NycXFMSWhUQjFDeDRYM2p4bHpIS3duUkRUa3JhX2RNaE9wRDZDaTZTWXhGUHUtT2VjWUpkTXlEZjVFMDVtRW1paw?oc=5",
+   "source": "The Economic Times",
+   "kind": "search",
+   "published": "2026-11-24T04:00+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Indicates a notable shift in buyer demand towards ready homes.",
+   "watch": false,
+   "headline": "Dubai Buyers Increasingly Prefer Ready Properties Over Off-Plan",
+   "summary": "Property purchasers in Dubai are leaning heavily toward completed units. Meanwhile, sales figures for under-construction developments have declined.",
+   "why": "Shifting buyer preferences directly impact sales strategies for developers and investor demand across property types.",
+   "age_hours": 14.3,
+   "topic": "Developer news"
   }
  ],
  "window_hours": 24,
- "count_relevant": 26,
- "count_fetched": 354,
+ "count_relevant": 29,
+ "count_fetched": 420,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
- "mode": "AI summaries (gemini)",
- "as_of": "2026-11-24T16:57+04:00",
- "saved_at": "2026-11-24T16:57+04:00"
+ "mode": "AI summaries for 21 of 24 stories; rules for the rest (gemini: HTTPError: 503 Server Error: Service Unavailable for url: https://generativelanguage.google)",
+ "as_of": "2026-11-24T18:16+04:00",
+ "saved_at": "2026-11-24T18:18+04:00"
 }

@@ -54,16 +54,16 @@
     "value": 424776816.0
    },
    {
-    "area": "Motor City",
-    "dld_area": "Al Hebiah First",
-    "deals": 133,
-    "value": 185432542.0
-   },
-   {
     "area": "Saih Shuaib 1",
     "dld_area": "Saih Shuaib 1",
     "deals": 133,
     "value": 392630084.0
+   },
+   {
+    "area": "Motor City",
+    "dld_area": "Al Hebiah First",
+    "deals": 133,
+    "value": 185432542.0
    },
    {
     "area": "Jabal Ali First",
@@ -1590,5 +1590,5 @@
   "fetched_at": "2026-11-24T07:01+04:00",
   "test": false
  },
- "saved_at": "2026-11-24T16:57+04:00"
+ "saved_at": "2026-11-24T18:16+04:00"
 }
