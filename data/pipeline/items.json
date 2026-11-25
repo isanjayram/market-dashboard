@@ -3030,5 +3030,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"1a2c3c496be3": {
+"id": "1a2c3c496be3",
+"title": "Beyond Developments reveals Dubai Yardlands masterplan",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOallzM3I5SDhFNXd2eTR1T3l2LUJhaklObXZ2RHlnT2FKZm1fUk92eXFtck5MMFBNZVpkYV9EOUR6Sjlhd3Q0UFdwODhERnNmc3VLVXI3d3FlanlCWkI2WWExbWNxMXFPaG9xMlJ1aDcxSktnVk5VazZ6QkppT1hhaQ?oc=5",
+"source": "MEED",
+"category": "Developer news",
+"published": "2026-11-24T09:59+04:00",
+"first_seen": "2026-11-25",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": "Dubai Yardlands",
+"developer": "Beyond Developments",
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
