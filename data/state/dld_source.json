@@ -1,7 +1,7 @@
 {
  "source": "data.dubai bulk export (downloaded on Sanjay's Mac; GitHub's servers are blocked)",
- "snapshot": "transactions_2026-11-23_17-49-28",
- "snapshot_time": "2026-11-23 17:49",
- "newest_day": "2026-11-20",
- "fetched_at": "2026-11-24T07:01+04:00"
+ "snapshot": "transactions_2026-11-24_17-49-07",
+ "snapshot_time": "2026-11-24 17:49",
+ "newest_day": "2026-11-23",
+ "fetched_at": "2026-11-25T12:28+04:00"
 }
