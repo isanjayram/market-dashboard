@@ -388,6 +388,78 @@
    "category": "Supply & market reports",
    "impact": "High",
    "impact_reason": "Demonstrates massive foreign capital inflows boosting market confidence."
+  },
+  "69b0d52c5d04": {
+   "relevant": true,
+   "headline": "Beyond Developments launches $22bn Yardlands project in Dubai",
+   "summary": "Omniyat's unit has unveiled Yardlands, a massive new residential community along Sheikh Mohamed bin Zayed Road. The project will feature 25,000 homes inside a city-within-a-city concept.",
+   "why": "This massive multi-billion dollar project significantly expands Dubai's future residential inventory.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Expands future housing supply significantly."
+  },
+  "a8dd10d9863c": {
+   "relevant": true,
+   "headline": "Dubai property prices peak as new supply tests demand",
+   "summary": "Property values in Dubai have reached a four-year high. However, the introduction of nearly 38,000 new homes could challenge existing market demand.",
+   "why": "It highlights potential pricing pressures from incoming housing supply.",
+   "category": "Supply & market reports",
+   "impact": "Low",
+   "impact_reason": "Provides general market data on prices and supply."
+  },
+  "64b1c2ed0b1a": {
+   "relevant": true,
+   "headline": "Emaar fulfills all terms for $3.2bn Emaar Development buyout",
+   "summary": "Emaar has confirmed that all necessary conditions are now satisfied for its multi-billion dollar acquisition of Emaar Development. This corporate consolidation marks a major move for the prominent developer.",
+   "why": "Corporate restructuring of a major developer impacts market confidence.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Involves corporate restructuring of a major developer."
+  },
+  "cc457bea9e91": {
+   "relevant": true,
+   "headline": "Most UAE sellers willing to list properties at market value",
+   "summary": "A large majority of prospective UAE property sellers are prepared to price their homes at or below market value. This shift accommodates buyers who are actively searching for good deals.",
+   "why": "It reflects shifting seller psychology and negotiation trends in the market.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Reflects shifting seller sentiment and pricing flexibility."
+  },
+  "a4f4d746f5f9": {
+   "relevant": false,
+   "headline": "Dubai Real Estate Broker Loses AED 1.18 Million Claim",
+   "summary": "A local real estate broker lost a legal claim for unpaid commission in Dubai.",
+   "why": "Legal dispute over individual commissions carries no broad market impact.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Individual legal dispute with no broader market impact."
+  },
+  "caeb138851d8": {
+   "relevant": true,
+   "headline": "Homeownership fuels UAE property demand as sellers capitalize",
+   "summary": "A strong desire for homeownership continues to propel demand across the UAE property sector. Sellers are taking advantage of this active buyer interest to list properties.",
+   "why": "It outlines fundamental buyer motivations driving current market activity.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Describes general demand drivers without changing policy."
+  },
+  "68f54e6d7221": {
+   "relevant": true,
+   "headline": "Dubai rental rates drop sharply to offer tenant relief",
+   "summary": "Rents in Dubai have experienced a steep decline, providing tenants with opportunities to secure better housing. This correction helps renters find more affordable options across the emirate.",
+   "why": "Rental price shifts directly affect tenant choices and leasing yields.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Highlights a shift in local rental market dynamics."
+  },
+  "416a13cda840": {
+   "relevant": false,
+   "headline": "Orlinski Realty Group Debuts Orlinski Bay in Greece",
+   "summary": "Dubai-based Orlinski Realty Group has launched a ten-villa project on the coast of Greece.",
+   "why": "The project is located outside the UAE and has no impact on local real estate.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Focuses on international development outside the UAE."
   }
  }
 }

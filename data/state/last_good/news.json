@@ -1,26 +1,6 @@
 {
  "top": [
   {
-   "id": "0754f09cabab",
-   "title": "Dubai property boom: Prices hit 4-year high, but 38,116 new homes could test demand",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNa0t1bllxejdBeGtqV3UyanZFQUJZY0ZjVnJWQTdkeHZXdWQ0bVdyUnRna19lMjZjdFE3ZExnX3BzM2NzZHQzR29FSjlCdmJfRENaMVdxQW53UHd2TTJGSmFkbDZjd2xfSUNoSzV5c3BST1h0TndfZW9PLUZBdk5lZ1hicUV5Y0dlRUcwLXJna1JaVFVlZ0NHcUFaWnpfWXhrbGRDR2QwRVhWdlgzNExKTFBSc2ZrWUVBTXdCczN2YkZWZEE1TVBkLVlnWVBwZEtyS1Jrdk94TG1PWUhjQUNmcGlySFZJdw?oc=5",
-   "source": "The Economic Times",
-   "kind": "search",
-   "published": "2026-11-25T11:26+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Supply & market reports",
-   "impact": "High",
-   "impact_reason": "High prices and incoming supply directly influence market sentiment.",
-   "watch": false,
-   "headline": "Dubai Property Prices Reach Four-Year High Amid New Supply",
-   "summary": "Property prices in Dubai have climbed to a four-year peak. Meanwhile, the impending arrival of tens of thousands of new homes may challenge existing market demand.",
-   "why": "It highlights key price milestones and upcoming inventory pressures in Dubai.",
-   "age_hours": 1.0,
-   "topic": "Supply & market reports",
-   "more": 1
-  },
-  {
    "id": "a2c703a32a6e",
    "title": "Dubai rents fall by up to 15% as new tenants secure cheaper deals across key communities",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUE0zWC1tdFNUbHRqUm1vOERtSzVNX1ZUWjVoNHoxdWRQU3JCbEZ2T0Vrc0hCRUI1NVgyWW9zYXZEblgzSDQwRkZHYXFsbVA2LUR3Vy1UQVBQdF9aM3lERE4yQ294ZWhaRWtRWkh3NHg2WlNSOWpyNC1Ubms5Uk1VLW1sYWZFY2lsX2hlVnVoZUl5Wk52WWNpUzk1OWRFbUNsZVRtVWlqOEtVY19BNXc4N1ZOOFlMNmJoYXpxREgtU291N3Fm?oc=5",
@@ -36,9 +16,9 @@
    "headline": "Dubai Rents Drop Up to 15 Percent in Key Neighborhoods",
    "summary": "New tenants across several key Dubai communities are securing reduced lease rates with drops reaching up to 15 percent. This adjustment offers relief to renters entering the current market.",
    "why": "Lower rents directly affect leasing yields and tenant affordability.",
-   "age_hours": 14.2,
+   "age_hours": 15.6,
    "topic": "rents",
-   "more": 1
+   "more": 3
   },
   {
    "id": "5914d2076e2f",
@@ -56,28 +36,8 @@
    "headline": "New apartment rents in Dubai drop 9 percent",
    "summary": "Recent data shows a 9 percent decrease in new apartment rental rates across the city. Meanwhile, lease renewals have remained relatively stable.",
    "why": "Rental rate adjustments directly affect tenant affordability and landlord yields.",
-   "age_hours": 20.1,
+   "age_hours": 21.5,
    "topic": "rents"
-  },
-  {
-   "id": "829845201c0e",
-   "title": "Abu Dhabi real estate FDI surges 309% to Dhs13.8 billion in first half",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcFBQQlVoZUlpejFGM3Z2ZUxLc1JKZVZfTWNTb3Jyd244QVdUVDlHRk1IeXBTaVkyalFzUi00R3hrY3FJMFhKRWYyMlAyVnFiZUk0TEVINUdleE9rWlBZNlNIX25rVTZSSlZQU1ZSdGxJWHIyWUtnM2NWMk9zektFS1RFdU9NSHNGdW1QcTBqUWp4WF84c3VLblRXNW1wMGRsb0RYWGxLTEdqNjdhY3g2N05hQTVIV2VPSFpJQ3d5NEFOOWZLSlpJWDBVRGtDNjlIcmo5cFdEcjVxQQ?oc=5",
-   "source": "Gulf Today",
-   "kind": "search",
-   "published": "2026-11-24T13:50+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Supply & market reports",
-   "impact": "High",
-   "impact_reason": "Demonstrates massive foreign capital inflows boosting market confidence.",
-   "watch": false,
-   "headline": "Abu Dhabi property foreign direct investment climbs 309 percent",
-   "summary": "Foreign direct investment into Abu Dhabi property reached 13.8 billion Dirhams in the first half. This reflects a massive surge in overseas capital.",
-   "why": "It signals strong international investor confidence in the capital.",
-   "age_hours": 22.6,
-   "topic": "abu dhabi",
-   "more": 1
   },
   {
    "id": "df4d748c7f16",
@@ -95,7 +55,7 @@
    "headline": "Abu Dhabi Wealth and Art Growth to Drive Expat Master Communities",
    "summary": "Abu Dhabi's rising prominence as a wealth and cultural hub is expected to attract new master-plan communities. These developments will cater specifically to incoming expat families.",
    "why": "It signals upcoming residential supply shifts tailored for families in the capital.",
-   "age_hours": 0.2,
+   "age_hours": 1.6,
    "topic": "abu dhabi"
   },
   {
@@ -117,7 +77,7 @@
    "headline": "Dubai Tenants Relocate Across Communities to Lower Rental Costs",
    "summary": "Renters in Dubai are actively switching residential locations to find more affordable housing options. This shift highlights ongoing adjustments in tenant migration patterns across the city.",
    "why": "It reflects changing renter behavior and shifting demand across Dubai neighborhoods.",
-   "age_hours": 6.5,
+   "age_hours": 7.8,
    "topic": "rent"
   },
   {
@@ -139,7 +99,7 @@
    "headline": "Dubai air taxis may boost luxury property demand",
    "summary": "Upcoming air taxi stations are expected to drive home demand among wealthy frequent travelers. However, experts note they will likely not impact rental rates as heavily as the metro.",
    "why": "Connects upcoming transit infrastructure to luxury residential demand.",
-   "age_hours": 20.2,
+   "age_hours": 21.5,
    "topic": "Infrastructure"
   },
   {
@@ -158,7 +118,7 @@
    "headline": "Emirates NBD provides AED 385 million financing for SAMANA Developers",
    "summary": "SAMANA Developers secured a substantial bilateral credit facility from Emirates NBD. The funds will fuel upcoming expansion projects.",
    "why": "It highlights active banking support for developer growth pipelines.",
-   "age_hours": 17.1,
+   "age_hours": 18.5,
    "topic": "Developer news"
   },
   {
@@ -183,36 +143,76 @@
    "headline": "Dirham Remittance Rates Shift for Indian and Philippine Expats",
    "summary": "UAE expatriates notice mixed remittance returns as the Indian rupee strengthens and the Philippine peso weakens. Currency fluctuations impact the purchasing power of remittances sent back home.",
    "why": "It affects the disposable income and remittance capacity of UAE expatriates.",
-   "age_hours": 1.1,
-   "topic": "Macro & geopolitics"
+   "age_hours": 2.4,
+   "topic": "Macro & geopolitics",
+   "more": 2
   },
   {
-   "id": "728669463d33",
-   "title": "Should You Renew Your Lease Or Move In Dubai? What October's Data Tells Tenants",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcmg4Y1I2M1R6TmhJTHdsRjBSYXRZY0Y4T0ZjYWgtT2tJRzFiX09wb2VkLXRrVG94LXR0ZkJoNXNPRDcwMzZoMHV6V29TUThpS0tIa2prd2ZxcnJvWjZ4Q0h2WTFNeDE0STIzdUJZcENuTHA0SnRYdnYwX0hicnRwN3hfU011TXRYaUU2Smx0Wk5nWWVWam5SLVctaG1jY1ZaaFpKNUZiV21aV3IweGFtS25oU0pDY0IxUDBqZFZrbk9Wa0szTkxVZVBld3RtcjBaa1RJWmtoOWI5aTA?oc=5",
-   "source": "Allsopp & Allsopp",
+   "id": "a8dd10d9863c",
+   "title": "Dubai property boom: Prices hit 4-year high, but 38,116 new homes could test demand",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRV95bFNRUk80cmtpZTJOdktsVzVXTGdtQ1F2X3o5R241OTJTdjRESG1zQ1BlekRQcGFmeUJ6eDByYTBfY0V1bjVnMmdydXRZelNBdXBqeFZmOGVmNUdOZkhuOUw4X1Y5eS1wT0w0V3oteGwwRmRBYU1tWl9QN0NxTnFUVzg5eFcyX3lCUUs5alc5cWRQWkFzbDVocDdIN010U2lzbl9uMk1jQzQ5NlFONXhLRTNlTEZWOEgyRTVDSDN2VHhJVkE4T3E0MmhVeUd4QThwSkZWWHZiYWpHbnlOdWNuRFJYRWhTLXl2WWJqaV9JUQ?oc=5",
+   "source": "The Economic Times",
    "kind": "search",
-   "published": "2026-11-24T18:12+04:00",
+   "published": "2026-11-25T10:56+04:00",
    "tags": [],
    "teaser": "",
    "category": "Supply & market reports",
    "impact": "Low",
-   "impact_reason": "Provides guidance without altering broad market fundamentals.",
+   "impact_reason": "Provides general market data on prices and supply.",
    "watch": false,
-   "headline": "October data helps Dubai tenants choose between moving and renewing",
-   "summary": "Recent market figures for October provide guidance for renters weighing lease renewals against relocation. The insights help tenants navigate current conditions.",
-   "why": "It offers practical lease data that impacts everyday tenant decisions.",
-   "age_hours": 18.3,
-   "topic": "Supply & market reports"
+   "headline": "Dubai property prices peak as new supply tests demand",
+   "summary": "Property values in Dubai have reached a four-year high. However, the introduction of nearly 38,000 new homes could challenge existing market demand.",
+   "why": "It highlights potential pricing pressures from incoming housing supply.",
+   "age_hours": 2.9,
+   "topic": "Supply & market reports",
+   "more": 1
+  },
+  {
+   "id": "64b1c2ed0b1a",
+   "title": "Dubai\u2019s Emaar says all conditions met for $3.2bln buyout of Emaar Development",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMHNEb25zcWpucmpXU2sza1hxQkxxZFdjOU1mMVp3Sy1qYzFLaUxQc2VJV2RNcU5SSnBpcVpOeHBPd1JSMU1fNWFhWFB0Vld6OHpnV0s2OTl1RWV6S1ZqUC1WT2N5dnBHekxnelA2ZXJ2TkpLVzJNaWxjMFhCeHp5OW5vQkZBVUUzdzFUblQ5WHpETnZ4MDVfdlBtRmNJckxkWUp6VVZHRFNiU243VmtVa2tveTdiNnNEU2xqYzlsQVFWMGM2S3BpZ3Y5TTNRaDNEdnc?oc=5",
+   "source": "Zawya",
+   "kind": "search",
+   "published": "2026-11-25T08:24+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Involves corporate restructuring of a major developer.",
+   "watch": false,
+   "headline": "Emaar fulfills all terms for $3.2bn Emaar Development buyout",
+   "summary": "Emaar has confirmed that all necessary conditions are now satisfied for its multi-billion dollar acquisition of Emaar Development. This corporate consolidation marks a major move for the prominent developer.",
+   "why": "Corporate restructuring of a major developer impacts market confidence.",
+   "age_hours": 5.4,
+   "topic": "emaar"
+  },
+  {
+   "id": "cc457bea9e91",
+   "title": "UAE property: 79% of prospective sellers willing to list homes at or below market value as buyers seek deals",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNR1ZtRGI4aHJ3WURPRVlrSURSdC13NHJtODU3VFFocERlM2NTQ0xHWkU2UnJySng0emIwcW5KUXlzRjFYdEU2MS1rYjV5TFpQQ0VycVhYTzhCMjJjZkhmUHNESWpZMGtvcGZGcm9mYWtvNHNCOVNLMlBVWDh6Zlh5YkdhbFpOalVNRlpPT1gyOXhZQVVKbngwT0JYRHlwLWFHVVFvZkZlekRyeUxOVGFuazVYcXlmanhHc1BPczBVajVLRUZ5ZjRISldvUkV4MUctcEhsT3duZWpXWDhDLWVvNS02Zlc?oc=5",
+   "source": "Arabian Business",
+   "kind": "search",
+   "published": "2026-11-25T01:56+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Reflects shifting seller sentiment and pricing flexibility.",
+   "watch": false,
+   "headline": "Most UAE sellers willing to list properties at market value",
+   "summary": "A large majority of prospective UAE property sellers are prepared to price their homes at or below market value. This shift accommodates buyers who are actively searching for good deals.",
+   "why": "It reflects shifting seller psychology and negotiation trends in the market.",
+   "age_hours": 11.9,
+   "topic": "Macro & geopolitics"
   }
  ],
  "window_hours": 24,
- "count_relevant": 17,
- "count_fetched": 384,
+ "count_relevant": 22,
+ "count_fetched": 431,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-25T12:28+04:00",
- "saved_at": "2026-11-25T12:28+04:00"
+ "as_of": "2026-11-25T13:50+04:00",
+ "saved_at": "2026-11-25T13:50+04:00"
 }
