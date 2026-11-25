@@ -460,6 +460,87 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Focuses on international development outside the UAE."
+  },
+  "dc97aec74a00": {
+   "relevant": true,
+   "headline": "Al Ghurair launches Tessera townhouses near Al Maktoum Airport",
+   "summary": "Dubai South now offers residential options for its workforce with the launch of the Tessera project. Quality developments help stabilize rental rates even when broader market conditions soften.",
+   "why": "It introduces new residential supply near a major aviation hub.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Expands housing supply near Dubai South."
+  },
+  "446dfc2aebe7": {
+   "relevant": true,
+   "headline": "Stronger US dollar driven by tariff concerns and Fed rates",
+   "summary": "The greenback climbed globally as markets anticipated potential tariff changes and further interest rate movements from the Federal Reserve. This currency shift impacts global capital flows and foreign investment costs.",
+   "why": "Currency strength directly impacts foreign buyer purchasing power in dirhams.",
+   "category": "Rates & mortgages",
+   "impact": "Medium",
+   "impact_reason": "Affects foreign investor purchasing power."
+  },
+  "d1a11728fb5c": {
+   "relevant": true,
+   "headline": "Updated UAE Golden Visa criteria and application guidelines",
+   "summary": "An overview details who currently qualifies for the long-term UAE residency and the steps required to apply. Residency rules remain a key driver for property investment and end-user stability.",
+   "why": "Residency rules heavily influence property investor decisions.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Affects investor residency eligibility."
+  },
+  "306013b9283f": {
+   "relevant": false,
+   "headline": "UAE vs India Real Estate Investment Comparison",
+   "summary": "A comparative look at potential property investment returns between the UAE and India.",
+   "why": "This is an opinion-based comparison piece with no breaking news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Analytical comparison with no direct market change."
+  },
+  "732a1ee9a502": {
+   "relevant": false,
+   "headline": "Key takeaways on Gulf economic future and real estate",
+   "summary": "A briefing on the broader economic outlook, AI developments, and investment trends across the Gulf region.",
+   "why": "It is a general overview without specific actionable real estate news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "General briefing with no direct market impact."
+  },
+  "8abf79063b2b": {
+   "relevant": false,
+   "headline": "RTA wins government excellence award for infrastructure speed",
+   "summary": "Dubai's Roads and Transport Authority received the Dubai-it Award for accelerating infrastructure projects and improving urban mobility.",
+   "why": "Award wins are not material updates for property transactions.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Corporate award with no direct property market effect."
+  },
+  "2bc3cd879b81": {
+   "relevant": true,
+   "headline": "New platform allows first-time buyers to reduce down payment",
+   "summary": "A newly introduced property platform claims it can help first-time homebuyers cut their required down payments in half.",
+   "why": "Changes to down payment structures directly impact buyer affordability.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Improves accessibility for first-time buyers."
+  },
+  "c723ef9306e7": {
+   "relevant": true,
+   "headline": "New tenants secure lower rates while renewals remain stable",
+   "summary": "Rental market trends show that incoming tenants are finding lower prices, whereas lease renewals are staying steady.",
+   "why": "Shifts in rental pricing directly affect landlord yields and tenant budgets.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Indicates changing dynamics in rental yields."
+  },
+  "2a80af193ac3": {
+   "relevant": true,
+   "headline": "ALAIN and Emaar Announce AED 8 Billion Abu Dhabi Pipeline",
+   "summary": "A massive hospitality and branded residential portfolio is planned for Abu Dhabi through a partnership between ALAIN and Emaar Hospitality Group.",
+   "why": "It introduces a multi-billion-dirham residential supply pipeline to the market.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Adds significant new branded residential supply to Abu Dhabi."
   }
  }
 }
