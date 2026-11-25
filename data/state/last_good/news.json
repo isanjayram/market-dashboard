@@ -16,9 +16,9 @@
    "headline": "Dubai Rents Drop Up to 15 Percent in Key Neighborhoods",
    "summary": "New tenants across several key Dubai communities are securing reduced lease rates with drops reaching up to 15 percent. This adjustment offers relief to renters entering the current market.",
    "why": "Lower rents directly affect leasing yields and tenant affordability.",
-   "age_hours": 19.3,
+   "age_hours": 20.3,
    "topic": "rents",
-   "more": 3
+   "more": 2
   },
   {
    "id": "dc97aec74a00",
@@ -38,7 +38,7 @@
    "headline": "Al Ghurair launches Tessera townhouses near Al Maktoum Airport",
    "summary": "Dubai South now offers residential options for its workforce with the launch of the Tessera project. Quality developments help stabilize rental rates even when broader market conditions soften.",
    "why": "It introduces new residential supply near a major aviation hub.",
-   "age_hours": 2.1,
+   "age_hours": 3.1,
    "topic": "rents"
   },
   {
@@ -62,12 +62,32 @@
    "headline": "Stronger US dollar driven by tariff concerns and Fed rates",
    "summary": "The greenback climbed globally as markets anticipated potential tariff changes and further interest rate movements from the Federal Reserve. This currency shift impacts global capital flows and foreign investment costs.",
    "why": "Currency strength directly impacts foreign buyer purchasing power in dirhams.",
-   "age_hours": 2.8,
+   "age_hours": 3.8,
    "topic": "Rates & mortgages"
   },
   {
+   "id": "2bc3cd879b81",
+   "title": "Dubai: First-time homebuyers can halve down payment, says new property platform",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMWQ1aXJNWHdlVTc5bDJ5R01LRHE0VkRUZG5ibkhuV0RfVlB2SGx3c0VwRmNqUkR1Ul9GNWo5UzlMbDBJbGhJWE5VUDNaOUxRdlVXOVk1N19WZk8yeDlBbUh2a1lSM3ZtSFV1ZVFSVTVKRXNiWVU5alVxazZ0LUt5dnZJUE5Va3pFVHk5Ukl4NDNjZnhpVzFqd3R0T3N5NTYzY0xfTHRkSGZXNXhqdXFJ0gG3AUFVX3lxTE9hcjFEdzM0YnYxV2c2LWJqTFlkN1BmalJTNXRjQVozcHhiMXVsM3pMeEFybEdlMVdsWUVXQjduUXBQZUsyNmlNYkdJSkV4emFwY0JnOUtWOFFIcmhmTXVKV3VZWGI2ckJyVWo3ZUt0SkpwLUMzSFZwa2hRYkxHS0F5cHdlZVZ2ZXgtbXNid2swUE1RZThTZ3NXZHFJUHZyWFdiVlo5S3V2TExaX1BycHhlNC16MFVNbw?oc=5",
+   "source": "Khaleej Times",
+   "kind": "search",
+   "published": "2026-11-25T13:39+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Improves accessibility for first-time buyers.",
+   "watch": false,
+   "headline": "New platform allows first-time buyers to reduce down payment",
+   "summary": "A newly introduced property platform claims it can help first-time homebuyers cut their required down payments in half.",
+   "why": "Changes to down payment structures directly impact buyer affordability.",
+   "age_hours": 4.9,
+   "topic": "Macro & geopolitics",
+   "more": 5
+  },
+  {
    "id": "df4d748c7f16",
-   "title": "Abu Dhabi\u2019s status as wealth and art center to draw \u2018new wave\u2019 of master-plan communities for expat families",
+   "title": "Abu Dhabi\u2019s status as wealth and art centre to draw \u2018new wave\u2019 of master-plan communities for expat families",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaEVQSmJPRFowZy1CaW1JMzd3QnhRRmtzRXBZYUdsZENrTDNSdXJ6eHMzdlVXWk9Hb0d2OWxFVU1vc0gyZDNGRjlXSGJ4a01IQVFyM2dPQThETkIycjdnRWRyX0ltc0pSQlViSGV1ZXJWMkNsX2pNVzdCN3JSdXVsaGVkZWF5YmZuZjc1VEdpN1Yya0N3aEdXQm1KQ1VPZ1VqeGJMTlhnWlVISFp3VHV1MnBoTjJKTVJMQ0VRdFB0NUVwMFZ5dmVhazYyN3BrRXJTaXU2YkU1MDVnV24xcDNYT2E4RFQ?oc=5",
    "source": "Arabian Business",
    "kind": "search",
@@ -81,7 +101,7 @@
    "headline": "Abu Dhabi Wealth and Art Growth to Drive Expat Master Communities",
    "summary": "Abu Dhabi's rising prominence as a wealth and cultural hub is expected to attract new master-plan communities. These developments will cater specifically to incoming expat families.",
    "why": "It signals upcoming residential supply shifts tailored for families in the capital.",
-   "age_hours": 5.2,
+   "age_hours": 6.2,
    "topic": "abu dhabi"
   },
   {
@@ -100,9 +120,8 @@
    "headline": "New tenants secure lower rates while renewals remain stable",
    "summary": "Rental market trends show that incoming tenants are finding lower prices, whereas lease renewals are staying steady.",
    "why": "Shifts in rental pricing directly affect landlord yields and tenant budgets.",
-   "age_hours": 9.1,
-   "topic": "Macro & geopolitics",
-   "more": 5
+   "age_hours": 10.1,
+   "topic": "Macro & geopolitics"
   },
   {
    "id": "6a8cf04b8b2a",
@@ -123,7 +142,7 @@
    "headline": "Dubai Tenants Relocate Across Communities to Lower Rental Costs",
    "summary": "Renters in Dubai are actively switching residential locations to find more affordable housing options. This shift highlights ongoing adjustments in tenant migration patterns across the city.",
    "why": "It reflects changing renter behavior and shifting demand across Dubai neighborhoods.",
-   "age_hours": 11.5,
+   "age_hours": 12.5,
    "topic": "rent"
   },
   {
@@ -145,7 +164,7 @@
    "headline": "Updated UAE Golden Visa criteria and application guidelines",
    "summary": "An overview details who currently qualifies for the long-term UAE residency and the steps required to apply. Residency rules remain a key driver for property investment and end-user stability.",
    "why": "Residency rules heavily influence property investor decisions.",
-   "age_hours": 2.2,
+   "age_hours": 3.2,
    "topic": "golden visa"
   },
   {
@@ -164,32 +183,8 @@
    "headline": "ALAIN and Emaar Announce AED 8 Billion Abu Dhabi Pipeline",
    "summary": "A massive hospitality and branded residential portfolio is planned for Abu Dhabi through a partnership between ALAIN and Emaar Hospitality Group.",
    "why": "It introduces a multi-billion-dirham residential supply pipeline to the market.",
-   "age_hours": 4.1,
+   "age_hours": 5.1,
    "topic": "abu dhabi"
-  },
-  {
-   "id": "d44e01cb8f3e",
-   "title": "Philippine real estate leader William Thomas F. Mirasol awarded CEO of the Year at the Asian Business Leader of the Year Awards in Dubai",
-   "link": "https://gulfnews.com/business/corporate-news/philippine-real-estate-leader-william-thomas-f-mirasol-awarded-ceo-of-the-year-at-the-asian-business-leader-of-the-year-awards-in-dubai-1.500760622",
-   "source": "Gulf News",
-   "kind": "outlet",
-   "published": "2026-11-25T16:08+04:00",
-   "tags": [
-    "Corporate-News"
-   ],
-   "teaser": "Philippine real estate executive William Thomas F. Mirasol has been named CEO of the Year at the Asian Business Leader of The Year awards, recognising more than three decades of leadership in attracting international investment, building partnerships and connecting investors with Philippine real estate opportunities. Mirasol received the award on 29 October 2026 at Taj Dubai Business Bay. He is Vi",
-   "category": "Macro & geopolitics",
-   "impact": "Low",
-   "impact_reason": "General market context",
-   "watch": false,
-   "also": [
-    "Gulf News"
-   ],
-   "headline": "Philippine real estate leader William Thomas F. Mirasol awarded CEO of the Year at the Asian Business Leader of the Year Awards in Dubai",
-   "summary": "",
-   "why": "can move investor sentiment; expect questions about where the market is heading.",
-   "age_hours": 1.4,
-   "topic": "Macro & geopolitics"
   },
   {
    "id": "a8dd10d9863c",
@@ -207,17 +202,17 @@
    "headline": "Dubai property prices peak as new supply tests demand",
    "summary": "Property values in Dubai have reached a four-year high. However, the introduction of nearly 38,000 new homes could challenge existing market demand.",
    "why": "It highlights potential pricing pressures from incoming housing supply.",
-   "age_hours": 6.6,
+   "age_hours": 7.6,
    "topic": "Supply & market reports"
   }
  ],
  "window_hours": 24,
- "count_relevant": 22,
- "count_fetched": 444,
+ "count_relevant": 21,
+ "count_fetched": 440,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries for 21 of 24 stories; rules for the rest (gemini: HTTPError: 503 Server Error: Service Unavailable for url: https://generativelanguage.google)",
- "as_of": "2026-11-25T17:30+04:00",
- "saved_at": "2026-11-25T17:31+04:00"
+ "as_of": "2026-11-25T18:30+04:00",
+ "saved_at": "2026-11-25T18:31+04:00"
 }
