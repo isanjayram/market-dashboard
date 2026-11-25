@@ -541,6 +541,24 @@
    "category": "Developer news",
    "impact": "Medium",
    "impact_reason": "Adds significant new branded residential supply to Abu Dhabi."
+  },
+  "98759aa4a6b7": {
+   "relevant": true,
+   "headline": "Dubai Q3 new leases surge amid softer rents",
+   "summary": "New lease registrations in Dubai increased significantly during the third quarter. This growth occurred alongside softening rental prices across the emirate.",
+   "why": "It shows important quarterly rental market shifts.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects shifting rental market trends and tenant demand."
+  },
+  "d44e01cb8f3e": {
+   "relevant": false,
+   "headline": "Philippine executive wins CEO award in Dubai",
+   "summary": "A Philippine real estate leader received the CEO of the Year award in Dubai.",
+   "why": "This is an award announcement with no market news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Award announcements do not affect the local market."
   }
  }
 }
