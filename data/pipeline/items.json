@@ -3079,5 +3079,71 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"5158b1620fc6": {
+"id": "5158b1620fc6",
+"title": "Etihad Rail passenger services launch for holiday travel",
+"link": "https://gulfnews.com/living-in-uae/ask-us/uae-eid-al-etihad-holidays-etihad-rail-travel-guide-1.500760340",
+"source": "Gulf News",
+"category": "Infrastructure",
+"published": "2026-11-26T08:01+04:00",
+"first_seen": "2026-11-26",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"5a6b2bba6b8f": {
+"id": "5a6b2bba6b8f",
+"title": "Aldar plans new creative community in Abu Dhabi",
+"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GWWJDRUt3Z3Bzb2pvSllnZ2hCNnhsWTIzRnU1ZVRuQ0dOWFpiT0VINHZYZ2VobUoxZnBia2g3MlFheVdESl9mTDRlVTdvQkhhSUc4dzF6dnFjLXVtdmFqcEo3TGI2dw?oc=5",
+"source": "The Future Laboratory",
+"category": "Developer news",
+"published": "2026-11-26T09:10+04:00",
+"first_seen": "2026-11-26",
+"kind": "Off-plan launch",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"e3e07da1a182": {
+"id": "e3e07da1a182",
+"title": "Emaar India unveils new Gurugram office tower",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNl9UenpVVUZtMmpTOEo4SHFNWmJudElVdkh4NGdrdUZmVXBrRC05Q1d6RkJ0QWpfM3FxWjhXQVpoYjc4WHpSbmpjQlY5ZEItcEROUmFjUEpBbmhmby1pQUhwVmYtbVlMNGg1UGxNZkFyOHZnbmRuOG5UX29Pa3ZHNFVYSGo5ZGNIRkdTcHFPZFg3OGhsY01PeGdSaTVObmVqMEpaa2h0WC11aE5MaWlBd0dMVzRDdFRJUS1ST0k3WFc4NWJVbWtoa1lLVy1XZmRO?oc=5",
+"source": "Construction World",
+"category": "Developer news",
+"published": "2026-11-26T09:12+04:00",
+"first_seen": "2026-11-26",
+"kind": "Off-plan launch",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
