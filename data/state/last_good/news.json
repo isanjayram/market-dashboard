@@ -16,7 +16,7 @@
    "headline": "Dubai rents drop as incoming tenants secure lower deals",
    "summary": "New renters in Dubai are finding better bargains with rents decreasing by up to 15 percent. This shift indicates a cooling trend for incoming tenancy agreements.",
    "why": "Rental price drops directly affect tenant costs and landlord yields.",
-   "age_hours": 6.4,
+   "age_hours": 7.2,
    "topic": "rents"
   },
   {
@@ -35,14 +35,36 @@
    "headline": "Indian buyers favor compact homes and ready properties",
    "summary": "Property purchasers from India are increasingly buying smaller residential units in Dubai. Ready properties currently command a significant premium compared to off-plan launches.",
    "why": "Shifting buyer preferences impact developer launch strategies and secondary market pricing.",
-   "age_hours": 6.7,
-   "topic": "Macro & geopolitics",
-   "more": 1
+   "age_hours": 7.5,
+   "topic": "Macro & geopolitics"
   },
   {
-   "id": "f97957809e3d",
+   "id": "e9f55c78a5c6",
+   "title": "UAE property 2027: Why rareness, Abu Dhabi and Ras Al Khaimah beat quick profits",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY3BNNUhSdnRnYkVrQy1PVFZ3R3Y0WUY1SF82ZVJYcUtoU3VrV3JtLV9TTUh3MVMzT0FaUERNNzZPZ2Y2aHE5dW51dlVPajRadWRjeGVnZUtxQjRuV2lUcU1WN2U5bThzTlRraVQyYmJORjFod3E3aU8yOUd5dlMtSy05QzA0YnRGUWpucEdNS1JZR0pkVkI0eDkybjlnX21EUllDZ0xBSTdicnFQeVk5b24ycl92T01maHQ0MlNBa2c?oc=5",
+   "source": "Arabian Business",
+   "kind": "search",
+   "published": "2026-11-26T17:15+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Shifts buyer interest to new emirates and long-term holds.",
+   "watch": false,
+   "also": [
+    "Arabian Business"
+   ],
+   "headline": "Abu Dhabi and RAK property favored over fast profits by 2027",
+   "summary": "Market focus is shifting toward scarcity and emerging emirates rather than quick gains. Investors are looking closely at Abu Dhabi and Ras Al Khaimah.",
+   "why": "It highlights shifting investor sentiment and emerging geographic hotspots.",
+   "age_hours": 0.7,
+   "topic": "abu dhabi",
+   "more": 3
+  },
+  {
+   "id": "d0a7c0844cc7",
    "title": "Luxury property developers eye sites near air taxi stations in Abu Dhabi",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYnUzZU11cWlYLTNNVjhXdEh6Z1JncFZkQmxaZ3cwYWV4dGNCZ2ZlaEV0XzRyRWh0OEtnamF2M2RDaFpES2NJVjBuMTZvNDNNQ3hNZ2FNVnhuRlZUZ2c1SmoyZm5tM1FfUWRtb1ZZMWJISHgxdFl1c0p0dldPWnd4Wk5OMEs2VjM1dGYyalBZM3MwbjFqYXJNQjNYSHEtblI4S0w1eU96NXItWE5yem1aUg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcnY1YVM3Rjh1LUVMZWFnZmZPNW9xbnF2R2EzdkFMYUtnQW9QdXBKZmJLSHY3Z2ZGNWpwaTBVb0x4TERSV043LUwtZDU2MEtPV2lCZ0NhaGxqMU04Z1MxRURWaGJlbDduUTZFMzBtaDZHQkFUbzhRU2t0a2RrODNrZXFBZ0RUYTAxMzdRekFEVHJIbjZPdjFyLXpfMkRjbzZmQzJxVkhUV1ZkQmV4Nk41aDNRTU82Uk1B?oc=5",
    "source": "Arabian Business",
    "kind": "search",
    "published": "2026-11-26T16:46+04:00",
@@ -50,14 +72,13 @@
    "teaser": "",
    "category": "Infrastructure",
    "impact": "Medium",
-   "impact_reason": "New transport links shape premium property demand.",
+   "impact_reason": "New transport links will shape future luxury property values.",
    "watch": false,
-   "headline": "Abu Dhabi luxury developers target sites near air taxi stations",
-   "summary": "High-end property builders are seeking land plots close to upcoming air taxi hubs in the capital. This integration aims to attract affluent buyers seeking futuristic transport links.",
-   "why": "It highlights emerging luxury locations tied to new urban transport infrastructure.",
-   "age_hours": 0.4,
-   "topic": "abu dhabi",
-   "more": 2
+   "headline": "Luxury developers target land near Abu Dhabi air taxi stations",
+   "summary": "High-end property builders are seeking plots close to upcoming air mobility hubs. This strategy aims to leverage future transport conveniences for premium buyers.",
+   "why": "It shows how future infrastructure is already influencing developer land acquisitions.",
+   "age_hours": 1.2,
+   "topic": "abu dhabi"
   },
   {
    "id": "6afecbe3ce34",
@@ -78,7 +99,7 @@
    "headline": "Nakheel Awards Dh1.4 Billion Palm Jebel Ali Villa Contract",
    "summary": "Nakheel Properties hired Ginco General Contracting to build 176 luxury villas. This project highlights ongoing development activity on Palm Jebel Ali.",
    "why": "It shows continued developer investment and construction progress in a major Dubai master project.",
-   "age_hours": 1.9,
+   "age_hours": 2.7,
    "topic": "nakheel"
   },
   {
@@ -97,7 +118,7 @@
    "headline": "Tomorrow World and Missoni Launch Dubai Islands Project",
    "summary": "Tomorrow World Properties partnered with Missoni to introduce branded interiors on Dubai Islands. The new development expands design-focused residential options in the area.",
    "why": "It represents a new branded real estate launch within a growing Dubai coastal district.",
-   "age_hours": 3.5,
+   "age_hours": 4.3,
    "topic": "Developer news"
   },
   {
@@ -116,46 +137,8 @@
    "headline": "Dubai awards huge contracts for Al Maktoum Airport development",
    "summary": "Major new contracts worth billions have been approved to advance construction at Al Maktoum International Airport. This brings total project commitments past the eighty billion dirham mark.",
    "why": "Massive aviation infrastructure expansion will drive long-term residential and commercial demand nearby.",
-   "age_hours": 5.9,
+   "age_hours": 6.7,
    "topic": "airport"
-  },
-  {
-   "id": "0e74807e59c6",
-   "title": "Dubai office rents climb as vacancy hits 3.9%",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNczFSalBTRTlGWEZzYmtTc2NRUy1JWkhjZDhLcTJNSHVPbzk4aTNnUXpsdElrcXV2S3ctQVM3WUtLbmVaemdqVm9KMXZoMWJBai1HVUV1V3ZoVEswMUlDbmlDSzhLRXdxdWtZSG5OQlJzNXNDVnNyQW9qN3RzVk9sRmpPWHBSNzQxRmE2WkJiZUlpNEFkd1lZdUNiSVp1aEx5WGw0OWptTQ?oc=5",
-   "source": "Zawya",
-   "kind": "search",
-   "published": "2026-11-26T09:15+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Macro & geopolitics",
-   "impact": "Medium",
-   "impact_reason": "Reflects tight commercial supply and rising rental values.",
-   "watch": false,
-   "headline": "Dubai office rents rise as vacancy drops to low levels",
-   "summary": "Commercial property rental rates in Dubai are climbing higher as available office space shrinks to a tight vacancy rate.",
-   "why": "Low commercial vacancy and rising rents signal strong economic activity and shifting investor focus.",
-   "age_hours": 7.9,
-   "topic": "rents"
-  },
-  {
-   "id": "b7e614ced076",
-   "title": "Fractional ownership gains ground in UAE property market",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMkQ5QWZBUzcyYnM5WEJoMXpZRHdoZDJ2WkpfM2toa3hSY0tEeExILTkxdTYzRzE1TW9Hbmd4NkRnZHJNdzVfNUhiVXdJMUNmZ1lSX2huNGp2Qkt3Mnp0eGZiVTZPX3VoTHFhNlFMWUZTQmo5OWRBaEh4RHVNZDFIZ21mX0lGeUtmVElkODl1emhfYU9YUFE1eUgzUV9TRUlvT2fSAaIBQVVfeXFMTTJEOUFmQVM3MmJzOVhCaDF6WUR3aGQydlpKXzNraGt4UmNLRHhMSC05MXU2M0cxNU1vR25neDZEZ2RyTXc1XzVIYlV3STFDZmdZUl9objRqdkJLdzJ6dHhmYlU2T191aExxYTZRTFlGU0JqOTlkQWhIeER1TWQxSGdtZl9JRnlLZlRJZDg5dXpoX2FPWFBRNXlIM1FfU0VJb09n?oc=5",
-   "source": "Khaleej Times",
-   "kind": "search",
-   "published": "2026-11-25T20:31+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Broadens buyer participation through lower investment thresholds.",
-   "watch": false,
-   "headline": "Fractional property ownership gains popularity across the UAE",
-   "summary": "Divided property ownership models are attracting more interest within the local real estate sector. This trend allows smaller investors to enter the market with lower capital.",
-   "why": "It shows shifting investment patterns and accessibility in the property market.",
-   "age_hours": 20.6,
-   "topic": "Supply & market reports"
   },
   {
    "id": "f0b844f4bb10",
@@ -173,7 +156,7 @@
    "headline": "Maserati enters Dubai real estate with new residential island",
    "summary": "The luxury automotive brand is expanding into property development by building a branded island community in Dubai.",
    "why": "Branded residences add unique luxury supply to the local market.",
-   "age_hours": 2.1,
+   "age_hours": 2.9,
    "topic": "Developer news"
   },
   {
@@ -192,17 +175,36 @@
    "headline": "Fractional ownership rules reshape UAE real estate investment",
    "summary": "New regulatory reforms for fractional ownership are transforming the UAE property investment sector. This shift opens fresh avenues for market participants.",
    "why": "It broadens access to real estate investments through fractional models.",
-   "age_hours": 4.2,
+   "age_hours": 5.0,
    "topic": "Regulation & fees"
+  },
+  {
+   "id": "c1c9009021b3",
+   "title": "SAMANA Secures AED385 Million Financing from Emirates NBD",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd20xb1Z6S19MS2pXWDIybHRoUzRWX0F0eHIyMGlSU2NKaXYzRm92N3FTNC0wZ1BlMDZTM0plbkc0RTFOZS1UdEFaRXJrbDdBYllHOTBVV3Y5UVE5V2lnVEhBWlN1Wmx5LU4tTzNLcUR4LTdMb1ViXzhrSEJaNzY0RWlpU0MxMTFGcXRPZVlXMFhuWjY0dmRQRE1mTm0?oc=5",
+   "source": "https://megaproject.com/",
+   "kind": "search",
+   "published": "2026-11-26T02:21+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Secures liquidity for upcoming real estate development projects.",
+   "watch": false,
+   "headline": "SAMANA obtains AED385 Million from Emirates NBD",
+   "summary": "Developer SAMANA has secured a significant financing facility worth AED385 million from Emirates NBD.",
+   "why": "Bank funding enables developers to maintain construction momentum on active projects.",
+   "age_hours": 15.6,
+   "topic": "Macro & geopolitics"
   }
  ],
  "window_hours": 24,
- "count_relevant": 19,
- "count_fetched": 478,
+ "count_relevant": 17,
+ "count_fetched": 409,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-26T17:09+04:00",
- "saved_at": "2026-11-26T17:09+04:00"
+ "as_of": "2026-11-26T17:58+04:00",
+ "saved_at": "2026-11-26T17:58+04:00"
 }

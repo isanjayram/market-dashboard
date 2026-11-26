@@ -586,6 +586,33 @@
    "category": "Supply & market reports",
    "impact": "High",
    "impact_reason": "Rental price shifts directly impact yields and affordability."
+  },
+  "e9f55c78a5c6": {
+   "relevant": true,
+   "headline": "Abu Dhabi and RAK property favored over fast profits by 2027",
+   "summary": "Market focus is shifting toward scarcity and emerging emirates rather than quick gains. Investors are looking closely at Abu Dhabi and Ras Al Khaimah.",
+   "why": "It highlights shifting investor sentiment and emerging geographic hotspots.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Shifts buyer interest to new emirates and long-term holds."
+  },
+  "d0a7c0844cc7": {
+   "relevant": true,
+   "headline": "Luxury developers target land near Abu Dhabi air taxi stations",
+   "summary": "High-end property builders are seeking plots close to upcoming air mobility hubs. This strategy aims to leverage future transport conveniences for premium buyers.",
+   "why": "It shows how future infrastructure is already influencing developer land acquisitions.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "New transport links will shape future luxury property values."
+  },
+  "e25f71330b2c": {
+   "relevant": true,
+   "headline": "Dubai records Dhs130m in luxury residential sales on Thursday",
+   "summary": "Two high-value residential properties changed hands in Dubai on Thursday. The combined transaction value reached 130 million dirhams.",
+   "why": "It reflects strong ongoing capital flow into the high-end property segment.",
+   "category": "Supply & market reports",
+   "impact": "Low",
+   "impact_reason": "Individual high-value sales reflect steady luxury market liquidity."
   }
  }
 }
