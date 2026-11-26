@@ -532,6 +532,60 @@
    "category": "Rates & mortgages",
    "impact": "Medium",
    "impact_reason": "Could ease buyer entry barriers."
+  },
+  "f97957809e3d": {
+   "relevant": true,
+   "headline": "Abu Dhabi luxury developers target sites near air taxi stations",
+   "summary": "High-end property builders are seeking land plots close to upcoming air taxi hubs in the capital. This integration aims to attract affluent buyers seeking futuristic transport links.",
+   "why": "It highlights emerging luxury locations tied to new urban transport infrastructure.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "New transport links shape premium property demand."
+  },
+  "8e5e05c4e746": {
+   "relevant": false,
+   "headline": "Top 10 GCC real estate developers for 2026 revealed",
+   "summary": "A new ranking lists the leading property developers across the GCC region for 2026.",
+   "why": "Industry awards and rankings contain no direct market-moving news.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Rankings are purely informational with no market impact."
+  },
+  "b7e614ced076": {
+   "relevant": true,
+   "headline": "Fractional property ownership gains popularity across the UAE",
+   "summary": "Divided property ownership models are attracting more interest within the local real estate sector. This trend allows smaller investors to enter the market with lower capital.",
+   "why": "It shows shifting investment patterns and accessibility in the property market.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Broadens buyer participation through lower investment thresholds."
+  },
+  "f0b844f4bb10": {
+   "relevant": true,
+   "headline": "Maserati enters Dubai real estate with new residential island",
+   "summary": "The luxury automotive brand is expanding into property development by building a branded island community in Dubai.",
+   "why": "Branded residences add unique luxury supply to the local market.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Adds branded luxury supply to the market."
+  },
+  "b182b59898f2": {
+   "relevant": true,
+   "headline": "Maven Insights explores Gulf real estate tokenization growth",
+   "summary": "A recent study analyzes how digital tokenization is expanding within the regional property sector. Experts look at how blockchain can alter real estate investment methods.",
+   "why": "It points to potential future changes in how properties are funded and traded.",
+   "category": "Supply & market reports",
+   "impact": "Low",
+   "impact_reason": "Analysis of a future trend without immediate changes."
+  },
+  "8fc2f133d9d6": {
+   "relevant": true,
+   "headline": "Dubai rents drop as incoming tenants secure lower deals",
+   "summary": "New renters in Dubai are finding better bargains with rents decreasing by up to 15 percent. This shift indicates a cooling trend for incoming tenancy agreements.",
+   "why": "Rental price drops directly affect tenant costs and landlord yields.",
+   "category": "Supply & market reports",
+   "impact": "High",
+   "impact_reason": "Rental price shifts directly impact yields and affordability."
   }
  }
 }
