@@ -1,27 +1,6 @@
 {
  "top": [
   {
-   "id": "f609314f6263",
-   "title": "UAE Free Zones: Transfer pricing compliance key to retaining 0% corporate tax rate",
-   "link": "https://gulfnews.com/gn-focus/uae-free-zones-transfer-pricing-compliance-key-to-retaining-0-corporate-tax-rate-1.500761551",
-   "source": "Gulf News",
-   "kind": "outlet",
-   "published": "2026-11-26T11:13+04:00",
-   "tags": [
-    "GN Focus"
-   ],
-   "teaser": "Free Zone businesses that want the 0 per cent Corporate Tax rate must treat transfer pricing (TP) as a core compliance obligation. Under Federal Decree-Law No. 47 of 2022, following the arm\u2019s length principle is a precondition of Qualifying Free Zone Person (QFZP) status, and failures can have significant consequences. The regulatory framework Article 18 of the Corporate Tax Law requires a QFZP to",
-   "category": "Regulation & fees",
-   "impact": "High",
-   "impact_reason": "Affects corporate tax eligibility and operational costs.",
-   "watch": false,
-   "headline": "Free zone companies must comply with transfer pricing rules",
-   "summary": "Maintaining the zero percent corporate tax rate requires strict adherence to transfer pricing regulations. Businesses must follow the arm's length principle to retain their qualifying status.",
-   "why": "Corporate tax compliance directly affects business operating costs and investor sentiment in free zones.",
-   "age_hours": 2.3,
-   "topic": "Regulation & fees"
-  },
-  {
    "id": "2f96ce0ed98f",
    "title": "Indian buyers in Dubai shift towards smaller homes; ready-to-move-in properties command 28% premium over new launches | Real Estate News",
    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRGRFTl9HZkhKYy1YdzVjNXZOcW8yUXo3TjB5OFQyU3FiZkpUbW5nd3hSZHBuREtRUkw4NGZ6ZVpyamFNM3REcFp0M2F5RGhtZnhoY2I3cTZsTGZ2S0ZEQl9pZXpLeUppZkJFRF9jX1RHM2FmZjVzZXJLR3ZjeHBUejdTQm5KM3pQNmxrXzZkTHZUNXpfY2E0M29MdE9ueWhTMjZnTjZLaUNydEczb3BXYmdyeFBpdUxYeXZ0YnZQbWdmRTQ5dGxYNG1fRTc3MWxtMXBtYjZDdEJGSUR3UGdUTGF0QkYzVnNnX0puOFR6REhSQ0dCT0c3S0VzMmpwWktHc1puZnFtRjBDcGfSAZACQVVfeXFMTWpaN3BiU3Z2SU41OVRBWVlZZ0duQlFKbHRzcTZpNFlRbVN6WmhoS1VMZTk1d3BvbjEycGZaOC1lbHpLbmxmQ1g4eVEwdVBkamFCTlVLNFdOaTlnWEJBN20tZUVaeTMyS2hfbkpaOUVQTDV5TlJ5QjgtMlByMlRyRzh0d0tSWUg1SERUMHk0OFpRYnhrOVZtTG5WUTZUUVVWQXBHdDIyazR3Y0NEdmZ3dUJsbVFPU2pCcnYxSmJuZlBBV0E5NkdNN2tmQkNSVUUxeG5ERW9KaWwtaHFyRzJqQzkyNE5INUlCaEppSnhkNWxIX1F3X3NXVmpuYzgtT0RQR2sxaWd6QkFaZDNfcWU0eUM?oc=5",
@@ -37,9 +16,49 @@
    "headline": "Indian buyers favor compact homes and ready properties",
    "summary": "Property purchasers from India are increasingly buying smaller residential units in Dubai. Ready properties currently command a significant premium compared to off-plan launches.",
    "why": "Shifting buyer preferences impact developer launch strategies and secondary market pricing.",
-   "age_hours": 3.0,
-   "topic": "Macro & geopolitics",
-   "more": 1
+   "age_hours": 5.0,
+   "topic": "Macro & geopolitics"
+  },
+  {
+   "id": "6afecbe3ce34",
+   "title": "Nakheel awards Dh1.4bn contract to build 176 villas on Palm Jebel Ali",
+   "link": "https://www.thenationalnews.com/business/property/2026/11/26/nakheel-awards-dh14bn-contract-to-build-176-villas-on-palm-jebel-ali/",
+   "source": "The National",
+   "kind": "outlet",
+   "published": "2026-11-26T15:18+04:00",
+   "tags": [],
+   "teaser": "Dubai's Nakheel Properties has awarded a Dh1.4 billion ($381 million) contract for the construction of 176 villas on Palm Jebel Ali, as momentum continues in the emirate's real estate sector amid challenges posed by the Iran war. The contract, won by Dubai-based Ginco General Contracting, covers 128 beach villas and 48 coral villas across fronds A to D, Nakheel said on Thursday. The villas are exp",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Boosts luxury supply and market confidence.",
+   "watch": false,
+   "also": [
+    "The National (property)"
+   ],
+   "headline": "Nakheel Awards Dh1.4 Billion Palm Jebel Ali Villa Contract",
+   "summary": "Nakheel Properties hired Ginco General Contracting to build 176 luxury villas. This project highlights ongoing development activity on Palm Jebel Ali.",
+   "why": "It shows continued developer investment and construction progress in a major Dubai master project.",
+   "age_hours": 0.2,
+   "topic": "nakheel"
+  },
+  {
+   "id": "8b0771a9ca2a",
+   "title": "Tomorrow World Properties and Missoni unveil The Bay Interiors by Missoni on Dubai Islands",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbTBvR1BCdndjcGpEa3RwbjNKRkMzRklqX0RmYzBYS1hISTZXV19aYlJVaGdIVkk5ZjF1VjFad183Vk1GYk9xNGF4R3duOU1mZ0swbzZKRjZmZDNTYVc4V3JRbEdNekxEZzZSTXk2ZXZraDB3STR4RHVxYmJTQlI2cHQzUG1TZUxBbGRLd0ViWUQtRTUzVTRYcDcwRGU3RExLSmFldjlkMnZVbEkydE5PRzhwSW1UUFlVT19YblVoS3pRYlk1OW5FMk9GSm8yYzdkbUw4LW40ODFObnRvZ1ZQSllHSjBBV3c?oc=5",
+   "source": "Zawya",
+   "kind": "search",
+   "published": "2026-11-26T13:39+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Expands branded residential options.",
+   "watch": false,
+   "headline": "Tomorrow World and Missoni Launch Dubai Islands Project",
+   "summary": "Tomorrow World Properties partnered with Missoni to introduce branded interiors on Dubai Islands. The new development expands design-focused residential options in the area.",
+   "why": "It represents a new branded real estate launch within a growing Dubai coastal district.",
+   "age_hours": 1.9,
+   "topic": "Developer news"
   },
   {
    "id": "555824f3b389",
@@ -55,13 +74,12 @@
    "impact_reason": "Boosts long-term regional property demand.",
    "watch": false,
    "also": [
-    "Gulf News",
-    "Economy Middle East"
+    "Gulf News"
    ],
    "headline": "Dubai awards huge contracts for Al Maktoum Airport development",
    "summary": "Major new contracts worth billions have been approved to advance construction at Al Maktoum International Airport. This brings total project commitments past the eighty billion dirham mark.",
    "why": "Massive aviation infrastructure expansion will drive long-term residential and commercial demand nearby.",
-   "age_hours": 2.3,
+   "age_hours": 4.3,
    "topic": "airport"
   },
   {
@@ -70,7 +88,7 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNczFSalBTRTlGWEZzYmtTc2NRUy1JWkhjZDhLcTJNSHVPbzk4aTNnUXpsdElrcXV2S3ctQVM3WUtLbmVaemdqVm9KMXZoMWJBai1HVUV1V3ZoVEswMUlDbmlDSzhLRXdxdWtZSG5OQlJzNXNDVnNyQW9qN3RzVk9sRmpPWHBSNzQxRmE2WkJiZUlpNEFkd1lZdUNiSVp1aEx5WGw0OWptTQ?oc=5",
    "source": "Zawya",
    "kind": "search",
-   "published": "2026-11-26T09:11+04:00",
+   "published": "2026-11-26T09:15+04:00",
    "tags": [],
    "teaser": "",
    "category": "Macro & geopolitics",
@@ -80,7 +98,7 @@
    "headline": "Dubai office rents rise as vacancy drops to low levels",
    "summary": "Commercial property rental rates in Dubai are climbing higher as available office space shrinks to a tight vacancy rate.",
    "why": "Low commercial vacancy and rising rents signal strong economic activity and shifting investor focus.",
-   "age_hours": 4.3,
+   "age_hours": 6.3,
    "topic": "rents",
    "more": 1
   },
@@ -103,46 +121,8 @@
    "headline": "Dubai Q3 new leases surge amid softer rents",
    "summary": "New lease registrations in Dubai increased significantly during the third quarter. This growth occurred alongside softening rental prices across the emirate.",
    "why": "It shows important quarterly rental market shifts.",
-   "age_hours": 21.1,
+   "age_hours": 23.1,
    "topic": "rents"
-  },
-  {
-   "id": "c5fbb533041c",
-   "title": "Dubai property boom: Prices hit 4-year high, but 38,116 new homes could test demand",
-   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPbG9qQkJ2bmN5Z2FRczE1Zl9lM2wzMHJxRmZLU2FXbnpRaS1DWkZUa3FTZUhiRFVsMkU3UExDWm4zTG1jdmlndmlCWUlvSWFLSFpZQzFhbm9LWWVvY2VheWtjcC1Rb1lETEZKVEVMTE1yN2NwTzNPcXh1X2VlV1oyREEzdTZLcm5JYUJvbHB6RGpJaGZQeURWdW5ROU9RWUsxOVpJZ185djUwS2w4VEZ2a0JFdXozSWVaUzRPSzc0OE02SWxsSDhQQ0RXYnJLR0EyanJXSG83Y242Rll2QXJ6c3VXVUNzclNDOXNNTkN0dVBLVUE5cUw0SmZWNXZKbHZoQkZjaG42X3ZVODBERUcycmdQTHB2d2VPdFpXUE9DRzk?oc=5",
-   "source": "The Economic Times",
-   "kind": "search",
-   "published": "2026-11-25T13:50+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "New supply could test current market demand.",
-   "watch": false,
-   "headline": "Dubai home prices reach four-year peak amid supply wave",
-   "summary": "Property values in Dubai have climbed to a four-year high. Meanwhile, nearly thirty-eight thousand new homes may challenge market demand.",
-   "why": "It highlights potential oversupply pressures against soaring property values.",
-   "age_hours": 23.7,
-   "topic": "Supply & market reports"
-  },
-  {
-   "id": "2bc3cd879b81",
-   "title": "Dubai: First-time homebuyers can halve down payment, says new property platform",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMWQ1aXJNWHdlVTc5bDJ5R01LRHE0VkRUZG5ibkhuV0RfVlB2SGx3c0VwRmNqUkR1Ul9GNWo5UzlMbDBJbGhJWE5VUDNaOUxRdlVXOVk1N19WZk8yeDlBbUh2a1lSM3ZtSFV1ZVFSVTVKRXNiWVU5alVxazZ0LUt5dnZJUE5Va3pFVHk5Ukl4NDNjZnhpVzFqd3R0T3N5NTYzY0xfTHRkSGZXNXhqdXFJ0gG3AUFVX3lxTE9hcjFEdzM0YnYxV2c2LWJqTFlkN1BmalJTNXRjQVozcHhiMXVsM3pMeEFybEdlMVdsWUVXQjduUXBQZUsyNmlNYkdJSkV4emFwY0JnOUtWOFFIcmhmTXVKV3VZWGI2ckJyVWo3ZUt0SkpwLUMzSFZwa2hRYkxHS0F5cHdlZVZ2ZXgtbXNid2swUE1RZThTZ3NXZHFJUHZyWFdiVlo5S3V2TExaX1BycHhlNC16MFVNbw?oc=5",
-   "source": "Khaleej Times",
-   "kind": "search",
-   "published": "2026-11-25T13:39+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Macro & geopolitics",
-   "impact": "Medium",
-   "impact_reason": "Improves accessibility for first-time buyers.",
-   "watch": false,
-   "headline": "New platform allows first-time buyers to reduce down payment",
-   "summary": "A newly introduced property platform claims it can help first-time homebuyers cut their required down payments in half.",
-   "why": "Changes to down payment structures directly impact buyer affordability.",
-   "age_hours": 23.9,
-   "topic": "Macro & geopolitics"
   },
   {
    "id": "bddb7d4b0c82",
@@ -160,31 +140,27 @@
    "headline": "Fractional ownership rules reshape UAE real estate investment",
    "summary": "New regulatory reforms for fractional ownership are transforming the UAE property investment sector. This shift opens fresh avenues for market participants.",
    "why": "It broadens access to real estate investments through fractional models.",
-   "age_hours": 0.6,
+   "age_hours": 2.6,
    "topic": "Regulation & fees"
   },
   {
-   "id": "5a6b2bba6b8f",
-   "title": "Aldar unveils plans for a creative neighbourhood in Abu Dhabi",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GWWJDRUt3Z3Bzb2pvSllnZ2hCNnhsWTIzRnU1ZVRuQ0dOWFpiT0VINHZYZ2VobUoxZnBia2g3MlFheVdESl9mTDRlVTdvQkhhSUc4dzF6dnFjLXVtdmFqcEo3TGI2dw?oc=5",
-   "source": "The Future Laboratory",
+   "id": "c1c9009021b3",
+   "title": "SAMANA Secures AED385 Million Financing from Emirates NBD",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd20xb1Z6S19MS2pXWDIybHRoUzRWX0F0eHIyMGlSU2NKaXYzRm92N3FTNC0wZ1BlMDZTM0plbkc0RTFOZS1UdEFaRXJrbDdBYllHOTBVV3Y5UVE5V2lnVEhBWlN1Wmx5LU4tTzNLcUR4LTdMb1ViXzhrSEJaNzY0RWlpU0MxMTFGcXRPZVlXMFhuWjY0dmRQRE1mTm0?oc=5",
+   "source": "https://megaproject.com/",
    "kind": "search",
-   "published": "2026-11-26T09:10+04:00",
+   "published": "2026-11-26T02:21+04:00",
    "tags": [],
    "teaser": "",
-   "category": "Developer news",
+   "category": "Macro & geopolitics",
    "impact": "Medium",
-   "impact_reason": "Expands cultural and residential offerings in Abu Dhabi.",
+   "impact_reason": "Secures liquidity for upcoming real estate development projects.",
    "watch": false,
-   "also": [
-    "The Future Laboratory"
-   ],
-   "headline": "Aldar plans new creative community in Abu Dhabi",
-   "summary": "Aldar has announced development intentions for a dedicated creative neighbourhood in Abu Dhabi.",
-   "why": "New master community projects shape upcoming residential supply in the capital.",
-   "age_hours": 4.3,
-   "topic": "abu dhabi",
-   "more": 2
+   "headline": "SAMANA obtains AED385 Million from Emirates NBD",
+   "summary": "Developer SAMANA has secured a significant financing facility worth AED385 million from Emirates NBD.",
+   "why": "Bank funding enables developers to maintain construction momentum on active projects.",
+   "age_hours": 13.2,
+   "topic": "Macro & geopolitics"
   },
   {
    "id": "dea7315fb872",
@@ -202,17 +178,38 @@
    "headline": "Aldar introduces NOMA project in Saadiyat District",
    "summary": "Aldar has officially presented NOMA, a newly designed creative neighborhood situated within Abu Dhabi's Saadiyat Cultural District.",
    "why": "Major lifestyle district launches influence high-end property supply and buyer demand.",
-   "age_hours": 14.1,
-   "topic": "abu dhabi"
+   "age_hours": 16.2,
+   "topic": "abu dhabi",
+   "more": 1
+  },
+  {
+   "id": "d685747511af",
+   "title": "Dubai: First-Time Homebuyers Can Halve Down Payment, Says New Property Platform",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVHJOWWZGT3lhYTg2dXd3MVRsUl9rSmI4QmVMdnBTczRSSk5BWUFTQUJHa2FNVURtX1FhNVJweDF2ZXluVU4xMF9mWEZiWk9mYldENURCMk9tRE9kckliY0t6a2RHSldma1UwSkxTSHBacGc5MG1lZXFidjhoSlFUM0xXTGlZOXRjV3BMNE4xc0xIZzMwdFNjcmMyaXE3V0lSZFB4SGhNa0w0bmM?oc=5",
+   "source": "Menafn",
+   "kind": "search",
+   "published": "2026-11-25T16:08+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Rates & mortgages",
+   "impact": "Medium",
+   "impact_reason": "Could ease buyer entry barriers.",
+   "watch": false,
+   "headline": "New Platform Lets Dubai Buyers Halve Down Payments",
+   "summary": "A fresh property platform claims first-time buyers can reduce their required down payments significantly. This aims to improve property accessibility for new entrants.",
+   "why": "It directly impacts financing options and purchasing accessibility for first-time buyers.",
+   "age_hours": 23.4,
+   "topic": "Rates & mortgages"
   }
  ],
  "window_hours": 24,
- "count_relevant": 17,
- "count_fetched": 446,
+ "count_relevant": 15,
+ "count_fetched": 388,
  "feed_errors": {
-  "Khaleej Times": "HTTPError"
+  "Khaleej Times": "HTTPError",
+  "News search: launches": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-26T13:30+04:00",
- "saved_at": "2026-11-26T13:30+04:00"
+ "as_of": "2026-11-26T15:31+04:00",
+ "saved_at": "2026-11-26T15:31+04:00"
 }

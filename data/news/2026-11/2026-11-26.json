@@ -350,5 +350,64 @@
 "impact_reason": "Individual legal case with minimal market-wide effect.",
 "watch": false,
 "topic": "abu dhabi"
+},
+{
+"id": "dc97aec74a00",
+"headline": "Al Ghurair launches Tessera townhouses near Al Maktoum Airport",
+"summary": "Dubai South now offers residential options for its workforce with the launch of the Tessera project. Quality developments help stabilize rental rates even when broader market conditions soften.",
+"why": "It introduces new residential supply near a major aviation hub.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/business/property/al-ghurair-good-developments-hold-rents-when-markets-soften-1.500760511",
+"published": "2026-11-25T15:22+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Expands housing supply near Dubai South.",
+"watch": true,
+"topic": "airport"
+},
+{
+"id": "6afecbe3ce34",
+"headline": "Nakheel Awards Dh1.4 Billion Palm Jebel Ali Villa Contract",
+"summary": "Nakheel Properties hired Ginco General Contracting to build 176 luxury villas. This project highlights ongoing development activity on Palm Jebel Ali.",
+"why": "It shows continued developer investment and construction progress in a major Dubai master project.",
+"source": "The National",
+"link": "https://www.thenationalnews.com/business/property/2026/11/26/nakheel-awards-dh14bn-contract-to-build-176-villas-on-palm-jebel-ali/",
+"published": "2026-11-26T15:18+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Boosts luxury supply and market confidence.",
+"watch": false,
+"also": [
+"The National (property)"
+],
+"topic": "nakheel"
+},
+{
+"id": "8b0771a9ca2a",
+"headline": "Tomorrow World and Missoni Launch Dubai Islands Project",
+"summary": "Tomorrow World Properties partnered with Missoni to introduce branded interiors on Dubai Islands. The new development expands design-focused residential options in the area.",
+"why": "It represents a new branded real estate launch within a growing Dubai coastal district.",
+"source": "Zawya",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbTBvR1BCdndjcGpEa3RwbjNKRkMzRklqX0RmYzBYS1hISTZXV19aYlJVaGdIVkk5ZjF1VjFad183Vk1GYk9xNGF4R3duOU1mZ0swbzZKRjZmZDNTYVc4V3JRbEdNekxEZzZSTXk2ZXZraDB3STR4RHVxYmJTQlI2cHQzUG1TZUxBbGRLd0ViWUQtRTUzVTRYcDcwRGU3RExLSmFldjlkMnZVbEkydE5PRzhwSW1UUFlVT19YblVoS3pRYlk1OW5FMk9GSm8yYzdkbUw4LW40ODFObnRvZ1ZQSllHSjBBV3c?oc=5",
+"published": "2026-11-26T13:39+04:00",
+"category": "Developer news",
+"impact": "Medium",
+"impact_reason": "Expands branded residential options.",
+"watch": false,
+"topic": "Developer news"
+},
+{
+"id": "d685747511af",
+"headline": "New Platform Lets Dubai Buyers Halve Down Payments",
+"summary": "A fresh property platform claims first-time buyers can reduce their required down payments significantly. This aims to improve property accessibility for new entrants.",
+"why": "It directly impacts financing options and purchasing accessibility for first-time buyers.",
+"source": "Menafn",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVHJOWWZGT3lhYTg2dXd3MVRsUl9rSmI4QmVMdnBTczRSSk5BWUFTQUJHa2FNVURtX1FhNVJweDF2ZXluVU4xMF9mWEZiWk9mYldENURCMk9tRE9kckliY0t6a2RHSldma1UwSkxTSHBacGc5MG1lZXFidjhoSlFUM0xXTGlZOXRjV3BMNE4xc0xIZzMwdFNjcmMyaXE3V0lSZFB4SGhNa0w0bmM?oc=5",
+"published": "2026-11-25T16:08+04:00",
+"category": "Rates & mortgages",
+"impact": "Medium",
+"impact_reason": "Could ease buyer entry barriers.",
+"watch": false,
+"topic": "Rates & mortgages"
 }
 ]

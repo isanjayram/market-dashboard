@@ -487,6 +487,51 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Corporate asset transaction without wider market effect."
+  },
+  "6afecbe3ce34": {
+   "relevant": true,
+   "headline": "Nakheel Awards Dh1.4 Billion Palm Jebel Ali Villa Contract",
+   "summary": "Nakheel Properties hired Ginco General Contracting to build 176 luxury villas. This project highlights ongoing development activity on Palm Jebel Ali.",
+   "why": "It shows continued developer investment and construction progress in a major Dubai master project.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Boosts luxury supply and market confidence."
+  },
+  "8b0771a9ca2a": {
+   "relevant": true,
+   "headline": "Tomorrow World and Missoni Launch Dubai Islands Project",
+   "summary": "Tomorrow World Properties partnered with Missoni to introduce branded interiors on Dubai Islands. The new development expands design-focused residential options in the area.",
+   "why": "It represents a new branded real estate launch within a growing Dubai coastal district.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Expands branded residential options."
+  },
+  "95dd7587c590": {
+   "relevant": false,
+   "headline": "Businessman Urges Investment in AI and Real Estate",
+   "summary": "A Dubai businessman encourages overseas investors to look into artificial intelligence and property markets.",
+   "why": "It is an opinion piece containing general advice rather than concrete property market news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Lacks actionable market news."
+  },
+  "fb366c46448d": {
+   "relevant": false,
+   "headline": "Maven Insights Explores Gulf Real Estate Tokenization",
+   "summary": "A consulting firm analyzes the rising potential of property tokenization across the region.",
+   "why": "It is a general industry analysis article rather than a specific real estate news event.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "General commentary without immediate local impact."
+  },
+  "d685747511af": {
+   "relevant": true,
+   "headline": "New Platform Lets Dubai Buyers Halve Down Payments",
+   "summary": "A fresh property platform claims first-time buyers can reduce their required down payments significantly. This aims to improve property accessibility for new entrants.",
+   "why": "It directly impacts financing options and purchasing accessibility for first-time buyers.",
+   "category": "Rates & mortgages",
+   "impact": "Medium",
+   "impact_reason": "Could ease buyer entry barriers."
   }
  }
 }

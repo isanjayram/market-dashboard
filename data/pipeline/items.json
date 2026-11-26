@@ -3167,5 +3167,54 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"6afecbe3ce34": {
+"id": "6afecbe3ce34",
+"title": "Nakheel Awards Dh1.4 Billion Palm Jebel Ali Villa Contract",
+"link": "https://www.thenationalnews.com/business/property/2026/11/26/nakheel-awards-dh14bn-contract-to-build-176-villas-on-palm-jebel-ali/",
+"source": "The National",
+"category": "Developer news",
+"published": "2026-11-26T15:18+04:00",
+"first_seen": "2026-11-26",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": {
+"name": "Al Maktoum International Airport expansion",
+"status": "AED 128bn terminal approved 28 Apr 2024; first phase due 2032",
+"source": "Dubai Media Office",
+"url": "https://mediaoffice.ae/en/news/2024/april/28-04/al-maktoum-international-airport"
+},
+"fields": {
+"project": "Palm Jebel Ali",
+"developer": "Nakheel Properties",
+"location": "Palm Jebel Ali",
+"type": "Villas",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"8b0771a9ca2a": {
+"id": "8b0771a9ca2a",
+"title": "Tomorrow World and Missoni Launch Dubai Islands Project",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbTBvR1BCdndjcGpEa3RwbjNKRkMzRklqX0RmYzBYS1hISTZXV19aYlJVaGdIVkk5ZjF1VjFad183Vk1GYk9xNGF4R3duOU1mZ0swbzZKRjZmZDNTYVc4V3JRbEdNekxEZzZSTXk2ZXZraDB3STR4RHVxYmJTQlI2cHQzUG1TZUxBbGRLd0ViWUQtRTUzVTRYcDcwRGU3RExLSmFldjlkMnZVbEkydE5PRzhwSW1UUFlVT19YblVoS3pRYlk1OW5FMk9GSm8yYzdkbUw4LW40ODFObnRvZ1ZQSllHSjBBV3c?oc=5",
+"source": "Zawya",
+"category": "Developer news",
+"published": "2026-11-26T13:39+04:00",
+"first_seen": "2026-11-26",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": "Dubai Islands",
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
