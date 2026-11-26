@@ -3145,5 +3145,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"555824f3b389": {
+"id": "555824f3b389",
+"title": "Dubai awards huge contracts for Al Maktoum Airport development",
+"link": "https://www.thenationalnews.com/business/aviation/2026/11/26/dubai-awards-dh565bn-in-new-contracts-for-al-maktoum-airport/",
+"source": "The National",
+"category": "Infrastructure",
+"published": "2026-11-26T11:14+04:00",
+"first_seen": "2026-11-26",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": "Al Maktoum International Airport (DWC)",
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

@@ -379,6 +379,114 @@
    "category": "Regulation & fees",
    "impact": "Low",
    "impact_reason": "Standard rental guide for tenants."
+  },
+  "f609314f6263": {
+   "relevant": true,
+   "headline": "Free zone companies must comply with transfer pricing rules",
+   "summary": "Maintaining the zero percent corporate tax rate requires strict adherence to transfer pricing regulations. Businesses must follow the arm's length principle to retain their qualifying status.",
+   "why": "Corporate tax compliance directly affects business operating costs and investor sentiment in free zones.",
+   "category": "Regulation & fees",
+   "impact": "High",
+   "impact_reason": "Affects corporate tax eligibility and operational costs."
+  },
+  "555824f3b389": {
+   "relevant": true,
+   "headline": "Dubai awards huge contracts for Al Maktoum Airport development",
+   "summary": "Major new contracts worth billions have been approved to advance construction at Al Maktoum International Airport. This brings total project commitments past the eighty billion dirham mark.",
+   "why": "Massive aviation infrastructure expansion will drive long-term residential and commercial demand nearby.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Boosts long-term regional property demand."
+  },
+  "8bce933b32ee": {
+   "relevant": false,
+   "headline": "UAE train travel options with Etihad Rail",
+   "summary": "Explore travel destinations across the UAE by train for Eid Al Etihad.",
+   "why": "This is a lifestyle and tourism piece unrelated to real estate or property markets.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Tourism feature with no real estate impact."
+  },
+  "2f96ce0ed98f": {
+   "relevant": true,
+   "headline": "Indian buyers favor compact homes and ready properties",
+   "summary": "Property purchasers from India are increasingly buying smaller residential units in Dubai. Ready properties currently command a significant premium compared to off-plan launches.",
+   "why": "Shifting buyer preferences impact developer launch strategies and secondary market pricing.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Highlights shifting buyer demand and ready property premiums."
+  },
+  "c125855838a1": {
+   "relevant": true,
+   "headline": "Sharjah conducts inspections to crack down on residential violations",
+   "summary": "Local authorities in Sharjah are continuing field inspections to resolve illegal housing issues.",
+   "why": "Regulatory enforcement affects rental compliance and neighborhood standards.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Routine local regulatory enforcement."
+  },
+  "e757a94b7b8d": {
+   "relevant": false,
+   "headline": "RTA announces New Year's Eve fireworks cruises",
+   "summary": "Dubai's RTA is bringing back special marine transport cruises for viewing New Year's Eve fireworks from the water.",
+   "why": "This is a leisure and tourism announcement with no property market relevance.",
+   "category": "Infrastructure",
+   "impact": "Low",
+   "impact_reason": "Tourism and entertainment event."
+  },
+  "1d823c283b62": {
+   "relevant": true,
+   "headline": "Court orders mortgage repayment contribution in Abu Dhabi",
+   "summary": "An Abu Dhabi court ruled that a woman must pay her former husband a specific amount toward shared mortgage repayments.",
+   "why": "Legal rulings on mortgages offer insight into local property financing disputes.",
+   "category": "Rates & mortgages",
+   "impact": "Low",
+   "impact_reason": "Individual legal case with minimal market-wide effect."
+  },
+  "0e74807e59c6": {
+   "relevant": true,
+   "headline": "Dubai office rents rise as vacancy drops to low levels",
+   "summary": "Commercial property rental rates in Dubai are climbing higher as available office space shrinks to a tight vacancy rate.",
+   "why": "Low commercial vacancy and rising rents signal strong economic activity and shifting investor focus.",
+   "category": "Macro & geopolitics",
+   "impact": "Medium",
+   "impact_reason": "Reflects tight commercial supply and rising rental values."
+  },
+  "c5fbb533041c": {
+   "relevant": true,
+   "headline": "Dubai home prices reach four-year peak amid supply wave",
+   "summary": "Property values in Dubai have climbed to a four-year high. Meanwhile, nearly thirty-eight thousand new homes may challenge market demand.",
+   "why": "It highlights potential oversupply pressures against soaring property values.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "New supply could test current market demand."
+  },
+  "bddb7d4b0c82": {
+   "relevant": true,
+   "headline": "Fractional ownership rules reshape UAE real estate investment",
+   "summary": "New regulatory reforms for fractional ownership are transforming the UAE property investment sector. This shift opens fresh avenues for market participants.",
+   "why": "It broadens access to real estate investments through fractional models.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Changes how investors access the property market."
+  },
+  "8dd611ec9f84": {
+   "relevant": true,
+   "headline": "Dubai rental rates drop as newcomers secure discounts",
+   "summary": "Rental prices in Dubai are declining across the emirate. New incoming tenants are managing to lock in deals up to fifteen percent cheaper.",
+   "why": "It signals a potential shift in landlord pricing power and rental yields.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Directly impacts rental income and tenant affordability."
+  },
+  "93e1bf7e23d4": {
+   "relevant": false,
+   "headline": "ACICO unit sells Dubai real estate property",
+   "summary": "ACICO Industries announced the sale of a property owned by its subsidiary in Dubai.",
+   "why": "It is a routine corporate asset sale with no broader market impact.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Corporate asset transaction without wider market effect."
   }
  }
 }
