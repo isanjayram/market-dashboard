@@ -451,6 +451,51 @@
    "category": "Developer news",
    "impact": "Low",
    "impact_reason": "Involves corporate restructuring with minor market-wide impact."
+  },
+  "eb4c5bb7d1af": {
+   "relevant": true,
+   "headline": "Aldar achieves over Dh900 million in Yas Island sales",
+   "summary": "Aldar Properties recorded massive sales from its Canopies Sanctuary project on Yas Island. Both local residents and international buyers drove strong demand.",
+   "why": "It demonstrates continued high buyer demand for major developer projects in the capital.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Shows strong developer sales despite regional uncertainty."
+  },
+  "027340904639": {
+   "relevant": true,
+   "headline": "Dubai index recovers wartime losses with property shares rising",
+   "summary": "Dubai's benchmark stock index completely erased previous wartime losses. Gains were led by increases in local bank and property shares.",
+   "why": "It reflects recovering market sentiment and investor confidence in local real estate stocks.",
+   "category": "Supply & market reports",
+   "impact": "Medium",
+   "impact_reason": "Reflects improving investor sentiment and property stock recovery."
+  },
+  "d1a11728fb5c": {
+   "relevant": true,
+   "headline": "Guidelines released for UAE Golden Visa eligibility and applications",
+   "summary": "Updated details outline who currently qualifies for the UAE Golden Visa. The information covers the necessary steps and application processes.",
+   "why": "Visa regulations directly influence long-term property investment and expat residency decisions.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Crucial for investor residency and long-term market retention."
+  },
+  "68119562f11f": {
+   "relevant": true,
+   "headline": "Dubai court rules withholding Ejari breaches tenancy contract",
+   "summary": "A local court determined that landlords who fail to provide an Ejari are violating rental agreements. This protects tenant rights across the emirate.",
+   "why": "It sets a clear legal precedent regarding landlord obligations in rental contracts.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Clarifies legal responsibilities without shifting broad market trends."
+  },
+  "d9eed3ddf49b": {
+   "relevant": true,
+   "headline": "Landlords in Dubai must provide registered Ejari contracts",
+   "summary": "A recent rental dispute ruling mandates that property owners must furnish registered Ejari contracts to tenants. This enforces standard legal compliance for leasing.",
+   "why": "It reinforces regulatory compliance and protects tenants within the local rental market.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Enforces existing rental rules rather than creating new policies."
   }
  }
 }
