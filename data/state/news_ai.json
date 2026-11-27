@@ -505,6 +505,15 @@
    "category": "Infrastructure",
    "impact": "Medium",
    "impact_reason": "Improves housing availability and neighborhood infrastructure."
+  },
+  "011a9cc4c5f4": {
+   "relevant": false,
+   "headline": "Bayut supports Dubai Fitness Challenge through industry sports event",
+   "summary": "Bayut unites Dubai property professionals for sports activities supporting the 30x30 movement. The initiative promotes fitness rather than housing market updates.",
+   "why": "This is a sports and lifestyle event, not real estate news.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Lifestyle initiative with no market impact."
   }
  }
 }
