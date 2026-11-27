@@ -408,5 +408,22 @@
 "watch": false,
 "more": 1,
 "topic": "abu dhabi"
+},
+{
+"id": "44c813c21d0f",
+"headline": "Dubai Introduces Smart Housing Passport for Digital Property Management",
+"summary": "The MBRHE launched a digital initiative granting homes a unique identity. It streamlines documentation access and supports artificial intelligence-driven property maintenance.",
+"why": "This digital tool improves long-term property management and maintenance tracking for homeowners in Dubai.",
+"source": "Economy Middle East",
+"link": "https://economymiddleeast.com/news/dubai-launches-worlds-first-smart-housing-passport-to-unify-property-records-and-enable-ai-powered-maintenance/?utm_source=rss&utm_medium=rss&utm_campaign=dubai-launches-worlds-first-smart-housing-passport-to-unify-property-records-and-enable-ai-powered-maintenance",
+"published": "2026-11-27T18:22+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Enhances property management and digital records for homeowners.",
+"watch": false,
+"also": [
+"Travels Dubai"
+],
+"topic": "Infrastructure"
 }
 ]

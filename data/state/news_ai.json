@@ -514,6 +514,24 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Lifestyle initiative with no market impact."
+  },
+  "44c813c21d0f": {
+   "relevant": true,
+   "headline": "Dubai Introduces Smart Housing Passport for Digital Property Management",
+   "summary": "The MBRHE launched a digital initiative granting homes a unique identity. It streamlines documentation access and supports artificial intelligence-driven property maintenance.",
+   "why": "This digital tool improves long-term property management and maintenance tracking for homeowners in Dubai.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Enhances property management and digital records for homeowners."
+  },
+  "b2191fc945f3": {
+   "relevant": false,
+   "headline": "Bayut Supports Fitness Movement",
+   "summary": "Bayut gathered the Dubai property sector through sports for the 30x30 movement.",
+   "why": "This is a lifestyle and sports event with no direct impact on property transactions or market fundamentals.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Sports and lifestyle event with no real estate impact."
   }
  }
 }
