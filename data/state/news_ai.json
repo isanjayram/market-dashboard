@@ -496,6 +496,15 @@
    "category": "Regulation & fees",
    "impact": "Low",
    "impact_reason": "Enforces existing rental rules rather than creating new policies."
+  },
+  "a5e9af02f10e": {
+   "relevant": true,
+   "headline": "Abu Dhabi launches fifteen new urban planning and housing initiatives",
+   "summary": "Abu Dhabi is rolling out fifteen initiatives to improve housing flexibility, infrastructure, and regulations. The projects also integrate artificial intelligence into future urban planning decisions.",
+   "why": "This initiative directly impacts neighborhood infrastructure and housing development standards in the emirate.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Improves housing availability and neighborhood infrastructure."
   }
  }
 }

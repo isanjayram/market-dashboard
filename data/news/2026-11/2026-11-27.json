@@ -393,5 +393,20 @@
 "impact_reason": "General market context",
 "watch": false,
 "topic": "Macro & geopolitics"
+},
+{
+"id": "a5e9af02f10e",
+"headline": "Abu Dhabi launches fifteen new urban planning and housing initiatives",
+"summary": "Abu Dhabi is rolling out fifteen initiatives to improve housing flexibility, infrastructure, and regulations. The projects also integrate artificial intelligence into future urban planning decisions.",
+"why": "This initiative directly impacts neighborhood infrastructure and housing development standards in the emirate.",
+"source": "Economy Middle East",
+"link": "https://economymiddleeast.com/news/abu-dhabi-advances-15-urban-planning-initiatives-to-enhance-housing-livability-and-ai-driven-development/?utm_source=rss&utm_medium=rss&utm_campaign=abu-dhabi-advances-15-urban-planning-initiatives-to-enhance-housing-livability-and-ai-driven-development",
+"published": "2026-11-27T14:37+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Improves housing availability and neighborhood infrastructure.",
+"watch": false,
+"more": 1,
+"topic": "abu dhabi"
 }
 ]
