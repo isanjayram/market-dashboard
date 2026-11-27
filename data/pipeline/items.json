@@ -3216,5 +3216,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"c171dbd11d21": {
+"id": "c171dbd11d21",
+"title": "BEYOND Developments Announces New Project on Dubai Islands",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRkNhcTBnYXdxVzVIWVVkZ1lmV25GUFJfLW41SUItLV9ydDA4ZWx2V09DeV9WdlZqd25YYjBwelBaMGlQcnFSS2FJZlpiekkwZnZBV0trNERXaW5JblFtS3MzZjlzTTJhemliekNuME5WYllXMGJEUDhLSXpmZHVjc0JacnQ?oc=5",
+"source": "Construction Business News Middle East",
+"category": "Developer news",
+"published": "2026-11-26T15:25+04:00",
+"first_seen": "2026-11-27",
+"kind": "Off-plan launch",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": "BEYOND Developments",
+"location": "Dubai Islands",
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
