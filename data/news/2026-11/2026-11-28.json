@@ -515,5 +515,38 @@
 "impact_reason": "A single corporate asset sale does not shift broader trends.",
 "watch": false,
 "topic": "Macro & geopolitics"
+},
+{
+"id": "2451c890f0e9",
+"headline": "Etihad Rail Expands Access to UAE Desert Destinations",
+"summary": "New railway connections now link residents to Al Dhafra's desert landscapes and historic sites. The expansion facilitates domestic travel for upcoming holidays.",
+"why": "Improves regional connectivity and accessibility across the UAE.",
+"source": "Gulf News",
+"link": "https://gulfnews.com/uae/abu-dhabi/new-etihad-rail-stations-your-holiday-escape-to-uaes-deserts-is-now-just-a-train-ride-away-1.500764173",
+"published": "2026-11-28T15:30+04:00",
+"category": "Infrastructure",
+"impact": "Medium",
+"impact_reason": "Enhances regional connectivity and transport links.",
+"watch": false,
+"more": 1,
+"topic": "etihad rail"
+},
+{
+"id": "596f3f51497f",
+"headline": "Dubai Introduces Smart Housing Passport for Digital Identities",
+"summary": "Dubai has unveiled the world's first smart housing passport to provide properties with a digital identity.",
+"why": "Introduces a new digital tracking system for properties in Dubai.",
+"source": "Gulf News",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLWJJU1Y2a1BBTFB1RmVfTmdfU0NWeTZ2d1JQdXVzSWY3WnlZWk1RTlh5ajcxSXB5aU9CbUh4a0dhMVJSZlJWelhzbF9DSXl6bTBYUjhHMXZLeF95eU96Mk1aRVlqQjZGN2hlODRXV08yNHdXdi1mZHE3YmZXNTk4eTVwOHRzMnVSMkV3bGhMZE9JbXFndkRJMzQ2cGZPZ1JydGpaQlZEWm5EZnhUdWFxZ1NUV0Z2a3oxTEN2SNIBzAFBVV95cUxOdDk4QkFwWDR1NGRaWWtpclNLVEZ6MTRUR2Qwek5HZ2w1d1dtZEszR21Rd3ByMEwydlpJWXZMRVMxSlB2dkNwM08tWl9CaWg2bEVRNDI5WlhYMDZXYVc4OE1SbW9uU3lpLUtPOUNraGdva0FseVRmem9GVi1NZzdkR1M0MERXRlk3VDh6UFJfclZjX3Y3d0RQWmtITFd5WGFmRGRwYVJqZ0ExVjVINDNmSWlDZlBXYndwVFNlUzdFQi1pVDFDQkJCVlA1Zzk?oc=5",
+"published": "2026-11-28T11:30+04:00",
+"category": "Macro & geopolitics",
+"impact": "Low",
+"impact_reason": "Administrative digital update with minimal immediate market effect.",
+"watch": false,
+"also": [
+"Gulf News",
+"Travels Dubai"
+],
+"topic": "Macro & geopolitics"
 }
 ]

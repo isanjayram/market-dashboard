@@ -16,9 +16,32 @@
    "headline": "Dubai equities erase geopolitical losses",
    "summary": "Financial and real estate shares drove a recovery that completely wiped out earlier market declines.",
    "why": "It shows strong investor confidence in Dubai property and financial sectors.",
-   "age_hours": 19.5,
+   "age_hours": 21.0,
    "topic": "Macro & geopolitics",
    "more": 4
+  },
+  {
+   "id": "2451c890f0e9",
+   "title": "New Etihad Rail stations: Your holiday escape to UAE\u2019s deserts is now just a train ride away",
+   "link": "https://gulfnews.com/uae/abu-dhabi/new-etihad-rail-stations-your-holiday-escape-to-uaes-deserts-is-now-just-a-train-ride-away-1.500764173",
+   "source": "Gulf News",
+   "kind": "outlet",
+   "published": "2026-11-28T15:30+04:00",
+   "tags": [
+    "Abu Dhabi",
+    "Transport"
+   ],
+   "teaser": "Planning a getaway this National Day or New Year? Etihad Rail is opening up more of the UAE for residents to explore, with new connections bringing Al Dhafra\u2019s desert landscapes, historic forts and cultural attractions within easier reach. The railway operator has shared a video showcasing its expanding passenger network, from the mountains of Fujairah to the sweeping dunes of Liwa, as its new Liw",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Enhances regional connectivity and transport links.",
+   "watch": false,
+   "headline": "Etihad Rail Expands Access to UAE Desert Destinations",
+   "summary": "New railway connections now link residents to Al Dhafra's desert landscapes and historic sites. The expansion facilitates domestic travel for upcoming holidays.",
+   "why": "Improves regional connectivity and accessibility across the UAE.",
+   "age_hours": 0.9,
+   "topic": "etihad rail",
+   "more": 1
   },
   {
    "id": "4c902b7fb0d7",
@@ -39,7 +62,7 @@
    "headline": "Dubai airport expansion contracts reach $21.8bn",
    "summary": "Aviation sector growth accelerates as major airport development contracts hit a massive milestone.",
    "why": "Infrastructure growth of this scale directly drives real estate demand and economic expansion.",
-   "age_hours": 9.0,
+   "age_hours": 10.5,
    "topic": "airport"
   },
   {
@@ -58,7 +81,7 @@
    "headline": "Aldar achieves $245m in Yas Island sales",
    "summary": "Strong international and expatriate demand propelled recent property transactions for the developer in Abu Dhabi.",
    "why": "It highlights robust foreign investment trends within the UAE property market.",
-   "age_hours": 9.6,
+   "age_hours": 11.0,
    "topic": "abu dhabi",
    "more": 1
   },
@@ -78,7 +101,7 @@
    "headline": "Etihad Rail opens two Al Dhafra stations",
    "summary": "New passenger stations in Liwa and Madinat Zayed expand the national network ahead of a cultural festival.",
    "why": "Transport infrastructure improvements can enhance regional accessibility and long-term development value.",
-   "age_hours": 16.6,
+   "age_hours": 18.1,
    "topic": "etihad rail"
   },
   {
@@ -97,27 +120,8 @@
    "headline": "Etihad Rail connects Abu Dhabi desert towns",
    "summary": "Madinat Zayed and Liwa stations officially join the passenger network to ease winter travel.",
    "why": "Expanded rail connectivity links remote areas to the wider emirate, supporting future growth.",
-   "age_hours": 17.3,
+   "age_hours": 18.7,
    "topic": "abu dhabi"
-  },
-  {
-   "id": "5db69ce9a819",
-   "title": "Etihad Rail to open two new UAE passenger stations on November 30",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQnYySV9zbzFwSUl5U0djc1NpZmhyUmZiRXoxalpmWHhHSWVQZGNuN3V0MHd5eGo1bzNwSmZuOEpzQjJ6RWx0UmFjWmpGUHF0OHFrb2FYZ1FCVS1zMnlOTGtZY3g0aVhDU2IycllTNll3UWRrSVpyVkpDZGl6bVVuOGhqMHU5enB4WHZOVlM2Q3oxb1ZfZ0JZeFpjRE5BS2dDOVNZ?oc=5",
-   "source": "Arabian Business",
-   "kind": "search",
-   "published": "2026-11-27T21:40+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Infrastructure",
-   "impact": "Medium",
-   "impact_reason": "Improved transport infrastructure boosts regional property appeal.",
-   "watch": false,
-   "headline": "Etihad Rail opens two passenger stations on November 30",
-   "summary": "Etihad Rail will launch two new passenger stations across the UAE at the end of November.",
-   "why": "New rail infrastructure enhances regional connectivity and can influence surrounding real estate demand.",
-   "age_hours": 17.3,
-   "topic": "etihad rail"
   },
   {
    "id": "44c813c21d0f",
@@ -138,7 +142,7 @@
    "headline": "Dubai Introduces Smart Housing Passport for Digital Property Management",
    "summary": "The MBRHE launched a digital initiative granting homes a unique identity. It streamlines documentation access and supports artificial intelligence-driven property maintenance.",
    "why": "This digital tool improves long-term property management and maintenance tracking for homeowners in Dubai.",
-   "age_hours": 20.6,
+   "age_hours": 22.0,
    "topic": "Infrastructure"
   },
   {
@@ -157,7 +161,7 @@
    "headline": "Comparing UAE Golden Visa residence routes and costs",
    "summary": "An analysis evaluates the costs, trade-offs, and various pathways available for obtaining a UAE Golden Visa.",
    "why": "Residency rules directly influence foreign investment and expatriate property buying decisions in Dubai.",
-   "age_hours": 4.7,
+   "age_hours": 6.1,
    "topic": "golden visa"
   },
   {
@@ -176,44 +180,40 @@
    "headline": "Emaar India unveils new Gurugram office tower",
    "summary": "Emaar India has introduced a Grade-A office building in Sector 65, Gurugram. The commercial project expands the developer's commercial portfolio.",
    "why": "It shows international commercial property expansion by a major developer active in Dubai.",
-   "age_hours": 0.4,
+   "age_hours": 1.9,
    "topic": "emaar"
   },
   {
-   "id": "b1767ae53937",
+   "id": "596f3f51497f",
    "title": "Dubai launches world\u2019s first smart housing passport to give homes a digital identity",
-   "link": "https://gulfnews.com/uae/dubai-launches-worlds-first-smart-housing-passport-to-give-homes-a-digital-identity-1.500763963",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLWJJU1Y2a1BBTFB1RmVfTmdfU0NWeTZ2d1JQdXVzSWY3WnlZWk1RTlh5ajcxSXB5aU9CbUh4a0dhMVJSZlJWelhzbF9DSXl6bTBYUjhHMXZLeF95eU96Mk1aRVlqQjZGN2hlODRXV08yNHdXdi1mZHE3YmZXNTk4eTVwOHRzMnVSMkV3bGhMZE9JbXFndkRJMzQ2cGZPZ1JydGpaQlZEWm5EZnhUdWFxZ1NUV0Z2a3oxTEN2SNIBzAFBVV95cUxOdDk4QkFwWDR1NGRaWWtpclNLVEZ6MTRUR2Qwek5HZ2w1d1dtZEszR21Rd3ByMEwydlpJWXZMRVMxSlB2dkNwM08tWl9CaWg2bEVRNDI5WlhYMDZXYVc4OE1SbW9uU3lpLUtPOUNraGdva0FseVRmem9GVi1NZzdkR1M0MERXRlk3VDh6UFJfclZjX3Y3d0RQWmtITFd5WGFmRGRwYVJqZ0ExVjVINDNmSWlDZlBXYndwVFNlUzdFQi1pVDFDQkJCVlA1Zzk?oc=5",
    "source": "Gulf News",
-   "kind": "outlet",
+   "kind": "search",
    "published": "2026-11-28T11:30+04:00",
-   "tags": [
-    "UAE",
-    "Dubai"
-   ],
-   "teaser": "Dubai: The Mohammed Bin Rashid Housing Establishment has launched the \u201cSmart Housing Passport\u201d as part of its Innovation Month initiatives. The passport gives each home a unique digital identity, allowing customers to access their property data and documents throughout the home\u2019s lifecycle, from design and construction to operation and maintenance. Get updated faster and for FREE: Download the Gul",
+   "tags": [],
+   "teaser": "",
    "category": "Macro & geopolitics",
    "impact": "Low",
-   "impact_reason": "Administrative digital tool with minimal direct market impact.",
+   "impact_reason": "Administrative digital update with minimal immediate market effect.",
    "watch": false,
    "also": [
     "Gulf News",
-    "Gulf News",
     "Travels Dubai"
    ],
-   "headline": "Dubai launches smart housing passport for digital home IDs",
-   "summary": "The Mohammed Bin Rashid Housing Establishment introduced a smart housing passport providing digital property identities.",
-   "why": "Digital property documentation streamlines housing data management for owners across the property lifecycle.",
-   "age_hours": 3.4,
+   "headline": "Dubai Introduces Smart Housing Passport for Digital Identities",
+   "summary": "Dubai has unveiled the world's first smart housing passport to provide properties with a digital identity.",
+   "why": "Introduces a new digital tracking system for properties in Dubai.",
+   "age_hours": 4.9,
    "topic": "Macro & geopolitics"
   }
  ],
  "window_hours": 24,
- "count_relevant": 25,
- "count_fetched": 295,
+ "count_relevant": 24,
+ "count_fetched": 299,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-28T14:55+04:00",
- "saved_at": "2026-11-28T14:55+04:00"
+ "as_of": "2026-11-28T16:22+04:00",
+ "saved_at": "2026-11-28T16:22+04:00"
 }

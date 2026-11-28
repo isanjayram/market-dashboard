@@ -388,6 +388,24 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "A single corporate asset sale does not shift broader trends."
+  },
+  "2451c890f0e9": {
+   "relevant": true,
+   "headline": "Etihad Rail Expands Access to UAE Desert Destinations",
+   "summary": "New railway connections now link residents to Al Dhafra's desert landscapes and historic sites. The expansion facilitates domestic travel for upcoming holidays.",
+   "why": "Improves regional connectivity and accessibility across the UAE.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Enhances regional connectivity and transport links."
+  },
+  "596f3f51497f": {
+   "relevant": true,
+   "headline": "Dubai Introduces Smart Housing Passport for Digital Identities",
+   "summary": "Dubai has unveiled the world's first smart housing passport to provide properties with a digital identity.",
+   "why": "Introduces a new digital tracking system for properties in Dubai.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Administrative digital update with minimal immediate market effect."
   }
  }
 }
