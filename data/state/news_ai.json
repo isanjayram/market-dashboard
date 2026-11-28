@@ -289,6 +289,87 @@
    "category": "Developer news",
    "impact": "Medium",
    "impact_reason": "Large-scale project launch expands regional cultural and residential supply."
+  },
+  "f876089f3cd4": {
+   "relevant": false,
+   "headline": "Fitch forecasts high profitability for Borouge",
+   "summary": "Fitch Ratings expects Abu Dhabi chemicals firm Borouge to maintain strong profitability through the decade.",
+   "why": "This is a corporate earnings report for a chemicals manufacturer, not real estate or macro property news.",
+   "category": "Supply & market reports",
+   "impact": "Low",
+   "impact_reason": "Chemicals sector earnings do not impact property markets."
+  },
+  "5db69ce9a819": {
+   "relevant": true,
+   "headline": "Etihad Rail opens two passenger stations on November 30",
+   "summary": "Etihad Rail will launch two new passenger stations across the UAE at the end of November.",
+   "why": "New rail infrastructure enhances regional connectivity and can influence surrounding real estate demand.",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Improved transport infrastructure boosts regional property appeal."
+  },
+  "6afecbe3ce34": {
+   "relevant": true,
+   "headline": "Nakheel awards Dh1.4bn Palm Jebel Ali villa contract",
+   "summary": "Nakheel has given Ginco a Dh1.4 billion contract to build 176 luxury villas on Palm Jebel Ali.",
+   "why": "Major construction contracts signal continued development progress and buyer confidence on major waterfront projects.",
+   "category": "Developer news",
+   "impact": "Medium",
+   "impact_reason": "Progress on major mega-projects drives market confidence."
+  },
+  "0cad42f68be2": {
+   "relevant": true,
+   "headline": "Comparing UAE Golden Visa residence routes and costs",
+   "summary": "An analysis evaluates the costs, trade-offs, and various pathways available for obtaining a UAE Golden Visa.",
+   "why": "Residency rules directly influence foreign investment and expatriate property buying decisions in Dubai.",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Golden visa details directly affect investor residency decisions."
+  },
+  "b1767ae53937": {
+   "relevant": true,
+   "headline": "Dubai launches smart housing passport for digital home IDs",
+   "summary": "The Mohammed Bin Rashid Housing Establishment introduced a smart housing passport providing digital property identities.",
+   "why": "Digital property documentation streamlines housing data management for owners across the property lifecycle.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Administrative digital tool with minimal direct market impact."
+  },
+  "50f2b9982915": {
+   "relevant": false,
+   "headline": "Aldar announces Eid Al Etihad mall celebrations",
+   "summary": "Aldar plans festive celebrations across six of its malls in Abu Dhabi, Al Ain, and Ras Al Khaimah.",
+   "why": "This is a lifestyle and retail event announcement rather than real estate news.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Mall events do not affect real estate fundamentals."
+  },
+  "167f40a6d4b2": {
+   "relevant": true,
+   "headline": "Rental ruling requires landlords to provide registered Ejari contracts",
+   "summary": "A Dubai rental dispute ruling mandates that landlords supply tenants with officially registered Ejari agreements.",
+   "why": "Legal requirements regarding Ejari protect tenant rights and clarify rental contract compliance.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Enforces existing rental documentation rules without altering costs."
+  },
+  "e538e5ceb32b": {
+   "relevant": true,
+   "headline": "Dubai court rules withholding Ejari breaches tenancy contract",
+   "summary": "Dubai courts have ruled that landlords withholding an Ejari are in violation of the tenancy agreement.",
+   "why": "Court precedents reinforce strict adherence to rental registration laws in Dubai.",
+   "category": "Regulation & fees",
+   "impact": "Low",
+   "impact_reason": "Judicial clarification on tenancy law enforcement."
+  },
+  "59154dfe3095": {
+   "relevant": true,
+   "headline": "Dubai Stock Market Rises on Real Estate and Bank Growth",
+   "summary": "Local equities bounced back strongly, with the banking and property sectors leading the upward trend. This recovery signals positive economic momentum in the emirate.",
+   "why": "It reflects general economic conditions and market sentiment affecting the local property sector.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Reflects broad market sentiment without direct property policy changes."
   }
  }
 }

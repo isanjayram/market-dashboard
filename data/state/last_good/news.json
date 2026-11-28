@@ -16,31 +16,9 @@
    "headline": "Dubai equities erase geopolitical losses",
    "summary": "Financial and real estate shares drove a recovery that completely wiped out earlier market declines.",
    "why": "It shows strong investor confidence in Dubai property and financial sectors.",
-   "age_hours": 13.5,
+   "age_hours": 17.5,
    "topic": "Macro & geopolitics",
-   "more": 2
-  },
-  {
-   "id": "ef4c547c955d",
-   "title": "Dubai property correction fears, the UAE\u2019s next energy play and the Gulf\u2019s growth ambitions for 2027 \u2013 This Week in Business",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNR0czNjh0RjdUbFo5LTk1TWwza1RjNGFPblFqOGl3QURzUTRZY2hqQUhJa0tKaTFHVnRDRy1HMjVHb2RBcTJNbWgwbXpvOTBhLW5vX2ZBYU8ybDFoZG1YSmNMZlI0T09GZmJlUTlENFNMZWJva1hraU04XzlMM2NQc2xWbFcxSGZOaDhxc1NQYzVFa1Rrck9USGVlUUhMWVNLSE1hS1U4UVN0eHpTdkdfTW5sZW9iNTBtRkhDTmp3dDFucEVJWXk5N29mdXpyWS1Pa3VmazlmU2lTZERySmFCWF9pS2hJcWIxS0JIS2hUaw?oc=5",
-   "source": "Arabian Business",
-   "kind": "search",
-   "published": "2026-11-27T12:25+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Macro & geopolitics",
-   "impact": "High",
-   "impact_reason": "Shifts buyer sentiment and market outlook.",
-   "watch": false,
-   "also": [
-    "Arabian Business"
-   ],
-   "headline": "Dubai Property Correction Fears and Regional Growth Outlook Discussed",
-   "summary": "Weekly business review highlights concerns surrounding potential property corrections in Dubai. Discussions also cover broader energy initiatives and economic growth targets.",
-   "why": "It addresses market sentiment and potential correction risks affecting real estate investments.",
-   "age_hours": 20.5,
-   "topic": "Macro & geopolitics"
+   "more": 5
   },
   {
    "id": "4c902b7fb0d7",
@@ -55,10 +33,13 @@
    "impact": "Medium",
    "impact_reason": "Enhances long-term regional connectivity and property appeal.",
    "watch": false,
+   "also": [
+    "Arabian Business"
+   ],
    "headline": "Dubai airport expansion contracts reach $21.8bn",
    "summary": "Aviation sector growth accelerates as major airport development contracts hit a massive milestone.",
    "why": "Infrastructure growth of this scale directly drives real estate demand and economic expansion.",
-   "age_hours": 3.0,
+   "age_hours": 7.0,
    "topic": "airport"
   },
   {
@@ -77,7 +58,7 @@
    "headline": "Aldar achieves $245m in Yas Island sales",
    "summary": "Strong international and expatriate demand propelled recent property transactions for the developer in Abu Dhabi.",
    "why": "It highlights robust foreign investment trends within the UAE property market.",
-   "age_hours": 3.6,
+   "age_hours": 7.6,
    "topic": "abu dhabi",
    "more": 2
   },
@@ -97,7 +78,7 @@
    "headline": "Etihad Rail opens two Al Dhafra stations",
    "summary": "New passenger stations in Liwa and Madinat Zayed expand the national network ahead of a cultural festival.",
    "why": "Transport infrastructure improvements can enhance regional accessibility and long-term development value.",
-   "age_hours": 10.6,
+   "age_hours": 14.6,
    "topic": "etihad rail"
   },
   {
@@ -116,8 +97,27 @@
    "headline": "Etihad Rail connects Abu Dhabi desert towns",
    "summary": "Madinat Zayed and Liwa stations officially join the passenger network to ease winter travel.",
    "why": "Expanded rail connectivity links remote areas to the wider emirate, supporting future growth.",
-   "age_hours": 11.2,
+   "age_hours": 15.2,
    "topic": "abu dhabi"
+  },
+  {
+   "id": "5db69ce9a819",
+   "title": "Etihad Rail to open two new UAE passenger stations on November 30",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQnYySV9zbzFwSUl5U0djc1NpZmhyUmZiRXoxalpmWHhHSWVQZGNuN3V0MHd5eGo1bzNwSmZuOEpzQjJ6RWx0UmFjWmpGUHF0OHFrb2FYZ1FCVS1zMnlOTGtZY3g0aVhDU2IycllTNll3UWRrSVpyVkpDZGl6bVVuOGhqMHU5enB4WHZOVlM2Q3oxb1ZfZ0JZeFpjRE5BS2dDOVNZ?oc=5",
+   "source": "Arabian Business",
+   "kind": "search",
+   "published": "2026-11-27T21:40+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Infrastructure",
+   "impact": "Medium",
+   "impact_reason": "Improved transport infrastructure boosts regional property appeal.",
+   "watch": false,
+   "headline": "Etihad Rail opens two passenger stations on November 30",
+   "summary": "Etihad Rail will launch two new passenger stations across the UAE at the end of November.",
+   "why": "New rail infrastructure enhances regional connectivity and can influence surrounding real estate demand.",
+   "age_hours": 15.2,
+   "topic": "etihad rail"
   },
   {
    "id": "44c813c21d0f",
@@ -138,7 +138,7 @@
    "headline": "Dubai Introduces Smart Housing Passport for Digital Property Management",
    "summary": "The MBRHE launched a digital initiative granting homes a unique identity. It streamlines documentation access and supports artificial intelligence-driven property maintenance.",
    "why": "This digital tool improves long-term property management and maintenance tracking for homeowners in Dubai.",
-   "age_hours": 14.5,
+   "age_hours": 18.5,
    "topic": "Infrastructure"
   },
   {
@@ -160,8 +160,27 @@
    "headline": "Aldar achieves over Dh900 million in Yas Island sales",
    "summary": "Aldar Properties recorded massive sales from its Canopies Sanctuary project on Yas Island. Both local residents and international buyers drove strong demand.",
    "why": "It demonstrates continued high buyer demand for major developer projects in the capital.",
-   "age_hours": 19.2,
+   "age_hours": 23.2,
    "topic": "aldar"
+  },
+  {
+   "id": "0cad42f68be2",
+   "title": "Golden Visa: Is It Worth It? Comparing UAE Residence Routes, Costs and Trade-offs",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU1I5al9DM0pRNzh1czhfVUlvWGVObEE4YWxrYmNCcDRFR2todVpOWjhFbEJ5SnllMHVhNGFVUm4ySVItbEJWRXBFemxJUHV0MWpEYXk3RWI4Q284NGEtcWpwZ2NBMnNleXBJYzhsNTRYSW5TZzhWNzhlSk9Kd2lwQTRxYTRjLVNMb29ZbjI4N1dmZw?oc=5",
+   "source": "Global Advisory Experts",
+   "kind": "search",
+   "published": "2026-11-28T10:14+04:00",
+   "tags": [],
+   "teaser": "",
+   "category": "Regulation & fees",
+   "impact": "Medium",
+   "impact_reason": "Golden visa details directly affect investor residency decisions.",
+   "watch": false,
+   "headline": "Comparing UAE Golden Visa residence routes and costs",
+   "summary": "An analysis evaluates the costs, trade-offs, and various pathways available for obtaining a UAE Golden Visa.",
+   "why": "Residency rules directly influence foreign investment and expatriate property buying decisions in Dubai.",
+   "age_hours": 2.7,
+   "topic": "golden visa"
   },
   {
    "id": "027340904639",
@@ -179,39 +198,17 @@
    "headline": "Dubai index recovers wartime losses with property shares rising",
    "summary": "Dubai's benchmark stock index completely erased previous wartime losses. Gains were led by increases in local bank and property shares.",
    "why": "It reflects recovering market sentiment and investor confidence in local real estate stocks.",
-   "age_hours": 18.6,
+   "age_hours": 22.6,
    "topic": "Supply & market reports"
-  },
-  {
-   "id": "abe3589df081",
-   "title": "Dubai housing entity launches smart passport for homes to unify data",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0E5bVRhT0hiUW8yWmtUaXpNY3VrQUNhRXBtV0VWUG16Vjd2dGdXQ2N6M0tpRXhoQWUxeDl2c1pocjRvUy1SVmxvdGh4cnE0cDRqcFhHZHoxQk45UVJmOEI0dEtzdjFycmttOWFkSVNibzNMeUNwSXE3V1pLRy1pRHROS0xTVWgxZ0xqY3JxNVZRZVJYem5Bbi1tNW9NM0o5TGNUNFZvYTFibTRNN0tmOVN0YUZvZ9IBtgFBVV95cUxNT0E5bVRhT0hiUW8yWmtUaXpNY3VrQUNhRXBtV0VWUG16Vjd2dGdXQ2N6M0tpRXhoQWUxeDl2c1pocjRvUy1SVmxvdGh4cnE0cDRqcFhHZHoxQk45UVJmOEI0dEtzdjFycmttOWFkSVNibzNMeUNwSXE3V1pLRy1pRHROS0xTVWgxZ0xqY3JxNVZRZVJYem5Bbi1tNW9NM0o5TGNUNFZvYTFibTRNN0tmOVN0YUZvZw?oc=5",
-   "source": "Khaleej Times",
-   "kind": "search",
-   "published": "2026-11-27T18:36+04:00",
-   "tags": [],
-   "teaser": "",
-   "category": "Infrastructure",
-   "impact": "Low",
-   "impact_reason": "Enhances data management without altering market fundamentals.",
-   "watch": false,
-   "also": [
-    "Travels Dubai"
-   ],
-   "headline": "Dubai housing authority introduces smart property passports",
-   "summary": "A new digital passport system has been launched to consolidate residential data in Dubai. This initiative aims to streamline information access for the housing sector.",
-   "why": "It improves transparency and data organization across the local property market.",
-   "age_hours": 14.3,
-   "topic": "Infrastructure"
   }
  ],
  "window_hours": 24,
- "count_relevant": 24,
- "count_fetched": 343,
+ "count_relevant": 26,
+ "count_fetched": 345,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-28T08:54+04:00",
- "saved_at": "2026-11-28T08:54+04:00"
+ "as_of": "2026-11-28T12:54+04:00",
+ "saved_at": "2026-11-28T12:54+04:00"
 }
