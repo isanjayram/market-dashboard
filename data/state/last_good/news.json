@@ -16,7 +16,7 @@
    "headline": "Dubai equities erase geopolitical losses",
    "summary": "Financial and real estate shares drove a recovery that completely wiped out earlier market declines.",
    "why": "It shows strong investor confidence in Dubai property and financial sectors.",
-   "age_hours": 21.8,
+   "age_hours": 22.3,
    "topic": "Macro & geopolitics",
    "more": 5
   },
@@ -36,13 +36,10 @@
    "impact": "Medium",
    "impact_reason": "Enhances regional connectivity and transport links.",
    "watch": false,
-   "also": [
-    "Gulf News"
-   ],
    "headline": "Etihad Rail Expands Access to UAE Desert Destinations",
    "summary": "New railway connections now link residents to Al Dhafra's desert landscapes and historic sites. The expansion facilitates domestic travel for upcoming holidays.",
    "why": "Improves regional connectivity and accessibility across the UAE.",
-   "age_hours": 1.7,
+   "age_hours": 2.2,
    "topic": "etihad rail",
    "more": 1
   },
@@ -65,7 +62,7 @@
    "headline": "Dubai airport expansion contracts reach $21.8bn",
    "summary": "Aviation sector growth accelerates as major airport development contracts hit a massive milestone.",
    "why": "Infrastructure growth of this scale directly drives real estate demand and economic expansion.",
-   "age_hours": 11.2,
+   "age_hours": 11.8,
    "topic": "airport"
   },
   {
@@ -84,7 +81,7 @@
    "headline": "Aldar achieves $245m in Yas Island sales",
    "summary": "Strong international and expatriate demand propelled recent property transactions for the developer in Abu Dhabi.",
    "why": "It highlights robust foreign investment trends within the UAE property market.",
-   "age_hours": 11.8,
+   "age_hours": 12.4,
    "topic": "abu dhabi",
    "more": 1
   },
@@ -104,7 +101,7 @@
    "headline": "Etihad Rail opens two Al Dhafra stations",
    "summary": "New passenger stations in Liwa and Madinat Zayed expand the national network ahead of a cultural festival.",
    "why": "Transport infrastructure improvements can enhance regional accessibility and long-term development value.",
-   "age_hours": 18.9,
+   "age_hours": 19.4,
    "topic": "etihad rail"
   },
   {
@@ -123,7 +120,7 @@
    "headline": "Etihad Rail connects Abu Dhabi desert towns",
    "summary": "Madinat Zayed and Liwa stations officially join the passenger network to ease winter travel.",
    "why": "Expanded rail connectivity links remote areas to the wider emirate, supporting future growth.",
-   "age_hours": 19.5,
+   "age_hours": 20.0,
    "topic": "abu dhabi"
   },
   {
@@ -145,7 +142,7 @@
    "headline": "Dubai Introduces Smart Housing Passport for Digital Property Management",
    "summary": "The MBRHE launched a digital initiative granting homes a unique identity. It streamlines documentation access and supports artificial intelligence-driven property maintenance.",
    "why": "This digital tool improves long-term property management and maintenance tracking for homeowners in Dubai.",
-   "age_hours": 22.8,
+   "age_hours": 23.3,
    "topic": "Infrastructure"
   },
   {
@@ -154,7 +151,7 @@
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU1I5al9DM0pRNzh1czhfVUlvWGVObEE4YWxrYmNCcDRFR2todVpOWjhFbEJ5SnllMHVhNGFVUm4ySVItbEJWRXBFemxJUHV0MWpEYXk3RWI4Q284NGEtcWpwZ2NBMnNleXBJYzhsNTRYSW5TZzhWNzhlSk9Kd2lwQTRxYTRjLVNMb29ZbjI4N1dmZw?oc=5",
    "source": "Global Advisory Experts",
    "kind": "search",
-   "published": "2026-11-28T10:19+04:00",
+   "published": "2026-11-28T10:14+04:00",
    "tags": [],
    "teaser": "",
    "category": "Regulation & fees",
@@ -164,7 +161,7 @@
    "headline": "Comparing UAE Golden Visa residence routes and costs",
    "summary": "An analysis evaluates the costs, trade-offs, and various pathways available for obtaining a UAE Golden Visa.",
    "why": "Residency rules directly influence foreign investment and expatriate property buying decisions in Dubai.",
-   "age_hours": 6.8,
+   "age_hours": 7.5,
    "topic": "golden visa"
   },
   {
@@ -183,7 +180,7 @@
    "headline": "Emaar India unveils new Gurugram office tower",
    "summary": "Emaar India has introduced a Grade-A office building in Sector 65, Gurugram. The commercial project expands the developer's commercial portfolio.",
    "why": "It shows international commercial property expansion by a major developer active in Dubai.",
-   "age_hours": 2.7,
+   "age_hours": 3.2,
    "topic": "emaar"
   },
   {
@@ -206,17 +203,17 @@
    "headline": "Dubai Introduces Smart Housing Passport for Digital Identities",
    "summary": "Dubai has unveiled the world's first smart housing passport to provide properties with a digital identity.",
    "why": "Introduces a new digital tracking system for properties in Dubai.",
-   "age_hours": 5.7,
+   "age_hours": 6.2,
    "topic": "Macro & geopolitics"
   }
  ],
  "window_hours": 24,
- "count_relevant": 25,
- "count_fetched": 263,
+ "count_relevant": 24,
+ "count_fetched": 255,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (saved from an earlier run)",
- "as_of": "2026-11-28T17:09+04:00",
- "saved_at": "2026-11-28T17:09+04:00"
+ "as_of": "2026-11-28T17:42+04:00",
+ "saved_at": "2026-11-28T17:42+04:00"
 }
