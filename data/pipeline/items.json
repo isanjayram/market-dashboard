@@ -3238,5 +3238,71 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"4c902b7fb0d7": {
+"id": "4c902b7fb0d7",
+"title": "Dubai airport expansion contracts reach $21.8bn",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVUhDSHF3RGJpZ0tSb1V0Z3labVcwYW9HWDZjWVY2TDMxQ0U1REtiVXRrZGxkUk4xVXdrbkVsQXNPM19fTnFBaDluM3l5SnBxUWhITVlDc1VoMmtxaDJTVzFTZjRWZERBVnk3Q3kyZ2VEOFpYUk01RGlFd2dXUDV4TmNvWkgtZ3lLQjRXcXc1ZFdKMWRTSWJiUXhLVWlEeXgxdi1ZUzBQc2xxTXRsbThuMXNNMnl0VmtLSFRaU1dwWFBEU0tpUzc2bEk4bG9jVG03MUFF?oc=5",
+"source": "Arabian Business",
+"category": "Infrastructure",
+"published": "2026-11-28T05:55+04:00",
+"first_seen": "2026-11-28",
+"kind": "Infrastructure",
+"region": "Dubai",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"3aa9a4c8bbf5": {
+"id": "3aa9a4c8bbf5",
+"title": "Etihad Rail opens two Al Dhafra stations",
+"link": "https://www.thenationalnews.com/news/uae/2026/11/27/etihad-rail-opens-two-al-dhafra-stations-ready-for-liwa-international-festival/",
+"source": "The National",
+"category": "Infrastructure",
+"published": "2026-11-27T22:17+04:00",
+"first_seen": "2026-11-28",
+"kind": "Infrastructure",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
+},
+"679910662fe5": {
+"id": "679910662fe5",
+"title": "Etihad Rail connects Abu Dhabi desert towns",
+"link": "https://www.thenationalnews.com/news/uae/2026/11/27/etihad-rail-stations-al-dhafra-liwa-madinat-zayed-abu-dhabi/",
+"source": "The National",
+"category": "Infrastructure",
+"published": "2026-11-27T21:40+04:00",
+"first_seen": "2026-11-28",
+"kind": "Infrastructure",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": null,
+"location": null,
+"type": null,
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }
