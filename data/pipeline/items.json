@@ -3304,5 +3304,27 @@
 "starting_price": null,
 "payment_plan": null
 }
+},
+"43350cd1735f": {
+"id": "43350cd1735f",
+"title": "Emaar India unveils new Gurugram office tower",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeDVLdEpLZ254dm9UR1ZEc3ZpMFBKcUowWERBX1ZrV09TWHE0bkpVTFBSdnF0eWJhSzFYVjRPSnNZSlRJOGNyak5Pc0lMMHpEdUpRMnJBUWU4REthWkptTTFodjc4Mlg2WnpybDhqcmJpMThtZlEyTUZQS19lNnFPNUxBZjJ6WlRyazktZ09aTXA4b0ZySWV0bU9OWElxRVltNmhEc0tNYWFzc2c2LUFCT2xCWTJBSDMy?oc=5",
+"source": "PropNewsTime",
+"category": "Developer news",
+"published": "2026-11-28T14:30+04:00",
+"first_seen": "2026-11-28",
+"kind": "Off-plan launch",
+"region": "UAE",
+"catalyst": null,
+"fields": {
+"project": null,
+"developer": "Emaar India",
+"location": "Gurugram",
+"type": "office tower",
+"launch_date": null,
+"handover": null,
+"starting_price": null,
+"payment_plan": null
+}
 }
 }

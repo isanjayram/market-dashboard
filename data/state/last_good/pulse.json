@@ -96,10 +96,10 @@
     "value": 187263688.0
    },
    {
-    "area": "JVT",
-    "dld_area": "Al Barsha South Fifth",
+    "area": "Downtown Jebel Ali",
+    "dld_area": "Jabal Ali Industrial Second",
     "deals": 80,
-    "value": 93771955.0
+    "value": 98598395.0
    }
   ],
   "top_value": [
@@ -1590,5 +1590,5 @@
   "fetched_at": "2026-11-28T08:54+04:00",
   "test": false
  },
- "saved_at": "2026-11-28T12:54+04:00"
+ "saved_at": "2026-11-28T14:55+04:00"
 }

@@ -16,9 +16,9 @@
    "headline": "Dubai equities erase geopolitical losses",
    "summary": "Financial and real estate shares drove a recovery that completely wiped out earlier market declines.",
    "why": "It shows strong investor confidence in Dubai property and financial sectors.",
-   "age_hours": 17.5,
+   "age_hours": 19.5,
    "topic": "Macro & geopolitics",
-   "more": 5
+   "more": 4
   },
   {
    "id": "4c902b7fb0d7",
@@ -39,7 +39,7 @@
    "headline": "Dubai airport expansion contracts reach $21.8bn",
    "summary": "Aviation sector growth accelerates as major airport development contracts hit a massive milestone.",
    "why": "Infrastructure growth of this scale directly drives real estate demand and economic expansion.",
-   "age_hours": 7.0,
+   "age_hours": 9.0,
    "topic": "airport"
   },
   {
@@ -58,9 +58,9 @@
    "headline": "Aldar achieves $245m in Yas Island sales",
    "summary": "Strong international and expatriate demand propelled recent property transactions for the developer in Abu Dhabi.",
    "why": "It highlights robust foreign investment trends within the UAE property market.",
-   "age_hours": 7.6,
+   "age_hours": 9.6,
    "topic": "abu dhabi",
-   "more": 2
+   "more": 1
   },
   {
    "id": "3aa9a4c8bbf5",
@@ -78,7 +78,7 @@
    "headline": "Etihad Rail opens two Al Dhafra stations",
    "summary": "New passenger stations in Liwa and Madinat Zayed expand the national network ahead of a cultural festival.",
    "why": "Transport infrastructure improvements can enhance regional accessibility and long-term development value.",
-   "age_hours": 14.6,
+   "age_hours": 16.6,
    "topic": "etihad rail"
   },
   {
@@ -97,7 +97,7 @@
    "headline": "Etihad Rail connects Abu Dhabi desert towns",
    "summary": "Madinat Zayed and Liwa stations officially join the passenger network to ease winter travel.",
    "why": "Expanded rail connectivity links remote areas to the wider emirate, supporting future growth.",
-   "age_hours": 15.2,
+   "age_hours": 17.3,
    "topic": "abu dhabi"
   },
   {
@@ -116,7 +116,7 @@
    "headline": "Etihad Rail opens two passenger stations on November 30",
    "summary": "Etihad Rail will launch two new passenger stations across the UAE at the end of November.",
    "why": "New rail infrastructure enhances regional connectivity and can influence surrounding real estate demand.",
-   "age_hours": 15.2,
+   "age_hours": 17.3,
    "topic": "etihad rail"
   },
   {
@@ -138,30 +138,8 @@
    "headline": "Dubai Introduces Smart Housing Passport for Digital Property Management",
    "summary": "The MBRHE launched a digital initiative granting homes a unique identity. It streamlines documentation access and supports artificial intelligence-driven property maintenance.",
    "why": "This digital tool improves long-term property management and maintenance tracking for homeowners in Dubai.",
-   "age_hours": 18.5,
+   "age_hours": 20.6,
    "topic": "Infrastructure"
-  },
-  {
-   "id": "eb4c5bb7d1af",
-   "title": "Aldar generates more than Dh900 million in home sales from Yas Island project",
-   "link": "https://www.thenationalnews.com/business/property/2026/11/27/aldar-generates-more-than-dh900-million-in-home-sales-from-yas-island-project/",
-   "source": "The National",
-   "kind": "outlet",
-   "published": "2026-11-27T13:41+04:00",
-   "tags": [],
-   "teaser": "Aldar Properties , Abu Dhabi's biggest listed developer, generated more than Dh900 million ($245 million) in sales from its Canopies Sanctuary project on Yas Island as demand homes remained strong despite regional uncertainty. Residents and overseas buyers accounted for 67 per cent of total sales \u201chighlighting the continued demand from international end users and investors to own homes on the isla",
-   "category": "Developer news",
-   "impact": "Medium",
-   "impact_reason": "Shows strong developer sales despite regional uncertainty.",
-   "watch": false,
-   "also": [
-    "The National (property)"
-   ],
-   "headline": "Aldar achieves over Dh900 million in Yas Island sales",
-   "summary": "Aldar Properties recorded massive sales from its Canopies Sanctuary project on Yas Island. Both local residents and international buyers drove strong demand.",
-   "why": "It demonstrates continued high buyer demand for major developer projects in the capital.",
-   "age_hours": 23.2,
-   "topic": "aldar"
   },
   {
    "id": "0cad42f68be2",
@@ -179,36 +157,63 @@
    "headline": "Comparing UAE Golden Visa residence routes and costs",
    "summary": "An analysis evaluates the costs, trade-offs, and various pathways available for obtaining a UAE Golden Visa.",
    "why": "Residency rules directly influence foreign investment and expatriate property buying decisions in Dubai.",
-   "age_hours": 2.7,
+   "age_hours": 4.7,
    "topic": "golden visa"
   },
   {
-   "id": "027340904639",
-   "title": "Dubai\u2019s Benchmark Stock Index Erases Wartime Losses as Banks, Property Shares Rise",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbW9JZFBFaThCR3FFcWZpbVg0VjZWaEt3RHhhSnVwOFZHcGVCTlVGcl9XcVhUWkVoZ1RObE1RSDFzMG1pVEIweHVmbzVxcEw4QWFXbEVzZkRTX3hHdjFIOEd3OHd0Y20wMmZPMDFHUHFBZWdaVkhnQUtNTlJiV1dyWTNBcGhnZ1p2RV9qU0VSamlBQjJtUHRUbXdHbmJTcENVY2YxVS1VbVpkbFVJb1loLWV1a011eERNSHBTTWdmcU93Zw?oc=5",
-   "source": "WSJ",
+   "id": "43350cd1735f",
+   "title": "Emaar India launches Grade-A office tower in Gurugram\u2019s Sector 65",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeDVLdEpLZ254dm9UR1ZEc3ZpMFBKcUowWERBX1ZrV09TWHE0bkpVTFBSdnF0eWJhSzFYVjRPSnNZSlRJOGNyak5Pc0lMMHpEdUpRMnJBUWU4REthWkptTTFodjc4Mlg2WnpybDhqcmJpMThtZlEyTUZQS19lNnFPNUxBZjJ6WlRyazktZ09aTXA4b0ZySWV0bU9OWElxRVltNmhEc0tNYWFzc2c2LUFCT2xCWTJBSDMy?oc=5",
+   "source": "PropNewsTime",
    "kind": "search",
-   "published": "2026-11-27T14:16+04:00",
+   "published": "2026-11-28T14:30+04:00",
    "tags": [],
    "teaser": "",
-   "category": "Supply & market reports",
-   "impact": "Medium",
-   "impact_reason": "Reflects improving investor sentiment and property stock recovery.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Regional commercial development has minimal direct Dubai impact.",
+   "watch": true,
+   "headline": "Emaar India unveils new Gurugram office tower",
+   "summary": "Emaar India has introduced a Grade-A office building in Sector 65, Gurugram. The commercial project expands the developer's commercial portfolio.",
+   "why": "It shows international commercial property expansion by a major developer active in Dubai.",
+   "age_hours": 0.4,
+   "topic": "emaar"
+  },
+  {
+   "id": "b1767ae53937",
+   "title": "Dubai launches world\u2019s first smart housing passport to give homes a digital identity",
+   "link": "https://gulfnews.com/uae/dubai-launches-worlds-first-smart-housing-passport-to-give-homes-a-digital-identity-1.500763963",
+   "source": "Gulf News",
+   "kind": "outlet",
+   "published": "2026-11-28T11:30+04:00",
+   "tags": [
+    "UAE",
+    "Dubai"
+   ],
+   "teaser": "Dubai: The Mohammed Bin Rashid Housing Establishment has launched the \u201cSmart Housing Passport\u201d as part of its Innovation Month initiatives. The passport gives each home a unique digital identity, allowing customers to access their property data and documents throughout the home\u2019s lifecycle, from design and construction to operation and maintenance. Get updated faster and for FREE: Download the Gul",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "Administrative digital tool with minimal direct market impact.",
    "watch": false,
-   "headline": "Dubai index recovers wartime losses with property shares rising",
-   "summary": "Dubai's benchmark stock index completely erased previous wartime losses. Gains were led by increases in local bank and property shares.",
-   "why": "It reflects recovering market sentiment and investor confidence in local real estate stocks.",
-   "age_hours": 22.6,
-   "topic": "Supply & market reports"
+   "also": [
+    "Gulf News",
+    "Gulf News",
+    "Travels Dubai"
+   ],
+   "headline": "Dubai launches smart housing passport for digital home IDs",
+   "summary": "The Mohammed Bin Rashid Housing Establishment introduced a smart housing passport providing digital property identities.",
+   "why": "Digital property documentation streamlines housing data management for owners across the property lifecycle.",
+   "age_hours": 3.4,
+   "topic": "Macro & geopolitics"
   }
  ],
  "window_hours": 24,
- "count_relevant": 26,
- "count_fetched": 345,
+ "count_relevant": 25,
+ "count_fetched": 295,
  "feed_errors": {
   "Khaleej Times": "HTTPError"
  },
  "mode": "AI summaries (gemini)",
- "as_of": "2026-11-28T12:54+04:00",
- "saved_at": "2026-11-28T12:54+04:00"
+ "as_of": "2026-11-28T14:55+04:00",
+ "saved_at": "2026-11-28T14:55+04:00"
 }

@@ -370,6 +370,24 @@
    "category": "Macro & geopolitics",
    "impact": "Low",
    "impact_reason": "Reflects broad market sentiment without direct property policy changes."
+  },
+  "43350cd1735f": {
+   "relevant": true,
+   "headline": "Emaar India unveils new Gurugram office tower",
+   "summary": "Emaar India has introduced a Grade-A office building in Sector 65, Gurugram. The commercial project expands the developer's commercial portfolio.",
+   "why": "It shows international commercial property expansion by a major developer active in Dubai.",
+   "category": "Developer news",
+   "impact": "Low",
+   "impact_reason": "Regional commercial development has minimal direct Dubai impact."
+  },
+  "b7dc8f2e7222": {
+   "relevant": true,
+   "headline": "ACICO Industries profits from Dubai asset sale",
+   "summary": "ACICO Industries offloaded a Dubai property for AED 170 million. The transaction generated a notable profit of AED 45.1 million.",
+   "why": "It highlights significant property liquidity and corporate asset transactions within the local market.",
+   "category": "Macro & geopolitics",
+   "impact": "Low",
+   "impact_reason": "A single corporate asset sale does not shift broader trends."
   }
  }
 }
